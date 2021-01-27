@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ItemSpec id="46301" Day="1" Week1="2|231900" Feed1="10060" Send1="10061" Invite1="10062" Week2="2|231953" Feed2="10060" Send2="10061" Invite2="10062" Week3="2|231900" Feed3="10060" Send3="10061" Invite3="10062" Week4="2|231953" Feed4="10060" Send4="10061" Invite4="10062"/>
+  <ItemSpec id="46302" Day="2" Week1="2|231918" Feed1="10060" Send1="10061" Invite1="10062" Week2="2|231953" Feed2="10060" Send2="10061" Invite2="10062" Week3="2|231918" Feed3="10060" Send3="10061" Invite3="10062" Week4="2|231953" Feed4="10060" Send4="10061" Invite4="10062"/>
+  <ItemSpec id="46303" Day="3" Week1="3|231942" Feed1="10060" Send1="10061" Invite1="10062" Week2="2|231953" Feed2="10060" Send2="10061" Invite2="10062" Week3="3|231942" Feed3="10060" Send3="10061" Invite3="10062" Week4="2|231953" Feed4="10060" Send4="10061" Invite4="10062"/>
+  <ItemSpec id="46304" Day="4" Week1="2|231934" Feed1="10060" Send1="10061" Invite1="10062" Week2="2|231953" Feed2="10060" Send2="10061" Invite2="10062" Week3="2|231934" Feed3="10060" Send3="10061" Invite3="10062" Week4="2|231953" Feed4="10060" Send4="10061" Invite4="10062"/>
+  <ItemSpec id="46305" Day="5" Week1="2|231902" Feed1="10060" Send1="10061" Invite1="10062" Week2="2|231953" Feed2="10060" Send2="10061" Invite2="10062" Week3="2|231902" Feed3="10060" Send3="10061" Invite3="10062" Week4="2|231953" Feed4="10060" Send4="10061" Invite4="10062"/>
+  <ItemSpec id="46306" Day="6" Week1="2|231920" Feed1="10060" Send1="10061" Invite1="10062" Week2="2|231953" Feed2="10060" Send2="10061" Invite2="10062" Week3="2|231920" Feed3="10060" Send3="10061" Invite3="10062" Week4="2|231953" Feed4="10060" Send4="10061" Invite4="10062"/>
+  <ItemSpec id="46307" Day="7" Week1="3|231944" Feed1="10060" Send1="10061" Invite1="10062" Week2="2|231953" Feed2="10060" Send2="10061" Invite2="10062" Week3="3|231944" Feed3="10060" Send3="10061" Invite3="10062" Week4="2|231953" Feed4="10060" Send4="10061" Invite4="10062"/>
+</tns:database>

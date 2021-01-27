@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="daily_quest">
+    <ItemSpec id="5000000" accept1="1" type1="1" para1="3" para2="5000" para3="5" point="3"/>
+    <ItemSpec id="5000001" accept1="1" type1="1" para1="0" para2="5000" para3="5" point="3"/>
+    <ItemSpec id="5000002" accept1="1" type1="2" para1="1" para2="50" para3="5" point="5"/>
+    <ItemSpec id="5000003" accept1="1" type1="2" para1="2" para2="50" para3="5" point="5"/>
+    <ItemSpec id="5000004" accept1="1" type1="3" para1="1" para2="1" para3="1" point="30"/>
+    <ItemSpec id="5000005" accept1="1" type1="2" para1="3" para2="30" para3="1" point="10"/>
+    <ItemSpec id="5000006" accept1="1" type1="4" para1="1" para2="1" para3="20" point="1"/>
+    <ItemSpec id="5000007" accept1="1" type1="5" para1="1" para2="1" para3="25" point="1"/>
+    <ItemSpec id="5000008" accept1="1" type1="8" para1="1" para2="1" para3="5" point="2"/>
+    <ItemSpec id="5000009" accept1="1" type1="9" para1="1" para2="1" para3="5" point="6"/>
+    <ItemSpec id="5000010" accept1="2" type1="12" para1="1" para2="1" para3="1" point="20"/>
+    <ItemSpec id="5000011" accept1="2" type1="13" para1="1" para2="1" para3="5" point="2"/>
+    <ItemSpec id="5000012" accept1="3" type1="2" para1="4" para2="50" para3="5" point="5"/>
+    <ItemSpec id="5000013" accept1="3" type1="15" para1="1" para2="1" para3="1" point="20"/>
+    <ItemSpec id="5000014" accept1="3" type1="14" para1="1" para2="1" para3="1" point="30"/>
+    <ItemSpec id="5000015" accept1="4" type1="2" para1="5" para2="30" para3="5" point="4"/>
+    <ItemSpec id="5000016" accept1="5" type1="2" para1="6" para2="50" para3="5" point="5"/>
+    <ItemSpec id="5000017" accept1="8" type1="10" para1="1" para2="1" para3="20" point="1"/>
+    <ItemSpec id="5000018" accept1="6" type1="6" para1="1" para2="15000" para3="1" point="10"/>
+    <ItemSpec id="5000019" accept1="6" type1="7" para1="1" para2="1000" para3="1" point="10"/>
+    <ItemSpec id="5000020" accept1="10" type1="1" para1="2" para2="1500" para3="5" point="3"/>
+    <ItemSpec id="5000021" accept1="15" type1="1" para1="1" para2="375" para3="5" point="3"/>
+    <ItemSpec id="5000022" accept1="1" type1="11" para1="1" para2="1" para3="10" point="2"/>
+    <ItemSpec id="5000023" accept1="1" type1="16" para1="101;102;103;104;158" para2="1" para3="5" point="2"/>
+    <ItemSpec id="5000025" accept1="1" type1="17" para1="1" para2="1" para3="1" point="5"/>
+    <ItemSpec id="5000026" accept1="1" type1="16" para1="500110" para2="1" para3="2" point="5"/>
+    <ItemSpec id="5000027" accept1="1" type1="16" para1="500080" para2="1" para3="2" point="5"/>
+    <ItemSpec id="5000028" accept1="10" type1="16" para1="500100" para2="1" para3="2" point="5"/>
+    <ItemSpec id="5000029" accept1="15" type1="16" para1="500090" para2="1" para3="2" point="5"/>
+  </Group>
+</tns:database>

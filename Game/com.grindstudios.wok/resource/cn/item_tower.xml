@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="tower">
+    <ItemSpec id="5000" name="108700" type="0" description="108713" tower_icon="lightning"/>
+    <ItemSpec id="5001" name="108701" type="1" description="108714" tower_icon="tree"/>
+    <ItemSpec id="5002" name="108702" type="2" description="108715" tower_icon="barrack"/>
+    <ItemSpec id="5003" name="108703" type="3" description="108716" tower_icon="chest1"/>
+    <ItemSpec id="5004" name="108704" type="3" description="108717" tower_icon="chest2"/>
+    <ItemSpec id="5005" name="108705" type="3" description="108718" tower_icon="chest3"/>
+    <ItemSpec id="5006" name="108706" type="3" description="108719" tower_icon="chest4"/>
+    <ItemSpec id="5007" name="108707" type="3" description="108720" tower_icon="chest5"/>
+    <ItemSpec id="5008" name="108708" type="3" description="108721" tower_icon="chest6"/>
+    <ItemSpec id="5009" name="108709" type="3" description="108722" tower_icon="chest7"/>
+    <ItemSpec id="5010" name="108710" type="3" description="108723" tower_icon="chest8"/>
+    <ItemSpec id="5011" name="108711" type="3" description="108724" tower_icon="chest9"/>
+    <ItemSpec id="5012" name="108712" type="3" description="108725" tower_icon="chest10"/>
+  </Group>
+</tns:database>

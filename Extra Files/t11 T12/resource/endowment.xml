@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="endowment">
+    <ItemSpec id="20000" levelmax="5" effect="53" value="2;4;6;8;10" power="10" mark="1"/>
+    <ItemSpec id="20001" levelmax="5" effect="50" value="2;4;6;8;10" power="10" open="20000;1" mark="1"/>
+    <ItemSpec id="20002" levelmax="5" effect="51" value="2;4;6;8;10" power="10" open="20001;2" mark="1"/>
+    <ItemSpec id="20003" levelmax="5" effect="52" value="2;4;6;8;10" power="10" open="20001;3|20002;4" mark="1"/>
+    <ItemSpec id="20004" levelmax="5" effect="54" value="2;4;6;8;10" power="10" open="20003;5" mark="1"/>
+    <ItemSpec id="20005" levelmax="5" effect="60" value="2;4;6;8;10" power="10" open="20004;5" mark="1"/>
+    <ItemSpec id="20006" levelmax="5" effect="6" value="2;4;6;8;10" power="10" mark="1"/>
+    <ItemSpec id="20007" levelmax="5" effect="7" value="2;4;6;8;10" power="10" open="20006;1" mark="1"/>
+    <ItemSpec id="20008" levelmax="5" effect="4" value="2;4;6;8;10" power="10" open="20007;2" mark="1"/>
+  </Group>
+</tns:database>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="endowment">
+    <ItemSpec id="20000" name="103100" description="103200" site="2,0" levelmax="5" effect="53" value="2;4;6;8;10" open="0" relation="2,1"/>
+    <ItemSpec id="20001" name="103101" description="103201" site="2,1" levelmax="5" effect="50" value="2;4;6;8;10" open="20000;1" relation="3,1|2,2"/>
+    <ItemSpec id="20002" name="103100" description="103200" site="3,1" levelmax="5" effect="51" value="2;4;6;8;10" open="20001;2" relation="2,2"/>
+    <ItemSpec id="20003" name="103101" description="103201" site="2,2" levelmax="5" effect="52" value="2;4;6;8;10" open="20001;3|20002;4" relation="2,3"/>
+    <ItemSpec id="20004" name="103100" description="103200" site="2,3" levelmax="5" effect="54" value="2;4;6;8;10" open="20003;5" relation="2,4"/>
+    <ItemSpec id="20005" name="103101" description="103201" site="2,4" levelmax="5" effect="60" value="2;4;6;8;10" open="20004;5"/>
+    <ItemSpec id="20006" name="103100" description="103200" site="0,0" levelmax="5" effect="6" value="2;4;6;8;10" open="0" relation="0,1"/>
+    <ItemSpec id="20007" name="103101" description="103201" site="0,1" levelmax="5" effect="7" value="2;4;6;8;10" open="20006;1" relation="0,2"/>
+    <ItemSpec id="20008" name="103100" description="103200" site="0,2" levelmax="5" effect="4" value="2;4;6;8;10" open="20007;2"/>
+  </Group>
+</tns:database>

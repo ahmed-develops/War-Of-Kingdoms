@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ItemSpec id="46500" day="1" reward="241001"/>
+  <ItemSpec id="46501" day="2" reward="241002"/>
+  <ItemSpec id="46502" day="3" reward="241003"/>
+  <ItemSpec id="46503" day="4" reward="241004"/>
+  <ItemSpec id="46504" day="5" reward="241005"/>
+  <ItemSpec id="46505" day="6" reward="241006"/>
+  <ItemSpec id="46506" day="7" reward="241007"/>
+</tns:database>

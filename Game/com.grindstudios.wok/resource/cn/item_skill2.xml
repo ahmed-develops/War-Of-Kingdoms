@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="skill2">
+    <ItemSpec id="602400" name="124117" description="125117" icon="skill2_602400" max_lv="20" type="1" para1="502240" type_value="0" base="50|50" add="50|50" des_value="126117"/>
+    <ItemSpec id="602401" name="124118" description="125118" icon="skill2_602401" max_lv="9" type="1" condition_skill="602400;8" para1="502241" type_value="0" base="200" add="200" des_value="126118"/>
+    <ItemSpec id="602402" name="124119" description="125119" icon="skill2_602402" max_lv="6" type="1" condition_skill="602401;4" para1="502242" type_value="0" base="100" add="100" des_value="126119"/>
+    <ItemSpec id="602403" name="124120" description="125120" icon="skill2_602403" max_lv="6" type="1" condition_skill="602402;2" para1="502243" type_value="0" base="200" add="200" des_value="126120"/>
+    <ItemSpec id="602404" name="124121" description="125121" icon="skill2_602404" max_lv="6" type="1" condition_skill="602402;2" para1="502244" type_value="0" base="100" add="100" des_value="126121"/>
+    <ItemSpec id="602405" name="124122" description="125122" icon="skill2_602405" max_lv="3" type="2" condition_point="40" para1="102240" type_value="0" base="2000|1000" add="800|100" des_value="126122"/>
+    <ItemSpec id="602500" name="124123" description="125123" icon="skill2_602500" max_lv="20" type="1" para1="502250" type_value="0" base="100" add="100" des_value="126123"/>
+    <ItemSpec id="602501" name="124124" description="125124" icon="skill2_602501" max_lv="9" type="1" condition_skill="602500;8" para1="502251" type_value="0" base="200" add="200" des_value="126124"/>
+    <ItemSpec id="602502" name="124125" description="125125" icon="skill2_602502" max_lv="6" type="1" condition_skill="602501;4" para1="502252" type_value="0" base="100" add="100" des_value="126125"/>
+    <ItemSpec id="602503" name="124126" description="125126" icon="skill2_602503" max_lv="6" type="1" condition_skill="602502;2" para1="502253" type_value="0" base="100" add="100" des_value="126126"/>
+    <ItemSpec id="602504" name="124127" description="125127" icon="skill2_602504" max_lv="6" type="1" condition_skill="602502;2" para1="502254" type_value="0" base="400" add="400" des_value="126127"/>
+    <ItemSpec id="602505" name="124128" description="125128" icon="skill2_602505" max_lv="3" type="2" condition_point="40" para1="102250" type_value="0" base="2000|1000" add="800|100" des_value="126128"/>
+    <ItemSpec id="602600" name="124129" description="125129" icon="skill2_602600" max_lv="20" type="1" para1="502260" type_value="0" base="100" add="100" des_value="126129"/>
+    <ItemSpec id="602601" name="124130" description="125130" icon="skill2_602601" max_lv="9" type="1" condition_skill="602600;8" para1="502261" type_value="0" base="200" add="200" des_value="126130"/>
+    <ItemSpec id="602602" name="124131" description="125131" icon="skill2_602602" max_lv="6" type="1" condition_skill="602601;4" para1="502262" type_value="0" base="100" add="100" des_value="126131"/>
+    <ItemSpec id="602603" name="124132" description="125132" icon="skill2_602603" max_lv="6" type="1" condition_skill="602602;2" para1="502263" type_value="0" base="300" add="300" des_value="126132"/>
+    <ItemSpec id="602604" name="124133" description="125133" icon="skill2_602604" max_lv="6" type="1" condition_skill="602602;2" para1="502264" type_value="0" base="100" add="100" des_value="126133"/>
+    <ItemSpec id="602605" name="124134" description="125134" icon="skill2_602605" max_lv="3" type="2" condition_point="40" para1="102260" type_value="0" base="2000|1000" add="800|100" des_value="126134"/>
+    <ItemSpec id="602700" name="124135" description="125135" icon="skill2_602700" max_lv="20" type="1" para1="502270" type_value="0" base="100" add="100" des_value="126135"/>
+    <ItemSpec id="602701" name="124136" description="125136" icon="skill2_602701" max_lv="9" type="1" condition_skill="602700;8" para1="502271" type_value="0" base="200" add="200" des_value="126136"/>
+    <ItemSpec id="602702" name="124137" description="125137" icon="skill2_602702" max_lv="6" type="1" condition_skill="602701;4" para1="502272" type_value="0" base="100" add="100" des_value="126137"/>
+    <ItemSpec id="602703" name="124138" description="125138" icon="skill2_602703" max_lv="6" type="1" condition_skill="602702;2" para1="502273" type_value="0" base="300" add="300" des_value="126138"/>
+    <ItemSpec id="602704" name="124139" description="125139" icon="skill2_602704" max_lv="6" type="1" condition_skill="602702;2" para1="502274" type_value="0" base="100|50" add="100|50" des_value="126139"/>
+    <ItemSpec id="602705" name="124140" description="125140" icon="skill2_602705" max_lv="3" type="2" condition_point="40" para1="102270" type_value="0" base="2000|1000" add="800|100" des_value="126140"/>
+    <ItemSpec id="602800" name="124141" description="125141" icon="skill2_602800" max_lv="20" type="1" para1="502280" type_value="0" base="100" add="100" des_value="126141"/>
+    <ItemSpec id="602801" name="124142" description="125142" icon="skill2_602801" max_lv="9" type="1" condition_skill="602800;8" para1="502281" type_value="0" base="200" add="200" des_value="126142"/>
+    <ItemSpec id="602802" name="124143" description="125143" icon="skill2_602802" max_lv="6" type="1" condition_skill="602801;4" para1="502282" type_value="0" base="100" add="100" des_value="126143"/>
+    <ItemSpec id="602803" name="124144" description="125144" icon="skill2_602803" max_lv="6" type="1" condition_skill="602802;2" para1="502283" type_value="0" base="100" add="100" des_value="126144"/>
+    <ItemSpec id="602804" name="124145" description="125145" icon="skill2_602804" max_lv="6" type="1" condition_skill="602802;2" para1="502284" type_value="0" base="200" add="200" des_value="126145"/>
+    <ItemSpec id="602805" name="124146" description="125146" icon="skill2_602805" max_lv="3" type="2" condition_point="40" para1="102280" type_value="0" base="2000|1000" add="800|100" des_value="126146"/>
+    <ItemSpec id="602900" name="124147" description="125147" icon="skill2_602900" max_lv="20" type="1" para1="502290" type_value="0" base="100" add="100" des_value="126147"/>
+    <ItemSpec id="602901" name="124148" description="125148" icon="skill2_602901" max_lv="9" type="1" condition_skill="602900;8" para1="502291" type_value="0" base="100" add="100" des_value="126148"/>
+    <ItemSpec id="602902" name="124149" description="125149" icon="skill2_602902" max_lv="6" type="1" condition_skill="602901;4" para1="502292" type_value="0" base="100" add="100" des_value="126149"/>
+    <ItemSpec id="602903" name="124150" description="125150" icon="skill2_602903" max_lv="6" type="1" condition_skill="602902;2" para1="502293" type_value="0" base="100" add="100" des_value="126150"/>
+    <ItemSpec id="602904" name="124151" description="125151" icon="skill2_602904" max_lv="6" type="1" condition_skill="602902;2" para1="502294" type_value="0" base="50|500" add="50|500" des_value="126151"/>
+    <ItemSpec id="602905" name="124152" description="125152" icon="skill2_602905" max_lv="3" type="2" condition_point="40" para1="102290" type_value="0" base="2000|1000" add="800|100" des_value="126152"/>
+    <ItemSpec id="603000" name="124153" description="125153" icon="skill2_603000" max_lv="20" type="1" para1="502300" type_value="0" base="100" add="100" des_value="126153"/>
+    <ItemSpec id="603001" name="124154" description="125154" icon="skill2_603001" max_lv="9" type="1" condition_skill="603000;8" para1="502301" type_value="0" base="300" add="300" des_value="126154"/>
+    <ItemSpec id="603002" name="124155" description="125155" icon="skill2_603002" max_lv="6" type="1" condition_skill="603001;4" para1="502302" type_value="0" base="100" add="100" des_value="126155"/>
+    <ItemSpec id="603003" name="124156" description="125156" icon="skill2_603003" max_lv="6" type="1" condition_skill="603002;2" para1="502303" type_value="0" base="100" add="100" des_value="126156"/>
+    <ItemSpec id="603004" name="124157" description="125157" icon="skill2_603004" max_lv="6" type="1" condition_skill="603002;2" para1="502304" type_value="0" base="200" add="200" des_value="126157"/>
+    <ItemSpec id="603005" name="124158" description="125158" icon="skill2_603005" max_lv="3" type="2" condition_point="40" para1="102300" type_value="0" base="2000|1000" add="800|100" des_value="126158"/>
+    <ItemSpec id="603100" name="124159" description="125159" icon="skill2_603100" max_lv="20" type="1" para1="502310" type_value="0" base="100" add="100" des_value="126159"/>
+    <ItemSpec id="603101" name="124160" description="125160" icon="skill2_603101" max_lv="9" type="1" condition_skill="603100;8" para1="502311" type_value="0" base="200" add="200" des_value="126160"/>
+    <ItemSpec id="603102" name="124161" description="125161" icon="skill2_603102" max_lv="6" type="1" condition_skill="603101;4" para1="502312" type_value="0" base="100" add="100" des_value="126161"/>
+    <ItemSpec id="603103" name="124162" description="125162" icon="skill2_603103" max_lv="6" type="1" condition_skill="603102;2" para1="502313" type_value="0" base="100" add="100" des_value="126162"/>
+    <ItemSpec id="603104" name="124163" description="125163" icon="skill2_603104" max_lv="6" type="1" condition_skill="603102;2" para1="502314" type_value="0" base="200" add="200" des_value="126163"/>
+    <ItemSpec id="603105" name="124164" description="125164" icon="skill2_603105" max_lv="3" type="2" condition_point="40" para1="102310" type_value="0" base="2000|1000" add="800|100" des_value="126164"/>
+    <ItemSpec id="604200" name="124165" description="125165" icon="skill2_604200" max_lv="18" type="2" para1="102020" type_value="1" base="20" add="8" des_value="126165"/>
+    <ItemSpec id="604201" name="124166" description="125166" icon="skill2_604201" max_lv="10" type="2" condition_skill="604200;8" para1="102021" type_value="0" base="500" add="500" des_value="126166"/>
+    <ItemSpec id="604202" name="124167" description="125167" icon="skill2_604202" max_lv="10" type="2" condition_skill="604200;8" para1="102022" type_value="0" base="500" add="500" des_value="126167"/>
+    <ItemSpec id="604203" name="124168" description="125168" icon="skill2_604203" max_lv="8" type="2" condition_skill="604201;4|604202;4" para1="102023" type_value="0" base="300" add="300" des_value="126168"/>
+    <ItemSpec id="604204" name="124169" description="125169" icon="skill2_604204" max_lv="3" type="2" condition_skill="604203;3" para1="102024" type_value="0" base="2000" add="2000" des_value="126169"/>
+    <ItemSpec id="604205" name="124170" description="125170" icon="skill2_604205" max_lv="1" type="2" condition_point="40" para1="102025" type_value="1" base="1" add="0" des_value="126170"/>
+    <ItemSpec id="604300" name="124171" description="125171" icon="skill2_604300" max_lv="18" type="2" para1="102030" type_value="1" base="20" add="8" des_value="126171"/>
+    <ItemSpec id="604301" name="124172" description="125172" icon="skill2_604301" max_lv="10" type="2" condition_skill="604300;8" para1="102031" type_value="0" base="500" add="500" des_value="126172"/>
+    <ItemSpec id="604302" name="124173" description="125173" icon="skill2_604302" max_lv="10" type="2" condition_skill="604300;8" para1="102032" type_value="0" base="500" add="500" des_value="126173"/>
+    <ItemSpec id="604303" name="124174" description="125174" icon="skill2_604303" max_lv="8" type="2" condition_skill="604301;4|604302;4" para1="102033" type_value="0" base="300" add="300" des_value="126174"/>
+    <ItemSpec id="604304" name="124175" description="125175" icon="skill2_604304" max_lv="3" type="2" condition_skill="604303;3" para1="102034" type_value="0" base="2000" add="2000" des_value="126175"/>
+    <ItemSpec id="604305" name="124176" description="125176" icon="skill2_604305" max_lv="1" type="2" condition_point="40" para1="102035" type_value="1" base="1" add="0" des_value="126176"/>
+    <ItemSpec id="604400" name="124177" description="125177" icon="skill2_604400" max_lv="18" type="2" para1="102040" type_value="1" base="20" add="8" des_value="126177"/>
+    <ItemSpec id="604401" name="124178" description="125178" icon="skill2_604401" max_lv="10" type="2" condition_skill="604400;8" para1="102041" type_value="0" base="500" add="500" des_value="126178"/>
+    <ItemSpec id="604402" name="124179" description="125179" icon="skill2_604402" max_lv="10" type="2" condition_skill="604400;8" para1="102042" type_value="0" base="500" add="500" des_value="126179"/>
+    <ItemSpec id="604403" name="124180" description="125180" icon="skill2_604403" max_lv="8" type="2" condition_skill="604401;4|604402;4" para1="102043" type_value="0" base="300" add="300" des_value="126180"/>
+    <ItemSpec id="604404" name="124181" description="125181" icon="skill2_604404" max_lv="3" type="2" condition_skill="604403;3" para1="102044" type_value="0" base="2000" add="2000" des_value="126181"/>
+    <ItemSpec id="604405" name="124182" description="125182" icon="skill2_604405" max_lv="1" type="2" condition_point="40" para1="102045" type_value="1" base="1" add="0" des_value="126182"/>
+    <ItemSpec id="604500" name="124183" description="125183" icon="skill2_604500" max_lv="18" type="2" para1="102050" type_value="1" base="20" add="8" des_value="126183"/>
+    <ItemSpec id="604501" name="124184" description="125184" icon="skill2_604501" max_lv="10" type="2" condition_skill="604500;8" para1="102051" type_value="0" base="500" add="500" des_value="126184"/>
+    <ItemSpec id="604502" name="124185" description="125185" icon="skill2_604502" max_lv="10" type="2" condition_skill="604500;8" para1="102052" type_value="0" base="500" add="500" des_value="126185"/>
+    <ItemSpec id="604503" name="124186" description="125186" icon="skill2_604503" max_lv="8" type="2" condition_skill="604501;4|604502;4" para1="102053" type_value="0" base="300" add="300" des_value="126186"/>
+    <ItemSpec id="604504" name="124187" description="125187" icon="skill2_604504" max_lv="3" type="2" condition_skill="604503;3" para1="102054" type_value="0" base="2000" add="2000" des_value="126187"/>
+    <ItemSpec id="604505" name="124188" description="125188" icon="skill2_604505" max_lv="1" type="2" condition_point="40" para1="102055" type_value="1" base="1" add="0" des_value="126188"/>
+    <ItemSpec id="604600" name="124189" description="125189" icon="skill2_604600" max_lv="18" type="2" para1="102060" type_value="1" base="20" add="8" des_value="126189"/>
+    <ItemSpec id="604601" name="124190" description="125190" icon="skill2_604601" max_lv="10" type="2" condition_skill="604600;8" para1="102061" type_value="0" base="500" add="500" des_value="126190"/>
+    <ItemSpec id="604602" name="124191" description="125191" icon="skill2_604602" max_lv="10" type="2" condition_skill="604600;8" para1="102062" type_value="0" base="500" add="500" des_value="126191"/>
+    <ItemSpec id="604603" name="124192" description="125192" icon="skill2_604603" max_lv="8" type="2" condition_skill="604601;4|604602;4" para1="102063" type_value="0" base="300" add="300" des_value="126192"/>
+    <ItemSpec id="604604" name="124193" description="125193" icon="skill2_604604" max_lv="3" type="2" condition_skill="604603;3" para1="102064" type_value="0" base="2000" add="2000" des_value="126193"/>
+    <ItemSpec id="604605" name="124194" description="125194" icon="skill2_604605" max_lv="1" type="2" condition_point="40" para1="102065" type_value="1" base="1" add="0" des_value="126194"/>
+    <ItemSpec id="604700" name="124195" description="125195" icon="skill2_604700" max_lv="18" type="2" para1="102070" type_value="1" base="10" add="4" des_value="126195"/>
+    <ItemSpec id="604701" name="124196" description="125196" icon="skill2_604701" max_lv="10" type="2" condition_skill="604700;8" para1="102071" type_value="0" base="500" add="500" des_value="126196"/>
+    <ItemSpec id="604702" name="124197" description="125197" icon="skill2_604702" max_lv="10" type="2" condition_skill="604700;8" para1="102072" type_value="0" base="500" add="500" des_value="126197"/>
+    <ItemSpec id="604703" name="124198" description="125198" icon="skill2_604703" max_lv="8" type="2" condition_skill="604701;4|604702;4" para1="102073" type_value="0" base="300" add="300" des_value="126198"/>
+    <ItemSpec id="604704" name="124199" description="125199" icon="skill2_604704" max_lv="3" type="2" condition_skill="604703;3" para1="102074" type_value="0" base="2000" add="2000" des_value="126199"/>
+    <ItemSpec id="604705" name="124200" description="125200" icon="skill2_604705" max_lv="1" type="2" condition_point="40" para1="102075" type_value="1" base="1" add="0" des_value="126200"/>
+    <ItemSpec id="604800" name="124201" description="125201" icon="skill2_604800" max_lv="18" type="2" para1="102080" type_value="1" base="20" add="8" des_value="126201"/>
+    <ItemSpec id="604801" name="124202" description="125202" icon="skill2_604801" max_lv="10" type="2" condition_skill="604800;8" para1="102081" type_value="0" base="500" add="500" des_value="126202"/>
+    <ItemSpec id="604802" name="124203" description="125203" icon="skill2_604802" max_lv="10" type="2" condition_skill="604800;8" para1="102082" type_value="0" base="500" add="500" des_value="126203"/>
+    <ItemSpec id="604803" name="124204" description="125204" icon="skill2_604803" max_lv="8" type="2" condition_skill="604801;4|604802;4" para1="102083" type_value="0" base="300" add="300" des_value="126204"/>
+    <ItemSpec id="604804" name="124205" description="125205" icon="skill2_604804" max_lv="3" type="2" condition_skill="604803;3" para1="102084" type_value="0" base="2000" add="2000" des_value="126205"/>
+    <ItemSpec id="604805" name="124206" description="125206" icon="skill2_604805" max_lv="1" type="2" condition_point="40" para1="102085" type_value="1" base="1" add="0" des_value="126206"/>
+    <ItemSpec id="604900" name="124207" description="125207" icon="skill2_604900" max_lv="18" type="2" para1="102090" type_value="1" base="20" add="8" des_value="126207"/>
+    <ItemSpec id="604901" name="124208" description="125208" icon="skill2_604901" max_lv="10" type="2" condition_skill="604900;8" para1="102091" type_value="0" base="500" add="500" des_value="126208"/>
+    <ItemSpec id="604902" name="124209" description="125209" icon="skill2_604902" max_lv="10" type="2" condition_skill="604900;8" para1="102092" type_value="0" base="500" add="500" des_value="126209"/>
+    <ItemSpec id="604903" name="124210" description="125210" icon="skill2_604903" max_lv="8" type="2" condition_skill="604901;4|604902;4" para1="102093" type_value="0" base="300" add="300" des_value="126210"/>
+    <ItemSpec id="604904" name="124211" description="125211" icon="skill2_604904" max_lv="3" type="2" condition_skill="604903;3" para1="102094" type_value="0" base="2000" add="2000" des_value="126211"/>
+    <ItemSpec id="604905" name="124212" description="125212" icon="skill2_604905" max_lv="1" type="2" condition_point="40" para1="102095" type_value="1" base="1" add="0" des_value="126212"/>
+    <ItemSpec id="606200" name="124213" description="125213" icon="skill2_606200" max_lv="18" type="2" para1="102420" type_value="0" base="800" add="300" des_value="126213"/>
+    <ItemSpec id="606201" name="124214" description="125214" icon="skill2_606201" max_lv="9" type="2" condition_skill="606200;8" para1="102421" type_value="0" base="250" add="250" des_value="126214"/>
+    <ItemSpec id="606202" name="124215" description="125215" icon="skill2_606202" max_lv="9" type="2" condition_skill="606200;8" para1="102422" type_value="0" base="250" add="250" des_value="126215"/>
+    <ItemSpec id="606203" name="124216" description="125216" icon="skill2_606203" max_lv="8" type="2" condition_skill="606201;4|606202;4" para1="102423" type_value="0" base="800" add="800" des_value="126216"/>
+    <ItemSpec id="606204" name="124217" description="125217" icon="skill2_606204" max_lv="4" type="2" condition_skill="606203;4" para1="102424" type_value="0" base="1000" add="1000" des_value="126217"/>
+    <ItemSpec id="606205" name="124218" description="125218" icon="skill2_606205" max_lv="2" type="2" condition_point="30" para1="102425" type_value="1" base="1" add="1" des_value="126218"/>
+    <ItemSpec id="607000" name="124219" description="125219" icon="skill2_607000" max_lv="10" type="1" para1="502500" type_value="0" base="300" add="300" des_value="126219"/>
+    <ItemSpec id="607001" name="124220" description="125220" icon="skill2_607001" max_lv="9" type="1" condition_skill="607000;5" para1="502501" type_value="0" base="100" add="100" des_value="126220"/>
+    <ItemSpec id="607002" name="124221" description="125221" icon="skill2_607002" max_lv="9" type="1" condition_skill="607000;5" para1="502502" type_value="0" base="100" add="100" des_value="126221"/>
+    <ItemSpec id="607003" name="124222" description="125222" icon="skill2_607003" max_lv="9" type="1" condition_skill="607001;4" para1="502503" type_value="0" base="100" add="100" des_value="126222"/>
+    <ItemSpec id="607004" name="124223" description="125223" icon="skill2_607004" max_lv="9" type="1" condition_skill="607002;4" para1="502504" type_value="0" base="100" add="100" des_value="126223"/>
+    <ItemSpec id="607005" name="124224" description="125224" icon="skill2_607005" max_lv="3" type="1" condition_skill="607003;4|607004;4" para1="502505" type_value="0" base="300" add="300" des_value="126224"/>
+    <ItemSpec id="607006" name="124225" description="125225" icon="skill2_607006" max_lv="1" type="1" condition_point="40" para1="502506" type_value="0" base="300" add="0" des_value="126225"/>
+    <ItemSpec id="607100" name="124226" description="125226" icon="skill2_607100" max_lv="10" type="1" para1="502510" type_value="0" base="300" add="300" des_value="126226"/>
+    <ItemSpec id="607101" name="124227" description="125227" icon="skill2_607101" max_lv="9" type="1" condition_skill="607100;5" para1="502511" type_value="0" base="100" add="100" des_value="126227"/>
+    <ItemSpec id="607102" name="124228" description="125228" icon="skill2_607102" max_lv="9" type="1" condition_skill="607100;5" para1="502512" type_value="0" base="100" add="100" des_value="126228"/>
+    <ItemSpec id="607103" name="124229" description="125229" icon="skill2_607103" max_lv="9" type="1" condition_skill="607101;4" para1="502513" type_value="0" base="100" add="100" des_value="126229"/>
+    <ItemSpec id="607104" name="124230" description="125230" icon="skill2_607104" max_lv="9" type="1" condition_skill="607102;4" para1="502514" type_value="0" base="100" add="100" des_value="126230"/>
+    <ItemSpec id="607105" name="124231" description="125231" icon="skill2_607105" max_lv="3" type="1" condition_skill="607103;4|607104;4" para1="502515" type_value="0" base="100" add="100" des_value="126231"/>
+    <ItemSpec id="607106" name="124232" description="125232" icon="skill2_607106" max_lv="1" type="1" condition_point="40" para1="502516" type_value="0" base="300" add="0" des_value="126232"/>
+    <ItemSpec id="607200" name="124233" description="125233" icon="skill2_607200" max_lv="10" type="1" para1="502520" type_value="0" base="100" add="100" des_value="126233"/>
+    <ItemSpec id="607201" name="124234" description="125234" icon="skill2_607201" max_lv="9" type="1" condition_skill="607200;5" para1="502521" type_value="0" base="100" add="100" des_value="126234"/>
+    <ItemSpec id="607202" name="124235" description="125235" icon="skill2_607202" max_lv="9" type="1" condition_skill="607200;5" para1="502522" type_value="0" base="100" add="100" des_value="126235"/>
+    <ItemSpec id="607203" name="124236" description="125236" icon="skill2_607203" max_lv="9" type="1" condition_skill="607201;4" para1="502523" type_value="0" base="100" add="100" des_value="126236"/>
+    <ItemSpec id="607204" name="124237" description="125237" icon="skill2_607204" max_lv="9" type="1" condition_skill="607202;4" para1="502524" type_value="0" base="100" add="100" des_value="126237"/>
+    <ItemSpec id="607205" name="124238" description="125238" icon="skill2_607205" max_lv="3" type="1" condition_skill="607203;4|607204;4" para1="502525" type_value="0" base="100" add="100" des_value="126238"/>
+    <ItemSpec id="607206" name="124239" description="125239" icon="skill2_607206" max_lv="1" type="1" condition_point="40" para1="502526" type_value="0" base="300" add="0" des_value="126239"/>
+    <ItemSpec id="650000" name="124000" description="125000" icon="skill2_650000" max_lv="20" type="0" para1="95|96|97" type_value="0" base="50|50|50" add="50|50|50" des_value="126000"/>
+    <ItemSpec id="650001" name="124001" description="125001" icon="skill2_650001" max_lv="8" type="0" condition_skill="650000;10" para1="1200" type_value="0" base="100" add="100" des_value="126001"/>
+    <ItemSpec id="650002" name="124002" description="125002" icon="skill2_650002" max_lv="8" type="0" condition_skill="650000;10" para1="1260" type_value="0" base="100" add="100" des_value="126002"/>
+    <ItemSpec id="650003" name="124003" description="125003" icon="skill2_650003" max_lv="8" type="0" condition_skill="650000;10" para1="1240" type_value="0" base="100" add="100" des_value="126003"/>
+    <ItemSpec id="650004" name="124004" description="125004" icon="skill2_650004" max_lv="10" type="0" condition_skill="650001;2|650002;2|650003;2" para1="10" type_value="0" base="100" add="100" des_value="126004"/>
+    <ItemSpec id="650005" name="124005" description="125005" icon="skill2_650005" max_lv="5" type="0" condition_skill="650004;5" condition_point="30" para1="126" type_value="0" base="200" add="200" des_value="126005"/>
+    <ItemSpec id="650006" name="124006" description="125006" icon="skill2_650006" max_lv="1" type="0" condition_point="40" para1="122" type_value="0" base="10000" add="0" des_value="126006"/>
+    <ItemSpec id="650100" name="124007" description="125007" icon="skill2_650100" max_lv="8" type="0" para1="1230" type_value="0" base="100" add="100" des_value="126007"/>
+    <ItemSpec id="650101" name="124008" description="125008" icon="skill2_650101" max_lv="8" type="0" para1="1270" type_value="0" base="100" add="100" des_value="126008"/>
+    <ItemSpec id="650102" name="124009" description="125009" icon="skill2_650102" max_lv="8" type="0" para1="1250" type_value="0" base="100" add="100" des_value="126009"/>
+    <ItemSpec id="650103" name="124010" description="125010" icon="skill2_650103" max_lv="10" type="0" condition_skill="650100;4|650101;4|650102;4" para1="11" type_value="0" base="100" add="100" des_value="126010"/>
+    <ItemSpec id="650104" name="124011" description="125011" icon="skill2_650104" max_lv="10" type="0" condition_skill="650103;5" condition_point="20" para1="123" type_value="0" base="100" add="100" des_value="126011"/>
+    <ItemSpec id="650105" name="124012" description="125012" icon="skill2_650105" max_lv="15" type="0" condition_skill="650103;5" condition_point="20" para1="129" type_value="0" base="300" add="300" des_value="126012"/>
+    <ItemSpec id="650106" name="124013" description="125013" icon="skill2_650106" max_lv="1" type="0" condition_point="40" para1="128" type_value="0" base="5000" add="0" des_value="126013"/>
+    <ItemSpec id="650200" name="124014" description="125014" icon="skill2_650200" max_lv="20" type="0" para1="131" type_value="1" base="100" add="100" des_value="126014"/>
+    <ItemSpec id="650201" name="124015" description="125015" icon="skill2_650201" max_lv="6" type="0" condition_skill="650200;5" para1="113" type_value="0" base="100" add="100" des_value="126015"/>
+    <ItemSpec id="650202" name="124016" description="125016" icon="skill2_650202" max_lv="6" type="0" condition_skill="650200;5" para1="114" type_value="0" base="100" add="100" des_value="126016"/>
+    <ItemSpec id="650203" name="124017" description="125017" icon="skill2_650203" max_lv="6" type="0" condition_skill="650201;2" para1="115" type_value="0" base="100" add="100" des_value="126017"/>
+    <ItemSpec id="650204" name="124018" description="125018" icon="skill2_650204" max_lv="6" type="0" condition_skill="650202;2" para1="116" type_value="0" base="100" add="100" des_value="126018"/>
+    <ItemSpec id="650205" name="124019" description="125019" icon="skill2_650205" max_lv="15" type="0" condition_skill="650203;2|650204;2" condition_point="30" para1="73" type_value="1" base="200" add="200" des_value="126019"/>
+    <ItemSpec id="650206" name="124020" description="125020" icon="skill2_650206" max_lv="1" type="0" condition_point="40" para1="121" type_value="0" base="2000" add="0" des_value="126020"/>
+    <ItemSpec id="650300" name="124021" description="125021" icon="skill2_650300" max_lv="25" type="0" para1="133" type_value="0" base="100" add="100" des_value="126021"/>
+    <ItemSpec id="650301" name="124022" description="125022" icon="skill2_650301" max_lv="6" type="0" condition_skill="650300;5" para1="89" type_value="0" base="100" add="100" des_value="126022"/>
+    <ItemSpec id="650302" name="124023" description="125023" icon="skill2_650302" max_lv="6" type="0" condition_skill="650304;3" para1="90" type_value="0" base="100" add="100" des_value="126023"/>
+    <ItemSpec id="650303" name="124024" description="125024" icon="skill2_650303" max_lv="6" type="0" condition_skill="650301;3" para1="91" type_value="0" base="100" add="100" des_value="126024"/>
+    <ItemSpec id="650304" name="124025" description="125025" icon="skill2_650304" max_lv="6" type="0" condition_skill="650300;5" para1="92" type_value="0" base="100" add="100" des_value="126025"/>
+    <ItemSpec id="650305" name="124026" description="125026" icon="skill2_650305" max_lv="7" type="0" para1="93" type_value="0" base="100" add="100" des_value="126026"/>
+    <ItemSpec id="650306" name="124027" description="125027" icon="skill2_650306" max_lv="1" type="0" condition_point="40" para1="134" type_value="0" base="2000" add="0" des_value="126027"/>
+    <ItemSpec id="650400" name="124028" description="125028" icon="skill2_650400" max_lv="15" type="0" para1="98" type_value="0" base="100" add="100" des_value="126028"/>
+    <ItemSpec id="650401" name="124029" description="125029" icon="skill2_650401" max_lv="12" type="0" condition_skill="650400;5" para1="47" type_value="0" base="100" add="100" des_value="126029"/>
+    <ItemSpec id="650402" name="124030" description="125030" icon="skill2_650402" max_lv="12" type="0" condition_skill="650400;5" para1="138" type_value="0" base="100" add="100" des_value="126030"/>
+    <ItemSpec id="650403" name="124031" description="125031" icon="skill2_650403" max_lv="5" type="0" condition_skill="650401;3" para1="136" type_value="0" base="300" add="300" des_value="126031"/>
+    <ItemSpec id="650404" name="124032" description="125032" icon="skill2_650404" max_lv="5" type="0" condition_skill="650402;3" para1="137" type_value="0" base="300" add="300" des_value="126032"/>
+    <ItemSpec id="650405" name="124033" description="125033" icon="skill2_650405" max_lv="5" type="0" para1="111" type_value="0" base="500" add="500" des_value="126033"/>
+    <ItemSpec id="650406" name="124034" description="125034" icon="skill2_650406" max_lv="1" type="0" condition_point="40" para1="111" type_value="0" base="2000" add="0" des_value="126034"/>
+    <ItemSpec id="650500" name="124035" description="125035" icon="skill2_650500" max_lv="9" type="0" para1="72" type_value="1" base="1000" add="1000" des_value="126035"/>
+    <ItemSpec id="650501" name="124036" description="125036" icon="skill2_650501" max_lv="10" type="0" condition_skill="650500;2" para1="50" type_value="0" base="100" add="100" des_value="126036"/>
+    <ItemSpec id="650502" name="124037" description="125037" icon="skill2_650502" max_lv="10" type="0" condition_skill="650504;4" para1="51" type_value="0" base="100" add="100" des_value="126037"/>
+    <ItemSpec id="650503" name="124038" description="125038" icon="skill2_650503" max_lv="10" type="0" condition_skill="650501;4" para1="52" type_value="0" base="100" add="100" des_value="126038"/>
+    <ItemSpec id="650504" name="124039" description="125039" icon="skill2_650504" max_lv="10" type="0" condition_skill="650500;2" para1="53" type_value="0" base="100" add="100" des_value="126039"/>
+    <ItemSpec id="650505" name="124040" description="125040" icon="skill2_650505" max_lv="14" type="0" para1="54" type_value="0" base="100" add="100" des_value="126040"/>
+    <ItemSpec id="650506" name="124041" description="125041" icon="skill2_650506" max_lv="1" type="0" condition_point="40" para1="64" type_value="0" base="2000" add="0" des_value="126041"/>
+    <ItemSpec id="650600" name="124042" description="125042" icon="skill2_650600" max_lv="8" type="0" para1="1591|1592" type_value="0" base="100|100" add="100|100" des_value="126042"/>
+    <ItemSpec id="650601" name="124043" description="125043" icon="skill2_650601" max_lv="8" type="0" para1="1593|1594" type_value="0" base="100|100" add="100|100" des_value="126043"/>
+    <ItemSpec id="650602" name="124044" description="125044" icon="skill2_650602" max_lv="8" type="0" condition_skill="650600;3" para1="1595|1596" type_value="0" base="100|100" add="100|100" des_value="126044"/>
+    <ItemSpec id="650603" name="124045" description="125045" icon="skill2_650603" max_lv="8" type="0" condition_skill="650601;3" para1="1595|1596" type_value="0" base="100|100" add="100|100" des_value="126045"/>
+    <ItemSpec id="650604" name="124046" description="125046" icon="skill2_650604" max_lv="12" type="0" condition_skill="650602;3|650603;3" para1="127" type_value="0" base="50" add="50" des_value="126046"/>
+    <ItemSpec id="650605" name="124047" description="125047" icon="skill2_650605" max_lv="15" type="0" condition_skill="650604;5" condition_point="30" para1="125" type_value="1" base="1000" add="1000" des_value="126047"/>
+    <ItemSpec id="650606" name="124048" description="125048" icon="skill2_650606" max_lv="1" type="0" condition_point="40" para1="67" type_value="0" base="1000" add="0" des_value="126048"/>
+    <ItemSpec id="650700" name="124049" description="125049" icon="skill2_650700" max_lv="8" type="0" para1="1151" type_value="0" base="100" add="100" des_value="126049"/>
+    <ItemSpec id="650701" name="124050" description="125050" icon="skill2_650701" max_lv="8" type="0" para1="1150" type_value="0" base="100" add="100" des_value="126050"/>
+    <ItemSpec id="650702" name="124051" description="125051" icon="skill2_650702" max_lv="8" type="0" para1="12" type_value="0" base="100" add="100" des_value="126051"/>
+    <ItemSpec id="650703" name="124052" description="125052" icon="skill2_650703" max_lv="10" type="0" condition_skill="650700;2|650701;2|650702;2" para1="135" type_value="0" base="300" add="300" des_value="126052"/>
+    <ItemSpec id="650704" name="124053" description="125053" icon="skill2_650704" max_lv="10" type="0" condition_skill="650703;3" condition_point="20" para1="130" type_value="0" base="500" add="500" des_value="126053"/>
+    <ItemSpec id="650705" name="124054" description="125054" icon="skill2_650705" max_lv="15" type="0" condition_skill="650703;3" condition_point="20" para1="124" type_value="0" base="100" add="100" des_value="126054"/>
+    <ItemSpec id="650706" name="124055" description="125055" icon="skill2_650706" max_lv="1" type="0" condition_point="40" para1="77" type_value="0" base="5000" add="0" des_value="126055"/>
+    <ItemSpec id="652000" name="124056" description="125056" icon="skill2_652000" max_lv="12" type="1" para1="502200" type_value="0" base="0" add="0" des_value="126056"/>
+    <ItemSpec id="652001" name="124057" description="125057" icon="skill2_652001" max_lv="8" type="1" condition_skill="652000;3" para1="502201" type_value="0" base="0" add="0" des_value="126057"/>
+    <ItemSpec id="652002" name="124058" description="125058" icon="skill2_652002" max_lv="8" type="1" condition_skill="652000;3" para1="502202" type_value="0" base="0" add="0" des_value="126058"/>
+    <ItemSpec id="652003" name="124059" description="125059" icon="skill2_652003" max_lv="8" type="1" condition_skill="652001;2" para1="502203" type_value="0" base="0" add="0" des_value="126059"/>
+    <ItemSpec id="652004" name="124060" description="125060" icon="skill2_652004" max_lv="8" type="1" condition_skill="652002;2" para1="502204" type_value="0" base="0" add="0" des_value="126060"/>
+    <ItemSpec id="652005" name="124061" description="125061" icon="skill2_652005" max_lv="5" type="1" condition_skill="652003;2|652004;2" para1="502205" type_value="0" base="0" add="0" des_value="126061"/>
+    <ItemSpec id="652006" name="124062" description="125062" icon="skill2_652006" max_lv="5" type="2" condition_skill="652005;2" condition_point="20" para1="102200" type_value="0" base="0" add="0" des_value="126062"/>
+    <ItemSpec id="652007" name="124063" description="125063" icon="skill2_652007" max_lv="5" type="2" condition_skill="652005;2" condition_point="20" para1="102201" type_value="0" base="0" add="0" des_value="126063"/>
+    <ItemSpec id="652008" name="124064" description="125064" icon="skill2_652008" max_lv="1" type="2" condition_point="40" para1="102202|102203" type_value="0" base="0" add="0" des_value="126064"/>
+    <ItemSpec id="652100" name="124065" description="125065" icon="skill2_652100" max_lv="12" type="1" para1="502210" type_value="0" base="0" add="0" des_value="126065"/>
+    <ItemSpec id="652101" name="124066" description="125066" icon="skill2_652101" max_lv="8" type="1" condition_skill="652100;3" para1="502211" type_value="0" base="0" add="0" des_value="126066"/>
+    <ItemSpec id="652102" name="124067" description="125067" icon="skill2_652102" max_lv="8" type="1" condition_skill="652100;3" para1="502212" type_value="0" base="0" add="0" des_value="126067"/>
+    <ItemSpec id="652103" name="124068" description="125068" icon="skill2_652103" max_lv="8" type="1" condition_skill="652101;2" para1="502213" type_value="0" base="0" add="0" des_value="126068"/>
+    <ItemSpec id="652104" name="124069" description="125069" icon="skill2_652104" max_lv="8" type="1" condition_skill="652102;2" para1="502214" type_value="0" base="0" add="0" des_value="126069"/>
+    <ItemSpec id="652105" name="124070" description="125070" icon="skill2_652105" max_lv="5" type="1" condition_skill="652103;2|652104;2" para1="502215" type_value="0" base="0" add="0" des_value="126070"/>
+    <ItemSpec id="652106" name="124071" description="125071" icon="skill2_652106" max_lv="5" type="2" condition_skill="652105;2" condition_point="20" para1="102210" type_value="0" base="0" add="0" des_value="126071"/>
+    <ItemSpec id="652107" name="124072" description="125072" icon="skill2_652107" max_lv="5" type="2" condition_skill="652105;2" condition_point="20" para1="102211" type_value="0" base="0" add="0" des_value="126072"/>
+    <ItemSpec id="652108" name="124073" description="125073" icon="skill2_652108" max_lv="1" type="2" condition_point="40" para1="102212|102213" type_value="0" base="0" add="0" des_value="126073"/>
+    <ItemSpec id="652200" name="124074" description="125074" icon="skill2_652200" max_lv="12" type="1" para1="502220" type_value="0" base="0" add="0" des_value="126074"/>
+    <ItemSpec id="652201" name="124075" description="125075" icon="skill2_652201" max_lv="8" type="1" condition_skill="652200;3" para1="502221" type_value="0" base="0" add="0" des_value="126075"/>
+    <ItemSpec id="652202" name="124076" description="125076" icon="skill2_652202" max_lv="8" type="1" condition_skill="652200;3" para1="502222" type_value="0" base="0" add="0" des_value="126076"/>
+    <ItemSpec id="652203" name="124077" description="125077" icon="skill2_652203" max_lv="8" type="1" condition_skill="652201;2" para1="502223" type_value="0" base="0" add="0" des_value="126077"/>
+    <ItemSpec id="652204" name="124078" description="125078" icon="skill2_652204" max_lv="8" type="1" condition_skill="652202;2" para1="502224" type_value="0" base="0" add="0" des_value="126078"/>
+    <ItemSpec id="652205" name="124079" description="125079" icon="skill2_652205" max_lv="5" type="1" condition_skill="652203;2|652204;2" para1="502225" type_value="0" base="0" add="0" des_value="126079"/>
+    <ItemSpec id="652206" name="124080" description="125080" icon="skill2_652206" max_lv="5" type="2" condition_skill="652205;2" condition_point="20" para1="102220" type_value="0" base="0" add="0" des_value="126080"/>
+    <ItemSpec id="652207" name="124081" description="125081" icon="skill2_652207" max_lv="5" type="2" condition_skill="652205;2" condition_point="20" para1="102221" type_value="0" base="0" add="0" des_value="126081"/>
+    <ItemSpec id="652208" name="124082" description="125082" icon="skill2_652208" max_lv="1" type="2" condition_point="40" para1="102222|102223" type_value="0" base="0" add="0" des_value="126082"/>
+    <ItemSpec id="652300" name="124083" description="125083" icon="skill2_652300" max_lv="12" type="1" para1="502230" type_value="0" base="0" add="0" des_value="126083"/>
+    <ItemSpec id="652301" name="124084" description="125084" icon="skill2_652301" max_lv="8" type="1" condition_skill="652300;3" para1="502231" type_value="0" base="0" add="0" des_value="126084"/>
+    <ItemSpec id="652302" name="124085" description="125085" icon="skill2_652302" max_lv="8" type="1" condition_skill="652300;3" para1="502232" type_value="0" base="0" add="0" des_value="126085"/>
+    <ItemSpec id="652303" name="124086" description="125086" icon="skill2_652303" max_lv="8" type="1" condition_skill="652301;2" para1="502233" type_value="0" base="0" add="0" des_value="126086"/>
+    <ItemSpec id="652304" name="124087" description="125087" icon="skill2_652304" max_lv="8" type="1" condition_skill="652302;2" para1="502234" type_value="0" base="0" add="0" des_value="126087"/>
+    <ItemSpec id="652305" name="124088" description="125088" icon="skill2_652305" max_lv="5" type="1" condition_skill="652303;2|652304;2" para1="502235" type_value="0" base="0" add="0" des_value="126088"/>
+    <ItemSpec id="652306" name="124089" description="125089" icon="skill2_652306" max_lv="5" type="2" condition_skill="652305;2" condition_point="20" para1="102230" type_value="0" base="0" add="0" des_value="126089"/>
+    <ItemSpec id="652307" name="124090" description="125090" icon="skill2_652307" max_lv="5" type="2" condition_skill="652305;2" condition_point="20" para1="102231" type_value="0" base="0" add="0" des_value="126090"/>
+    <ItemSpec id="652308" name="124091" description="125091" icon="skill2_652308" max_lv="1" type="2" condition_point="40" para1="102232|102233" type_value="0" base="0" add="0" des_value="126091"/>
+    <ItemSpec id="654000" name="124092" description="125092" icon="skill2_654000" max_lv="12" type="2" para1="102000" type_value="1" base="45" add="18" des_value="126092"/>
+    <ItemSpec id="654001" name="124093" description="125093" icon="skill2_654001" max_lv="8" type="2" condition_skill="654000;3" para1="102001" type_value="0" base="600" add="600" des_value="126093"/>
+    <ItemSpec id="654002" name="124094" description="125094" icon="skill2_654002" max_lv="8" type="2" condition_skill="654000;3" para1="102002" type_value="0" base="600" add="600" des_value="126094"/>
+    <ItemSpec id="654003" name="124095" description="125095" icon="skill2_654003" max_lv="8" type="2" condition_skill="654001;2" para1="102003" type_value="0" base="600" add="600" des_value="126095"/>
+    <ItemSpec id="654004" name="124096" description="125096" icon="skill2_654004" max_lv="8" type="2" condition_skill="654002;2" para1="102004" type_value="0" base="600" add="600" des_value="126096"/>
+    <ItemSpec id="654005" name="124097" description="125097" icon="skill2_654005" max_lv="9" type="2" condition_skill="654003;2|654004;2" para1="102005" type_value="0" base="300" add="300" des_value="126097"/>
+    <ItemSpec id="654006" name="124098" description="125098" icon="skill2_654006" max_lv="3" type="2" condition_skill="654005;2" condition_point="20" para1="102006" type_value="0" base="2000" add="2000" des_value="126098"/>
+    <ItemSpec id="654007" name="124099" description="125099" icon="skill2_654007" max_lv="3" type="2" condition_skill="654005;2" condition_point="20" para1="102007" type_value="1" base="1" add="1" des_value="126099"/>
+    <ItemSpec id="654008" name="124100" description="125100" icon="skill2_654008" max_lv="1" type="2" condition_point="40" para1="102008" type_value="0" base="0" add="0" des_value="126100"/>
+    <ItemSpec id="654100" name="124101" description="125101" icon="skill2_654100" max_lv="12" type="2" para1="102010" type_value="1" base="30" add="12" des_value="126101"/>
+    <ItemSpec id="654101" name="124102" description="125102" icon="skill2_654101" max_lv="8" type="2" condition_skill="654100;3" para1="102011" type_value="0" base="200" add="200" des_value="126102"/>
+    <ItemSpec id="654102" name="124103" description="125103" icon="skill2_654102" max_lv="8" type="2" condition_skill="654100;3" para1="102012" type_value="0" base="200" add="200" des_value="126103"/>
+    <ItemSpec id="654103" name="124104" description="125104" icon="skill2_654103" max_lv="8" type="2" condition_skill="654101;2" para1="102013" type_value="0" base="300" add="300" des_value="126104"/>
+    <ItemSpec id="654104" name="124105" description="125105" icon="skill2_654104" max_lv="8" type="2" condition_skill="654102;2" para1="102014" type_value="0" base="300" add="300" des_value="126105"/>
+    <ItemSpec id="654105" name="124106" description="125106" icon="skill2_654105" max_lv="9" type="2" condition_skill="654103;2|654104;2" para1="102015" type_value="0" base="300" add="300" des_value="126106"/>
+    <ItemSpec id="654106" name="124107" description="125107" icon="skill2_654106" max_lv="3" type="2" condition_skill="654105;2" condition_point="20" para1="102016" type_value="0" base="2000" add="2000" des_value="126107"/>
+    <ItemSpec id="654107" name="124108" description="125108" icon="skill2_654107" max_lv="3" type="2" condition_skill="654105;2" condition_point="20" para1="102017" type_value="1" base="1" add="1" des_value="126108"/>
+    <ItemSpec id="654108" name="124109" description="125109" icon="skill2_654108" max_lv="1" type="2" condition_point="40" para1="102018" type_value="0" base="0" add="0" des_value="126109"/>
+    <ItemSpec id="656000" name="124110" description="125110" icon="skill2_656000" max_lv="20" type="2" para1="102030" type_value="0" base="1000" add="300" des_value="126110"/>
+    <ItemSpec id="656001" name="124111" description="125111" icon="skill2_656001" max_lv="10" type="2" condition_skill="656000;8" para1="102031" type_value="0" base="300" add="300" des_value="126111"/>
+    <ItemSpec id="656002" name="124112" description="125112" icon="skill2_656002" max_lv="10" type="2" condition_skill="656000;8" para1="102032" type_value="0" base="300" add="300" des_value="126112"/>
+    <ItemSpec id="656003" name="124113" description="125113" icon="skill2_656003" max_lv="10" type="2" condition_skill="656001;4|656002;4" para1="102033" type_value="0" base="1000" add="1000" des_value="126113"/>
+    <ItemSpec id="656004" name="124114" description="125114" icon="skill2_656004" max_lv="6" type="2" condition_skill="656003;4" para1="102034" type_value="0" base="1000" add="1000" des_value="126114"/>
+    <ItemSpec id="656005" name="124115" description="125115" icon="skill2_656005" max_lv="3" type="2" condition_skill="656004;2" condition_point="30" para1="102035" type_value="0" base="1000" add="1000" des_value="126115"/>
+    <ItemSpec id="656006" name="124116" description="125116" icon="skill2_656006" max_lv="1" type="2" condition_point="40" para1="102036" type_value="1" base="2" add="0" des_value="126116"/>
+  </Group>
+</tns:database>

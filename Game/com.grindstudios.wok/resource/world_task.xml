@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <ItemSpec id="3100101" type="1" min_level="1" max_level="6" level="0" value="10000" award="242001-10|242002-10|242003-10" rate="7000"/>
+ <ItemSpec id="3100102" type="1" min_level="1" max_level="6" level="1" value="20000" award="242004-10|242005-10|242006-10" rate="2500"/>
+ <ItemSpec id="3100103" type="1" min_level="1" max_level="6" level="2" value="30000" award="242007-10|242008-10|242009-10|242010-10|242011-10" rate="1935"/>
+ <ItemSpec id="3100104" type="1" min_level="1" max_level="6" level="3" value="40000" award="242012-10|242013-10|242014-10|242015-10|242016-10|242017-10|242018-10" rate="340"/>
+ <ItemSpec id="3100105" type="1" min_level="1" max_level="6" level="4" value="50000" award="242019-10|242020-10|242021-10|242022-10|242024-10|242025-10|242026-10|242027-10" rate="125"/>
+ <ItemSpec id="3100106" type="1" min_level="1" max_level="6" level="5" value="55000" award="242028-10|242029-10|242030-10|242031-10|242032-10|242033-10|242035-10|242036-10|242037-10|242038-10" rate="100"/>
+ <ItemSpec id="3100107" type="2" min_level="1" max_level="6" level="0" value="10000" award="242001-10|242002-10|242003-10" rate="7000"/>
+ <ItemSpec id="3100108" type="2" min_level="1" max_level="6" level="1" value="20000" award="242004-10|242005-10|242006-10" rate="2500"/>
+ <ItemSpec id="3100109" type="2" min_level="1" max_level="6" level="2" value="30000" award="242007-10|242008-10|242009-10|242010-10|242011-10" rate="1935"/>
+ <ItemSpec id="3100110" type="2" min_level="1" max_level="6" level="3" value="40000" award="242012-10|242013-10|242014-10|242015-10|242016-10|242017-10|242018-10" rate="340"/>
+ <ItemSpec id="3100111" type="2" min_level="1" max_level="6" level="4" value="50000" award="242019-10|242020-10|242021-10|242022-10|242024-10|242025-10|242026-10|242027-10" rate="125"/>
+ <ItemSpec id="3100112" type="2" min_level="1" max_level="6" level="5" value="55000" award="242028-10|242029-10|242030-10|242031-10|242032-10|242033-10|242035-10|242036-10|242037-10|242038-10" rate="100"/>
+ <ItemSpec id="3100113" type="3" min_level="1" max_level="6" level="0" value="1" award="242001-10|242002-10|242003-10" rate="7000"/>
+ <ItemSpec id="3100114" type="3" min_level="1" max_level="6" level="1" value="2" award="242004-10|242005-10|242006-10" rate="2500"/>
+ <ItemSpec id="3100115" type="3" min_level="1" max_level="6" level="2" value="3" award="242007-10|242008-10|242009-10|242010-10|242011-10" rate="1935"/>
+ <ItemSpec id="3100116" type="3" min_level="1" max_level="6" level="3" value="3" award="242012-10|242013-10|242014-10|242015-10|242016-10|242017-10|242018-10" rate="340"/>
+ <ItemSpec id="3100117" type="3" min_level="1" max_level="6" level="4" value="4" award="242019-10|242020-10|242021-10|242022-10|242024-10|242025-10|242026-10|242027-10" rate="125"/>
+ <ItemSpec id="3100118" type="3" min_level="1" max_level="6" level="5" value="4" award="242028-10|242029-10|242030-10|242031-10|242032-10|242033-10|242035-10|242036-10|242037-10|242038-10" rate="100"/>
+ <ItemSpec id="3100119" type="1" min_level="6" max_level="11" level="0" value="60000" award="242001-10|242002-10|242003-10" rate="7000"/>
+ <ItemSpec id="3100120" type="1" min_level="6" max_level="11" level="1" value="80000" award="242004-10|242005-10|242006-10" rate="2500"/>
+ <ItemSpec id="3100121" type="1" min_level="6" max_level="11" level="2" value="100000" award="242007-10|242008-10|242009-10|242010-10|242011-10" rate="1935"/>
+ <ItemSpec id="3100122" type="1" min_level="6" max_level="11" level="3" value="120000" award="242012-10|242013-10|242014-10|242015-10|242016-10|242017-10|242018-10" rate="340"/>
+ <ItemSpec id="3100123" type="1" min_level="6" max_level="11" level="4" value="140000" award="242019-10|242020-10|242021-10|242022-10|242024-10|242025-10|242026-10|242027-10" rate="125"/>
+ <ItemSpec id="3100124" type="1" min_level="6" max_level="11" level="5" value="160000" award="242028-10|242029-10|242030-10|242031-10|242032-10|242033-10|242035-10|242036-10|242037-10|242038-10" rate="100"/>
+ <ItemSpec id="3100125" type="2" min_level="6" max_level="11" level="0" value="60000" award="242001-10|242002-10|242003-10" rate="7000"/>
+ <ItemSpec id="3100126" type="2" min_level="6" max_level="11" level="1" value="80000" award="242004-10|242005-10|242006-10" rate="2500"/>
+ <ItemSpec id="3100127" type="2" min_level="6" max_level="11" level="2" value="100000" award="242007-10|242008-10|242009-10|242010-10|242011-10" rate="1935"/>
+ <ItemSpec id="3100128" type="2" min_level="6" max_level="11" level="3" value="120000" award="242012-10|242013-10|242014-10|242015-10|242016-10|242017-10|242018-10" rate="340"/>
+ <ItemSpec id="3100129" type="2" min_level="6" max_level="11" level="4" value="140000" award="242019-10|242020-10|242021-10|242022-10|242024-10|242025-10|242026-10|242027-10" rate="125"/>
+ <ItemSpec id="3100130" type="2" min_level="6" max_level="11" level="5" value="160000" award="242028-10|242029-10|242030-10|242031-10|242032-10|242033-10|242035-10|242036-10|242037-10|242038-10" rate="100"/>
+ <ItemSpec id="3100131" type="3" min_level="6" max_level="11" level="0" value="4" award="242001-10|242002-10|242003-10" rate="7000"/>
+ <ItemSpec id="3100132" type="3" min_level="6" max_level="11" level="1" value="4" award="242004-10|242005-10|242006-10" rate="2500"/>
+ <ItemSpec id="3100133" type="3" min_level="6" max_level="11" level="2" value="5" award="242007-10|242008-10|242009-10|242010-10|242011-10" rate="1935"/>
+ <ItemSpec id="3100134" type="3" min_level="6" max_level="11" level="3" value="5" award="242012-10|242013-10|242014-10|242015-10|242016-10|242017-10|242018-10" rate="340"/>
+ <ItemSpec id="3100135" type="3" min_level="6" max_level="11" level="4" value="6" award="242019-10|242020-10|242021-10|242022-10|242024-10|242025-10|242026-10|242027-10" rate="125"/>
+ <ItemSpec id="3100136" type="3" min_level="6" max_level="11" level="5" value="7" award="242028-10|242029-10|242030-10|242031-10|242032-10|242033-10|242035-10|242036-10|242037-10|242038-10" rate="100"/>
+ <ItemSpec id="3100137" type="1" min_level="11" max_level="16" level="0" value="200000" award="242001-10|242002-10|242003-10" rate="7000"/>
+ <ItemSpec id="3100138" type="1" min_level="11" max_level="16" level="1" value="220000" award="242004-10|242005-10|242006-10" rate="2500"/>
+ <ItemSpec id="3100139" type="1" min_level="11" max_level="16" level="2" value="240000" award="242007-10|242008-10|242009-10|242010-10|242011-10" rate="1935"/>
+ <ItemSpec id="3100140" type="1" min_level="11" max_level="16" level="3" value="260000" award="242012-10|242013-10|242014-10|242015-10|242016-10|242017-10|242018-10" rate="340"/>
+ <ItemSpec id="3100141" type="1" min_level="11" max_level="16" level="4" value="280000" award="242019-10|242020-10|242021-10|242022-10|242024-10|242025-10|242026-10|242027-10" rate="125"/>
+ <ItemSpec id="3100142" type="1" min_level="11" max_level="16" level="5" value="300000" award="242028-10|242029-10|242030-10|242031-10|242032-10|242033-10|242035-10|242036-10|242037-10|242038-10" rate="100"/>
+ <ItemSpec id="3100143" type="2" min_level="11" max_level="16" level="0" value="200000" award="242001-10|242002-10|242003-10" rate="7000"/>
+ <ItemSpec id="3100144" type="2" min_level="11" max_level="16" level="1" value="220000" award="242004-10|242005-10|242006-10" rate="2500"/>
+ <ItemSpec id="3100145" type="2" min_level="11" max_level="16" level="2" value="240000" award="242007-10|242008-10|242009-10|242010-10|242011-10" rate="1935"/>
+ <ItemSpec id="3100146" type="2" min_level="11" max_level="16" level="3" value="260000" award="242012-10|242013-10|242014-10|242015-10|242016-10|242017-10|242018-10" rate="340"/>
+ <ItemSpec id="3100147" type="2" min_level="11" max_level="16" level="4" value="280000" award="242019-10|242020-10|242021-10|242022-10|242024-10|242025-10|242026-10|242027-10" rate="125"/>
+ <ItemSpec id="3100148" type="2" min_level="11" max_level="16" level="5" value="300000" award="242028-10|242029-10|242030-10|242031-10|242032-10|242033-10|242035-10|242036-10|242037-10|242038-10" rate="100"/>
+ <ItemSpec id="3100149" type="3" min_level="11" max_level="16" level="0" value="5" award="242001-10|242002-10|242003-10" rate="7000"/>
+ <ItemSpec id="3100150" type="3" min_level="11" max_level="16" level="1" value="6" award="242004-10|242005-10|242006-10" rate="2500"/>
+ <ItemSpec id="3100151" type="3" min_level="11" max_level="16" level="2" value="7" award="242007-10|242008-10|242009-10|242010-10|242011-10" rate="1935"/>
+ <ItemSpec id="3100152" type="3" min_level="11" max_level="16" level="3" value="8" award="242012-10|242013-10|242014-10|242015-10|242016-10|242017-10|242018-10" rate="340"/>
+ <ItemSpec id="3100153" type="3" min_level="11" max_level="16" level="4" value="9" award="242019-10|242020-10|242021-10|242022-10|242024-10|242025-10|242026-10|242027-10" rate="125"/>
+ <ItemSpec id="3100154" type="3" min_level="11" max_level="16" level="5" value="10" award="242028-10|242029-10|242030-10|242031-10|242032-10|242033-10|242035-10|242036-10|242037-10|242038-10" rate="100"/>
+ <ItemSpec id="3100155" type="1" min_level="16" max_level="31" level="0" value="300000" award="242001-10|242002-10|242003-10" rate="7000"/>
+ <ItemSpec id="3100156" type="1" min_level="16" max_level="31" level="1" value="300000" award="242004-10|242005-10|242006-10" rate="2500"/>
+ <ItemSpec id="3100157" type="1" min_level="16" max_level="31" level="2" value="300000" award="242007-10|242008-10|242009-10|242010-10|242011-10" rate="1935"/>
+ <ItemSpec id="3100158" type="1" min_level="16" max_level="31" level="3" value="300000" award="242012-10|242013-10|242014-10|242015-10|242016-10|242017-10|242018-10" rate="340"/>
+ <ItemSpec id="3100159" type="1" min_level="16" max_level="31" level="4" value="300000" award="242019-10|242020-10|242021-10|242022-10|242024-10|242025-10|242026-10|242027-10" rate="125"/>
+ <ItemSpec id="3100160" type="1" min_level="16" max_level="31" level="5" value="300000" award="242028-10|242029-10|242030-10|242031-10|242032-10|242033-10|242035-10|242036-10|242037-10|242038-10" rate="100"/>
+ <ItemSpec id="3100161" type="2" min_level="16" max_level="31" level="0" value="300000" award="242001-10|242002-10|242003-10" rate="7000"/>
+ <ItemSpec id="3100162" type="2" min_level="16" max_level="31" level="1" value="300000" award="242004-10|242005-10|242006-10" rate="2500"/>
+ <ItemSpec id="3100163" type="2" min_level="16" max_level="31" level="2" value="300000" award="242007-10|242008-10|242009-10|242010-10|242011-10" rate="1935"/>
+ <ItemSpec id="3100164" type="2" min_level="16" max_level="31" level="3" value="300000" award="242012-10|242013-10|242014-10|242015-10|242016-10|242017-10|242018-10" rate="340"/>
+ <ItemSpec id="3100165" type="2" min_level="16" max_level="31" level="4" value="300000" award="242019-10|242020-10|242021-10|242022-10|242024-10|242025-10|242026-10|242027-10" rate="125"/>
+ <ItemSpec id="3100166" type="2" min_level="16" max_level="31" level="5" value="300000" award="242028-10|242029-10|242030-10|242031-10|242032-10|242033-10|242035-10|242036-10|242037-10|242038-10" rate="100"/>
+ <ItemSpec id="3100167" type="3" min_level="16" max_level="31" level="0" value="7" award="242001-10|242002-10|242003-10" rate="7000"/>
+ <ItemSpec id="3100168" type="3" min_level="16" max_level="31" level="1" value="8" award="242004-10|242005-10|242006-10" rate="2500"/>
+ <ItemSpec id="3100169" type="3" min_level="16" max_level="31" level="2" value="9" award="242007-10|242008-10|242009-10|242010-10|242011-10" rate="1935"/>
+ <ItemSpec id="3100170" type="3" min_level="16" max_level="31" level="3" value="10" award="242012-10|242013-10|242014-10|242015-10|242016-10|242017-10|242018-10" rate="340"/>
+ <ItemSpec id="3100171" type="3" min_level="16" max_level="31" level="4" value="10" award="242019-10|242020-10|242021-10|242022-10|242024-10|242025-10|242026-10|242027-10" rate="125"/>
+ <ItemSpec id="3100172" type="3" min_level="16" max_level="31" level="5" value="10" award="242028-10|242029-10|242030-10|242031-10|242032-10|242033-10|242035-10|242036-10|242037-10|242038-10" rate="100"/>
+ <ItemSpec id="3100173" version="0.1.9" type="4" min_level="1" max_level="6" level="1" value="1" award="242004-10|242005-10|242006-10" award_fail="242001" rate="2500"/>
+ <ItemSpec id="3100174" version="0.1.9" type="4" min_level="1" max_level="6" level="2" value="2" award="242007-10|242008-10|242009-10|242010-10|242011-10" award_fail="242001" rate="1935"/>
+ <ItemSpec id="3100175" version="0.1.9" type="4" min_level="1" max_level="6" level="3" value="3" award="242012-10|242013-10|242014-10|242015-10|242016-10|242017-10|242018-10" award_fail="242001" rate="340"/>
+ <ItemSpec id="3100176" version="0.1.9" type="4" min_level="1" max_level="6" level="4" value="4" award="242019-10|242020-10|242021-10|242022-10|242024-10|242025-10|242026-10|242027-10" award_fail="242001" rate="125"/>
+ <ItemSpec id="3100177" version="0.1.9" type="4" min_level="1" max_level="6" level="5" value="5" award="242028-10|242029-10|242030-10|242031-10|242032-10|242033-10|242035-10|242036-10|242037-10|242038-10" award_fail="242001" rate="100"/> 
+ <ItemSpec id="3100178" version="0.1.9" type="4" min_level="6" max_level="11" level="1" value="3" award="242004-10|242005-10|242006-10" award_fail="242001" rate="2500"/>
+ <ItemSpec id="3100179" version="0.1.9" type="4" min_level="6" max_level="11" level="2" value="4" award="242007-10|242008-10|242009-10|242010-10|242011-10" award_fail="242001" rate="1935"/>
+ <ItemSpec id="3100180" version="0.1.9" type="4" min_level="6" max_level="11" level="3" value="5" award="242012-10|242013-10|242014-10|242015-10|242016-10|242017-10|242018-10" award_fail="242001" rate="340"/>
+ <ItemSpec id="3100181" version="0.1.9" type="4" min_level="6" max_level="11" level="4" value="6" award="242019-10|242020-10|242021-10|242022-10|242024-10|242025-10|242026-10|242027-10" award_fail="242001" rate="125"/>
+ <ItemSpec id="3100182" version="0.1.9" type="4" min_level="6" max_level="11" level="5" value="7" award="242028-10|242029-10|242030-10|242031-10|242032-10|242033-10|242035-10|242036-10|242037-10|242038-10" award_fail="242001" rate="100"/> 
+ <ItemSpec id="3100183" version="0.1.9" type="4" min_level="11" max_level="16" level="1" value="5" award="242004-10|242005-10|242006-10" award_fail="242001" rate="2500"/>
+ <ItemSpec id="3100184" version="0.1.9" type="4" min_level="11" max_level="16" level="2" value="6" award="242007-10|242008-10|242009-10|242010-10|242011-10" award_fail="242001" rate="1935"/>
+ <ItemSpec id="3100185" version="0.1.9" type="4" min_level="11" max_level="16" level="3" value="7" award="242012-10|242013-10|242014-10|242015-10|242016-10|242017-10|242018-10" award_fail="242001" rate="340"/>
+ <ItemSpec id="3100186" version="0.1.9" type="4" min_level="11" max_level="16" level="4" value="8" award="242019-10|242020-10|242021-10|242022-10|242024-10|242025-10|242026-10|242027-10" award_fail="242001" rate="125"/>
+ <ItemSpec id="3100187" version="0.1.9" type="4" min_level="11" max_level="16" level="5" value="9" award="242028-10|242029-10|242030-10|242031-10|242032-10|242033-10|242035-10|242036-10|242037-10|242038-10" award_fail="242001" rate="100"/>
+ <ItemSpec id="3100188" version="0.1.9" type="4" min_level="16" max_level="31" level="1" value="7" award="242004-10|242005-10|242006-10" award_fail="242001" rate="2500"/>
+ <ItemSpec id="3100189" version="0.1.9" type="4" min_level="16" max_level="31" level="2" value="8" award="242007-10|242008-10|242009-10|242010-10|242011-10" award_fail="242001" rate="1935"/>
+ <ItemSpec id="3100190" version="0.1.9" type="4" min_level="16" max_level="31" level="3" value="9" award="242012-10|242013-10|242014-10|242015-10|242016-10|242017-10|242018-10" award_fail="242001" rate="340"/>
+ <ItemSpec id="3100191" version="0.1.9" type="4" min_level="16" max_level="31" level="4" value="10" award="242019-10|242020-10|242021-10|242022-10|242024-10|242025-10|242026-10|242027-10" award_fail="242001" rate="125"/>
+ <ItemSpec id="3100192" version="0.1.9" type="4" min_level="16" max_level="31" level="5" value="10" award="242028-10|242029-10|242030-10|242031-10|242032-10|242033-10|242035-10|242036-10|242037-10|242038-10" award_fail="242001" rate="100"/> 
+</tns:database>

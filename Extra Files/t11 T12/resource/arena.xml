@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="arena">
+    <ItemSpec id="9300" reputation="20" reputation2="0" area="20" income="2|45" defend_income="3|1" atk_effect="3|1" hp_effect="4|1"/>
+    <ItemSpec id="9301" reputation="50" reputation2="20" area="30" income="2|60" defend_income="3|1" atk_effect="3|2" hp_effect="4|2"/>
+    <ItemSpec id="9302" reputation="110" reputation2="50" area="40" income="2|75" defend_income="3|1" atk_effect="3|3" hp_effect="4|3"/>
+    <ItemSpec id="9303" reputation="200" reputation2="110" area="50" income="2|90" defend_income="3|1" atk_effect="3|4" hp_effect="4|4"/>
+    <ItemSpec id="9304" reputation="335" reputation2="200" area="60" income="2|105" defend_income="3|1" atk_effect="3|5" hp_effect="4|5"/>
+    <ItemSpec id="9305" reputation="490" reputation2="335" area="70" income="2|120" defend_income="3|1" atk_effect="3|6" hp_effect="4|6"/>
+    <ItemSpec id="9306" reputation="685" reputation2="490" area="80" income="2|135" defend_income="3|1" atk_effect="3|7" hp_effect="4|7"/>
+    <ItemSpec id="9307" reputation="910" reputation2="685" area="91" income="2|150" defend_income="3|1" atk_effect="3|8" hp_effect="4|8"/>
+    <ItemSpec id="9308" reputation="1170" reputation2="910" area="117" income="2|165" defend_income="3|1" atk_effect="3|9" hp_effect="4|9"/>
+    <ItemSpec id="9309" reputation="1460" reputation2="1170" area="146" income="2|180" defend_income="3|1" atk_effect="3|10" hp_effect="4|10"/>
+    <ItemSpec id="9310" reputation="1780" reputation2="1460" area="178" income="2|195" defend_income="3|1" atk_effect="3|11" hp_effect="4|11"/>
+    <ItemSpec id="9311" reputation="2140" reputation2="1780" area="214" income="2|210" defend_income="3|1" atk_effect="3|12" hp_effect="4|12"/>
+    <ItemSpec id="9312" reputation="2540" reputation2="2140" area="254" income="2|225" defend_income="3|1" atk_effect="3|13" hp_effect="4|13"/>
+    <ItemSpec id="9313" reputation="2980" reputation2="2540" area="298" income="2|240" defend_income="3|1" atk_effect="3|14" hp_effect="4|14"/>
+    <ItemSpec id="9314" reputation="3450" reputation2="2980" area="345" income="2|255" defend_income="3|1" atk_effect="3|15" hp_effect="4|15"/>
+    <ItemSpec id="9315" reputation="3960" reputation2="3450" area="396" income="2|270" defend_income="3|1" atk_effect="3|16" hp_effect="4|16"/>
+    <ItemSpec id="9316" reputation="4510" reputation2="3960" area="451" income="2|285" defend_income="3|1" atk_effect="3|17" hp_effect="4|17"/>
+    <ItemSpec id="9317" reputation="5110" reputation2="4510" area="511" income="2|300" defend_income="3|1" atk_effect="3|18" hp_effect="4|18"/>
+    <ItemSpec id="9318" reputation="5740" reputation2="5110" area="574" income="2|315" defend_income="3|1" atk_effect="3|19" hp_effect="4|19"/>
+    <ItemSpec id="9319" reputation="6410" reputation2="5740" area="641" income="2|330" defend_income="3|1" atk_effect="3|20" hp_effect="4|20"/>
+    <ItemSpec id="9320" reputation="7130" reputation2="6410" area="713" income="2|345" defend_income="3|1" atk_effect="3|21" hp_effect="4|21"/>
+    <ItemSpec id="9321" reputation="7900" reputation2="7130" area="790" income="2|360" defend_income="3|1" atk_effect="3|22" hp_effect="4|22"/>
+    <ItemSpec id="9322" reputation="8700" reputation2="7900" area="870" income="2|375" defend_income="3|1" atk_effect="3|23" hp_effect="4|23"/>
+    <ItemSpec id="9323" reputation="9550" reputation2="8700" area="955" income="2|390" defend_income="3|1" atk_effect="3|24" hp_effect="4|24"/>
+    <ItemSpec id="9324" reputation="10500" reputation2="9550" area="1050" income="2|405" defend_income="3|1" atk_effect="3|25" hp_effect="4|25"/>
+    <ItemSpec id="9325" reputation="11400" reputation2="10500" area="1140" income="2|420" defend_income="3|1" atk_effect="3|26" hp_effect="4|26"/>
+    <ItemSpec id="9326" reputation="12400" reputation2="11400" area="1240" income="2|435" defend_income="3|1" atk_effect="3|27" hp_effect="4|27"/>
+    <ItemSpec id="9327" reputation="13400" reputation2="12400" area="1340" income="2|450" defend_income="3|1" atk_effect="3|28" hp_effect="4|28"/>
+    <ItemSpec id="9328" reputation="14500" reputation2="13400" area="1450" income="2|465" defend_income="3|1" atk_effect="3|29" hp_effect="4|29"/>
+    <ItemSpec id="9329" reputation="15700" reputation2="14500" area="1570" income="2|480" defend_income="3|1" atk_effect="3|30" hp_effect="4|30"/>
+    <ItemSpec id="9330" reputation="16900" reputation2="15700" area="1690" income="2|495" defend_income="3|1" atk_effect="3|31" hp_effect="4|31"/>
+    <ItemSpec id="9331" reputation="18100" reputation2="16900" area="1810" income="2|510" defend_income="3|1" atk_effect="3|32" hp_effect="4|32"/>
+    <ItemSpec id="9332" reputation="19400" reputation2="18100" area="1940" income="2|525" defend_income="3|1" atk_effect="3|33" hp_effect="4|33"/>
+    <ItemSpec id="9333" reputation="20700" reputation2="19400" area="2070" income="2|540" defend_income="3|1" atk_effect="3|34" hp_effect="4|34"/>
+    <ItemSpec id="9334" reputation="22200" reputation2="20700" area="2220" income="2|555" defend_income="3|1" atk_effect="3|35" hp_effect="4|35"/>
+    <ItemSpec id="9335" reputation="23600" reputation2="22200" area="2360" income="2|570" defend_income="3|1" atk_effect="3|36" hp_effect="4|36"/>
+    <ItemSpec id="9336" reputation="25100" reputation2="23600" area="2510" income="2|585" defend_income="3|1" atk_effect="3|37" hp_effect="4|37"/>
+    <ItemSpec id="9337" reputation="26700" reputation2="25100" area="2670" income="2|600" defend_income="3|1" atk_effect="3|38" hp_effect="4|38"/>
+    <ItemSpec id="9338" reputation="28400" reputation2="26700" area="2840" income="2|615" defend_income="3|1" atk_effect="3|39" hp_effect="4|39"/>
+    <ItemSpec id="9339" reputation="30100" reputation2="28400" area="3010" income="2|630" defend_income="3|1" atk_effect="3|40" hp_effect="4|40"/>
+    <ItemSpec id="9340" reputation="31900" reputation2="30100" area="3190" income="2|645" defend_income="3|1" atk_effect="3|41" hp_effect="4|41"/>
+    <ItemSpec id="9341" reputation="33800" reputation2="31900" area="3380" income="2|660" defend_income="3|1" atk_effect="3|42" hp_effect="4|42"/>
+    <ItemSpec id="9342" reputation="35800" reputation2="33800" area="3580" income="2|675" defend_income="3|1" atk_effect="3|43" hp_effect="4|43"/>
+    <ItemSpec id="9343" reputation="37800" reputation2="35800" area="3780" income="2|690" defend_income="3|1" atk_effect="3|44" hp_effect="4|44"/>
+    <ItemSpec id="9344" reputation="40000" reputation2="37800" area="4000" income="2|705" defend_income="3|1" atk_effect="3|45" hp_effect="4|45"/>
+    <ItemSpec id="9345" reputation="42200" reputation2="40000" area="4220" income="2|720" defend_income="3|1" atk_effect="3|46" hp_effect="4|46"/>
+    <ItemSpec id="9346" reputation="44600" reputation2="42200" area="4460" income="2|735" defend_income="3|1" atk_effect="3|47" hp_effect="4|47"/>
+    <ItemSpec id="9347" reputation="47000" reputation2="44600" area="4700" income="2|750" defend_income="3|1" atk_effect="3|48" hp_effect="4|48"/>
+    <ItemSpec id="9348" reputation="49600" reputation2="47000" area="4960" income="2|765" defend_income="3|1" atk_effect="3|49" hp_effect="4|49"/>
+    <ItemSpec id="9349" reputation="52300" reputation2="49600" area="5230" income="2|780" defend_income="3|1" atk_effect="3|50" hp_effect="4|50"/>
+    <ItemSpec id="9350" reputation="55100" reputation2="52300" area="5510" income="2|795" defend_income="3|1" atk_effect="3|51" hp_effect="4|51"/>
+    <ItemSpec id="9351" reputation="58000" reputation2="55100" area="5800" income="2|810" defend_income="3|1" atk_effect="3|52" hp_effect="4|52"/>
+    <ItemSpec id="9352" reputation="61000" reputation2="58000" area="6100" income="2|825" defend_income="3|1" atk_effect="3|53" hp_effect="4|53"/>
+    <ItemSpec id="9353" reputation="64200" reputation2="61000" area="6420" income="2|840" defend_income="3|1" atk_effect="3|54" hp_effect="4|54"/>
+    <ItemSpec id="9354" reputation="67500" reputation2="64200" area="6750" income="2|855" defend_income="3|1" atk_effect="3|55" hp_effect="4|55"/>
+    <ItemSpec id="9355" reputation="70900" reputation2="67500" area="7090" income="2|870" defend_income="3|1" atk_effect="3|56" hp_effect="4|56"/>
+    <ItemSpec id="9356" reputation="74500" reputation2="70900" area="7450" income="2|885" defend_income="3|1" atk_effect="3|57" hp_effect="4|57"/>
+    <ItemSpec id="9357" reputation="78300" reputation2="74500" area="7830" income="2|900" defend_income="3|1" atk_effect="3|58" hp_effect="4|58"/>
+    <ItemSpec id="9358" reputation="82100" reputation2="78300" area="8210" income="2|915" defend_income="3|1" atk_effect="3|59" hp_effect="4|59"/>
+    <ItemSpec id="9359" reputation="-1" reputation2="-1" area="-1" income="-1" defend_income="3|1" atk_effect="3|60" hp_effect="4|60"/>
+  </Group>
+</tns:database>

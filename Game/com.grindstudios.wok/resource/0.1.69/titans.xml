@@ -1,0 +1,643 @@
+<root>
+	<global>
+		<money>100000</money>
+		<friendHitModulus>1</friendHitModulus>
+		<manuallyHitModulus>1</manuallyHitModulus>
+		<energy>
+			<max>200</max>
+			<vipAdd>5000</vipAdd>
+			<regain>1</regain>
+			<consume>2</consume>
+		</energy>
+		<castleAttack len="19">
+			<v id="1">10</v>
+			<v id="2">12</v>
+			<v id="3">14</v>
+			<v id="4">16</v>
+			<v id="5">18</v>
+			<v id="6">20</v>
+			<v id="7">22</v>
+			<v id="8">24</v>
+			<v id="9">26</v>
+			<v id="10">28</v>
+			<v id="11">30</v>
+			<v id="12">33</v>
+			<v id="13">37</v>
+			<v id="14">42</v>
+			<v id="15">48</v>
+			<v id="16">55</v>
+			<v id="17">63</v>
+			<v id="18">72</v>
+			<v id="19">82</v>
+		</castleAttack>
+		<friendlinessModulus len="5">
+			<v num="200">1</v>
+			<v num="500">1.1</v>
+			<v num="1000">1.2</v>
+			<v num="2000">1.3</v>
+			<v num="5000">1.5</v>
+		</friendlinessModulus>
+	</global>
+	<levels>
+		<level id="1">
+			<animId>3</animId>
+			<hp>51</hp>
+			<money>50</money>
+			<fps>22407</fps>
+		</level>
+		<level id="2">
+			<animId>2</animId>
+			<hp>206</hp>
+			<money>50</money>
+			<fps>22406</fps>
+		</level>
+		<level id="3">
+			<animId>3</animId>
+			<hp>470</hp>
+			<money>50</money>
+			<fps>22407</fps>
+		</level>
+		<level id="4">
+			<animId>2</animId>
+			<hp>697</hp>
+			<money>50</money>
+			<fps>22405</fps>
+		</level>
+		<level id="5">
+			<animId>3</animId>
+			<hp>1318</hp>
+			<money>50</money>
+			<fps>22407</fps>
+		</level>
+		<level id="6">
+			<animId>2</animId>
+			<hp>1793</hp>
+			<money>60</money>
+			<fps>22405</fps>
+		</level>
+		<level id="7">
+			<animId>3</animId>
+			<hp>3532</hp>
+			<money>60</money>
+			<fps>23008</fps>
+		</level>
+		<level id="8">
+			<animId>2</animId>
+			<hp>6005</hp>
+			<money>65</money>
+			<fps>22405</fps>
+		</level>
+		<level id="9">
+			<animId>3</animId>
+			<hp>7474</hp>
+			<money>70</money>
+			<fps>22405</fps>
+		</level>
+		<level id="10">
+			<animId>2</animId>
+			<hp>11394</hp>
+			<money>75</money>
+			<fps>22406</fps>
+		</level>
+		<level id="11">
+			<animId>3</animId>
+			<hp>13662</hp>
+			<money>80</money>
+			<fps>22406</fps>
+		</level>
+		<level id="12">
+			<animId>2</animId>
+			<hp>19376</hp>
+			<money>85</money>
+			<fps>23008</fps>
+		</level>
+		<level id="13">
+			<animId>3</animId>
+			<hp>26385</hp>
+			<money>90</money>
+			<fps>22405</fps>
+		</level>
+		<level id="14">
+			<animId>2</animId>
+			<hp>32643</hp>
+			<money>95</money>
+			<fps>22406</fps>
+		</level>
+		<level id="15">
+			<animId>3</animId>
+			<hp>39831</hp>
+			<money>100</money>
+			<fps>22407</fps>
+		</level>
+		<level id="16">
+			<animId>2</animId>
+			<hp>48012</hp>
+			<money>110</money>
+			<fps>22406</fps>
+		</level>
+		<level id="17">
+			<animId>3</animId>
+			<hp>57251</hp>
+			<money>120</money>
+			<fps>23008</fps>
+		</level>
+		<level id="18">
+			<animId>2</animId>
+			<hp>67614</hp>
+			<money>130</money>
+			<fps>22407</fps>
+		</level>
+		<level id="19">
+			<animId>3</animId>
+			<hp>79164</hp>
+			<money>140</money>
+			<fps>22407</fps>
+		</level>
+		<level id="20">
+			<animId>2</animId>
+			<hp>87588</hp>
+			<money>150</money>
+			<fps>22405</fps>
+		</level>
+		<level id="21">
+			<animId>3</animId>
+			<hp>96444</hp>
+			<money>160</money>
+			<fps>22407</fps>
+		</level>
+		<level id="22">
+			<animId>2</animId>
+			<hp>105732</hp>
+			<money>170</money>
+			<fps>22407</fps>
+		</level>
+		<level id="23">
+			<animId>3</animId>
+			<hp>115452</hp>
+			<money>180</money>
+			<fps>22405</fps>
+		</level>
+		<level id="24">
+			<animId>2</animId>
+			<hp>125604</hp>
+			<money>190</money>
+			<fps>23008</fps>
+		</level>
+		<level id="25">
+			<animId>3</animId>
+			<hp>136188</hp>
+			<money>200</money>
+			<fps>22405</fps>
+		</level>
+		<level id="26">
+			<animId>2</animId>
+			<hp>147204</hp>
+			<money>210</money>
+			<fps>22405</fps>
+		</level>
+		<level id="27">
+			<animId>3</animId>
+			<hp>158652</hp>
+			<money>220</money>
+			<fps>22405</fps>
+		</level>
+		<level id="28">
+			<animId>2</animId>
+			<hp>170532</hp>
+			<money>230</money>
+			<fps>22407</fps>
+		</level>
+		<level id="29">
+			<animId>3</animId>
+			<hp>182844</hp>
+			<money>240</money>
+			<fps>22407</fps>
+		</level>
+		<level id="30">
+			<animId>2</animId>
+			<hp>195588</hp>
+			<money>250</money>
+			<fps>22405</fps>
+		</level>
+		<level id="31">
+			<animId>3</animId>
+			<hp>208764</hp>
+			<money>260</money>
+			<fps>22405</fps>
+		</level>
+		<level id="32">
+			<animId>2</animId>
+			<hp>222372</hp>
+			<money>270</money>
+			<fps>22405</fps>
+		</level>
+		<level id="33">
+			<animId>3</animId>
+			<hp>236412</hp>
+			<money>280</money>
+			<fps>23008</fps>
+		</level>
+		<level id="34">
+			<animId>2</animId>
+			<hp>250884</hp>
+			<money>290</money>
+			<fps>22406</fps>
+		</level>
+		<level id="35">
+			<animId>3</animId>
+			<hp>273662</hp>
+			<money>300</money>
+			<fps>22407</fps>
+		</level>
+		<level id="36">
+			<animId>2</animId>
+			<hp>281124</hp>
+			<money>325</money>
+			<fps>22407</fps>
+		</level>
+		<level id="37">
+			<animId>3</animId>
+			<hp>296892</hp>
+			<money>340</money>
+			<fps>22405</fps>
+		</level>
+		<level id="38">
+			<animId>2</animId>
+			<hp>313092</hp>
+			<money>365</money>
+			<fps>22405</fps>
+		</level>
+		<level id="39">
+			<animId>3</animId>
+			<hp>329724</hp>
+			<money>380</money>
+			<fps>22407</fps>
+		</level>
+		<level id="40">
+			<animId>2</animId>
+			<hp>346788</hp>
+			<money>405</money>
+			<fps>23008</fps>
+		</level>
+		<level id="41">
+			<animId>3</animId>
+			<hp>364284</hp>
+			<money>420</money>
+			<fps>22406</fps>
+		</level>
+		<level id="42">
+			<animId>2</animId>
+			<hp>382212</hp>
+			<money>445</money>
+			<fps>22405</fps>
+		</level>
+		<level id="43">
+			<animId>3</animId>
+			<hp>400572</hp>
+			<money>460</money>
+			<fps>22406</fps>
+		</level>
+		<level id="44">
+			<animId>2</animId>
+			<hp>419364</hp>
+			<money>485</money>
+			<fps>22405</fps>
+		</level>
+		<level id="45">
+			<animId>3</animId>
+			<hp>438588</hp>
+			<money>500</money>
+			<fps>22406</fps>
+		</level>
+		<level id="46">
+			<animId>2</animId>
+			<hp>458244</hp>
+			<money>525</money>
+			<fps>22407</fps>
+		</level>
+		<level id="47">
+			<animId>3</animId>
+			<hp>478332</hp>
+			<money>540</money>
+			<fps>22407</fps>
+		</level>
+		<level id="48">
+			<animId>2</animId>
+			<hp>498852</hp>
+			<money>565</money>
+			<fps>22406</fps>
+		</level>
+		<level id="49">
+			<animId>3</animId>
+			<hp>519804</hp>
+			<money>580</money>
+			<fps>22407</fps>
+		</level>
+		<level id="50">
+			<animId>2</animId>
+			<hp>541188</hp>
+			<money>605</money>
+			<fps>22405</fps>
+		</level>
+		<level id="51">
+			<animId>3</animId>
+			<hp>678485</hp>
+			<money>630</money>
+			<fps>23008</fps>
+		</level>
+		<level id="52">
+			<animId>2</animId>
+			<hp>712484</hp>
+			<money>665</money>
+			<fps>22406</fps>
+		</level>
+		<level id="53">
+			<animId>3</animId>
+			<hp>768874</hp>
+			<money>690</money>
+			<fps>22407</fps>
+		</level>
+		<level id="54">
+			<animId>2</animId>
+			<hp>826498</hp>
+			<money>725</money>
+			<fps>22405</fps>
+		</level>
+		<level id="55">
+			<animId>3</animId>
+			<hp>901458</hp>
+			<money>750</money>
+			<fps>22406</fps>
+		</level>
+		<level id="56">
+			<animId>2</animId>
+			<hp>994848</hp>
+			<money>785</money>
+			<fps>22405</fps>
+		</level>
+		<level id="57">
+			<animId>3</animId>
+			<hp>1098874</hp>
+			<money>820</money>
+			<fps>23008</fps>
+		</level>
+		<level id="58">
+			<animId>2</animId>
+			<hp>1179876</hp>
+			<money>855</money>
+			<fps>22407</fps>
+		</level>
+		<level id="59">
+			<animId>3</animId>
+			<hp>1279841</hp>
+			<money>880</money>
+			<fps>22405</fps>
+		</level>
+		<level id="60">
+			<animId>2</animId>
+			<hp>1379937</hp>
+			<money>915</money>
+			<fps>22406</fps>
+		</level>
+		<level id="61">
+			<animId>3</animId>
+			<hp>1462111</hp>
+			<money>940</money>
+			<fps>23008</fps>
+		</level>
+		<level id="62">
+			<animId>2</animId>
+			<hp>1575168</hp>
+			<money>975</money>
+			<fps>22407</fps>
+		</level>
+		<level id="63">
+			<animId>3</animId>
+			<hp>1649538</hp>
+			<money>1000</money>
+			<fps>23008</fps>
+		</level>
+		<level id="64">
+			<animId>2</animId>
+			<hp>1785126</hp>
+			<money>1040</money>
+			<fps>22406</fps>
+		</level>
+		<level id="65">
+			<animId>3</animId>
+			<hp>1819846</hp>
+			<money>1080</money>
+			<fps>22406</fps>
+		</level>
+		<level id="66">
+			<animId>2</animId>
+			<hp>1994778</hp>
+			<money>1120</money>
+			<fps>22407</fps>
+		</level>
+		<level id="67">
+			<animId>3</animId>
+			<hp>2070854</hp>
+			<money>1160</money>
+			<fps>23008</fps>
+		</level>
+		<level id="68">
+			<animId>2</animId>
+			<hp>2248074</hp>
+			<money>1200</money>
+			<fps>23008</fps>
+		</level>
+		<level id="69">
+			<animId>3</animId>
+			<hp>2426438</hp>
+			<money>1240</money>
+			<fps>22407</fps>
+		</level>
+		<level id="70">
+			<animId>2</animId>
+			<hp>2606036</hp>
+			<money>1280</money>
+			<fps>22407</fps>
+		</level>
+		<level id="71">
+			<animId>3</animId>
+			<hp>2886598</hp>
+			<money>1320</money>
+			<fps>22406</fps>
+		</level>
+		<level id="72">
+			<animId>2</animId>
+			<hp>3068394</hp>
+			<money>1360</money>
+			<fps>23008</fps>
+		</level>
+		<level id="73">
+			<animId>3</animId>
+			<hp>3251334</hp>
+			<money>1400</money>
+			<fps>22406</fps>
+		</level>
+		<level id="74">
+			<animId>2</animId>
+			<hp>3511424</hp>
+			<money>1450</money>
+			<fps>23008</fps>
+		</level>
+		<level id="75">
+			<animId>3</animId>
+			<hp>3844928</hp>
+			<money>1500</money>
+			<fps>23008</fps>
+		</level>
+		<level id="76">
+			<animId>2</animId>
+			<hp>4180224</hp>
+			<money>1550</money>
+			<fps>22407</fps>
+		</level>
+		<level id="77">
+			<animId>3</animId>
+			<hp>4517312</hp>
+			<money>1600</money>
+			<fps>22407</fps>
+		</level>
+		<level id="78">
+			<animId>2</animId>
+			<hp>4856192</hp>
+			<money>1650</money>
+			<fps>23008</fps>
+		</level>
+		<level id="79">
+			<animId>3</animId>
+			<hp>5296864</hp>
+			<money>1700</money>
+			<fps>22407</fps>
+		</level>
+		<level id="80">
+			<animId>2</animId>
+			<hp>5739328</hp>
+			<money>1750</money>
+			<fps>22406</fps>
+		</level>
+		<level id="81">
+			<animId>3</animId>
+			<hp>6303840</hp>
+			<money>1800</money>
+			<fps>23008</fps>
+		</level>
+		<level id="82">
+			<animId>2</animId>
+			<hp>7060320</hp>
+			<money>1850</money>
+			<fps>23008</fps>
+		</level>
+		<level id="83">
+			<animId>3</animId>
+			<hp>7618720</hp>
+			<money>1900</money>
+			<fps>23008</fps>
+		</level>
+		<level id="84">
+			<animId>2</animId>
+			<hp>8079040</hp>
+			<money>1950</money>
+			<fps>22407</fps>
+		</level>
+		<level id="85">
+			<animId>3</animId>
+			<hp>8441280</hp>
+			<money>2000</money>
+			<fps>22405</fps>
+		</level>
+		<level id="86">
+			<animId>2</animId>
+			<hp>8705440</hp>
+			<money>2100</money>
+			<fps>23008</fps>
+		</level>
+		<level id="87">
+			<animId>3</animId>
+			<hp>9056288</hp>
+			<money>2200</money>
+			<fps>22407</fps>
+		</level>
+		<level id="88">
+			<animId>2</animId>
+			<hp>9335488</hp>
+			<money>2300</money>
+			<fps>22405</fps>
+		</level>
+		<level id="89">
+			<animId>3</animId>
+			<hp>9716736</hp>
+			<money>2400</money>
+			<fps>22405</fps>
+		</level>
+		<level id="90">
+			<animId>2</animId>
+			<hp>10100032</hp>
+			<money>2500</money>
+			<fps>22406</fps>
+		</level>
+		<level id="91">
+			<animId>3</animId>
+			<hp>10485376</hp>
+			<money>2600</money>
+			<fps>22405</fps>
+		</level>
+		<level id="92">
+			<animId>2</animId>
+			<hp>10965874</hp>
+			<money>2700</money>
+			<fps>23008</fps>
+		</level>
+		<level id="93">
+			<animId>3</animId>
+			<hp>11568405</hp>
+			<money>2800</money>
+			<fps>23008</fps>
+		</level>
+		<level id="94">
+			<animId>2</animId>
+			<hp>12112814</hp>
+			<money>2900</money>
+			<fps>22406</fps>
+		</level>
+		<level id="95">
+			<animId>3</animId>
+			<hp>12784854</hp>
+			<money>3000</money>
+			<fps>22405</fps>
+		</level>
+		<level id="96">
+			<animId>2</animId>
+			<hp>13484872</hp>
+			<money>3100</money>
+			<fps>22406</fps>
+		</level>
+		<level id="97">
+			<animId>3</animId>
+			<hp>13879742</hp>
+			<money>3300</money>
+			<fps>22405</fps>
+		</level>
+		<level id="98">
+			<animId>2</animId>
+			<hp>14256484</hp>
+			<money>3600</money>
+			<fps>23008</fps>
+		</level>
+		<level id="99">
+			<animId>3</animId>
+			<hp>14645311</hp>
+			<money>4000</money>
+			<fps>23008</fps>
+		</level>
+		<level id="100">
+			<animId>2</animId>
+			<hp>15031117</hp>
+			<money>4900</money>
+			<fps>22407</fps>
+		</level>
+	</levels>
+</root>

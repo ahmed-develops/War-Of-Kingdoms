@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="arena">
+    <ItemSpec id="9300" name="101400" icon="lp9300"/>
+    <ItemSpec id="9301" name="101401" icon="lp9301"/>
+    <ItemSpec id="9302" name="101402" icon="lp9302"/>
+    <ItemSpec id="9303" name="101403" icon="lp9303"/>
+    <ItemSpec id="9304" name="101404" icon="lp9304"/>
+    <ItemSpec id="9305" name="101405" icon="lp9305"/>
+    <ItemSpec id="9306" name="101406" icon="lp9306"/>
+    <ItemSpec id="9307" name="101407" icon="lp9307"/>
+    <ItemSpec id="9308" name="101408" icon="lp9308"/>
+    <ItemSpec id="9309" name="101409" icon="lp9309"/>
+    <ItemSpec id="9310" name="101410" icon="lp9310"/>
+    <ItemSpec id="9311" name="101411" icon="lp9311"/>
+    <ItemSpec id="9312" name="101412" icon="lp9312"/>
+    <ItemSpec id="9313" name="101413" icon="lp9313"/>
+    <ItemSpec id="9314" name="101414" icon="lp9314"/>
+    <ItemSpec id="9315" name="101415" icon="lp9315"/>
+    <ItemSpec id="9316" name="101416" icon="lp9316"/>
+    <ItemSpec id="9317" name="101417" icon="lp9317"/>
+    <ItemSpec id="9318" name="101418" icon="lp9318"/>
+    <ItemSpec id="9319" name="101419" icon="lp9319"/>
+    <ItemSpec id="9320" name="101420" icon="lp9320"/>
+    <ItemSpec id="9321" name="101421" icon="lp9321"/>
+    <ItemSpec id="9322" name="101422" icon="lp9322"/>
+    <ItemSpec id="9323" name="101423" icon="lp9323"/>
+    <ItemSpec id="9324" name="101424" icon="lp9324"/>
+    <ItemSpec id="9325" name="101425" icon="lp9325"/>
+    <ItemSpec id="9326" name="101426" icon="lp9326"/>
+    <ItemSpec id="9327" name="101427" icon="lp9327"/>
+    <ItemSpec id="9328" name="101428" icon="lp9328"/>
+    <ItemSpec id="9329" name="101429" icon="lp9329"/>
+    <ItemSpec id="9330" name="101430" icon="lp9330"/>
+    <ItemSpec id="9331" name="101431" icon="lp9331"/>
+    <ItemSpec id="9332" name="101432" icon="lp9332"/>
+    <ItemSpec id="9333" name="101433" icon="lp9333"/>
+    <ItemSpec id="9334" name="101434" icon="lp9334"/>
+    <ItemSpec id="9335" name="101435" icon="lp9335"/>
+    <ItemSpec id="9336" name="101436" icon="lp9336"/>
+    <ItemSpec id="9337" name="101437" icon="lp9337"/>
+    <ItemSpec id="9338" name="101438" icon="lp9338"/>
+    <ItemSpec id="9339" name="101439" icon="lp9339"/>
+    <ItemSpec id="9340" name="101440" icon="lp9340"/>
+    <ItemSpec id="9341" name="101441" icon="lp9341"/>
+    <ItemSpec id="9342" name="101442" icon="lp9342"/>
+    <ItemSpec id="9343" name="101443" icon="lp9343"/>
+    <ItemSpec id="9344" name="101444" icon="lp9344"/>
+    <ItemSpec id="9345" name="101445" icon="lp9345"/>
+    <ItemSpec id="9346" name="101446" icon="lp9346"/>
+    <ItemSpec id="9347" name="101447" icon="lp9347"/>
+    <ItemSpec id="9348" name="101448" icon="lp9348"/>
+    <ItemSpec id="9349" name="101449" icon="lp9349"/>
+    <ItemSpec id="9350" name="101450" icon="lp9350"/>
+    <ItemSpec id="9351" name="101451" icon="lp9351"/>
+    <ItemSpec id="9352" name="101452" icon="lp9352"/>
+    <ItemSpec id="9353" name="101453" icon="lp9353"/>
+    <ItemSpec id="9354" name="101454" icon="lp9354"/>
+    <ItemSpec id="9355" name="101455" icon="lp9355"/>
+    <ItemSpec id="9356" name="101456" icon="lp9356"/>
+    <ItemSpec id="9357" name="101457" icon="lp9357"/>
+    <ItemSpec id="9358" name="101458" icon="lp9358"/>
+    <ItemSpec id="9359" name="101459" icon="lp9359"/>
+  </Group>
+</tns:database>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ItemSpec id="50000" type="0" skill="600100|600200|600300|601100|601200|601300" relation="600200|600300|601100|601200|601300" itemid="212401|212401|212401|212403|212403|212403"/>
+  <ItemSpec id="50001" type="1" skill="600400|600700|601000|601400|601700|602100" relation="600700|601000|601400|601700|602100" itemid="212402|212402|212402|212404|212404|212404"/>
+  <ItemSpec id="50002" type="2" skill="602000" relation="602000" itemid="212402"/>
+</tns:database>

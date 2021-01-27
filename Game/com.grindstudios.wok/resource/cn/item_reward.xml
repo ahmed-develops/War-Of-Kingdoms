@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="reward">
+    <ItemSpec id="230000"/>
+    <ItemSpec id="230001"/>
+    <ItemSpec id="230002"/>
+    <ItemSpec id="230003"/>
+    <ItemSpec id="230004"/>
+    <ItemSpec id="230005"/>
+    <ItemSpec id="230006"/>
+    <ItemSpec id="230007"/>
+    <ItemSpec id="230008"/>
+    <ItemSpec id="230009"/>
+    <ItemSpec id="230100"/>
+    <ItemSpec id="239000"/>
+    <ItemSpec id="239001"/>
+    <ItemSpec id="239002"/>
+    <ItemSpec id="239003"/>
+    <ItemSpec id="239004"/>
+    <ItemSpec id="239099"/>
+    <ItemSpec id="239100" food="1000"/>
+    <ItemSpec id="239500" food="2500"/>
+    <ItemSpec id="239510" gold="10"/>
+    <ItemSpec id="239511"/>
+    <ItemSpec id="235000" food="600" gold="5" exp="100" power="200" wood="300" stone="400" iron="500" silver="700"/>
+  </Group>
+</tns:database>

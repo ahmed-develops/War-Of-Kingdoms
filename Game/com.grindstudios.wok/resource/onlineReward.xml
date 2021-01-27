@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ItemSpec id="46001" castleLV="1" rewardID1="232500" rewardID2="232530" rewardID3="232532" rewardID4="232533" rewardID5="232534" rewardID6="232535"/>
+  <ItemSpec id="46002" castleLV="2" rewardID1="232501" rewardID2="232530" rewardID3="232532" rewardID4="232533" rewardID5="232534" rewardID6="232535"/>
+  <ItemSpec id="46003" castleLV="3" rewardID1="232502" rewardID2="232530" rewardID3="232532" rewardID4="232533" rewardID5="232534" rewardID6="232535"/>
+  <ItemSpec id="46004" castleLV="4" rewardID1="232503" rewardID2="232530" rewardID3="232532" rewardID4="232533" rewardID5="232534" rewardID6="232535"/>
+  <ItemSpec id="46005" castleLV="5" rewardID1="232504" rewardID2="232530" rewardID3="232532" rewardID4="232533" rewardID5="232534" rewardID6="232535"/>
+  <ItemSpec id="46006" castleLV="6" rewardID1="232505" rewardID2="232530" rewardID3="232532" rewardID4="232533" rewardID5="232534" rewardID6="232535"/>
+  <ItemSpec id="46007" castleLV="7" rewardID1="232506" rewardID2="232530" rewardID3="232532" rewardID4="232533" rewardID5="232534" rewardID6="232535"/>
+  <ItemSpec id="46008" castleLV="8" rewardID1="232507" rewardID2="232530" rewardID3="232532" rewardID4="232533" rewardID5="232534" rewardID6="232535"/>
+  <ItemSpec id="46009" castleLV="9" rewardID1="232508" rewardID2="232530" rewardID3="232532" rewardID4="232533" rewardID5="232534" rewardID6="232535"/>
+  <ItemSpec id="46010" castleLV="10" rewardID1="232509" rewardID2="232530" rewardID3="232532" rewardID4="232533" rewardID5="232534" rewardID6="232535"/>
+  <ItemSpec id="46011" castleLV="11" rewardID1="232510" rewardID2="232530" rewardID3="232532" rewardID4="232533" rewardID5="232534" rewardID6="232535"/>
+  <ItemSpec id="46012" castleLV="12" rewardID1="232511" rewardID2="232530" rewardID3="232532" rewardID4="232533" rewardID5="232534" rewardID6="232535"/>
+  <ItemSpec id="46013" castleLV="13" rewardID1="232512" rewardID2="232530" rewardID3="232532" rewardID4="232533" rewardID5="232534" rewardID6="232535"/>
+  <ItemSpec id="46014" castleLV="14" rewardID1="232513" rewardID2="232530" rewardID3="232532" rewardID4="232533" rewardID5="232534" rewardID6="232535"/>
+  <ItemSpec id="46015" castleLV="15" rewardID1="232514" rewardID2="232530" rewardID3="232532" rewardID4="232533" rewardID5="232534" rewardID6="232535"/>
+  <ItemSpec id="46016" castleLV="16" rewardID1="232515" rewardID2="232530" rewardID3="232532" rewardID4="232533" rewardID5="232534" rewardID6="232535"/>
+  <ItemSpec id="46017" castleLV="17" rewardID1="232516" rewardID2="232530" rewardID3="232532" rewardID4="232533" rewardID5="232534" rewardID6="232535"/>
+  <ItemSpec id="46018" castleLV="18" rewardID1="232517" rewardID2="232530" rewardID3="232532" rewardID4="232533" rewardID5="232534" rewardID6="232535"/>
+  <ItemSpec id="46019" castleLV="19" rewardID1="232518" rewardID2="232530" rewardID3="232532" rewardID4="232533" rewardID5="232534" rewardID6="232535"/>
+  <ItemSpec id="46020" castleLV="20" rewardID1="232519" rewardID2="232530" rewardID3="232532" rewardID4="232533" rewardID5="232534" rewardID6="232535"/>
+  <ItemSpec id="46021" castleLV="21" rewardID1="232520" rewardID2="232530" rewardID3="232532" rewardID4="232533" rewardID5="232534" rewardID6="232535"/>
+  <ItemSpec id="46022" castleLV="22" rewardID1="232521" rewardID2="232530" rewardID3="232532" rewardID4="232533" rewardID5="232534" rewardID6="232535"/>
+  <ItemSpec id="46023" castleLV="23" rewardID1="232522" rewardID2="232530" rewardID3="232532" rewardID4="232533" rewardID5="232534" rewardID6="232535"/>
+  <ItemSpec id="46024" castleLV="24" rewardID1="232523" rewardID2="232530" rewardID3="232532" rewardID4="232533" rewardID5="232534" rewardID6="232535"/>
+  <ItemSpec id="46025" castleLV="25" rewardID1="232524" rewardID2="232530" rewardID3="232532" rewardID4="232533" rewardID5="232534" rewardID6="232535"/>
+  <ItemSpec id="46026" castleLV="26" rewardID1="232525" rewardID2="232530" rewardID3="232532" rewardID4="232533" rewardID5="232534" rewardID6="232535"/>
+  <ItemSpec id="46027" castleLV="27" rewardID1="232526" rewardID2="232530" rewardID3="232532" rewardID4="232533" rewardID5="232534" rewardID6="232535"/>
+  <ItemSpec id="46028" castleLV="28" rewardID1="232527" rewardID2="232530" rewardID3="232532" rewardID4="232533" rewardID5="232534" rewardID6="232535"/>
+  <ItemSpec id="46029" castleLV="29" rewardID1="232528" rewardID2="232530" rewardID3="232532" rewardID4="232533" rewardID5="232534" rewardID6="232535"/>
+  <ItemSpec id="46030" castleLV="30" rewardID1="232529" rewardID2="232530" rewardID3="232532" rewardID4="232533" rewardID5="232534" rewardID6="232535"/>
+</tns:database>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ItemSpec id="1" min="1" max="1" reward="239888"/>
+  <ItemSpec id="2" min="2" max="2" reward="239889"/>
+  <ItemSpec id="3" min="3" max="3" reward="239890"/>
+</tns:database>

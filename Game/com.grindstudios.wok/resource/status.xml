@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ItemSpec id="500000" type2="1" time="28800" effect="61;1" overlap="0" group="100"/>
+  <ItemSpec id="500001" type2="1" time="86400" effect="61;1" overlap="0" group="100"/>
+  <ItemSpec id="500002" type2="1" time="259200" effect="61;1" overlap="0" group="100"/>
+  <ItemSpec id="500003" type2="1" time="2592000" effect="61;1" overlap="0" group="100"/>
+  <ItemSpec id="500004" type2="1" time="3600" effect="61;1" overlap="0" group="100"/>
+  <ItemSpec id="500005" type2="1" time="604800" effect="61;1" overlap="0" group="100"/>
+  <ItemSpec id="500008" type2="1" time="14400" effect="61;1" overlap="0" group="100"/>
+  <ItemSpec id="500009" type2="1" time="259200" effect="61;1" overlap="0" group="100"/>
+  <ItemSpec id="500011" type2="2" time="43200" effect="6;20" overlap="0" group="200"/>
+  <ItemSpec id="500010" type2="2" time="86400" effect="6;20" overlap="0" group="200"/>
+  <ItemSpec id="500020" type2="3" time="43200" effect="7;20" overlap="0" group="300"/>
+  <ItemSpec id="500021" type2="3" time="86400" effect="7;20" overlap="0" group="300"/>
+  <ItemSpec id="500030" type2="4" time="86400" effect="64;25" overlap="0" group="400"/>
+  <ItemSpec id="500031" type2="4" time="432000" effect="64;25" overlap="0" group="400"/>
+  <ItemSpec id="500032" type2="4" time="86400" effect="64;50" overlap="0" group="400"/>
+  <ItemSpec id="500033" type2="4" time="432000" effect="64;50" overlap="0" group="400"/>
+  <ItemSpec id="500040" type2="5" time="86400" effect="80;25" overlap="1" group="500"/>
+  <ItemSpec id="500041" type2="5" time="604800" effect="80;25" overlap="1" group="501"/>
+  <ItemSpec id="500050" type2="6" time="86400" effect="62;1" overlap="0" group="600"/>
+  <ItemSpec id="500051" type2="6" time="604800" effect="62;1" overlap="0" group="600"/>
+  <ItemSpec id="500060" type2="7" time="86400" effect="63;1" overlap="0" group="700"/>
+  <ItemSpec id="500070" type2="8" time="86400" effect="65;50" overlap="0" group="800"/>
+  <ItemSpec id="500071" type2="8" time="28800" effect="65;50" overlap="0" group="800"/>
+  <ItemSpec id="500080" type2="9" time="86400" effect="50;25" overlap="1" group="900"/>
+  <ItemSpec id="500090" type2="10" time="86400" effect="51;25" overlap="1" group="1000"/>
+  <ItemSpec id="500100" type2="11" time="86400" effect="52;25" overlap="1" group="1100"/>
+  <ItemSpec id="500110" type2="12" time="86400" effect="53;25" overlap="1" group="1200"/>
+  <ItemSpec id="500120" type2="13" time="86400" effect="54;25" overlap="1" group="1300"/>
+  <ItemSpec id="500130" time="86400" effect="70;1" overlap="1" group="1400"/>
+  <ItemSpec id="500131" time="604800" effect="70;1" overlap="1" group="1401"/>
+  <ItemSpec id="500132" time="2592000" effect="70;1" overlap="1" group="1402"/>
+  <ItemSpec id="500133" time="1800" effect="70;1" overlap="1" group="1403"/>
+  <ItemSpec id="500134" time="3600" effect="70;1" overlap="1" group="1404"/>
+  <ItemSpec id="500140" type2="14" time="14400" effect="8;25" overlap="0" group="1500"/>
+  <ItemSpec id="500141" type2="14" time="14400" effect="8;50" overlap="0" group="1500"/>
+  <ItemSpec id="500500" type2="100" time="3600" overlap="2" group="500500"/>
+  <ItemSpec id="500501" type2="100" time="259200" overlap="2" group="500501"/>
+  <ItemSpec id="500502" type2="100" time="604800" overlap="2" group="500502"/>
+  <ItemSpec id="500503" type2="100" time="2592000" overlap="2" group="500503"/>
+  <ItemSpec id="500504" type2="100" time="3600" overlap="2" group="500510"/>
+  <ItemSpec id="500505" type2="100" time="259200" overlap="2" group="500511"/>
+  <ItemSpec id="500506" type2="100" time="604800" overlap="2" group="500512"/>
+  <ItemSpec id="500507" type2="100" time="2592000" overlap="2" group="500513"/>
+  <ItemSpec id="500508" type2="100" time="3600" overlap="2" group="500520"/>
+  <ItemSpec id="500509" type2="100" time="259200" overlap="2" group="500521"/>
+  <ItemSpec id="500510" type2="100" time="604800" overlap="2" group="500522"/>
+  <ItemSpec id="500511" type2="100" time="2592000" overlap="2" group="500523"/>
+  <ItemSpec id="500512" type2="100" time="3600" overlap="2" group="500530"/>
+  <ItemSpec id="500513" type2="100" time="259200" overlap="2" group="500531"/>
+  <ItemSpec id="500514" type2="100" time="604800" overlap="2" group="500532"/>
+  <ItemSpec id="500515" type2="100" time="2592000" overlap="2" group="500533"/>	
+  <ItemSpec id="500800" type2="101" effect="1171;3600" time="3600" overlap="2" group="500800"/>
+  <ItemSpec id="500801" type2="101" effect="1171;259200" time="259200" overlap="2" group="500801"/>
+  <ItemSpec id="500802" type2="101" effect="1171;604800" time="604800" overlap="2" group="500802"/>
+  <ItemSpec id="500803" type2="101" effect="1171;2592000" time="2592000" overlap="2" group="500803"/>		
+  <ItemSpec id="501000" time="300" effect="200;1" overlap="1" group="5000"/>
+  <ItemSpec id="501010" time="300" effect="201;1" overlap="1" group="5100"/>
+  <ItemSpec id="501020" time="300" effect="6;5" overlap="1" group="5200"/>
+  <ItemSpec id="501021" time="300" effect="7;5" overlap="1" group="5201"/>
+  <ItemSpec id="501030" time="300" effect="20;5|27;5" overlap="1" group="5202"/>
+  <ItemSpec id="501031" time="300" effect="21;5|28;5" overlap="1" group="5203"/>
+  <ItemSpec id="501032" time="300" effect="22;5|29;5" overlap="1" group="5204"/>
+  <ItemSpec id="501033" time="300" effect="23;5|30;5" overlap="1" group="5205"/>
+  <ItemSpec id="501034" time="300" effect="24;5|31;5" overlap="1" group="5206"/>
+  <ItemSpec id="501035" time="300" effect="25;5|32;5" overlap="1" group="5207"/>
+  <ItemSpec id="501036" time="300" effect="26;5|33;5" overlap="1" group="5208"/>
+  <ItemSpec id="501044" time="600" effect="60;10" overlap="1" group="5209"/>
+  <ItemSpec id="501050" type2="15" time="3600" effect="74;100|75;100|58;100" overlap="0" group="5210"/>
+  <ItemSpec id="501051" type2="16" time="7200" effect="39;1" overlap="0" group="5211"/>
+  <ItemSpec id="501052" type2="17" time="1800" effect="37;400" overlap="0" group="5300"/>
+  <ItemSpec id="501053" type2="18" time="3600" effect="8;10" overlap="0" group="5400"/>
+  <ItemSpec id="501054" type2="19" time="7200" effect="65;100" overlap="0" group="5500"/>
+  <ItemSpec id="502000" type="1" object="112" time="5" effect="1010;3" effect_add="1010;3"/>
+  <ItemSpec id="502010" type="1" object="200" time="3" effect="1031;3|1032;3|1033;3|1038;3" effect_add="1031;3|1032;3|1033;3|1038;3"/>
+  <ItemSpec id="502011" type="1" object="200" time="3" effect="1034;3|1035;3|1036;3|1037;3" effect_add="1034;3|1035;3|1036;3|1037;3"/>
+  <ItemSpec id="502012" type="1" object="112" time="5" effect="1120;30" effect_add="1120;30"/>
+  <ItemSpec id="502013" type="1" object="200" time="2" effect="45;10|46;10"/>
+  <ItemSpec id="502020" type="1" object="200" time="3" effect="1031;3" effect_add="1031;3"/>
+  <ItemSpec id="502030" type="1" object="200" time="3" effect="1122;3" effect_add="1122;3"/>
+  <ItemSpec id="502040" type="1" object="200" time="3" effect="1013;3" effect_add="1013;3"/>
+  <ItemSpec id="502050" type="1" object="200" time="3" effect="1014;3" effect_add="1014;3"/>
+  <ItemSpec id="502060" type="1" object="200" time="3" effect="1015;3" effect_add="1015;3"/>
+  <ItemSpec id="502070" type="1" object="200" time="3" effect="1016;3" effect_add="1016;3"/>
+  <ItemSpec id="502080" type="1" object="200" time="3" effect="1017;3" effect_add="1017;3"/>
+  <ItemSpec id="502090" type="1" object="200" time="3" effect="1018;3" effect_add="1018;3"/>
+  <ItemSpec id="502200" type="0" effect="1011;1|1012;1|1031;1|1032;1" effect_add="1011;1|1012;1|1031;1|1032;1"/>
+  <ItemSpec id="502201" type="0" effect="1541;-2" effect_add="1541;-2"/>
+  <ItemSpec id="502202" type="0" effect="1513;2" effect_add="1513;2"/>
+  <ItemSpec id="502203" type="0" effect="1031;2" effect_add="1031;2"/>
+  <ItemSpec id="502204" type="0" effect="1122;2" effect_add="1122;2"/>
+  <ItemSpec id="502205" type="0" effect="1051;2|1052;2" effect_add="1051;2|1052;2"/>
+  <ItemSpec id="502206" type="1" object="200" time="2" effect="45;10|46;10"/>
+  <ItemSpec id="502210" type="0" effect="1013;1|1014;1|1033;1|1034;1" effect_add="1013;1|1014;1|1033;1|1034;1"/>
+  <ItemSpec id="502211" type="0" effect="1521;2" effect_add="1521;2"/>
+  <ItemSpec id="502212" type="0" effect="1244;2" effect_add="1244;2"/>
+  <ItemSpec id="502213" type="0" effect="1113;2" effect_add="1113;2"/>
+  <ItemSpec id="502214" type="0" effect="1104;1|1014;1" effect_add="1104;1|1014;1"/>
+  <ItemSpec id="502215" type="0" effect="1053;2|1054;2" effect_add="1053;2|1054;2"/>
+  <ItemSpec id="502216" type="1" object="200" time="3" effect="1030;-30"/>
+  <ItemSpec id="502220" type="0" effect="1015;1|1016;1|1035;1|1036;1" effect_add="1015;1|1016;1|1035;1|1036;1"/>
+  <ItemSpec id="502221" type="0" effect="1542;2" effect_add="1542;2"/>
+  <ItemSpec id="502222" type="0" effect="1226;1" effect_add="1226;1"/>
+  <ItemSpec id="502223" type="0" effect="1065;2" effect_add="1065;2"/>
+  <ItemSpec id="502224" type="0" effect="1066;2" effect_add="1066;2"/>
+  <ItemSpec id="502225" type="0" effect="1055;2|1056;2" effect_add="1055;2|1056;2"/>
+  <ItemSpec id="502230" type="0" effect="1017;1|1018;1|1037;1|1038;1" effect_add="1017;1|1018;1|1037;1|1038;1"/>
+  <ItemSpec id="502231" type="0" effect="1307;4" effect_add="1307;4"/>
+  <ItemSpec id="502232" type="0" effect="1208;1" effect_add="1208;1"/>
+  <ItemSpec id="502233" type="0" effect="1067;1" effect_add="1067;1"/>
+  <ItemSpec id="502234" type="0" effect="1598;3" effect_add="1598;3"/>
+  <ItemSpec id="502235" type="0" effect="1057;2|1058;2" effect_add="1057;2|1058;2"/>
+  <ItemSpec id="502240" type="0" effect="1011;0.5|1031;0.5" effect_add="1011;0.5|1031;0.5"/>
+  <ItemSpec id="502241" type="0" effect="1541;-2" effect_add="1541;-2"/>
+  <ItemSpec id="502242" type="0" effect="1051;1" effect_add="1051;1"/>
+  <ItemSpec id="502243" type="0" effect="1031;2" effect_add="1031;2"/>
+  <ItemSpec id="502244" type="0" effect="1091;1" effect_add="1091;1"/>
+  <ItemSpec id="502250" type="0" effect="1012;1" effect_add="1012;1"/>
+  <ItemSpec id="502251" type="0" effect="1513;2" effect_add="1513;2"/>
+  <ItemSpec id="502252" type="0" effect="1042;1" effect_add="1042;1"/>
+  <ItemSpec id="502253" type="0" effect="1122;1" effect_add="1122;1"/>
+  <ItemSpec id="502254" type="0" effect="1142;4" effect_add="1142;4"/>
+  <ItemSpec id="502260" type="0" effect="1013;1" effect_add="1013;1"/>
+  <ItemSpec id="502261" type="0" effect="1521;2" effect_add="1521;2"/>
+  <ItemSpec id="502262" type="0" effect="1043;1" effect_add="1043;1"/>
+  <ItemSpec id="502263" type="0" effect="1313;3" effect_add="1313;3"/>
+  <ItemSpec id="502264" type="0" effect="1113;1" effect_add="1113;1"/>
+  <ItemSpec id="502270" type="0" effect="1014;1" effect_add="1014;1"/>
+  <ItemSpec id="502271" type="0" effect="1244;2" effect_add="1244;2"/>
+  <ItemSpec id="502272" type="0" effect="1044;1" effect_add="1044;1"/>
+  <ItemSpec id="502273" type="0" effect="1314;3" effect_add="1314;3"/>
+  <ItemSpec id="502274" type="0" effect="1014;1|1104;0.5" effect_add="1014;1|1104;0.5"/>
+  <ItemSpec id="502280" type="0" effect="1015;1" effect_add="1015;1"/>
+  <ItemSpec id="502281" type="0" effect="1542;2" effect_add="1542;2"/>
+  <ItemSpec id="502282" type="0" effect="1045;1" effect_add="1045;1"/>
+  <ItemSpec id="502283" type="0" effect="1065;1" effect_add="1065;1"/>
+  <ItemSpec id="502284" type="0" effect="1105;2" effect_add="1105;2"/>
+  <ItemSpec id="502290" type="0" effect="1016;1" effect_add="1016;1"/>
+  <ItemSpec id="502291" type="0" effect="1226;1" effect_add="1226;1"/>
+  <ItemSpec id="502292" type="0" effect="1046;1" effect_add="1046;1"/>
+  <ItemSpec id="502293" type="0" effect="1066;1" effect_add="1066;1"/>
+  <ItemSpec id="502294" type="0" effect="1126;0.5|1146;5" effect_add="1126;0.5|1146;5"/>
+  <ItemSpec id="502300" type="0" effect="1017;1" effect_add="1017;1"/>
+  <ItemSpec id="502301" type="0" effect="1307;3" effect_add="1307;3"/>
+  <ItemSpec id="502302" type="0" effect="1047;1" effect_add="1047;1"/>
+  <ItemSpec id="502303" type="0" effect="1067;1" effect_add="1067;1"/>
+  <ItemSpec id="502304" type="0" effect="1107;2" effect_add="1107;2"/>
+  <ItemSpec id="502310" type="0" effect="1018;1" effect_add="1018;1"/>
+  <ItemSpec id="502311" type="0" effect="1208;2" effect_add="1208;2"/>
+  <ItemSpec id="502312" type="0" effect="1048;1" effect_add="1048;1"/>
+  <ItemSpec id="502313" type="0" effect="1038;1" effect_add="1038;1"/>
+  <ItemSpec id="502314" type="0" effect="1058;2" effect_add="1058;2"/>
+  <ItemSpec id="502400" type="1" object="200" time="3" effect="1400;-10" effect_add="1400;-3"/>
+  <ItemSpec id="502401" type="1" object="12" time="2" effect="1010;-3" effect_add="1010;-3"/>
+  <ItemSpec id="502402" type="1" object="12" time="2" effect="1030;-3" effect_add="1030;-3"/>
+  <ItemSpec id="502403" type="1" object="200" time="2" effect="9;-10" effect_add="9;-10"/>
+  <ItemSpec id="502404" type="1" object="100" time="2" effect="9;10" effect_add="9;10"/>
+  <ItemSpec id="502410" type="1" object="200" time="2" effect="1400;-10" effect_add="1400;-3"/>
+  <ItemSpec id="502411" type="1" object="200" time="2" effect="6;-3" effect_add="6;-3"/>
+  <ItemSpec id="502412" type="1" object="200" time="2" effect="7;-3" effect_add="7;-3"/>
+  <ItemSpec id="502413" type="1" object="200" time="2" effect="9;-10" effect_add="9;-10"/>
+  <ItemSpec id="502414" type="1" object="100" time="2" effect="9;10" effect_add="9;10"/>
+  <ItemSpec id="502420" type="1" object="200" time="2" effect="1400;8" effect_add="1400;3"/>
+  <ItemSpec id="502421" type="1" object="112" time="2" effect="1010;2.5%" effect_add="1010;2.5%"/>
+  <ItemSpec id="502422" type="1" object="112" time="2" effect="1030;2.5%" effect_add="1030;2.5%"/>
+  <ItemSpec id="502423" type="1" object="200" time="2" effect="9;10" effect_add="9;10"/>
+  <ItemSpec id="502500" type="0" effect="1140;3" effect_add="1140;3"/>
+  <ItemSpec id="502501" type="0" effect="1011;1|1012;1" effect_add="1011;1|1012;1"/>
+  <ItemSpec id="502502" type="0" effect="1013;1|1014;1" effect_add="1013;1|1014;1"/>
+  <ItemSpec id="502503" type="0" effect="1015;1|1016;1" effect_add="1015;1|1016;1"/>
+  <ItemSpec id="502504" type="0" effect="1017;1|1018;1" effect_add="1017;1|1018;1"/>
+  <ItemSpec id="502505" type="0" effect="1130;30" effect_add="1130;30"/>
+  <ItemSpec id="502506" type="0" effect="1120;30"/>
+  <ItemSpec id="502510" type="0" effect="1160;3" effect_add="1160;3"/>
+  <ItemSpec id="502511" type="0" effect="1131;1|1132;1" effect_add="1131;1|1132;1"/>
+  <ItemSpec id="502512" type="0" effect="1133;1|1134;1" effect_add="1133;1|1134;1"/>
+  <ItemSpec id="502513" type="0" effect="1135;1|1136;1" effect_add="1135;1|1136;1"/>
+  <ItemSpec id="502514" type="0" effect="1137;1|1138;1" effect_add="1137;1|1138;1"/>
+  <ItemSpec id="502515" type="0" effect="1130;1" effect_add="1130;1"/>
+  <ItemSpec id="502516" type="0" effect="1040;3"/>
+  <ItemSpec id="502520" type="0" effect="1100;1" effect_add="1100;1"/>
+  <ItemSpec id="502521" type="0" effect="1011;1|1012;1" effect_add="1011;1|1012;1"/>
+  <ItemSpec id="502522" type="0" effect="1013;1|1014;1" effect_add="1013;1|1014;1"/>
+  <ItemSpec id="502523" type="0" effect="1015;1|1016;1" effect_add="1015;1|1016;1"/>
+  <ItemSpec id="502524" type="0" effect="1017;1|1018;1" effect_add="1017;1|1018;1"/>
+  <ItemSpec id="502525" type="0" effect="1060;1" effect_add="1060;1"/>
+  <ItemSpec id="502526" type="0" effect="1110;3" effect_add="1110;3"/>
+  <ItemSpec id="502600" time="259200" effect="1165;50"/>
+  <ItemSpec id="502601" time="86400" effect="1165;50"/>
+  <ItemSpec id="502602" time="28800" effect="1165;50"/>
+  <ItemSpec id="503000" type2="20" time="600" effect="1300;3600" overlap="2" group="10000"/>
+  <ItemSpec id="503001" type2="20" time="3600" effect="1300;3600" overlap="2" group="10010"/>
+  <ItemSpec id="503002" type2="20" time="14400" effect="1300;7200" overlap="2" group="10020"/>
+  <ItemSpec id="503003" type2="20" time="28800" effect="1300;28800" overlap="2" group="10030"/>
+  <ItemSpec id="503004" type2="20" time="86400" effect="1300;28800" overlap="2" group="10040"/>
+  <ItemSpec id="503005" type2="20" time="172800" effect="1300;28800" overlap="2" group="10050"/>
+</tns:database>

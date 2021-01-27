@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="train">
+    <ItemSpec id="8100" name="103700" rate_exp="100" total_time="2" spending="500" suddenly="50" entry_time="0"/>
+    <ItemSpec id="8101" name="103701" rate_exp="200" total_time="2" spending="500" suddenly="50" entry_time="0"/>
+    <ItemSpec id="8102" name="103702" rate_exp="400" total_time="2" spending="500" suddenly="50" entry_time="0"/>
+    <ItemSpec id="8103" name="103702" rate_exp="800" total_time="2" spending="500" suddenly="50" entry_time="0"/>
+    <ItemSpec id="8104" name="103702" rate_exp="1600" total_time="2" spending="500" suddenly="50" entry_time="72"/>
+  </Group>
+</tns:database>

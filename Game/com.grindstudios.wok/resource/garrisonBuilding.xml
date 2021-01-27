@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="garrisonBuilding">
+		<ItemSpec id="3100001" buildingtype="423000" effect="1011;0.25|1031;0.25|1041;0.25" name1="113808" name2="113809" name3="113810" level="3"/>
+		<ItemSpec id="3100002" buildingtype="424000" effect="1013;0.25|1033;0.25|1043;0.25" name1="113811" name2="113812" name3="113813" level="3"/>
+		<ItemSpec id="3100003" buildingtype="425000" effect="1015;0.25|1035;0.25|1045;0.25" name1="113814" name2="113815" name3="113816" level="3"/>
+		<ItemSpec id="3100004" buildingtype="419000" effect="1220;0.25|1230;0.25|121;0.1" name1="113827" name2="113828" name3="113834" level="5"/>
+	</Group>
+</tns:database>

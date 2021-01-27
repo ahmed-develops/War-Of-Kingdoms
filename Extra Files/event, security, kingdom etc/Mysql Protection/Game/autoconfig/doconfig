@@ -1,0 +1,42 @@
+#!/usr/bin/env python
+import os
+
+config={
+"ZONENAME_PREFIX":"COK",
+"ZONEID":"2","DBIP":"10.0.0.19",
+"DBNAME":"cokdb3",
+"REDIS_IP":"10.0.0.97",
+"WEB_SERVICE_PORT":"8080",
+}
+
+def autocfg_zone():
+	zone_name = config["ZONENAME_PREFIX"]+config["ZONEID"]
+	templates = open("COK1.zone.xml.template").read()	
+	templates = templates.replace("ZONENAME", zone_name)
+	templates = templates.replace("DBIP", config["DBIP"])
+	templates = templates.replace("DBNAME",config["DBNAME"])
+	f = open("../zones/COK1.zone.xml", "w")
+	f.write(templates)
+	f.close()
+	os.system("cp ../gameconfig/rmiServer1.xml ../gameconfig/rmiServer%s.xml"%config["ZONEID"])
+
+def autocfg_config_prop():
+	templates = open("config.properties.template").read()
+	templates = templates.replace("DBIP", config["DBIP"])
+	templates = templates.replace("REDIS_IP", config["REDIS_IP"])
+	templates = templates.replace("DBNAME",config["DBNAME"])
+	f = open("../extensions/COK1/config.properties","w")
+	f.write(templates)
+	f.close()
+
+def autocfg_jetty():
+	templates = open("jetty.xml.template").read()
+	templates = templates.replace("WEB_SERVICE_PORT", config["WEB_SERVICE_PORT"])
+	f = open("../config/jetty/jetty.xml","w")
+	f.write(templates)
+	f.close()
+
+if __name__=="__main__":
+	autocfg_zone()
+	autocfg_config_prop()
+	autocfg_jetty()

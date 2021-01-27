@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ItemSpec id="200001" type="0" lv_limit="1" price="500" price_all="100000" price_hot="500"/>
+  <ItemSpec id="200002" type="0" lv_limit="1" price="2000" price_all="400000" price_hot="2000"/>
+  <ItemSpec id="200003" type="0" lv_limit="1"/>
+  <ItemSpec id="200004" type="0" lv_limit="1" price="50" price_all="10000" price_hot="50"/>
+  <ItemSpec id="200005" type="0" lv_limit="1" price_hot="2000"/>
+  <ItemSpec id="200006" type="0" lv_limit="1" price="400" price_hot="400"/>
+  <ItemSpec id="200007" type="0" lv_limit="1" price="300"/>
+  <ItemSpec id="200008" type="0" lv_limit="1" price_hot="1000"/>
+  <ItemSpec id="200010" type="0" lv_limit="1"/>
+  <ItemSpec id="200011" type="0" lv_limit="1" price="2100000000" price_hot="2100000000"/>
+  <ItemSpec id="200012" type="0" lv_limit="1"/>
+  <ItemSpec id="200013" type="0" lv_limit="1"/>
+  <ItemSpec id="200014" type="0" lv_limit="1"/>
+  <ItemSpec id="200015" type="0"/>
+  <ItemSpec id="200016" type="0" lv_limit="1" price="15" sales="1;15|10;120|100;1100|1000;10000" price_hot="15"/>
+  <ItemSpec id="200017" type="0" lv_limit="1" sales="1;30|2;71"/>
+  <ItemSpec id="200018" type="0" lv_limit="1" sales="1;30|2;72"/>
+  <ItemSpec id="200019" type="0" lv_limit="1" sales="1;30|2;73"/>
+  <ItemSpec id="200020" type="0" lv_limit="1" price="5" sales="1;5|10;40|100;400|1000;4000" price_hot="5"/>
+  <ItemSpec id="200021" type="0" lv_limit="1" price="200" price_all="40000" price_hot="200"/>
+  <ItemSpec id="200026" type="0" lv_limit="1" price="400" price_all="80000" price_hot="400"/>
+  <ItemSpec id="200027" type="0" lv_limit="1" para2="86400" price_all="6000" price_hot="30"/>
+  <ItemSpec id="200028" type="0" lv_limit="1" para2="86400" price_all="6000" price_hot="30"/>
+  <ItemSpec id="200029" type="0" lv_limit="10" para2="86400" price_all="10000" price_hot="50"/>
+  <ItemSpec id="200030" type="0" lv_limit="15" para2="86400" price_all="14000" price_hot="70"/>
+  <ItemSpec id="200031" type="0" lv_limit="3" price_hot="50" useall="1"/>
+  <ItemSpec id="200032" type="0" lv_limit="1" price="500" price_all="100000" price_hot="500"/>
+  <ItemSpec id="200033" type="0" lv_limit="1" price="500" price_all="100000" price_hot="500"/>
+  <ItemSpec id="200040" type="0" lv_limit="1" price_all="200000" price_hot="1000"/>
+  <ItemSpec id="200041" type="0" lv_limit="1"/>
+  <ItemSpec id="200042" type="0" lv_limit="1" price_hot="500"/>
+  <ItemSpec id="200043" type="0" lv_limit="1" price_hot="1500"/>
+  <ItemSpec id="200044" type="0" lv_limit="1" price_hot="3000"/>
+  <ItemSpec id="200045" type="0" lv_limit="1" price_hot="5000"/>
+  <ItemSpec id="200046" type="0" lv_limit="1" price_hot="10000"/>
+  <ItemSpec id="200060" type="11" lv_limit="1" para1="110105;110119;110173" para2="50;30;20" para3="0" price_hot="1000"/>
+  <ItemSpec id="200061" type="11" lv_limit="1" para1="110066;110120;110174" para2="50;30;20" para3="1" price_hot="1000"/>
+  <ItemSpec id="200062" type="11" lv_limit="1" para1="110067;110121;110175" para2="50;30;20" para3="2" price_hot="1000"/>
+  <ItemSpec id="200063" type="11" lv_limit="1" para1="110068;110122;110176" para2="50;30;20" para3="3" price_hot="1000"/>
+  <ItemSpec id="200064" type="11" lv_limit="1" para1="110253;110299;110275" para2="50;30;20" para3="5" price_hot="500"/>
+  <ItemSpec id="200080" type="12" lv_limit="1" para1="9414;9415;9416;9417;9418;9419;9420;9421" para2="80;70;60;50;40;30;20;10" price_hot="10000"/>
+  <ItemSpec id="200101" type="1" lv_limit="1" para1="2" para2="28800" price_hot="42"/>
+  <ItemSpec id="200200" type="2" lv_limit="1" para1="1" para2="1" para3="3600" price="150" price_all="30000" price_hot="150"/>
+  <ItemSpec id="200201" type="2" lv_limit="1" para1="1" para2="1" para3="300" price_all="3000" price_hot="15"/>
+  <ItemSpec id="200202" type="2" lv_limit="1" para1="1" para2="1" para3="28800" price_all="190000" price_hot="950"/>
+  <ItemSpec id="200203" type="2" lv_limit="1" para1="4" para2="1" para3="300" price_hot="15"/>
+  <ItemSpec id="200204" type="2" lv_limit="1" para1="4" para2="1" para3="7200" price_hot="280"/>
+  <ItemSpec id="200205" type="2" lv_limit="1" para1="6" para2="1" para3="300" price_hot="15"/>
+  <ItemSpec id="200206" type="2" lv_limit="1" para1="6" para2="1" para3="7200" price_hot="280"/>
+  <ItemSpec id="200207" type="2" lv_limit="1" para1="3" para2="1" para3="300" price_hot="15"/>
+  <ItemSpec id="200208" type="2" lv_limit="1" para1="3" para2="1" para3="7200" price_hot="280"/>
+  <ItemSpec id="200213" type="2" lv_limit="1" para1="8" para2="1" para3="300" price_hot="15"/>
+  <ItemSpec id="200214" type="2" lv_limit="1" para1="8" para2="1" para3="7200" price_hot="280"/>
+  <ItemSpec id="200215" type="2" lv_limit="1" para1="7" para2="1" para3="300" price_hot="15"/>
+  <ItemSpec id="200216" type="2" lv_limit="1" para1="7" para2="1" para3="7200" price_hot="280"/>
+  <ItemSpec id="200217" type="2" lv_limit="1" para1="5" para2="1" para3="300" price_hot="15"/>
+  <ItemSpec id="200218" type="2" lv_limit="1" para1="5" para2="1" para3="7200" price_hot="280"/>
+  <ItemSpec id="200220" type="2" lv_limit="1" para1="2" para2="2" para3="25" price="600" price_hot="600"/>
+  <ItemSpec id="200221" type="2" lv_limit="1" para1="2" para2="2" para3="50" price="1000" price_hot="1000"/>
+  <ItemSpec id="200300" type="3" lv_limit="1" para1="101" para2="10000" price="40" price_hot="40" useall="1"/>
+  <ItemSpec id="200301" type="3" lv_limit="1" para1="101" para2="50000" price="160" price_hot="160" useall="1"/>
+  <ItemSpec id="200302" type="3" lv_limit="1" para1="101" para2="150000" price="400" price_hot="400" useall="1"/>
+  <ItemSpec id="200303" type="3" lv_limit="1" para1="101" para2="500000" price="1200" price_hot="1200" useall="1"/>
+  <ItemSpec id="200304" type="3" lv_limit="1" para1="101" para2="1500000" price="3300" price_hot="3300" useall="1"/>
+  <ItemSpec id="200305" type="3" lv_limit="1" para1="101" para2="5000000" price="10000" price_hot="10000" useall="1"/>
+  <ItemSpec id="200306" type="3" lv_limit="1" para1="101" para2="1000" useall="1"/>
+  <ItemSpec id="200307" type="3" lv_limit="1" para1="101" para2="2000" useall="1"/>
+  <ItemSpec id="200308" type="3" lv_limit="1" para1="101" para2="4000" useall="1"/>
+  <ItemSpec id="200309" type="3" lv_limit="1" para1="101" para2="30000" useall="1"/>
+  <ItemSpec id="200310" type="3" lv_limit="15" para1="102" para2="400" price="40" price_hot="40" useall="1"/>
+  <ItemSpec id="200311" type="3" lv_limit="15" para1="102" para2="2000" price="160" price_hot="160" useall="1"/>
+  <ItemSpec id="200312" type="3" lv_limit="15" para1="102" para2="6250" price="400" price_hot="400" useall="1"/>
+  <ItemSpec id="200313" type="3" lv_limit="15" para1="102" para2="20000" price="1200" price_hot="1200" useall="1"/>
+  <ItemSpec id="200314" type="3" lv_limit="15" para1="102" para2="62500" price="3300" price_hot="3300" useall="1"/>
+  <ItemSpec id="200315" type="3" lv_limit="15" para1="102" para2="200000" price="10000" price_hot="10000" useall="1"/>
+  <ItemSpec id="200316" type="3" lv_limit="15" para1="102" para2="40" useall="1"/>
+  <ItemSpec id="200317" type="3" lv_limit="15" para1="102" para2="80" useall="1"/>
+  <ItemSpec id="200318" type="3" lv_limit="15" para1="102" para2="160" useall="1"/>
+  <ItemSpec id="200319" type="3" lv_limit="15" para1="102" para2="1250" useall="1"/>
+  <ItemSpec id="200320" type="3" lv_limit="10" para1="103" para2="1600" price="40" price_hot="40" useall="1"/>
+  <ItemSpec id="200321" type="3" lv_limit="10" para1="103" para2="8000" price="160" price_hot="160" useall="1"/>
+  <ItemSpec id="200322" type="3" lv_limit="10" para1="103" para2="25000" price="400" price_hot="400" useall="1"/>
+  <ItemSpec id="200323" type="3" lv_limit="10" para1="103" para2="80000" price="1200" price_hot="1200" useall="1"/>
+  <ItemSpec id="200324" type="3" lv_limit="10" para1="103" para2="250000" price="3300" price_hot="3300" useall="1"/>
+  <ItemSpec id="200325" type="3" lv_limit="10" para1="103" para2="800000" price="10000" price_hot="10000" useall="1"/>
+  <ItemSpec id="200326" type="3" lv_limit="10" para1="103" para2="150" useall="1"/>
+  <ItemSpec id="200327" type="3" lv_limit="10" para1="103" para2="300" useall="1"/>
+  <ItemSpec id="200328" type="3" lv_limit="10" para1="103" para2="600" useall="1"/>
+  <ItemSpec id="200329" type="3" lv_limit="10" para1="103" para2="5000" useall="1"/>
+  <ItemSpec id="200330" type="3" lv_limit="1" para1="104" para2="10000" price="40" price_hot="40" useall="1"/>
+  <ItemSpec id="200331" type="3" lv_limit="1" para1="104" para2="50000" price="160" price_hot="160" useall="1"/>
+  <ItemSpec id="200332" type="3" lv_limit="1" para1="104" para2="150000" price="400" price_hot="400" useall="1"/>
+  <ItemSpec id="200333" type="3" lv_limit="1" para1="104" para2="500000" price="1200" price_hot="1200" useall="1"/>
+  <ItemSpec id="200334" type="3" lv_limit="1" para1="104" para2="1500000" price="3300" price_hot="3300" useall="1"/>
+  <ItemSpec id="200335" type="3" lv_limit="1" para1="104" para2="5000000" price="10000" price_hot="10000" useall="1"/>
+  <ItemSpec id="200336" type="3" lv_limit="1" para1="104" para2="1000" useall="1"/>
+  <ItemSpec id="200337" type="3" lv_limit="1" para1="104" para2="2000" useall="1"/>
+  <ItemSpec id="200338" type="3" lv_limit="1" para1="104" para2="4000" useall="1"/>
+  <ItemSpec id="200339" type="3" lv_limit="1" para1="104" para2="30000" useall="1"/>
+  <ItemSpec id="200340" type="3" lv_limit="5" para1="158" para2="100" price_hot="25" useall="1"/>
+  <ItemSpec id="200341" type="3" lv_limit="5" para1="158" para2="500" price_hot="125" useall="1"/>
+  <ItemSpec id="200342" type="3" lv_limit="5" para1="158" para2="1500" price_hot="375" useall="1"/>
+  <ItemSpec id="200343" type="3" lv_limit="5" para1="158" para2="5000" price_hot="1250" useall="1"/>
+  <ItemSpec id="200344" type="3" lv_limit="5" para1="158" para2="15000" price_hot="3750" useall="1"/>
+  <ItemSpec id="200345" type="3" lv_limit="5" para1="158" para2="50000" price_hot="12500" useall="1"/>
+  <ItemSpec id="200346" type="3" lv_limit="5" para1="158" para2="10" price_hot="2" useall="1"/>
+  <ItemSpec id="200347" type="3" lv_limit="5" para1="158" para2="20" price_hot="5" useall="1"/>
+  <ItemSpec id="200348" type="3" lv_limit="5" para1="158" para2="40" price_hot="10" useall="1"/>
+  <ItemSpec id="200349" type="3" lv_limit="5" para1="158" para2="300" price_hot="75" useall="1"/>
+  <ItemSpec id="200350" type="3" lv_limit="1" para1="110" para2="100" price="150" price_all="30000" price_hot="150" useall="1"/>
+  <ItemSpec id="200351" type="3" lv_limit="1" para1="110" para2="300" price="400" price_hot="400" useall="1"/>
+  <ItemSpec id="200352" type="3" lv_limit="1" para1="110" para2="1000" price="1000" price_hot="1000" useall="1"/>
+  <ItemSpec id="200353" type="3" lv_limit="1" para1="110" para2="10" price_hot="15" useall="1"/>
+  <ItemSpec id="200360" type="3" lv_limit="1" para1="100" para2="5" useall="1"/>
+  <ItemSpec id="200361" type="3" lv_limit="1" para1="100" para2="10" useall="1"/>
+  <ItemSpec id="200362" type="3" lv_limit="1" para1="100" para2="20" useall="1"/>
+  <ItemSpec id="200363" type="3" lv_limit="1" para1="100" para2="50" useall="1"/>
+  <ItemSpec id="200364" type="3" lv_limit="1" para1="100" para2="100" useall="1"/>
+  <ItemSpec id="200365" type="3" lv_limit="1" para1="100" para2="200" useall="1"/>
+  <ItemSpec id="200366" type="3" lv_limit="1" para1="100" para2="1000" useall="1"/>
+  <ItemSpec id="200370" type="3" lv_limit="1" para1="70" para2="86400" price="250" price_hot="250"/>
+  <ItemSpec id="200371" type="3" lv_limit="1" para1="70" para2="604800" price="1500" price_hot="1500"/>
+  <ItemSpec id="200372" type="3" lv_limit="1" para1="70" para2="2592000" price="4000" price_hot="4000"/>
+  <ItemSpec id="200373" type="3" lv_limit="1" para1="70" para2="1800"/>
+  <ItemSpec id="200374" type="3" lv_limit="1" para1="70" para2="3600"/>
+  <ItemSpec id="200380" type="3" lv_limit="1" para1="107" para2="10" price_hot="40"/>
+  <ItemSpec id="200381" type="3" lv_limit="1" para1="107" para2="50" price="200" price_hot="200"/>
+  <ItemSpec id="200382" type="3" lv_limit="1" para1="107" para2="100" price_hot="400"/>
+  <ItemSpec id="200385" type="3" lv_limit="1" para1="101" para2="100" useall="1"/>
+  <ItemSpec id="200386" type="3" lv_limit="1" para1="104" para2="100" useall="1"/>
+  <ItemSpec id="200390" type="3" lv_limit="1" para1="109" para2="5000" price_hot="100" useall="1"/>
+  <ItemSpec id="200391" type="3" lv_limit="1" para1="109" para2="20000" price_hot="400" useall="1"/>
+  <ItemSpec id="200392" type="3" lv_limit="1" para1="109" para2="100000" price_hot="2000" useall="1"/>
+  <ItemSpec id="200393" type="3" lv_limit="1" para1="109" para2="500" price_hot="10" useall="1"/>
+  <ItemSpec id="200394" type="3" lv_limit="1" para1="109" para2="100" price_hot="2" useall="1"/>
+  <ItemSpec id="200395" type="3" lv_limit="1" para1="109" para2="10" price_hot="1" useall="1"/>
+  <ItemSpec id="200408" type="4" lv_limit="1" para1="500005" price="9000" price_hot="9000"/>
+  <ItemSpec id="200409" type="4" lv_limit="1" para1="500004" price_hot="60"/>
+  <ItemSpec id="200410" type="4" lv_limit="1" para1="500000" price="500" price_all="100000" price_hot="500"/>
+  <ItemSpec id="200411" type="4" lv_limit="1" para1="500001" price="1000" price_hot="1000"/>
+  <ItemSpec id="200412" type="4" lv_limit="1" para1="500002" price="2500" price_hot="2500"/>
+  <ItemSpec id="200413" type="4" lv_limit="1" para1="500003" price="30000" price_hot="30000"/>
+  <ItemSpec id="200414" type="4" lv_limit="1" para1="500011" price="250" price_all="50000" price_hot="250"/>
+  <ItemSpec id="200415" type="4" lv_limit="1" para1="500010" price="400" price_hot="400"/>
+  <ItemSpec id="200416" type="4" lv_limit="1" para1="500020" price="250" price_all="50000" price_hot="250"/>
+  <ItemSpec id="200417" type="4" lv_limit="1" para1="500021" price="400" price_hot="400"/>
+  <ItemSpec id="200418" type="4" lv_limit="1" para1="500030" price="500" price_hot="500"/>
+  <ItemSpec id="200419" type="4" lv_limit="1" para1="500031" price="2000" price_hot="2000"/>
+  <ItemSpec id="200420" type="4" lv_limit="1" para1="500032" price="2000" price_hot="2000"/>
+  <ItemSpec id="200421" type="4" lv_limit="1" para1="500033" price="8000" price_hot="8000"/>
+  <ItemSpec id="200424" type="4" lv_limit="1" para1="500050" price="600" price_hot="600"/>
+  <ItemSpec id="200425" type="4" lv_limit="1" para1="500051" price="3000" price_hot="3000"/>
+  <ItemSpec id="200426" type="4" lv_limit="1" para1="500060" price="200" price_hot="200"/>
+  <ItemSpec id="200427" type="4" lv_limit="1" para1="500070" price="600" price_all="120000" price_hot="600"/>
+  <ItemSpec id="200428" type="4" lv_limit="1" para1="500071"/>
+  <ItemSpec id="200450" type="4" lv_limit="1" para1="500140" price="1500" price_hot="1500"/>
+  <ItemSpec id="200451" type="4" lv_limit="1" para1="500141" price_hot="4000"/>
+  <ItemSpec id="200500" type="5" lv_limit="1" para1="230000"/>
+  <ItemSpec id="200501" type="5" lv_limit="1" para1="230001"/>
+  <ItemSpec id="200502" type="5" lv_limit="1" para1="230002"/>
+  <ItemSpec id="200510" type="5" lv_limit="1" para1="230080" price_hot="100"/>
+  <ItemSpec id="200511" type="5" lv_limit="1" para1="230081" price_hot="500"/>
+  <ItemSpec id="200512" type="5" lv_limit="1" para1="230082" price_hot="1500"/>
+  <ItemSpec id="200550" type="5" lv_limit="1" para1="230060" price_hot="4850"/>
+  <ItemSpec id="200551" type="5" lv_limit="1" para1="230061" price_hot="4300"/>
+  <ItemSpec id="200552" type="5" lv_limit="1" para1="230062" price_hot="4500"/>
+  <ItemSpec id="200553" type="5" lv_limit="1" para1="230070" price_hot="7050"/>
+  <ItemSpec id="200554" type="5" lv_limit="1" para1="230043" price="1900" price_hot="1900" useall="1"/>
+  <ItemSpec id="200555" type="5" lv_limit="1" para1="230044" price="1400" price_hot="1400" useall="1"/>
+  <ItemSpec id="200560" type="5" lv_limit="1" para1="230100"/>
+  <ItemSpec id="200561" type="5" lv_limit="10" para1="230101"/>
+  <ItemSpec id="200562" type="5" lv_limit="15" para1="230102"/>
+  <ItemSpec id="200563" type="5" lv_limit="15" para1="230103"/>
+  <ItemSpec id="200564" type="5" lv_limit="1" para1="230104" useall="1"/>
+  <ItemSpec id="200565" type="5" lv_limit="10" para1="230105" useall="1"/>
+  <ItemSpec id="200566" type="5" lv_limit="15" para1="230106" useall="1"/>
+  <ItemSpec id="200567" type="5" lv_limit="15" para1="230107" useall="1"/>
+  <ItemSpec id="200570" type="5" lv_limit="1" para1="230200"/>
+  <ItemSpec id="200571" type="5" lv_limit="1" para1="230201"/>
+  <ItemSpec id="200572" type="5" lv_limit="1" para1="230202"/>
+  <ItemSpec id="200580" type="5" lv_limit="1" para1="231956" useall="1"/>
+  <ItemSpec id="200581" type="5" lv_limit="1" para1="231956" useall="1"/>
+  <ItemSpec id="200590" type="5" lv_limit="2" para1="230051"/>
+  <ItemSpec id="200600" type="5" lv_limit="5" para1="230110" price_hot="200" useall="1"/>
+  <ItemSpec id="200601" type="5" lv_limit="5" para1="230111" price_hot="200" useall="1"/>
+  <ItemSpec id="200602" type="5" lv_limit="5" para1="230112" price_hot="200" useall="1"/>
+  <ItemSpec id="200603" type="5" lv_limit="5" para1="230113" price="100" price_hot="100" useall="1"/>
+  <ItemSpec id="200604" type="5" lv_limit="5" para1="230114" price="75" price_hot="75" useall="1"/>
+  <ItemSpec id="200610" type="5" lv_limit="5" para1="230120" price_hot="1200" useall="1"/>
+  <ItemSpec id="200611" type="5" lv_limit="5" para1="230115" price="280" price_hot="280" useall="1"/>
+  <ItemSpec id="200621" type="5" lv_limit="5" para1="230122" price="800" price_hot="800" useall="1"/>
+  <ItemSpec id="200622" type="5" lv_limit="5" para1="230123" price="1400" price_hot="1400" useall="1"/>
+  <ItemSpec id="200623" type="5" lv_limit="5" para1="230124" price="2000" price_hot="2000" useall="1"/>
+  <ItemSpec id="200624" type="5" lv_limit="5" para1="230125" price="2600" price_hot="2600" useall="1"/>
+  <ItemSpec id="200625" type="5" lv_limit="5" para1="230126" price="3400" price_hot="3400" useall="1"/>
+  <ItemSpec id="200650" type="5" lv_limit="1" para1="230195" useall="1"/>
+  <ItemSpec id="200651" type="5" lv_limit="1" para1="230196" useall="1"/>
+  <ItemSpec id="200652" type="5" lv_limit="1" para1="230197" useall="1"/>
+  <ItemSpec id="200653" type="5" lv_limit="1" para1="230198" useall="1"/>
+  <ItemSpec id="200654" type="5" lv_limit="1" para1="230199" useall="1"/>
+  <ItemSpec id="200655" type="5" lv_limit="1" para1="232682" useall="1"/>
+  <ItemSpec id="200656" type="5" lv_limit="1" para1="232683" useall="1"/>
+  <ItemSpec id="200657" type="5" lv_limit="1" para1="232684" useall="1"/>
+  <ItemSpec id="200658" type="5" lv_limit="1" para1="232685" useall="1"/>
+  <ItemSpec id="200659" type="5" lv_limit="1" para1="232686" useall="1"/>
+  <ItemSpec id="200660" type="5" lv_limit="1" para1="239012" useall="1"/>
+  <ItemSpec id="200661" type="5" lv_limit="1" para1="239013" useall="1"/>
+  <ItemSpec id="200662" type="5" lv_limit="1" para1="239014" useall="1"/>
+  <ItemSpec id="200663" type="5" lv_limit="1" para1="232735" useall="1"/>
+  <ItemSpec id="200664" type="5" lv_limit="1" para1="232736" useall="1"/>
+  <ItemSpec id="200665" type="5" lv_limit="1" para1="232737" useall="1"/>
+  <ItemSpec id="200666" type="5" lv_limit="1" para1="232738" useall="1"/>
+  <ItemSpec id="200667" type="5" lv_limit="1" para1="232739" useall="1"/>
+  <ItemSpec id="200668" type="5" lv_limit="1" para1="232740" useall="1"/>
+  <ItemSpec id="200669" type="5" lv_limit="1" para1="232741" useall="1"/>
+  <ItemSpec id="200670" type="5" lv_limit="1" para1="232742" useall="1"/>
+  <ItemSpec id="200671" type="5" lv_limit="1" para1="232743" useall="1"/>
+  <ItemSpec id="200672" type="5" lv_limit="1" para1="232744" useall="1"/>
+  <ItemSpec id="200673" type="5" lv_limit="1" para1="241174" useall="1"/>
+  <ItemSpec id="200674" type="5" lv_limit="1" para1="241174" useall="1"/>
+  <ItemSpec id="200675" type="5" lv_limit="1" para1="241174" useall="1"/>
+  <ItemSpec id="200676" type="5" lv_limit="1" para1="241174" useall="1"/>
+  <ItemSpec id="200677" type="5" lv_limit="1" para1="241174" useall="1"/>
+  <ItemSpec id="200678" type="5" lv_limit="1" para1="241174" useall="1"/>
+  <ItemSpec id="200679" type="0" lv_limit="1"/>
+  <ItemSpec id="200680" type="0" lv_limit="1" price_hot="10"/>
+  <ItemSpec id="200681" type="0" lv_limit="1" price_hot="50"/>
+  <ItemSpec id="200682" type="5" lv_limit="1" para1="240012" useall="1"/>
+  <ItemSpec id="200700" type="3" lv_limit="1" para1="159" para2="500" price="5" price_hot="5" useall="1"/>
+  <ItemSpec id="200701" type="3" lv_limit="1" para1="159" para2="1500" price="15" price_hot="15" useall="1"/>
+  <ItemSpec id="200702" type="3" lv_limit="1" para1="159" para2="4000" price="40" price_all="8000" price_hot="40" useall="1"/>
+  <ItemSpec id="200703" type="3" lv_limit="1" para1="159" para2="8000" price="80" price_hot="80" useall="1"/>
+  <ItemSpec id="200704" type="3" lv_limit="1" para1="159" para2="15000" price="145" price_hot="145" useall="1"/>
+  <ItemSpec id="200705" type="3" lv_limit="1" para1="159" para2="1000" price="10" price_hot="10" useall="1"/>
+  <ItemSpec id="200706" type="3" lv_limit="1" para1="159" para2="10000" price="100" price_hot="100" useall="1"/>
+  <ItemSpec id="200707" type="3" lv_limit="1" para1="159" para2="100000" price="950" price_hot="950" useall="1"/>
+  <ItemSpec id="200710" type="3" lv_limit="1" para1="160" para2="1" price="20" price_hot="20" useall="1"/>
+  <ItemSpec id="200711" type="3" lv_limit="1" para1="160" para2="3" price="60" price_hot="60" useall="1"/>
+  <ItemSpec id="200712" type="3" lv_limit="1" para1="160" para2="6" price="120" price_all="24000" price_hot="120" useall="1"/>
+  <ItemSpec id="200713" type="3" lv_limit="1" para1="160" para2="15" price="300" price_hot="300" useall="1"/>
+  <ItemSpec id="200714" type="3" lv_limit="1" para1="160" para2="50" price="950" price_hot="950" useall="1"/>
+  <ItemSpec id="200715" type="3" lv_limit="1" para1="160" para2="200" price="4000" price_hot="4000" useall="1"/>
+  <ItemSpec id="200716" type="3" lv_limit="1" para1="160" para2="1000" price="18000" price_hot="18000" useall="1"/>
+  <ItemSpec id="200717" type="3" lv_limit="1" para1="160" para2="5" price="100" price_hot="100" useall="1"/>
+  <ItemSpec id="200718" type="3" lv_limit="1" para1="160" para2="10" price="200" price_hot="200" useall="1"/>
+  <ItemSpec id="200719" type="3" lv_limit="1" para1="160" para2="100" price="1900" price_hot="1900" useall="1"/>
+  <ItemSpec id="200800" type="8" lv_limit="10" para1="107000;107100;107200;107300" para2="1000" price_all="40000" price_hot="200"/>
+  <ItemSpec id="201010" type="7" lv_limit="1" price_hot="50" make="1|7200|100"/>
+  <ItemSpec id="201011" type="7" lv_limit="1" price_hot="200"/>
+  <ItemSpec id="201012" type="7" lv_limit="1" price_hot="800"/>
+  <ItemSpec id="201013" type="7" lv_limit="1" price_hot="3200"/>
+  <ItemSpec id="201014" type="7" lv_limit="1" price_hot="12800"/>
+  <ItemSpec id="201015" type="7" lv_limit="1" price_hot="51200"/>
+  <ItemSpec id="201020" type="7" lv_limit="1" price_hot="50" make="1|7200|100"/>
+  <ItemSpec id="201021" type="7" lv_limit="1" price_hot="200"/>
+  <ItemSpec id="201022" type="7" lv_limit="1" price_hot="800"/>
+  <ItemSpec id="201023" type="7" lv_limit="1" price_hot="3200"/>
+  <ItemSpec id="201024" type="7" lv_limit="1" price_hot="12800"/>
+  <ItemSpec id="201025" type="7" lv_limit="1" price_hot="51200"/>
+  <ItemSpec id="201030" type="7" lv_limit="1" price_hot="50" make="1|7200|100"/>
+  <ItemSpec id="201031" type="7" lv_limit="1" price_hot="200"/>
+  <ItemSpec id="201032" type="7" lv_limit="1" price_hot="800"/>
+  <ItemSpec id="201033" type="7" lv_limit="1" price_hot="3200"/>
+  <ItemSpec id="201034" type="7" lv_limit="1" price_hot="12800"/>
+  <ItemSpec id="201035" type="7" lv_limit="1" price_hot="51200"/>
+  <ItemSpec id="201040" type="7" lv_limit="1" price_hot="50" make="1|7200|100"/>
+  <ItemSpec id="201041" type="7" lv_limit="1" price_hot="200"/>
+  <ItemSpec id="201042" type="7" lv_limit="1" price_hot="800"/>
+  <ItemSpec id="201043" type="7" lv_limit="1" price_hot="3200"/>
+  <ItemSpec id="201044" type="7" lv_limit="1" price_hot="12800"/>
+  <ItemSpec id="201045" type="7" lv_limit="1" price_hot="51200"/>
+  <ItemSpec id="201050" type="7" lv_limit="1" price_hot="50" make="1|7200|100"/>
+  <ItemSpec id="201051" type="7" lv_limit="1" price_hot="200"/>
+  <ItemSpec id="201052" type="7" lv_limit="1" price_hot="800"/>
+  <ItemSpec id="201053" type="7" lv_limit="1" price_hot="3200"/>
+  <ItemSpec id="201054" type="7" lv_limit="1" price_hot="12800"/>
+  <ItemSpec id="201055" type="7" lv_limit="1" price_hot="51200"/>
+  <ItemSpec id="201060" type="7" lv_limit="1" price_hot="50" make="1|7200|100"/>
+  <ItemSpec id="201061" type="7" lv_limit="1" price_hot="200"/>
+  <ItemSpec id="201062" type="7" lv_limit="1" price_hot="800"/>
+  <ItemSpec id="201063" type="7" lv_limit="1" price_hot="3200"/>
+  <ItemSpec id="201064" type="7" lv_limit="1" price_hot="12800"/>
+  <ItemSpec id="201065" type="7" lv_limit="1" price_hot="51200"/>
+  <ItemSpec id="201070" type="7" lv_limit="1" price_hot="50" make="1|7200|100"/>
+  <ItemSpec id="201071" type="7" lv_limit="1" price_hot="200"/>
+  <ItemSpec id="201072" type="7" lv_limit="1" price_hot="800"/>
+  <ItemSpec id="201073" type="7" lv_limit="1" price_hot="3200"/>
+  <ItemSpec id="201074" type="7" lv_limit="1" price_hot="12800"/>
+  <ItemSpec id="201075" type="7" lv_limit="1" price_hot="51200"/>
+  <ItemSpec id="201080" type="7" lv_limit="1" price_hot="50" make="1|7200|100"/>
+  <ItemSpec id="201081" type="7" lv_limit="1" price_hot="200"/>
+  <ItemSpec id="201082" type="7" lv_limit="1" price_hot="800"/>
+  <ItemSpec id="201083" type="7" lv_limit="1" price_hot="3200"/>
+  <ItemSpec id="201084" type="7" lv_limit="1" price_hot="12800"/>
+  <ItemSpec id="201085" type="7" lv_limit="1" price_hot="51200"/>
+  <ItemSpec id="201090" type="7" lv_limit="1" price_hot="50" make="1|7200|100"/>
+  <ItemSpec id="201091" type="7" lv_limit="1" price_hot="200"/>
+  <ItemSpec id="201092" type="7" lv_limit="1" price_hot="800"/>
+  <ItemSpec id="201093" type="7" lv_limit="1" price_hot="3200"/>
+  <ItemSpec id="201094" type="7" lv_limit="1" price_hot="12800"/>
+  <ItemSpec id="201095" type="7" lv_limit="1" price_hot="51200"/>
+  <ItemSpec id="201100" type="7" lv_limit="1" price_hot="50" make="1|7200|100"/>
+  <ItemSpec id="201101" type="7" lv_limit="1" price_hot="200"/>
+  <ItemSpec id="201102" type="7" lv_limit="1" price_hot="800"/>
+  <ItemSpec id="201103" type="7" lv_limit="1" price_hot="3200"/>
+  <ItemSpec id="201104" type="7" lv_limit="1" price_hot="12800"/>
+  <ItemSpec id="201105" type="7" lv_limit="1" price_hot="51200"/>
+  <ItemSpec id="201110" type="7" lv_limit="1" price_hot="50" make="1|7200|100"/>
+  <ItemSpec id="201111" type="7" lv_limit="1" price_hot="200"/>
+  <ItemSpec id="201112" type="7" lv_limit="1" price_hot="800"/>
+  <ItemSpec id="201113" type="7" lv_limit="1" price_hot="3200"/>
+  <ItemSpec id="201114" type="7" lv_limit="1" price_hot="12800"/>
+  <ItemSpec id="201115" type="7" lv_limit="1" price_hot="51200"/>
+  <ItemSpec id="201120" type="7" lv_limit="1" price_hot="50" make="1|7200|100"/>
+  <ItemSpec id="201121" type="7" lv_limit="1" price_hot="200"/>
+  <ItemSpec id="201122" type="7" lv_limit="1" price_hot="800"/>
+  <ItemSpec id="201123" type="7" lv_limit="1" price_hot="3200"/>
+  <ItemSpec id="201124" type="7" lv_limit="1" price_hot="12800"/>
+  <ItemSpec id="201125" type="7" lv_limit="1" price_hot="51200"/>
+  <ItemSpec id="202001" type="9" lv_limit="1" para1="1101601" price_crystal="800"/>
+  <ItemSpec id="202002" type="9" lv_limit="1" para1="1101602" price_crystal="2400"/>
+  <ItemSpec id="202003" type="9" lv_limit="1" para1="1101603" price_crystal="7200"/>
+  <ItemSpec id="202004" type="9" lv_limit="1" para1="1101604" price_crystal="22000"/>
+  <ItemSpec id="202005" type="9" lv_limit="1" para1="1101605" price_crystal="65000"/>
+  <ItemSpec id="202006" type="5" lv_limit="1" para1="241067" price_hot="50" useall="1"/>
+  <ItemSpec id="202007" type="5" lv_limit="1" para1="241068" price_hot="50" useall="1"/>
+  <ItemSpec id="202008" type="5" lv_limit="1" para1="241137" price_hot="200" useall="1"/>
+  <ItemSpec id="202009" type="5" lv_limit="1" para1="241138" price_hot="1900" useall="1"/>
+  <ItemSpec id="203000" type="4" lv_limit="1" para1="500500" price_hot="5"/>
+  <ItemSpec id="203001" type="4" lv_limit="1" para1="500501" price="300" price_hot="300"/>
+  <ItemSpec id="203002" type="4" lv_limit="1" para1="500502" price="600" price_hot="600"/>
+  <ItemSpec id="203003" type="4" lv_limit="1" para1="500503" price="2500" price_hot="2500"/>
+  <ItemSpec id="203004" type="4" lv_limit="1" para1="500504" price_hot="5"/>
+  <ItemSpec id="203005" type="4" lv_limit="1" para1="500505" price="300" price_hot="300"/>
+  <ItemSpec id="203006" type="4" lv_limit="1" para1="500506" price="600" price_hot="600"/>
+  <ItemSpec id="203007" type="4" lv_limit="1" para1="500507" price="2500" price_hot="2500"/>
+  <ItemSpec id="209000" type="3" lv_limit="1" para1="104" para2="10" price_hot="1" useall="1"/>
+  <ItemSpec id="209001" type="5" lv_limit="1" para1="230190" price_hot="20"/>
+  <ItemSpec id="209002" type="5" lv_limit="1" para1="230191" price_hot="200"/>
+  <ItemSpec id="209003" type="5" lv_limit="1" para1="230192" price_hot="1000"/>
+  <ItemSpec id="209004" type="0" lv_limit="1" price_hot="1000000"/>
+  <ItemSpec id="209005" type="5" lv_limit="1" para1="230194" useall="1"/>
+  <ItemSpec id="209170" type="3" lv_limit="1" para1="70" para2="86400"/>
+  <ItemSpec id="209200" type="2" lv_limit="1" para1="1" para2="1" para3="3600"/>
+  <ItemSpec id="209171" type="3" lv_limit="1" para1="70" para2="604800"/>
+  <ItemSpec id="209172" type="5" lv_limit="1" para1="230193" useall="1"/>
+  <ItemSpec id="209173" type="5" lv_limit="1" para1="230194" useall="1"/>
+  <ItemSpec id="209174" type="3" lv_limit="1" para1="104" para2="1000" price="10" sales="1;10|10;90|100;800" price_hot="10" useall="1"/>
+  <ItemSpec id="209175" type="5" lv_limit="1" para1="230097" price="399" price_hot="599" useall="1"/>
+  <ItemSpec id="209176" type="5" lv_limit="1" para1="230098" price="4999" price_hot="7999" useall="1"/>
+  <ItemSpec id="209177" type="5" lv_limit="1" para1="230193" useall="1"/>
+  <ItemSpec id="209178" type="0" lv_limit="1"/>
+  <ItemSpec id="209179" type="5" lv_limit="1" para1="230099" useall="1"/>
+  <ItemSpec id="209180" type="5" lv_limit="1" para1="240001" useall="1"/>
+  <ItemSpec id="209181" type="5" lv_limit="1" para1="240003" useall="1"/>
+  <ItemSpec id="209182" type="0" lv_limit="1"/>
+  <ItemSpec id="209183" type="5" lv_limit="1" para1="230099" useall="1"/>
+  <ItemSpec id="209184" type="5" lv_limit="1" para1="230099" useall="1"/>
+  <ItemSpec id="209185" type="5" lv_limit="1" para1="230099" useall="1"/>
+  <ItemSpec id="209300" type="3" lv_limit="1" para1="101" para2="10000" useall="1"/>
+  <ItemSpec id="209301" type="3" lv_limit="1" para1="101" para2="50000" useall="1"/>
+  <ItemSpec id="209302" type="3" lv_limit="1" para1="101" para2="150000" useall="1"/>
+  <ItemSpec id="209303" type="3" lv_limit="1" para1="101" para2="500000" useall="1"/>
+  <ItemSpec id="209304" type="3" lv_limit="1" para1="101" para2="1500000" useall="1"/>
+  <ItemSpec id="209305" type="3" lv_limit="1" para1="101" para2="5000000" useall="1"/>
+  <ItemSpec id="209306" type="3" lv_limit="1" para1="101" para2="1000" useall="1"/>
+  <ItemSpec id="209307" type="3" lv_limit="1" para1="101" para2="2000" useall="1"/>
+  <ItemSpec id="209308" type="3" lv_limit="1" para1="101" para2="4000" useall="1"/>
+  <ItemSpec id="209309" type="3" lv_limit="1" para1="101" para2="30000" useall="1"/>
+  <ItemSpec id="209310" type="3" lv_limit="15" para1="102" para2="400" useall="1"/>
+  <ItemSpec id="209311" type="3" lv_limit="15" para1="102" para2="2000" useall="1"/>
+  <ItemSpec id="209312" type="3" lv_limit="15" para1="102" para2="6250" useall="1"/>
+  <ItemSpec id="209313" type="3" lv_limit="15" para1="102" para2="20000" useall="1"/>
+  <ItemSpec id="209314" type="3" lv_limit="15" para1="102" para2="62500" useall="1"/>
+  <ItemSpec id="209315" type="3" lv_limit="15" para1="102" para2="200000" useall="1"/>
+  <ItemSpec id="209316" type="3" lv_limit="15" para1="102" para2="40" useall="1"/>
+  <ItemSpec id="209317" type="3" lv_limit="15" para1="102" para2="80" useall="1"/>
+  <ItemSpec id="209318" type="3" lv_limit="15" para1="102" para2="160" useall="1"/>
+  <ItemSpec id="209319" type="3" lv_limit="15" para1="102" para2="1250" useall="1"/>
+  <ItemSpec id="209320" type="3" lv_limit="10" para1="103" para2="1600" useall="1"/>
+  <ItemSpec id="209321" type="3" lv_limit="10" para1="103" para2="8000" useall="1"/>
+  <ItemSpec id="209322" type="3" lv_limit="10" para1="103" para2="25000" useall="1"/>
+  <ItemSpec id="209323" type="3" lv_limit="10" para1="103" para2="80000" useall="1"/>
+  <ItemSpec id="209324" type="3" lv_limit="10" para1="103" para2="250000" useall="1"/>
+  <ItemSpec id="209325" type="3" lv_limit="10" para1="103" para2="800000" useall="1"/>
+  <ItemSpec id="209326" type="3" lv_limit="10" para1="103" para2="150" useall="1"/>
+  <ItemSpec id="209327" type="3" lv_limit="10" para1="103" para2="300" useall="1"/>
+  <ItemSpec id="209328" type="3" lv_limit="10" para1="103" para2="600" useall="1"/>
+  <ItemSpec id="209329" type="3" lv_limit="10" para1="103" para2="5000" useall="1"/>
+  <ItemSpec id="209330" type="3" lv_limit="1" para1="104" para2="10000" useall="1"/>
+  <ItemSpec id="209331" type="3" lv_limit="1" para1="104" para2="50000" useall="1"/>
+  <ItemSpec id="209332" type="3" lv_limit="1" para1="104" para2="150000" useall="1"/>
+  <ItemSpec id="209333" type="3" lv_limit="1" para1="104" para2="500000" useall="1"/>
+  <ItemSpec id="209334" type="3" lv_limit="1" para1="104" para2="1500000" useall="1"/>
+  <ItemSpec id="209335" type="3" lv_limit="1" para1="104" para2="5000000" useall="1"/>
+  <ItemSpec id="209336" type="3" lv_limit="1" para1="104" para2="1000" useall="1"/>
+  <ItemSpec id="209337" type="3" lv_limit="1" para1="104" para2="2000" useall="1"/>
+  <ItemSpec id="209338" type="3" lv_limit="1" para1="104" para2="4000" useall="1"/>
+  <ItemSpec id="209339" type="3" lv_limit="1" para1="104" para2="30000" useall="1"/>
+  <ItemSpec id="209340" type="3" lv_limit="1" para1="101" para2="10000" useall="1"/>
+  <ItemSpec id="209341" type="3" lv_limit="1" para1="101" para2="50000" useall="1"/>
+  <ItemSpec id="209342" type="3" lv_limit="1" para1="101" para2="150000" useall="1"/>
+  <ItemSpec id="209343" type="3" lv_limit="1" para1="101" para2="500000" useall="1"/>
+  <ItemSpec id="209344" type="3" lv_limit="1" para1="101" para2="1500000" useall="1"/>
+  <ItemSpec id="209345" type="3" lv_limit="1" para1="101" para2="5000000" useall="1"/>
+  <ItemSpec id="209346" type="3" lv_limit="1" para1="101" para2="1000" useall="1"/>
+  <ItemSpec id="209347" type="3" lv_limit="1" para1="101" para2="2000" useall="1"/>
+  <ItemSpec id="209348" type="3" lv_limit="1" para1="101" para2="4000" useall="1"/>
+  <ItemSpec id="209349" type="3" lv_limit="1" para1="101" para2="30000" useall="1"/>
+  <ItemSpec id="209350" type="3" lv_limit="1" para1="104" para2="10000" useall="1"/>
+  <ItemSpec id="209351" type="3" lv_limit="1" para1="104" para2="50000" useall="1"/>
+  <ItemSpec id="209352" type="3" lv_limit="1" para1="104" para2="150000" useall="1"/>
+  <ItemSpec id="209353" type="3" lv_limit="1" para1="104" para2="500000" useall="1"/>
+  <ItemSpec id="209354" type="3" lv_limit="1" para1="104" para2="1500000" useall="1"/>
+  <ItemSpec id="209355" type="3" lv_limit="1" para1="104" para2="5000000" useall="1"/>
+  <ItemSpec id="209356" type="3" lv_limit="1" para1="104" para2="1000" useall="1"/>
+  <ItemSpec id="209357" type="3" lv_limit="1" para1="104" para2="2000" useall="1"/>
+  <ItemSpec id="209358" type="3" lv_limit="1" para1="104" para2="4000" useall="1"/>
+  <ItemSpec id="209359" type="3" lv_limit="1" para1="104" para2="30000" useall="1"/>
+  <ItemSpec id="209360" type="3" lv_limit="1" para1="100" para2="5" useall="1"/>
+  <ItemSpec id="209361" type="3" lv_limit="1" para1="100" para2="10" useall="1"/>
+  <ItemSpec id="209362" type="3" lv_limit="1" para1="100" para2="20" useall="1"/>
+  <ItemSpec id="209363" type="3" lv_limit="1" para1="100" para2="50" useall="1"/>
+  <ItemSpec id="209364" type="3" lv_limit="1" para1="100" para2="100" useall="1"/>
+  <ItemSpec id="209365" type="3" lv_limit="1" para1="100" para2="200" useall="1"/>
+  <ItemSpec id="209366" type="3" lv_limit="1" para1="100" para2="1000" useall="1"/>
+  <ItemSpec id="209370" type="3" lv_limit="1" para1="100" para2="5" useall="1"/>
+  <ItemSpec id="209371" type="3" lv_limit="1" para1="100" para2="10" useall="1"/>
+  <ItemSpec id="209372" type="3" lv_limit="1" para1="100" para2="20" useall="1"/>
+  <ItemSpec id="209373" type="3" lv_limit="1" para1="100" para2="50" useall="1"/>
+  <ItemSpec id="209374" type="3" lv_limit="1" para1="100" para2="100" useall="1"/>
+  <ItemSpec id="209375" type="3" lv_limit="1" para1="100" para2="200" useall="1"/>
+  <ItemSpec id="209376" type="3" lv_limit="1" para1="100" para2="1000" useall="1"/>
+  <ItemSpec id="209380" type="3" lv_limit="1" para1="107" para2="10"/>
+  <ItemSpec id="209381" type="3" lv_limit="1" para1="107" para2="50"/>
+  <ItemSpec id="209382" type="3" lv_limit="1" para1="107" para2="100"/>
+  <ItemSpec id="209390" type="3" lv_limit="1" para1="109" para2="5000" useall="1"/>
+  <ItemSpec id="209391" type="3" lv_limit="1" para1="109" para2="20000" useall="1"/>
+  <ItemSpec id="209392" type="3" lv_limit="1" para1="109" para2="100000" useall="1"/>
+  <ItemSpec id="209400" type="3" lv_limit="1" para1="101" para2="10000" useall="1"/>
+  <ItemSpec id="209401" type="3" lv_limit="1" para1="101" para2="50000" useall="1"/>
+  <ItemSpec id="209402" type="3" lv_limit="1" para1="101" para2="150000" useall="1"/>
+  <ItemSpec id="209403" type="3" lv_limit="1" para1="101" para2="500000" useall="1"/>
+  <ItemSpec id="209404" type="3" lv_limit="1" para1="101" para2="1500000" useall="1"/>
+  <ItemSpec id="209405" type="3" lv_limit="1" para1="101" para2="5000000" useall="1"/>
+  <ItemSpec id="209406" type="3" lv_limit="1" para1="101" para2="1000" useall="1"/>
+  <ItemSpec id="209407" type="3" lv_limit="1" para1="101" para2="2000" useall="1"/>
+  <ItemSpec id="209408" type="3" lv_limit="1" para1="101" para2="4000" useall="1"/>
+  <ItemSpec id="209409" type="3" lv_limit="1" para1="101" para2="30000" useall="1"/>
+  <ItemSpec id="209410" type="3" lv_limit="15" para1="102" para2="400" useall="1"/>
+  <ItemSpec id="209411" type="3" lv_limit="15" para1="102" para2="2000" useall="1"/>
+  <ItemSpec id="209412" type="3" lv_limit="15" para1="102" para2="6250" useall="1"/>
+  <ItemSpec id="209413" type="3" lv_limit="15" para1="102" para2="20000" useall="1"/>
+  <ItemSpec id="209414" type="3" lv_limit="15" para1="102" para2="62500" useall="1"/>
+  <ItemSpec id="209415" type="3" lv_limit="15" para1="102" para2="200000" useall="1"/>
+  <ItemSpec id="209416" type="3" lv_limit="15" para1="102" para2="40" useall="1"/>
+  <ItemSpec id="209417" type="3" lv_limit="15" para1="102" para2="80" useall="1"/>
+  <ItemSpec id="209418" type="3" lv_limit="15" para1="102" para2="160" useall="1"/>
+  <ItemSpec id="209419" type="3" lv_limit="15" para1="102" para2="1250" useall="1"/>
+  <ItemSpec id="209420" type="3" lv_limit="10" para1="103" para2="1600" useall="1"/>
+  <ItemSpec id="209421" type="3" lv_limit="10" para1="103" para2="8000" useall="1"/>
+  <ItemSpec id="209422" type="3" lv_limit="10" para1="103" para2="25000" useall="1"/>
+  <ItemSpec id="209423" type="3" lv_limit="10" para1="103" para2="80000" useall="1"/>
+  <ItemSpec id="209424" type="3" lv_limit="10" para1="103" para2="250000" useall="1"/>
+  <ItemSpec id="209425" type="3" lv_limit="10" para1="103" para2="800000" useall="1"/>
+  <ItemSpec id="209426" type="3" lv_limit="10" para1="103" para2="150" useall="1"/>
+  <ItemSpec id="209427" type="3" lv_limit="10" para1="103" para2="300" useall="1"/>
+  <ItemSpec id="209428" type="3" lv_limit="10" para1="103" para2="600" useall="1"/>
+  <ItemSpec id="209429" type="3" lv_limit="10" para1="103" para2="5000" useall="1"/>
+  <ItemSpec id="209430" type="3" lv_limit="1" para1="104" para2="10000" useall="1"/>
+  <ItemSpec id="209431" type="3" lv_limit="1" para1="104" para2="50000" useall="1"/>
+  <ItemSpec id="209432" type="3" lv_limit="1" para1="104" para2="150000" useall="1"/>
+  <ItemSpec id="209433" type="3" lv_limit="1" para1="104" para2="500000" useall="1"/>
+  <ItemSpec id="209434" type="3" lv_limit="1" para1="104" para2="1500000" useall="1"/>
+  <ItemSpec id="209435" type="3" lv_limit="1" para1="104" para2="5000000" useall="1"/>
+  <ItemSpec id="209436" type="3" lv_limit="1" para1="104" para2="1000" useall="1"/>
+  <ItemSpec id="209437" type="3" lv_limit="1" para1="104" para2="2000" useall="1"/>
+  <ItemSpec id="209438" type="3" lv_limit="1" para1="104" para2="4000" useall="1"/>
+  <ItemSpec id="209439" type="3" lv_limit="1" para1="104" para2="30000" useall="1"/>
+  <ItemSpec id="209460" type="3" lv_limit="1" para1="100" para2="5" useall="1"/>
+  <ItemSpec id="209461" type="3" lv_limit="1" para1="100" para2="10" useall="1"/>
+  <ItemSpec id="209462" type="3" lv_limit="1" para1="100" para2="20" useall="1"/>
+  <ItemSpec id="209463" type="3" lv_limit="1" para1="100" para2="50" useall="1"/>
+  <ItemSpec id="209464" type="3" lv_limit="1" para1="100" para2="100" useall="1"/>
+  <ItemSpec id="209465" type="3" lv_limit="1" para1="100" para2="200" useall="1"/>
+  <ItemSpec id="209466" type="3" lv_limit="1" para1="100" para2="1000" useall="1"/>
+  <ItemSpec id="209480" type="3" lv_limit="1" para1="107" para2="10"/>
+  <ItemSpec id="209481" type="3" lv_limit="1" para1="107" para2="50"/>
+  <ItemSpec id="209482" type="3" lv_limit="1" para1="107" para2="100"/>
+  <ItemSpec id="209490" type="3" lv_limit="1" para1="109" para2="5000" useall="1"/>
+  <ItemSpec id="209491" type="3" lv_limit="1" para1="109" para2="20000" useall="1"/>
+  <ItemSpec id="209492" type="3" lv_limit="1" para1="109" para2="100000" useall="1"/>
+  <ItemSpec id="209500" type="5" lv_limit="1" para1="230000" useall="1"/>
+  <ItemSpec id="209564" type="5" lv_limit="1" para1="230104" useall="1"/>
+  <ItemSpec id="209565" type="5" lv_limit="10" para1="230105" useall="1"/>
+  <ItemSpec id="209566" type="5" lv_limit="15" para1="230106" useall="1"/>
+  <ItemSpec id="209567" type="5" lv_limit="15" para1="230107" useall="1"/>
+  <ItemSpec id="209568" type="5" lv_limit="0" para1="1" para2="23000"/>
+  <ItemSpec id="209569" type="13" lv_limit="0" para1="209568" para2="209569|209570|209571" para3="3|5|7"/>
+  <ItemSpec id="209570" type="13" lv_limit="0" para1="209568" para2="209569|209570|209571" para3="3|5|7"/>
+  <ItemSpec id="209571" type="13" lv_limit="0" para1="209568" para2="209569|209570|209571" para3="3|5|7"/>
+  <ItemSpec id="209572" type="5" lv_limit="0" para1="1" para2="241022"/>
+  <ItemSpec id="209573" type="5" lv_limit="1" para1="241027" price_hot="22" useall="1"/>
+  <ItemSpec id="209574" type="5" lv_limit="1" para1="241028" price_hot="102" useall="1"/>
+  <ItemSpec id="209575" type="5" lv_limit="1" para1="241029"/>
+  <ItemSpec id="209576" type="5" lv_limit="6" para1="241030"/>
+  <ItemSpec id="209577" type="5" lv_limit="9" para1="241031"/>
+  <ItemSpec id="209578" type="5" lv_limit="12" para1="241032"/>
+  <ItemSpec id="209579" type="5" lv_limit="1" para1="241071" useall="1"/>
+  <ItemSpec id="209580" type="5" lv_limit="1" para1="241072" useall="1"/>
+  <ItemSpec id="209581" type="5" lv_limit="1" para1="241139" useall="1"/>
+  <ItemSpec id="209582" type="5" lv_limit="1" para1="241140" useall="1"/>
+  <ItemSpec id="209583" type="5" lv_limit="1" para1="241141" useall="1"/>
+  <ItemSpec id="209584" type="5" lv_limit="1" para1="241142" useall="1"/>
+  <ItemSpec id="209585" type="5" lv_limit="1" para1="241143" useall="1"/>
+  <ItemSpec id="209586" type="5" lv_limit="1" para1="241154" useall="1"/>
+  <ItemSpec id="209587" type="5" lv_limit="1" para1="241155" useall="1"/>
+  <ItemSpec id="209588" type="5" lv_limit="1" para1="241156" useall="1"/>
+  <ItemSpec id="209589" type="5" lv_limit="1" para1="241157" useall="1"/>
+  <ItemSpec id="209590" type="5" lv_limit="1" para1="241158" useall="1"/>
+  <ItemSpec id="209591" type="5" lv_limit="1" para1="241165" useall="1"/>
+  <ItemSpec id="209592" type="5" lv_limit="1" para1="241166" useall="1"/>
+  <ItemSpec id="209593" type="5" lv_limit="1" para1="241167" useall="1"/>
+  <ItemSpec id="209594" type="5" lv_limit="1" para1="241168" useall="1"/>
+  <ItemSpec id="209595" type="5" lv_limit="1" para1="241169" useall="1"/>
+  <ItemSpec id="209596" type="5" lv_limit="1" para1="241173" useall="1"/>
+  <ItemSpec id="209597" type="13" lv_limit="1" para1="209599" para2="209597|209598" para3="2|2"/>
+  <ItemSpec id="209598" type="13" lv_limit="1" para1="209599" para2="209597|209598" para3="2|2"/>
+  <ItemSpec id="209599" type="5" lv_limit="1" para1="1" para2="241022" useall="1"/>
+  <ItemSpec id="209601" type="3" lv_limit="1" para1="163" para2="1000" useall="1"/>
+  <ItemSpec id="209602" type="3" lv_limit="1" para1="500" para2="500" useall="1"/>
+  <ItemSpec id="209603" type="3" lv_limit="1" para1="1000" para2="1000" useall="1"/>
+  <ItemSpec id="209604" type="3" lv_limit="1" para1="2000" para2="2000" useall="1"/>
+  <ItemSpec id="987501" type="5" lv_limit="1" para1="987601" use="1" price_hot="50000000"/>
+  <ItemSpec id="987502" type="4" lv_limit="1" para1="830103" price_hot="8000"/>
+  <ItemSpec id="987503" type="4" lv_limit="1" para1="900143" price_hot="14000"/>
+  <ItemSpec id="987509" type="3" lv_limit="1" para1="25000000" para2="25000000"/>
+  <ItemSpec id="987504" type="7" lv_limit="30"/>
+  <ItemSpec id="987505" type="7" lv_limit="30"/>
+  <ItemSpec id="987506" type="7" lv_limit="30"/>
+  </tns:database>

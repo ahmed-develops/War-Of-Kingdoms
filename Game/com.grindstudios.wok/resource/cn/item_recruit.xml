@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="recruit">
+    <ItemSpec id="41000" cost="0"/>
+    <ItemSpec id="41001" cost="50"/>
+    <ItemSpec id="41002" cost="0"/>
+    <ItemSpec id="41003" cost="100"/>
+    <ItemSpec id="41004" cost="200"/>
+    <ItemSpec id="41005" cost="400"/>
+    <ItemSpec id="41006" cost="800"/>
+    <ItemSpec id="41007" cost="1600"/>
+  </Group>
+</tns:database>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ItemSpec id="46031" castleLV="1" rewardID="236000"/>
+  <ItemSpec id="46032" castleLV="2" rewardID="236001"/>
+  <ItemSpec id="46033" castleLV="3" rewardID="236002"/>
+  <ItemSpec id="46034" castleLV="4" rewardID="236003"/>
+  <ItemSpec id="46035" castleLV="5" rewardID="236004"/>
+  <ItemSpec id="46036" castleLV="6" rewardID="236005"/>
+  <ItemSpec id="46037" castleLV="7" rewardID="236006"/>
+  <ItemSpec id="46038" castleLV="8" rewardID="236007"/>
+  <ItemSpec id="46039" castleLV="9" rewardID="236008"/>
+  <ItemSpec id="46040" castleLV="10" rewardID="236009"/>
+  <ItemSpec id="46041" castleLV="11" rewardID="236010"/>
+  <ItemSpec id="46042" castleLV="12" rewardID="236011"/>
+  <ItemSpec id="46043" castleLV="13" rewardID="236012"/>
+  <ItemSpec id="46044" castleLV="14" rewardID="236013"/>
+  <ItemSpec id="46045" castleLV="15" rewardID="236014"/>
+  <ItemSpec id="46046" castleLV="16" rewardID="236015"/>
+  <ItemSpec id="46047" castleLV="17" rewardID="236016"/>
+  <ItemSpec id="46048" castleLV="18" rewardID="236017"/>
+  <ItemSpec id="46049" castleLV="19" rewardID="236018"/>
+  <ItemSpec id="46050" castleLV="20" rewardID="236019"/>
+  <ItemSpec id="46051" castleLV="21" rewardID="236020"/>
+  <ItemSpec id="46052" castleLV="22" rewardID="236021"/>
+  <ItemSpec id="46053" castleLV="23" rewardID="236022"/>
+  <ItemSpec id="46054" castleLV="24" rewardID="236023"/>
+  <ItemSpec id="46055" castleLV="25" rewardID="236024"/>
+  <ItemSpec id="46056" castleLV="26" rewardID="236025"/>
+  <ItemSpec id="46057" castleLV="27" rewardID="236026"/>
+  <ItemSpec id="46058" castleLV="28" rewardID="236027"/>
+  <ItemSpec id="46059" castleLV="29" rewardID="236028"/>
+  <ItemSpec id="46060" castleLV="30" rewardID="236029"/>
+</tns:database>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ItemSpec id="1001" time="180" roll="50000" rangmin="5" rangmax="30" lvlmin="1" lvlmax="50" reward="241008" colour="1"/>
+  <ItemSpec id="1002" time="300" roll="0" rangmin="10" rangmax="60" lvlmin="1" lvlmax="50" reward="241009" colour="2"/>
+  <ItemSpec id="1003" time="600" roll="10000" rangmin="20" rangmax="80" lvlmin="1" lvlmax="50" reward="241010" colour="3"/>
+  <ItemSpec id="1004" time="1800" roll="7500" rangmin="30" rangmax="100" lvlmin="1" lvlmax="50" reward="241010" colour="4"/>
+  <ItemSpec id="1005" time="3600" roll="2500" rangmin="50" rangmax="150" lvlmin="1" lvlmax="50" reward="241010" colour="5"/>
+  <ItemSpec id="1006" time="300" roll="30000" rangmin="10" rangmax="60" lvlmin="1" lvlmax="50" reward="241009" colour="2"/>
+</tns:database>

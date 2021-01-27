@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="power">
+    <ItemSpec id="100000" name="虎牢关" background="power1" class="PowerItemSpec"/>
+    <ItemSpec id="100001" name="下邳" background="power2" class="PowerItemSpec"/>
+    <ItemSpec id="100002" name="官渡" background="power3" class="PowerItemSpec"/>
+    <ItemSpec id="100003" name="西蜀" background="power4" class="PowerItemSpec"/>
+    <ItemSpec id="100004" name="长坂坡" background="power5" class="PowerItemSpec"/>
+    <ItemSpec id="100005" name="江东" background="power6" class="PowerItemSpec"/>
+  </Group>
+</tns:database>

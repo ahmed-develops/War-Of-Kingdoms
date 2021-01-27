@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ItemSpec id="600001" winning_streak="1" Bonus_points="0" shut_down="0" show="0"/>
+  <ItemSpec id="600002" winning_streak="3" Bonus_points="1" shut_down="1" show="0"/>
+  <ItemSpec id="600003" winning_streak="5" Bonus_points="2" shut_down="2" show="0"/>
+  <ItemSpec id="600004" winning_streak="10" Bonus_points="5" shut_down="5" show="1"/>
+  <ItemSpec id="600005" winning_streak="30" Bonus_points="10" shut_down="10" show="1"/>
+  <ItemSpec id="600006" winning_streak="50" Bonus_points="30" shut_down="30" show="1"/>
+</tns:database>

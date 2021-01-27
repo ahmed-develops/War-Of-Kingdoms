@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ItemSpec id="44000" name="g044"/>
+  <ItemSpec id="44001" name="g041"/>
+  <ItemSpec id="44002" name="g024"/>
+  <ItemSpec id="44003" name="g026"/>
+  <ItemSpec id="44004" name="g015"/>
+  <ItemSpec id="44005" name="g038"/>
+  <ItemSpec id="44006" name="g008"/>
+  <ItemSpec id="44007" name="g032"/>
+  <ItemSpec id="44008" name="g012"/>
+  <ItemSpec id="44009" name="g007"/>
+</tns:database>

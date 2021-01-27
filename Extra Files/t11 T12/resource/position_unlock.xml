@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ItemSpec id="9990" lv="1" unlock="1" position="9917;9918;9919;9920;9921" wood="1" stone="0" iron="0" food="1" silver="0"/>
+  <ItemSpec id="9991" lv="1" unlock="1" position="9922;9923;9924;9925;9926" wood="5000" stone="0" iron="0" food="5000" silver="0"/>
+  <ItemSpec id="9992" lv="15" position="9927;9928;9929;9930;9931" wood="200000" stone="5000" iron="50000" food="200000" silver="0"/>
+  <ItemSpec id="9993" lv="10" position="9932;9933;9934;9935;9936" wood="100000" stone="0" iron="2000" food="100000" silver="0"/>
+  <ItemSpec id="9994" lv="5" position="9937;9938;9939;9940;9941" wood="60000" stone="0" iron="0" food="60000" silver="0"/>
+  <ItemSpec id="9995" lv="2" position="9942;9943;9944;9945;9946" wood="30000" stone="0" iron="0" food="30000" silver="0"/>
+  <ItemSpec id="9996" lv="1" unlock="1" position="9947;9948;9949;9950;9951" wood="10000" stone="0" iron="0" food="10000" silver="0"/>
+</tns:database>

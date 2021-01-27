@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ItemSpec id="700100" science_lv="0" max_lv="5" building_condition="403001" research_need="0;0|3;0|2;0|1;0" time_research="120" para1="50" para2="0" power="0"/>
+  <ItemSpec id="700101" science_lv="1" max_lv="5" building_condition="403001" research_need="0;1560|3;0|2;0|1;0" time_research="1800" para1="50" para2="4" power="4"/>
+  <ItemSpec id="700102" science_lv="2" max_lv="5" building_condition="403001" research_need="0;2030|3;0|2;0|1;0" time_research="2700" para1="50" para2="8" power="10"/>
+  <ItemSpec id="700103" science_lv="3" max_lv="5" building_condition="403001" research_need="0;2840|3;0|2;0|1;0" time_research="3240" para1="50" para2="12" power="20"/>
+  <ItemSpec id="700104" science_lv="4" max_lv="5" building_condition="403001" research_need="0;7240|3;0|2;0|1;0" time_research="5443" para1="50" para2="16" power="37"/>
+  <ItemSpec id="700105" science_lv="5" max_lv="5" para1="50" para2="20" power="88"/>
+  <ItemSpec id="700200" science_lv="0" max_lv="5" building_condition="403001" research_need="0;0|3;1200|2;0|1;0" time_research="300" para1="53" para2="0" power="0"/>
+  <ItemSpec id="700201" science_lv="1" max_lv="5" building_condition="403001" research_need="0;0|3;1560|2;0|1;0" time_research="1800" para1="53" para2="4" power="4"/>
+  <ItemSpec id="700202" science_lv="2" max_lv="5" building_condition="403001" research_need="0;0|3;2030|2;0|1;0" time_research="2700" para1="53" para2="8" power="10"/>
+  <ItemSpec id="700203" science_lv="3" max_lv="5" building_condition="403001" research_need="0;0|3;2840|2;0|1;0" time_research="3240" para1="53" para2="12" power="20"/>
+  <ItemSpec id="700204" science_lv="4" max_lv="5" building_condition="403001" research_need="0;0|3;7240|2;0|1;0" time_research="5443" para1="53" para2="16" power="37"/>
+  <ItemSpec id="700205" science_lv="5" max_lv="5" para1="53" para2="20" power="88"/>
+  <ItemSpec id="700300" science_lv="0" max_lv="5" science_condition="700101;700201" building_condition="403005" research_need="0;3830|3;2560|2;0|1;0" time_research="9072" para1="72" para2="0" power="0"/>
+  <ItemSpec id="700301" science_lv="1" max_lv="5" building_condition="403005" research_need="0;6520|3;4340|2;0|1;0" time_research="12700" para1="72" para2="2000" power="47"/>
+  <ItemSpec id="700302" science_lv="2" max_lv="5" building_condition="403005" research_need="0;11730|3;7820|2;0|1;0" time_research="13970" para1="72" para2="4000" power="124"/>
+  <ItemSpec id="700303" science_lv="3" max_lv="5" building_condition="403005" research_need="0;22280|3;14860|2;0|1;0" time_research="15367" para1="72" para2="6000" power="238"/>
+  <ItemSpec id="700304" science_lv="4" max_lv="5" building_condition="403005" research_need="0;42340|3;28230|2;0|1;0" time_research="16904" para1="72" para2="8000" power="390"/>
+  <ItemSpec id="700305" science_lv="5" max_lv="5" para1="72" para2="10000" power="567"/>
+  <ItemSpec id="700400" science_lv="0" max_lv="15" science_condition="700301" building_condition="403007" research_need="0;13030|3;3260|2;0|1;0" time_research="9979" para1="153" para2="0" power="0"/>
+  <ItemSpec id="700401" science_lv="1" max_lv="15" building_condition="403007" research_need="0;13030|3;3260|2;0|1;0" time_research="9979" para1="153" para2="1" power="95"/>
+  <ItemSpec id="700402" science_lv="2" max_lv="15" building_condition="403008" research_need="0;24760|3;6190|2;0|1;0" time_research="10977" para1="153" para2="2" power="190"/>
+  <ItemSpec id="700403" science_lv="3" max_lv="15" building_condition="403008" research_need="0;24760|3;6190|2;0|1;0" time_research="10977" para1="153" para2="3" power="316"/>
+  <ItemSpec id="700404" science_lv="4" max_lv="15" building_condition="403009" research_need="0;47050|3;11760|2;0|1;0" time_research="12074" para1="153" para2="4" power="442"/>
+  <ItemSpec id="700405" science_lv="5" max_lv="15" building_condition="403009" research_need="0;47050|3;11760|2;0|1;0" time_research="12074" para1="153" para2="6" power="589"/>
+  <ItemSpec id="700406" science_lv="6" max_lv="15" building_condition="403010" research_need="0;89390|3;22350|2;0|1;0" time_research="14489" para1="153" para2="8" power="736"/>
+  <ItemSpec id="700407" science_lv="7" max_lv="15" building_condition="403010" research_need="0;67040|3;22350|2;3720|1;0" time_research="14489" para1="153" para2="10" power="907"/>
+  <ItemSpec id="700408" science_lv="8" max_lv="15" building_condition="403011" research_need="0;127380|3;42460|2;7080|1;0" time_research="15938" para1="153" para2="12" power="1078"/>
+  <ItemSpec id="700409" science_lv="9" max_lv="15" building_condition="403011" research_need="0;127380|3;42460|2;7080|1;0" time_research="15938" para1="153" para2="14" power="1278"/>
+  <ItemSpec id="700410" science_lv="10" max_lv="15" building_condition="403012" research_need="0;242010|3;80670|2;13450|1;0" time_research="17532" para1="153" para2="16" power="1478"/>
+  <ItemSpec id="700411" science_lv="11" max_lv="15" building_condition="403012" research_need="0;242010|3;80670|2;13450|1;0" time_research="17532" para1="153" para2="18" power="1719"/>
+  <ItemSpec id="700412" science_lv="12" max_lv="15" building_condition="403013" research_need="0;435620|3;145210|2;24200|1;0" time_research="21039" para1="153" para2="20" power="1960"/>
+  <ItemSpec id="700413" science_lv="13" max_lv="15" building_condition="403013" research_need="0;435620|3;145210|2;24200|1;0" time_research="21039" para1="153" para2="22" power="2251"/>
+  <ItemSpec id="700414" science_lv="14" max_lv="15" building_condition="403014" research_need="0;740560|3;246850|2;41140|1;0" time_research="23143" para1="153" para2="24" power="2542"/>
+  <ItemSpec id="700415" science_lv="15" max_lv="15" para1="153" para2="28" power="2893"/>
+  <ItemSpec id="700500" science_lv="0" max_lv="15" science_condition="700301" building_condition="403007" research_need="0;6520|3;9770|2;0|1;0" time_research="9979" para1="154" para2="0" power="0"/>
+  <ItemSpec id="700501" science_lv="1" max_lv="15" building_condition="403007" research_need="0;6520|3;9770|2;0|1;0" time_research="9979" para1="154" para2="1" power="95"/>
+  <ItemSpec id="700502" science_lv="2" max_lv="15" building_condition="403008" research_need="0;12380|3;18570|2;0|1;0" time_research="10977" para1="154" para2="2" power="190"/>
+  <ItemSpec id="700503" science_lv="3" max_lv="15" building_condition="403008" research_need="0;12380|3;18570|2;0|1;0" time_research="10977" para1="154" para2="3" power="316"/>
+  <ItemSpec id="700504" science_lv="4" max_lv="15" building_condition="403009" research_need="0;23520|3;35280|2;0|1;0" time_research="12074" para1="154" para2="4" power="442"/>
+  <ItemSpec id="700505" science_lv="5" max_lv="15" building_condition="403009" research_need="0;23520|3;35280|2;0|1;0" time_research="12074" para1="154" para2="6" power="589"/>
+  <ItemSpec id="700506" science_lv="6" max_lv="15" building_condition="403010" research_need="0;44690|3;67040|2;0|1;0" time_research="14489" para1="154" para2="8" power="736"/>
+  <ItemSpec id="700507" science_lv="7" max_lv="15" building_condition="403010" research_need="0;44690|3;44690|2;3720|1;0" time_research="14489" para1="154" para2="10" power="907"/>
+  <ItemSpec id="700508" science_lv="8" max_lv="15" building_condition="403011" research_need="0;84920|3;84920|2;7080|1;0" time_research="15938" para1="154" para2="12" power="1078"/>
+  <ItemSpec id="700509" science_lv="9" max_lv="15" building_condition="403011" research_need="0;84920|3;84920|2;7080|1;0" time_research="15938" para1="154" para2="14" power="1278"/>
+  <ItemSpec id="700510" science_lv="10" max_lv="15" building_condition="403012" research_need="0;161340|3;161340|2;13450|1;0" time_research="17532" para1="154" para2="16" power="1478"/>
+  <ItemSpec id="700511" science_lv="11" max_lv="15" building_condition="403012" research_need="0;161340|3;161340|2;13450|1;0" time_research="17532" para1="154" para2="18" power="1719"/>
+  <ItemSpec id="700512" science_lv="12" max_lv="15" building_condition="403013" research_need="0;290420|3;290420|2;24200|1;0" time_research="21039" para1="154" para2="20" power="1960"/>
+  <ItemSpec id="700513" science_lv="13" max_lv="15" building_condition="403013" research_need="0;290420|3;290420|2;24200|1;0" time_research="21039" para1="154" para2="22" power="2251"/>
+  <ItemSpec id="700514" science_lv="14" max_lv="15" building_condition="403014" research_need="0;493710|3;493710|2;41140|1;0" time_research="23143" para1="154" para2="24" power="2542"/>
+  <ItemSpec id="700515" science_lv="15" max_lv="15" para1="154" para2="28" power="2893"/>
+  <ItemSpec id="700600" science_lv="0" max_lv="5" science_condition="700401;700501" building_condition="403010" research_need="0;67040|3;44690|2;0|1;0" time_research="11591" para1="52" para2="0" power="0"/>
+  <ItemSpec id="700601" science_lv="1" max_lv="5" building_condition="403010" research_need="0;33520|3;22350|2;9310|1;0" time_research="11591" para1="52" para2="4" power="171"/>
+  <ItemSpec id="700602" science_lv="2" max_lv="5" building_condition="403011" research_need="0;63690|3;42460|2;17690|1;0" time_research="12751" para1="52" para2="8" power="342"/>
+  <ItemSpec id="700603" science_lv="3" max_lv="5" building_condition="403011" research_need="0;63690|3;42460|2;17690|1;0" time_research="12751" para1="52" para2="12" power="542"/>
+  <ItemSpec id="700604" science_lv="4" max_lv="5" building_condition="403012" research_need="0;121010|3;80670|2;33610|1;0" time_research="14026" para1="52" para2="16" power="742"/>
+  <ItemSpec id="700605" science_lv="5" max_lv="5" para1="52" para2="20" power="983"/>
+  <ItemSpec id="700700" science_lv="0" max_lv="15" science_condition="700601" building_condition="403012" research_need="0;145210|3;145210|2;32270|1;0" time_research="21039" para1="155" para2="0" power="0"/>
+  <ItemSpec id="700701" science_lv="1" max_lv="15" building_condition="403012" research_need="0;145210|3;145210|2;32270|1;0" time_research="21039" para1="155" para2="1" power="289"/>
+  <ItemSpec id="700702" science_lv="2" max_lv="15" building_condition="403012" research_need="0;145210|3;145210|2;32270|1;0" time_research="21039" para1="155" para2="2" power="578"/>
+  <ItemSpec id="700703" science_lv="3" max_lv="15" building_condition="403013" research_need="0;261370|3;261370|2;58080|1;0" time_research="25247" para1="155" para2="3" power="867"/>
+  <ItemSpec id="700704" science_lv="4" max_lv="15" building_condition="403013" research_need="0;261370|3;261370|2;58080|1;0" time_research="25247" para1="155" para2="4" power="1216"/>
+  <ItemSpec id="700705" science_lv="5" max_lv="15" building_condition="403013" research_need="0;261370|3;261370|2;58080|1;0" time_research="25247" para1="155" para2="6" power="1565"/>
+  <ItemSpec id="700706" science_lv="6" max_lv="15" building_condition="403014" research_need="0;444340|3;444340|2;98740|1;0" time_research="27771" para1="155" para2="8" power="1914"/>
+  <ItemSpec id="700707" science_lv="7" max_lv="15" building_condition="403014" research_need="0;444340|3;444340|2;98740|1;0" time_research="27771" para1="155" para2="10" power="2335"/>
+  <ItemSpec id="700708" science_lv="8" max_lv="15" building_condition="403015" research_need="0;710940|3;710940|2;157990|1;0" time_research="36103" para1="155" para2="12" power="2756"/>
+  <ItemSpec id="700709" science_lv="9" max_lv="15" building_condition="403015" research_need="0;710940|3;710940|2;157990|1;0" time_research="36103" para1="155" para2="14" power="3264"/>
+  <ItemSpec id="700710" science_lv="10" max_lv="15" building_condition="403016" research_need="0;1066400|3;1066400|2;236980|1;0" time_research="39713" para1="155" para2="16" power="3772"/>
+  <ItemSpec id="700711" science_lv="11" max_lv="15" building_condition="403016" research_need="0;1066400|3;1066400|2;236980|1;0" time_research="39713" para1="155" para2="18" power="4385"/>
+  <ItemSpec id="700712" science_lv="12" max_lv="15" building_condition="403017" research_need="0;1492970|3;1492970|2;331770|1;0" time_research="47656" para1="155" para2="20" power="4998"/>
+  <ItemSpec id="700713" science_lv="13" max_lv="15" building_condition="403017" research_need="0;1492970|3;1492970|2;331770|1;0" time_research="47656" para1="155" para2="22" power="5737"/>
+  <ItemSpec id="700714" science_lv="14" max_lv="15" building_condition="403018" research_need="0;1940860|3;1940860|2;431300|1;0" time_research="52421" para1="155" para2="24" power="6476"/>
+  <ItemSpec id="700715" science_lv="15" max_lv="15" para1="155" para2="28" power="7367"/>
+  <ItemSpec id="700800" science_lv="0" max_lv="5" science_condition="700701" building_condition="403015" research_need="0;947910|3;0|2;368630|1;0" time_research="36103" para1="51" para2="0" power="0"/>
+  <ItemSpec id="700801" science_lv="1" max_lv="5" building_condition="403015" research_need="0;947910|3;0|2;368630|1;0" time_research="36103" para1="51" para2="4" power="677"/>
+  <ItemSpec id="700802" science_lv="2" max_lv="5" building_condition="403016" research_need="0;947910|3;0|2;473960|1;39500" time_research="39713" para1="51" para2="8" power="1354"/>
+  <ItemSpec id="700803" science_lv="3" max_lv="5" building_condition="403016" research_need="0;947910|3;0|2;473960|1;39500" time_research="39713" para1="51" para2="12" power="2171"/>
+  <ItemSpec id="700804" science_lv="4" max_lv="5" building_condition="403017" research_need="0;1327080|3;0|2;663540|1;55300" time_research="47656" para1="51" para2="16" power="2988"/>
+  <ItemSpec id="700805" science_lv="5" max_lv="5" para1="51" para2="20" power="3974"/>
+  <ItemSpec id="700900" science_lv="0" max_lv="15" science_condition="700801" building_condition="403016" research_need="0;829430|3;829430|2;276480|1;34560" time_research="52951" para1="156" para2="0" power="0"/>
+  <ItemSpec id="700901" science_lv="1" max_lv="15" building_condition="403016" research_need="0;829430|3;829430|2;276480|1;34560" time_research="52951" para1="156" para2="1" power="715"/>
+  <ItemSpec id="700902" science_lv="2" max_lv="15" building_condition="403017" research_need="0;1161200|3;1161200|2;387070|1;48380" time_research="63541" para1="156" para2="2" power="1430"/>
+  <ItemSpec id="700903" science_lv="3" max_lv="15" building_condition="403017" research_need="0;1161200|3;1161200|2;387070|1;48380" time_research="63541" para1="156" para2="3" power="2292"/>
+  <ItemSpec id="700904" science_lv="4" max_lv="15" building_condition="403017" research_need="0;1161200|3;1161200|2;387070|1;48380" time_research="63541" para1="156" para2="4" power="3154"/>
+  <ItemSpec id="700905" science_lv="5" max_lv="15" building_condition="403018" research_need="0;1509550|3;1509550|2;503180|1;62900" time_research="69895" para1="156" para2="6" power="4016"/>
+  <ItemSpec id="700906" science_lv="6" max_lv="15" building_condition="403018" research_need="0;1509550|3;1509550|2;503180|1;62900" time_research="69895" para1="156" para2="8" power="5056"/>
+  <ItemSpec id="700907" science_lv="7" max_lv="15" building_condition="403018" research_need="0;1509550|3;1509550|2;503180|1;62900" time_research="69895" para1="156" para2="10" power="6096"/>
+  <ItemSpec id="700908" science_lv="8" max_lv="15" building_condition="403019" research_need="0;1962420|3;1962420|2;654140|1;81770" time_research="76885" para1="156" para2="12" power="7136"/>
+  <ItemSpec id="700909" science_lv="9" max_lv="15" building_condition="403019" research_need="0;1962420|3;1962420|2;654140|1;81770" time_research="76885" para1="156" para2="14" power="8390"/>
+  <ItemSpec id="700910" science_lv="10" max_lv="15" building_condition="403020" research_need="0;2551150|3;2551150|2;850380|1;106300" time_research="92262" para1="156" para2="16" power="9644"/>
+  <ItemSpec id="700911" science_lv="11" max_lv="15" building_condition="403020" research_need="0;2551150|3;2551150|2;850380|1;106300" time_research="92262" para1="156" para2="18" power="11157"/>
+  <ItemSpec id="700912" science_lv="12" max_lv="15" building_condition="403021" research_need="0;3316490|3;3316490|2;1105500|1;138190" time_research="101488" para1="156" para2="20" power="12670"/>
+  <ItemSpec id="700913" science_lv="13" max_lv="15" building_condition="403021" research_need="0;3316490|3;3316490|2;1105500|1;138190" time_research="101488" para1="156" para2="22" power="14372"/>
+  <ItemSpec id="700914" science_lv="14" max_lv="15" building_condition="403022" research_need="0;4311440|3;4311440|2;1437150|1;179640" time_research="121786" para1="156" para2="24" power="16074"/>
+  <ItemSpec id="700915" science_lv="15" max_lv="15" para1="156" para2="28" power="17989"/>
+  <ItemSpec id="701000" science_lv="0" max_lv="5" science_condition="700801" building_condition="403016" research_need="0;1895830|3;947910|2;78990|1;59240" time_research="66189" para1="79" para2="0" power="0"/>
+  <ItemSpec id="701001" science_lv="1" max_lv="5" building_condition="403017" research_need="0;2654160|3;1327080|2;110590|1;82940" time_research="79427" para1="79" para2="2" power="817"/>
+  <ItemSpec id="701002" science_lv="2" max_lv="5" building_condition="403018" research_need="0;3450410|3;1725210|2;143770|1;107830" time_research="87369" para1="79" para2="4" power="1803"/>
+  <ItemSpec id="701003" science_lv="3" max_lv="5" building_condition="403019" research_need="0;4485530|3;2242770|2;186900|1;140170" time_research="96106" para1="79" para2="6" power="2992"/>
+  <ItemSpec id="701004" science_lv="4" max_lv="5" building_condition="403020" research_need="0;5831190|3;2915600|2;242970|1;182220" time_research="115328" para1="79" para2="8" power="4426"/>
+  <ItemSpec id="701005" science_lv="5" max_lv="5" para1="79" para2="10" power="6155"/>
+  <ItemSpec id="701200" science_lv="0" max_lv="15" science_condition="700901;701001" building_condition="403018" research_need="0;2156510|3;0|2;359420|1;0" time_research="26210" para1="50" para2="0" power="0"/>
+  <ItemSpec id="701201" science_lv="1" max_lv="15" building_condition="403019" research_need="0;2803460|3;0|2;467240|1;0" time_research="28832" para1="50" para2="4" power="594"/>
+  <ItemSpec id="701202" science_lv="2" max_lv="15" building_condition="403020" research_need="0;3644500|3;0|2;607420|1;0" time_research="34598" para1="50" para2="8" power="1311"/>
+  <ItemSpec id="701203" science_lv="3" max_lv="15" building_condition="403020" research_need="0;3644500|3;0|2;607420|1;0" time_research="34598" para1="50" para2="12" power="2175"/>
+  <ItemSpec id="701204" science_lv="4" max_lv="15" building_condition="403021" research_need="0;4737840|3;0|2;789640|1;0" time_research="38058" para1="50" para2="16" power="3039"/>
+  <ItemSpec id="701205" science_lv="5" max_lv="15" building_condition="403021" research_need="0;4737840|3;0|2;789640|1;0" time_research="38058" para1="50" para2="20" power="4011"/>
+  <ItemSpec id="701206" science_lv="6" max_lv="15" building_condition="403022" research_need="0;6159200|3;0|2;1026530|1;0" time_research="45669" para1="50" para2="24" power="4983"/>
+  <ItemSpec id="701207" science_lv="7" max_lv="15" building_condition="403022" research_need="0;6159200|3;0|2;1026530|1;0" time_research="45669" para1="50" para2="28" power="6077"/>
+  <ItemSpec id="701208" science_lv="8" max_lv="15" building_condition="403023" research_need="0;4737840|3;0|2;789640|1;0" time_research="50236" para1="50" para2="32" power="7171"/>
+  <ItemSpec id="701209" science_lv="9" max_lv="15" building_condition="403023" research_need="0;4737840|3;0|2;789640|1;0" time_research="50236" para1="50" para2="36" power="8402"/>
+  <ItemSpec id="701210" science_lv="10" max_lv="15" building_condition="403024" research_need="0;10409040|3;0|2;1734840|1;0" time_research="55260" para1="50" para2="40" power="9633"/>
+  <ItemSpec id="701211" science_lv="11" max_lv="15" building_condition="403024" research_need="0;10409040|3;0|2;1734840|1;0" time_research="55260" para1="50" para2="44" power="11018"/>
+  <ItemSpec id="701212" science_lv="12" max_lv="15" building_condition="403025" research_need="0;13531760|3;0|2;2255290|1;0" time_research="60786" para1="50" para2="48" power="12403"/>
+  <ItemSpec id="701213" science_lv="13" max_lv="15" building_condition="403025" research_need="0;13531760|3;0|2;2255290|1;0" time_research="60786" para1="50" para2="52" power="13961"/>
+  <ItemSpec id="701214" science_lv="14" max_lv="15" building_condition="403025" research_need="0;13531760|3;0|2;2255290|1;0" time_research="60786" para1="50" para2="56" power="15519"/>
+  <ItemSpec id="701215" science_lv="15" max_lv="15" para1="50" para2="60" power="17077"/>
+  <ItemSpec id="701300" science_lv="0" max_lv="15" science_condition="700901;701001" building_condition="403018" research_need="0;0|3;2587810|2;0|1;71880" time_research="26210" para1="53" para2="0" power="0"/>
+  <ItemSpec id="701301" science_lv="1" max_lv="15" building_condition="403019" research_need="0;0|3;3364150|2;0|1;93450" time_research="28832" para1="53" para2="4" power="594"/>
+  <ItemSpec id="701302" science_lv="2" max_lv="15" building_condition="403020" research_need="0;0|3;4373390|2;0|1;121480" time_research="34598" para1="53" para2="8" power="1311"/>
+  <ItemSpec id="701303" science_lv="3" max_lv="15" building_condition="403020" research_need="0;0|3;4373390|2;0|1;121480" time_research="34598" para1="53" para2="12" power="2175"/>
+  <ItemSpec id="701304" science_lv="4" max_lv="15" building_condition="403021" research_need="0;0|3;5685410|2;0|1;157930" time_research="38058" para1="53" para2="16" power="3039"/>
+  <ItemSpec id="701305" science_lv="5" max_lv="15" building_condition="403021" research_need="0;0|3;5685410|2;0|1;157930" time_research="38058" para1="53" para2="20" power="4011"/>
+  <ItemSpec id="701306" science_lv="6" max_lv="15" building_condition="403022" research_need="0;0|3;7391040|2;0|1;205310" time_research="45669" para1="53" para2="24" power="4983"/>
+  <ItemSpec id="701307" science_lv="7" max_lv="15" building_condition="403022" research_need="0;0|3;7391040|2;0|1;205310" time_research="45669" para1="53" para2="28" power="6077"/>
+  <ItemSpec id="701308" science_lv="8" max_lv="15" building_condition="403023" research_need="0;0|3;5685410|2;0|1;157930" time_research="50236" para1="53" para2="32" power="7171"/>
+  <ItemSpec id="701309" science_lv="9" max_lv="15" building_condition="403023" research_need="0;0|3;5685410|2;0|1;157930" time_research="50236" para1="53" para2="36" power="8402"/>
+  <ItemSpec id="701310" science_lv="10" max_lv="15" building_condition="403024" research_need="0;0|3;12490850|2;0|1;346970" time_research="55260" para1="53" para2="40" power="9633"/>
+  <ItemSpec id="701311" science_lv="11" max_lv="15" building_condition="403024" research_need="0;0|3;12490850|2;0|1;346970" time_research="55260" para1="53" para2="44" power="11018"/>
+  <ItemSpec id="701312" science_lv="12" max_lv="15" building_condition="403025" research_need="0;0|3;16238110|2;0|1;451060" time_research="60786" para1="53" para2="48" power="12403"/>
+  <ItemSpec id="701313" science_lv="13" max_lv="15" building_condition="403025" research_need="0;0|3;16238110|2;0|1;451060" time_research="60786" para1="53" para2="52" power="13961"/>
+  <ItemSpec id="701314" science_lv="14" max_lv="15" building_condition="403025" research_need="0;0|3;16238110|2;0|1;451060" time_research="60786" para1="53" para2="56" power="15519"/>
+  <ItemSpec id="701315" science_lv="15" max_lv="15" para1="53" para2="60" power="17077"/>
+  <ItemSpec id="701400" science_lv="0" max_lv="10" science_condition="701201;701301" building_condition="403021" research_need="0;2842710|3;2842710|2;710680|1;177670" time_research="88802" para1="72" para2="0" power="0"/>
+  <ItemSpec id="701401" science_lv="1" max_lv="10" building_condition="403021" research_need="0;2842710|3;2842710|2;710680|1;177670" time_research="88802" para1="72" para2="2000" power="1459"/>
+  <ItemSpec id="701402" science_lv="2" max_lv="10" building_condition="403021" research_need="0;2842710|3;2842710|2;710680|1;177670" time_research="88802" para1="72" para2="4000" power="2918"/>
+  <ItemSpec id="701403" science_lv="3" max_lv="10" building_condition="403022" research_need="0;3695520|3;3695520|2;923880|1;230970" time_research="106563" para1="72" para2="6000" power="4377"/>
+  <ItemSpec id="701404" science_lv="4" max_lv="10" building_condition="403022" research_need="0;3695520|3;3695520|2;923880|1;230970" time_research="106563" para1="72" para2="8000" power="6018"/>
+  <ItemSpec id="701405" science_lv="5" max_lv="10" building_condition="403022" research_need="0;3695520|3;3695520|2;923880|1;230970" time_research="106563" para1="72" para2="10000" power="7659"/>
+  <ItemSpec id="701406" science_lv="6" max_lv="10" building_condition="403023" research_need="0;2842710|3;2842710|2;710680|1;177670" time_research="117219" para1="72" para2="12000" power="9300"/>
+  <ItemSpec id="701407" science_lv="7" max_lv="10" building_condition="403023" research_need="0;2842710|3;2842710|2;710680|1;177670" time_research="117219" para1="72" para2="14000" power="11146"/>
+  <ItemSpec id="701408" science_lv="8" max_lv="10" building_condition="403023" research_need="0;2842710|3;2842710|2;710680|1;177670" time_research="117219" para1="72" para2="16000" power="12992"/>
+  <ItemSpec id="701409" science_lv="9" max_lv="10" building_condition="403024" research_need="0;6245430|3;6245430|2;1561360|1;390340" time_research="128941" para1="72" para2="18000" power="14838"/>
+  <ItemSpec id="701410" science_lv="10" max_lv="10" para1="72" para2="20000" power="16915"/>
+  <ItemSpec id="701500" science_lv="0" max_lv="15" science_condition="701401" building_condition="403022" research_need="0;12318400|3;0|2;513270|1;0" time_research="76116" para1="153" para2="0" power="0"/>
+  <ItemSpec id="701501" science_lv="1" max_lv="15" building_condition="403022" research_need="0;12318400|3;0|2;513270|1;0" time_research="76116" para1="153" para2="1" power="1368"/>
+  <ItemSpec id="701502" science_lv="2" max_lv="15" building_condition="403022" research_need="0;12318400|3;0|2;513270|1;0" time_research="76116" para1="153" para2="2" power="2736"/>
+  <ItemSpec id="701503" science_lv="3" max_lv="15" building_condition="403022" research_need="0;12318400|3;0|2;513270|1;0" time_research="76116" para1="153" para2="3" power="4104"/>
+  <ItemSpec id="701504" science_lv="4" max_lv="15" building_condition="403023" research_need="0;9475690|3;0|2;394820|1;0" time_research="83728" para1="153" para2="4" power="5472"/>
+  <ItemSpec id="701505" science_lv="5" max_lv="15" building_condition="403023" research_need="0;9475690|3;0|2;394820|1;0" time_research="83728" para1="153" para2="6" power="7011"/>
+  <ItemSpec id="701506" science_lv="6" max_lv="15" building_condition="403023" research_need="0;9475690|3;0|2;394820|1;0" time_research="83728" para1="153" para2="8" power="8550"/>
+  <ItemSpec id="701507" science_lv="7" max_lv="15" building_condition="403023" research_need="0;9475690|3;0|2;394820|1;0" time_research="83728" para1="153" para2="10" power="10089"/>
+  <ItemSpec id="701508" science_lv="8" max_lv="15" building_condition="403024" research_need="0;20818090|3;0|2;867420|1;0" time_research="92101" para1="153" para2="12" power="11628"/>
+  <ItemSpec id="701509" science_lv="9" max_lv="15" building_condition="403024" research_need="0;20818090|3;0|2;867420|1;0" time_research="92101" para1="153" para2="14" power="13359"/>
+  <ItemSpec id="701510" science_lv="10" max_lv="15" building_condition="403024" research_need="0;20818090|3;0|2;867420|1;0" time_research="92101" para1="153" para2="16" power="15090"/>
+  <ItemSpec id="701511" science_lv="11" max_lv="15" building_condition="403024" research_need="0;20818090|3;0|2;867420|1;0" time_research="92101" para1="153" para2="18" power="16821"/>
+  <ItemSpec id="701512" science_lv="12" max_lv="15" building_condition="403025" research_need="0;27063510|3;0|2;1127650|1;0" time_research="101311" para1="153" para2="20" power="18552"/>
+  <ItemSpec id="701513" science_lv="13" max_lv="15" building_condition="403025" research_need="0;27063510|3;0|2;1127650|1;0" time_research="101311" para1="153" para2="22" power="20499"/>
+  <ItemSpec id="701514" science_lv="14" max_lv="15" building_condition="403025" research_need="0;27063510|3;0|2;1127650|1;0" time_research="101311" para1="153" para2="24" power="22446"/>
+  <ItemSpec id="701515" science_lv="15" max_lv="15" para1="153" para2="28" power="24393"/>
+  <ItemSpec id="701600" science_lv="0" max_lv="15" science_condition="701401" building_condition="403022" research_need="0;0|3;9238800|2;0|1;256630" time_research="76116" para1="154" para2="0" power="0"/>
+  <ItemSpec id="701601" science_lv="1" max_lv="15" building_condition="403022" research_need="0;0|3;9238800|2;0|1;256630" time_research="76116" para1="154" para2="1" power="1368"/>
+  <ItemSpec id="701602" science_lv="2" max_lv="15" building_condition="403022" research_need="0;0|3;9238800|2;0|1;256630" time_research="76116" para1="154" para2="2" power="2736"/>
+  <ItemSpec id="701603" science_lv="3" max_lv="15" building_condition="403022" research_need="0;0|3;9238800|2;0|1;256630" time_research="76116" para1="154" para2="3" power="4104"/>
+  <ItemSpec id="701604" science_lv="4" max_lv="15" building_condition="403023" research_need="0;0|3;7106770|2;0|1;197410" time_research="83728" para1="154" para2="4" power="5472"/>
+  <ItemSpec id="701605" science_lv="5" max_lv="15" building_condition="403023" research_need="0;0|3;7106770|2;0|1;197410" time_research="83728" para1="154" para2="6" power="7011"/>
+  <ItemSpec id="701606" science_lv="6" max_lv="15" building_condition="403023" research_need="0;0|3;7106770|2;0|1;197410" time_research="83728" para1="154" para2="8" power="8550"/>
+  <ItemSpec id="701607" science_lv="7" max_lv="15" building_condition="403023" research_need="0;0|3;7106770|2;0|1;197410" time_research="83728" para1="154" para2="10" power="10089"/>
+  <ItemSpec id="701608" science_lv="8" max_lv="15" building_condition="403024" research_need="0;0|3;15613570|2;0|1;433710" time_research="92101" para1="154" para2="12" power="11628"/>
+  <ItemSpec id="701609" science_lv="9" max_lv="15" building_condition="403024" research_need="0;0|3;15613570|2;0|1;433710" time_research="92101" para1="154" para2="14" power="13359"/>
+  <ItemSpec id="701610" science_lv="10" max_lv="15" building_condition="403024" research_need="0;0|3;15613570|2;0|1;433710" time_research="92101" para1="154" para2="16" power="15090"/>
+  <ItemSpec id="701611" science_lv="11" max_lv="15" building_condition="403024" research_need="0;0|3;15613570|2;0|1;433710" time_research="92101" para1="154" para2="18" power="16821"/>
+  <ItemSpec id="701612" science_lv="12" max_lv="15" building_condition="403025" research_need="0;0|3;20297640|2;0|1;563820" time_research="101311" para1="154" para2="20" power="18552"/>
+  <ItemSpec id="701613" science_lv="13" max_lv="15" building_condition="403025" research_need="0;0|3;20297640|2;0|1;563820" time_research="101311" para1="154" para2="22" power="20499"/>
+  <ItemSpec id="701614" science_lv="14" max_lv="15" building_condition="403025" research_need="0;0|3;20297640|2;0|1;563820" time_research="101311" para1="154" para2="24" power="22446"/>
+  <ItemSpec id="701615" science_lv="15" max_lv="15" para1="154" para2="28" power="24393"/>
+  <ItemSpec id="701700" science_lv="0" max_lv="15" science_condition="701501;701601" building_condition="403024" research_need="0;0|3;5204520|2;3469680|1;0" time_research="73680" para1="52" para2="0" power="0"/>
+  <ItemSpec id="701701" science_lv="1" max_lv="15" building_condition="403024" research_need="0;0|3;5204520|2;3469680|1;0" time_research="73680" para1="52" para2="4" power="1731"/>
+  <ItemSpec id="701702" science_lv="2" max_lv="15" building_condition="403024" research_need="0;0|3;5204520|2;3469680|1;0" time_research="73680" para1="52" para2="8" power="3462"/>
+  <ItemSpec id="701703" science_lv="3" max_lv="15" building_condition="403024" research_need="0;0|3;5204520|2;3469680|1;0" time_research="73680" para1="52" para2="12" power="5193"/>
+  <ItemSpec id="701704" science_lv="4" max_lv="15" building_condition="403025" research_need="0;0|3;6765880|2;4510590|1;0" time_research="81048" para1="52" para2="16" power="6924"/>
+  <ItemSpec id="701705" science_lv="5" max_lv="15" building_condition="403025" research_need="0;0|3;6765880|2;4510590|1;0" time_research="81048" para1="52" para2="20" power="8871"/>
+  <ItemSpec id="701706" science_lv="6" max_lv="15" building_condition="403025" research_need="0;0|3;6765880|2;4510590|1;0" time_research="81048" para1="52" para2="24" power="10818"/>
+  <ItemSpec id="701707" science_lv="7" max_lv="15" building_condition="403025" research_need="0;0|3;6765880|2;4510590|1;0" time_research="81048" para1="52" para2="28" power="12765"/>
+  <ItemSpec id="701708" science_lv="8" max_lv="15" building_condition="403026" research_need="0;0|3;8795640|2;5863760|1;0" time_research="89153" para1="52" para2="32" power="14712"/>
+  <ItemSpec id="701709" science_lv="9" max_lv="15" building_condition="403026" research_need="0;0|3;8795640|2;5863760|1;0" time_research="89153" para1="52" para2="36" power="16903"/>
+  <ItemSpec id="701710" science_lv="10" max_lv="15" building_condition="403026" research_need="0;0|3;8795640|2;5863760|1;0" time_research="89153" para1="52" para2="40" power="19094"/>
+  <ItemSpec id="701711" science_lv="11" max_lv="15" building_condition="403026" research_need="0;0|3;8795640|2;5863760|1;0" time_research="89153" para1="52" para2="44" power="21285"/>
+  <ItemSpec id="701712" science_lv="12" max_lv="15" building_condition="403027" research_need="0;0|3;11434340|2;7622890|1;0" time_research="98069" para1="52" para2="48" power="23476"/>
+  <ItemSpec id="701713" science_lv="13" max_lv="15" building_condition="403027" research_need="0;0|3;11434340|2;7622890|1;0" time_research="98069" para1="52" para2="52" power="25941"/>
+  <ItemSpec id="701714" science_lv="14" max_lv="15" building_condition="403027" research_need="0;0|3;11434340|2;7622890|1;0" time_research="98069" para1="52" para2="56" power="28406"/>
+  <ItemSpec id="701715" science_lv="15" max_lv="15" para1="52" para2="60" power="30871"/>
+  <ItemSpec id="701800" science_lv="0" max_lv="15" science_condition="701701" building_condition="403025" research_need="0;8119050|3;0|2;4059530|1;338290" time_research="121573" para1="155" para2="0" power="0"/>
+  <ItemSpec id="701801" science_lv="1" max_lv="15" building_condition="403025" research_need="0;8119050|3;0|2;4059530|1;338290" time_research="121573" para1="155" para2="1" power="2337"/>
+  <ItemSpec id="701802" science_lv="2" max_lv="15" building_condition="403025" research_need="0;8119050|3;0|2;4059530|1;338290" time_research="121573" para1="155" para2="2" power="4674"/>
+  <ItemSpec id="701803" science_lv="3" max_lv="15" building_condition="403025" research_need="0;8119050|3;0|2;4059530|1;338290" time_research="121573" para1="155" para2="3" power="7011"/>
+  <ItemSpec id="701804" science_lv="4" max_lv="15" building_condition="403026" research_need="0;10554770|3;0|2;5277390|1;439780" time_research="133730" para1="155" para2="4" power="9348"/>
+  <ItemSpec id="701805" science_lv="5" max_lv="15" building_condition="403026" research_need="0;10554770|3;0|2;5277390|1;439780" time_research="133730" para1="155" para2="6" power="11977"/>
+  <ItemSpec id="701806" science_lv="6" max_lv="15" building_condition="403026" research_need="0;10554770|3;0|2;5277390|1;439780" time_research="133730" para1="155" para2="8" power="14606"/>
+  <ItemSpec id="701807" science_lv="7" max_lv="15" building_condition="403026" research_need="0;10554770|3;0|2;5277390|1;439780" time_research="133730" para1="155" para2="10" power="17235"/>
+  <ItemSpec id="701808" science_lv="8" max_lv="15" building_condition="403027" research_need="0;13721200|3;0|2;6860600|1;571720" time_research="147103" para1="155" para2="12" power="19864"/>
+  <ItemSpec id="701809" science_lv="9" max_lv="15" building_condition="403027" research_need="0;13721200|3;0|2;6860600|1;571720" time_research="147103" para1="155" para2="14" power="22822"/>
+  <ItemSpec id="701810" science_lv="10" max_lv="15" building_condition="403027" research_need="0;13721200|3;0|2;6860600|1;571720" time_research="147103" para1="155" para2="16" power="25780"/>
+  <ItemSpec id="701811" science_lv="11" max_lv="15" building_condition="403027" research_need="0;13721200|3;0|2;6860600|1;571720" time_research="147103" para1="155" para2="18" power="28738"/>
+  <ItemSpec id="701812" science_lv="12" max_lv="15" building_condition="403028" research_need="0;17837560|3;0|2;8918780|1;743230" time_research="161814" para1="155" para2="20" power="31696"/>
+  <ItemSpec id="701813" science_lv="13" max_lv="15" building_condition="403028" research_need="0;17837560|3;0|2;8918780|1;743230" time_research="161814" para1="155" para2="22" power="35024"/>
+  <ItemSpec id="701814" science_lv="14" max_lv="15" building_condition="403028" research_need="0;17837560|3;0|2;8918780|1;743230" time_research="161814" para1="155" para2="24" power="38352"/>
+  <ItemSpec id="701815" science_lv="15" max_lv="15" para1="155" para2="28" power="41680"/>
+  <ItemSpec id="701900" science_lv="0" max_lv="15" science_condition="701801" building_condition="403026" research_need="0;0|3;0|2;3518260|1;2052320" time_research="133730" para1="51" para2="0" power="0"/>
+  <ItemSpec id="701901" science_lv="1" max_lv="15" building_condition="403026" research_need="0;0|3;0|2;3518260|1;2052320" time_research="133730" para1="51" para2="4" power="3506"/>
+  <ItemSpec id="701902" science_lv="2" max_lv="15" building_condition="403026" research_need="0;0|3;0|2;3518260|1;2052320" time_research="133730" para1="51" para2="8" power="7012"/>
+  <ItemSpec id="701903" science_lv="3" max_lv="15" building_condition="403026" research_need="0;0|3;0|2;3518260|1;2052320" time_research="133730" para1="51" para2="12" power="10518"/>
+  <ItemSpec id="701904" science_lv="4" max_lv="15" building_condition="403027" research_need="0;0|3;0|2;4573730|1;2668010" time_research="147103" para1="51" para2="16" power="14024"/>
+  <ItemSpec id="701905" science_lv="5" max_lv="15" building_condition="403027" research_need="0;0|3;0|2;4573730|1;2668010" time_research="147103" para1="51" para2="20" power="17968"/>
+  <ItemSpec id="701906" science_lv="6" max_lv="15" building_condition="403027" research_need="0;0|3;0|2;4573730|1;2668010" time_research="147103" para1="51" para2="24" power="21912"/>
+  <ItemSpec id="701907" science_lv="7" max_lv="15" building_condition="403027" research_need="0;0|3;0|2;4573730|1;2668010" time_research="147103" para1="51" para2="28" power="25856"/>
+  <ItemSpec id="701908" science_lv="8" max_lv="15" building_condition="403028" research_need="0;0|3;0|2;5945850|1;3468410" time_research="161814" para1="51" para2="32" power="29800"/>
+  <ItemSpec id="701909" science_lv="9" max_lv="15" building_condition="403028" research_need="0;0|3;0|2;5945850|1;3468410" time_research="161814" para1="51" para2="36" power="34237"/>
+  <ItemSpec id="701910" science_lv="10" max_lv="15" building_condition="403028" research_need="0;0|3;0|2;5945850|1;3468410" time_research="161814" para1="51" para2="40" power="38674"/>
+  <ItemSpec id="701911" science_lv="11" max_lv="15" building_condition="403028" research_need="0;0|3;0|2;5945850|1;3468410" time_research="161814" para1="51" para2="44" power="43111"/>
+  <ItemSpec id="701912" science_lv="12" max_lv="15" building_condition="403029" research_need="0;0|3;0|2;7729610|1;4508940" time_research="177995" para1="51" para2="48" power="47548"/>
+  <ItemSpec id="701913" science_lv="13" max_lv="15" building_condition="403029" research_need="0;0|3;0|2;7729610|1;4508940" time_research="177995" para1="51" para2="52" power="52540"/>
+  <ItemSpec id="701914" science_lv="14" max_lv="15" building_condition="403029" research_need="0;0|3;0|2;7729610|1;4508940" time_research="177995" para1="51" para2="56" power="57532"/>
+  <ItemSpec id="701915" science_lv="15" max_lv="15" para1="51" para2="60" power="62524"/>
+  <ItemSpec id="702000" science_lv="0" max_lv="15" science_condition="701901" building_condition="403027" research_need="0;0|3;32016140|2;0|1;2001010" time_research="196138" para1="156" para2="0" power="0"/>
+  <ItemSpec id="702001" science_lv="1" max_lv="15" building_condition="403027" research_need="0;0|3;32016140|2;0|1;2001010" time_research="196138" para1="156" para2="1" power="3451"/>
+  <ItemSpec id="702002" science_lv="2" max_lv="15" building_condition="403027" research_need="0;0|3;32016140|2;0|1;2001010" time_research="196138" para1="156" para2="2" power="6902"/>
+  <ItemSpec id="702003" science_lv="3" max_lv="15" building_condition="403027" research_need="0;0|3;32016140|2;0|1;2001010" time_research="196138" para1="156" para2="3" power="10353"/>
+  <ItemSpec id="702004" science_lv="4" max_lv="15" building_condition="403028" research_need="0;0|3;41620980|2;0|1;2601310" time_research="215752" para1="156" para2="4" power="13804"/>
+  <ItemSpec id="702005" science_lv="5" max_lv="15" building_condition="403028" research_need="0;0|3;41620980|2;0|1;2601310" time_research="215752" para1="156" para2="6" power="17686"/>
+  <ItemSpec id="702006" science_lv="6" max_lv="15" building_condition="403028" research_need="0;0|3;41620980|2;0|1;2601310" time_research="215752" para1="156" para2="8" power="21568"/>
+  <ItemSpec id="702007" science_lv="7" max_lv="15" building_condition="403028" research_need="0;0|3;41620980|2;0|1;2601310" time_research="215752" para1="156" para2="10" power="25450"/>
+  <ItemSpec id="702008" science_lv="8" max_lv="15" building_condition="403029" research_need="0;0|3;54107270|2;0|1;3381700" time_research="237327" para1="156" para2="12" power="29332"/>
+  <ItemSpec id="702009" science_lv="9" max_lv="15" building_condition="403029" research_need="0;0|3;54107270|2;0|1;3381700" time_research="237327" para1="156" para2="14" power="33700"/>
+  <ItemSpec id="702010" science_lv="10" max_lv="15" building_condition="403029" research_need="0;0|3;54107270|2;0|1;3381700" time_research="237327" para1="156" para2="16" power="38068"/>
+  <ItemSpec id="702011" science_lv="11" max_lv="15" building_condition="403029" research_need="0;0|3;54107270|2;0|1;3381700" time_research="237327" para1="156" para2="18" power="42436"/>
+  <ItemSpec id="702012" science_lv="12" max_lv="15" building_condition="403030" research_need="0;0|3;70339460|2;0|1;4396220" time_research="261060" para1="156" para2="20" power="46804"/>
+  <ItemSpec id="702013" science_lv="13" max_lv="15" building_condition="403030" research_need="0;0|3;70339460|2;0|1;4396220" time_research="261060" para1="156" para2="22" power="51718"/>
+  <ItemSpec id="702014" science_lv="14" max_lv="15" building_condition="403030" research_need="0;0|3;70339460|2;0|1;4396220" time_research="261060" para1="156" para2="24" power="56632"/>
+  <ItemSpec id="702015" science_lv="15" max_lv="15" para1="156" para2="28" power="61546"/>
+  <ItemSpec id="702100" science_lv="0" max_lv="10" science_condition="701901" building_condition="403027" research_need="0;22868670|3;22868670|2;3811450|1;952860" time_research="245173" para1="79" para2="0" power="0"/>
+  <ItemSpec id="702101" science_lv="1" max_lv="10" building_condition="403027" research_need="0;22868670|3;22868670|2;3811450|1;952860" time_research="245173" para1="79" para2="1" power="3944"/>
+  <ItemSpec id="702102" science_lv="2" max_lv="10" building_condition="403027" research_need="0;22868670|3;22868670|2;3811450|1;952860" time_research="245173" para1="79" para2="2" power="7888"/>
+  <ItemSpec id="702103" science_lv="3" max_lv="10" building_condition="403027" research_need="0;22868670|3;22868670|2;3811450|1;952860" time_research="245173" para1="79" para2="3" power="11832"/>
+  <ItemSpec id="702104" science_lv="4" max_lv="10" building_condition="403028" research_need="0;29729270|3;29729270|2;4954880|1;1238720" time_research="269690" para1="79" para2="4" power="15776"/>
+  <ItemSpec id="702105" science_lv="5" max_lv="10" building_condition="403028" research_need="0;29729270|3;29729270|2;4954880|1;1238720" time_research="269690" para1="79" para2="5" power="20213"/>
+  <ItemSpec id="702106" science_lv="6" max_lv="10" building_condition="403028" research_need="0;29729270|3;29729270|2;4954880|1;1238720" time_research="269690" para1="79" para2="6" power="24650"/>
+  <ItemSpec id="702107" science_lv="7" max_lv="10" building_condition="403028" research_need="0;29729270|3;29729270|2;4954880|1;1238720" time_research="269690" para1="79" para2="7" power="29087"/>
+  <ItemSpec id="702108" science_lv="8" max_lv="10" building_condition="403029" research_need="0;38648050|3;38648050|2;6441340|1;1610340" time_research="296659" para1="79" para2="8" power="33524"/>
+  <ItemSpec id="702109" science_lv="9" max_lv="10" building_condition="403029" research_need="0;38648050|3;38648050|2;6441340|1;1610340" time_research="296659" para1="79" para2="9" power="38516"/>
+  <ItemSpec id="702110" science_lv="10" max_lv="10" para1="79" para2="10" power="43508"/>
+  <ItemSpec id="710000" science_lv="0" max_lv="10" building_condition="403002" research_need="0;2110|3;1400|2;0|1;0" time_research="3600" para1="78" para2="0" power="0"/>
+  <ItemSpec id="710001" science_lv="1" max_lv="10" building_condition="403002" research_need="0;2740|3;1830|2;0|1;0" time_research="5400" para1="78" para2="1" power="14"/>
+  <ItemSpec id="710002" science_lv="2" max_lv="10" building_condition="403002" research_need="0;3830|3;2560|2;0|1;0" time_research="6480" para1="78" para2="2" power="37"/>
+  <ItemSpec id="710003" science_lv="3" max_lv="10" building_condition="403002" research_need="0;5750|3;3830|2;0|1;0" time_research="7776" para1="78" para2="3" power="76"/>
+  <ItemSpec id="710004" science_lv="4" max_lv="10" building_condition="403002" research_need="0;9770|3;6520|2;0|1;0" time_research="10886" para1="78" para2="4" power="146"/>
+  <ItemSpec id="710005" science_lv="5" max_lv="10" building_condition="403002" research_need="0;9770|3;6520|2;0|1;0" time_research="10886" para1="78" para2="5" power="261"/>
+  <ItemSpec id="710006" science_lv="6" max_lv="10" building_condition="403002" research_need="0;17590|3;11730|2;0|1;0" time_research="11975" para1="78" para2="7" power="376"/>
+  <ItemSpec id="710007" science_lv="7" max_lv="10" building_condition="403002" research_need="0;17590|3;11730|2;0|1;0" time_research="11975" para1="78" para2="9" power="547"/>
+  <ItemSpec id="710008" science_lv="8" max_lv="10" building_condition="403002" research_need="0;33430|3;22280|2;0|1;0" time_research="13172" para1="78" para2="11" power="718"/>
+  <ItemSpec id="710009" science_lv="9" max_lv="10" building_condition="403002" research_need="0;33430|3;22280|2;0|1;0" time_research="13172" para1="78" para2="13" power="946"/>
+  <ItemSpec id="710010" science_lv="10" max_lv="10" para1="78" para2="15" power="1174"/>
+  <ItemSpec id="711400" science_lv="0" max_lv="5" science_condition="710001" building_condition="403002" research_need="0;1370|3;590|2;0|1;0" time_research="3600" para1="59" para2="0" power="0"/>
+  <ItemSpec id="711401" science_lv="1" max_lv="5" building_condition="403002" research_need="0;1770|3;760|2;0|1;0" time_research="5400" para1="59" para2="10" power="7"/>
+  <ItemSpec id="711402" science_lv="2" max_lv="5" building_condition="403002" research_need="0;2480|3;1060|2;0|1;0" time_research="6480" para1="59" para2="20" power="19"/>
+  <ItemSpec id="711403" science_lv="3" max_lv="5" building_condition="403002" research_need="0;3730|3;1600|2;0|1;0" time_research="7776" para1="59" para2="30" power="40"/>
+  <ItemSpec id="711404" science_lv="4" max_lv="5" building_condition="403002" research_need="0;6330|3;2710|2;0|1;0" time_research="10886" para1="59" para2="40" power="79"/>
+  <ItemSpec id="711405" science_lv="5" max_lv="5" para1="59" para2="50" power="143"/>
+  <ItemSpec id="711500" science_lv="0" max_lv="5" science_condition="710001" building_condition="403002" research_need="0;1170|3;780|2;0|1;0" time_research="3600" para1="106" para2="0" power="0"/>
+  <ItemSpec id="711501" science_lv="1" max_lv="5" building_condition="403002" research_need="0;1520|3;1010|2;0|1;0" time_research="5400" para1="106" para2="1" power="7"/>
+  <ItemSpec id="711502" science_lv="2" max_lv="5" building_condition="403002" research_need="0;2130|3;1420|2;0|1;0" time_research="6480" para1="106" para2="2" power="19"/>
+  <ItemSpec id="711503" science_lv="3" max_lv="5" building_condition="403002" research_need="0;3190|3;2130|2;0|1;0" time_research="7776" para1="106" para2="3" power="40"/>
+  <ItemSpec id="711504" science_lv="4" max_lv="5" building_condition="403002" research_need="0;5430|3;3620|2;0|1;0" time_research="10886" para1="106" para2="4" power="79"/>
+  <ItemSpec id="711505" science_lv="5" max_lv="5" para1="106" para2="5" power="143"/>
+  <ItemSpec id="710300" science_lv="0" max_lv="10" science_condition="710001" building_condition="403007" research_need="0;32580|3;0|2;0|1;0" time_research="19958" para1="68" para2="0" power="0"/>
+  <ItemSpec id="710301" science_lv="1" max_lv="10" building_condition="403008" research_need="0;61900|3;0|2;0|1;0" time_research="21954" para1="68" para2="2" power="190"/>
+  <ItemSpec id="710302" science_lv="2" max_lv="10" building_condition="403009" research_need="0;117610|3;0|2;0|1;0" time_research="24149" para1="68" para2="4" power="443"/>
+  <ItemSpec id="710303" science_lv="3" max_lv="10" building_condition="403010" research_need="0;223460|3;0|2;0|1;0" time_research="28979" para1="68" para2="6" power="738"/>
+  <ItemSpec id="710304" science_lv="4" max_lv="10" building_condition="403011" research_need="0;424580|3;0|2;0|1;0" time_research="31877" para1="68" para2="8" power="1081"/>
+  <ItemSpec id="710305" science_lv="5" max_lv="10" building_condition="403012" research_need="0;806710|3;0|2;0|1;0" time_research="35065" para1="68" para2="10" power="1481"/>
+  <ItemSpec id="710306" science_lv="6" max_lv="10" building_condition="403013" research_need="0;1161660|3;0|2;48400|1;0" time_research="42078" para1="68" para2="12" power="1964"/>
+  <ItemSpec id="710307" science_lv="7" max_lv="10" building_condition="403014" research_need="0;1974820|3;0|2;82280|1;0" time_research="46286" para1="68" para2="14" power="2546"/>
+  <ItemSpec id="710308" science_lv="8" max_lv="10" building_condition="403015" research_need="0;3159720|3;0|2;131650|1;0" time_research="60172" para1="68" para2="16" power="3248"/>
+  <ItemSpec id="710309" science_lv="9" max_lv="10" building_condition="403016" research_need="0;4147130|3;0|2;197480|1;24690" time_research="66189" para1="68" para2="18" power="4095"/>
+  <ItemSpec id="710310" science_lv="10" max_lv="10" para1="68" para2="20" power="5116"/>
+  <ItemSpec id="710500" science_lv="0" max_lv="10" science_condition="710301" building_condition="403010" research_need="0;53630|3;35750|2;0|1;0" time_research="26081" para1="73" para2="0" power="0"/>
+  <ItemSpec id="710501" science_lv="1" max_lv="10" building_condition="403010" research_need="0;53630|3;35750|2;0|1;0" time_research="26081" para1="73" para2="2000" power="137"/>
+  <ItemSpec id="710502" science_lv="2" max_lv="10" building_condition="403011" research_need="0;101900|3;67930|2;0|1;0" time_research="28689" para1="73" para2="4000" power="274"/>
+  <ItemSpec id="710503" science_lv="3" max_lv="10" building_condition="403011" research_need="0;101900|3;67930|2;0|1;0" time_research="28689" para1="73" para2="6000" power="434"/>
+  <ItemSpec id="710504" science_lv="4" max_lv="10" building_condition="403012" research_need="0;193610|3;129070|2;0|1;0" time_research="31558" para1="73" para2="8000" power="594"/>
+  <ItemSpec id="710505" science_lv="5" max_lv="10" building_condition="403012" research_need="0;193610|3;129070|2;0|1;0" time_research="31558" para1="73" para2="10000" power="787"/>
+  <ItemSpec id="710506" science_lv="6" max_lv="10" building_condition="403013" research_need="0;348500|3;232330|2;0|1;0" time_research="37870" para1="73" para2="12000" power="980"/>
+  <ItemSpec id="710507" science_lv="7" max_lv="10" building_condition="403013" research_need="0;348500|3;232330|2;0|1;0" time_research="37870" para1="73" para2="14000" power="1213"/>
+  <ItemSpec id="710508" science_lv="8" max_lv="10" building_condition="403014" research_need="0;592450|3;394960|2;0|1;0" time_research="41657" para1="73" para2="16000" power="1446"/>
+  <ItemSpec id="710509" science_lv="9" max_lv="10" building_condition="403014" research_need="0;592450|3;394960|2;0|1;0" time_research="41657" para1="73" para2="18000" power="1727"/>
+  <ItemSpec id="710510" science_lv="10" max_lv="10" para1="73" para2="20000" power="2008"/>
+  <ItemSpec id="710600" science_lv="0" max_lv="10" science_condition="710301" building_condition="403012" research_need="0;96810|3;387220|2;0|1;0" time_research="17532" para1="121" para2="0" power="0"/>
+  <ItemSpec id="710601" science_lv="1" max_lv="10" building_condition="403013" research_need="0;174250|3;697000|2;0|1;0" time_research="21039" para1="121" para2="2" power="289"/>
+  <ItemSpec id="710602" science_lv="2" max_lv="10" building_condition="403014" research_need="0;296220|3;1184890|2;0|1;0" time_research="23143" para1="121" para2="4" power="638"/>
+  <ItemSpec id="710603" science_lv="3" max_lv="10" building_condition="403015" research_need="0;473960|3;1895830|2;0|1;0" time_research="30086" para1="121" para2="6" power="1059"/>
+  <ItemSpec id="710604" science_lv="4" max_lv="10" building_condition="403016" research_need="0;0|3;1777340|2;0|1;74060" time_research="33094" para1="121" para2="8" power="1567"/>
+  <ItemSpec id="710605" science_lv="5" max_lv="10" building_condition="403016" research_need="0;0|3;1777340|2;0|1;74060" time_research="33094" para1="121" para2="10" power="2180"/>
+  <ItemSpec id="710606" science_lv="6" max_lv="10" building_condition="403017" research_need="0;0|3;2488280|2;0|1;103680" time_research="39713" para1="121" para2="12" power="2793"/>
+  <ItemSpec id="710607" science_lv="7" max_lv="10" building_condition="403017" research_need="0;0|3;2488280|2;0|1;103680" time_research="39713" para1="121" para2="14" power="3532"/>
+  <ItemSpec id="710608" science_lv="8" max_lv="10" building_condition="403018" research_need="0;0|3;3234760|2;0|1;134780" time_research="43684" para1="121" para2="16" power="4271"/>
+  <ItemSpec id="710609" science_lv="9" max_lv="10" building_condition="403018" research_need="0;0|3;3234760|2;0|1;134780" time_research="43684" para1="121" para2="18" power="5162"/>
+  <ItemSpec id="710610" science_lv="10" max_lv="10" para1="121" para2="20" power="6053"/>
+  <ItemSpec id="710400" science_lv="0" max_lv="5" science_condition="710501;710601" building_condition="403014" research_need="0;345590|3;1382380|2;0|1;0" time_research="37028" para1="64" para2="0" power="0"/>
+  <ItemSpec id="710401" science_lv="1" max_lv="5" building_condition="403014" research_need="0;345590|3;1382380|2;0|1;0" time_research="37028" para1="64" para2="2" power="491"/>
+  <ItemSpec id="710402" science_lv="2" max_lv="5" building_condition="403015" research_need="0;552950|3;2211800|2;0|1;0" time_research="48137" para1="64" para2="4" power="982"/>
+  <ItemSpec id="710403" science_lv="3" max_lv="5" building_condition="403015" research_need="0;552950|3;2211800|2;0|1;0" time_research="48137" para1="64" para2="6" power="1575"/>
+  <ItemSpec id="710404" science_lv="4" max_lv="5" building_condition="403016" research_need="0;829430|3;3317700|2;0|1;0" time_research="52951" para1="64" para2="8" power="2168"/>
+  <ItemSpec id="710405" science_lv="5" max_lv="5" para1="64" para2="10" power="2883"/>
+  <ItemSpec id="711600" science_lv="0" max_lv="10" science_condition="710401" building_condition="403015" research_need="0;394960|3;394960|2;98740|1;24690" time_research="36103" para1="59" para2="0" power="0"/>
+  <ItemSpec id="711601" science_lv="1" max_lv="10" building_condition="403015" research_need="0;394960|3;394960|2;98740|1;24690" time_research="36103" para1="59" para2="10" power="423"/>
+  <ItemSpec id="711602" science_lv="2" max_lv="10" building_condition="403016" research_need="0;592450|3;592450|2;148110|1;37030" time_research="39713" para1="59" para2="20" power="846"/>
+  <ItemSpec id="711603" science_lv="3" max_lv="10" building_condition="403016" research_need="0;592450|3;592450|2;148110|1;37030" time_research="39713" para1="59" para2="30" power="1356"/>
+  <ItemSpec id="711604" science_lv="4" max_lv="10" building_condition="403017" research_need="0;829430|3;829430|2;207360|1;51840" time_research="47656" para1="59" para2="40" power="1866"/>
+  <ItemSpec id="711605" science_lv="5" max_lv="10" building_condition="403017" research_need="0;829430|3;829430|2;207360|1;51840" time_research="47656" para1="59" para2="50" power="2482"/>
+  <ItemSpec id="711606" science_lv="6" max_lv="10" building_condition="403018" research_need="0;1078250|3;1078250|2;269560|1;67390" time_research="52421" para1="59" para2="60" power="3098"/>
+  <ItemSpec id="711607" science_lv="7" max_lv="10" building_condition="403018" research_need="0;1078250|3;1078250|2;269560|1;67390" time_research="52421" para1="59" para2="70" power="3841"/>
+  <ItemSpec id="711608" science_lv="8" max_lv="10" building_condition="403019" research_need="0;1401730|3;1401730|2;350430|1;87610" time_research="57664" para1="59" para2="80" power="4584"/>
+  <ItemSpec id="711609" science_lv="9" max_lv="10" building_condition="403019" research_need="0;1401730|3;1401730|2;350430|1;87610" time_research="57664" para1="59" para2="90" power="5480"/>
+  <ItemSpec id="711610" science_lv="10" max_lv="10" para1="59" para2="100" power="6376"/>
+  <ItemSpec id="711700" science_lv="0" max_lv="10" science_condition="710401" building_condition="403015" research_need="0;394960|3;394960|2;98740|1;24690" time_research="36103" para1="106" para2="0" power="0"/>
+  <ItemSpec id="711701" science_lv="1" max_lv="10" building_condition="403015" research_need="0;394960|3;394960|2;98740|1;24690" time_research="36103" para1="106" para2="1" power="423"/>
+  <ItemSpec id="711702" science_lv="2" max_lv="10" building_condition="403016" research_need="0;592450|3;592450|2;148110|1;37030" time_research="39713" para1="106" para2="2" power="846"/>
+  <ItemSpec id="711703" science_lv="3" max_lv="10" building_condition="403016" research_need="0;592450|3;592450|2;148110|1;37030" time_research="39713" para1="106" para2="3" power="1356"/>
+  <ItemSpec id="711704" science_lv="4" max_lv="10" building_condition="403017" research_need="0;829430|3;829430|2;207360|1;51840" time_research="47656" para1="106" para2="4" power="1866"/>
+  <ItemSpec id="711705" science_lv="5" max_lv="10" building_condition="403017" research_need="0;829430|3;829430|2;207360|1;51840" time_research="47656" para1="106" para2="5" power="2482"/>
+  <ItemSpec id="711706" science_lv="6" max_lv="10" building_condition="403018" research_need="0;1078250|3;1078250|2;269560|1;67390" time_research="52421" para1="106" para2="7" power="3098"/>
+  <ItemSpec id="711707" science_lv="7" max_lv="10" building_condition="403018" research_need="0;1078250|3;1078250|2;269560|1;67390" time_research="52421" para1="106" para2="9" power="3841"/>
+  <ItemSpec id="711708" science_lv="8" max_lv="10" building_condition="403019" research_need="0;1401730|3;1401730|2;350430|1;87610" time_research="57664" para1="106" para2="11" power="4584"/>
+  <ItemSpec id="711709" science_lv="9" max_lv="10" building_condition="403019" research_need="0;1401730|3;1401730|2;350430|1;87610" time_research="57664" para1="106" para2="13" power="5480"/>
+  <ItemSpec id="711710" science_lv="10" max_lv="10" para1="106" para2="15" power="6376"/>
+  <ItemSpec id="710700" science_lv="0" max_lv="15" science_condition="710401" building_condition="403018" research_need="0;1940860|3;1940860|2;485210|1;121300" time_research="52421" para1="78" para2="0" power="0"/>
+  <ItemSpec id="710701" science_lv="1" max_lv="15" building_condition="403018" research_need="0;1940860|3;1940860|2;485210|1;121300" time_research="52421" para1="78" para2="2" power="1337"/>
+  <ItemSpec id="710702" science_lv="2" max_lv="15" building_condition="403019" research_need="0;2523110|3;2523110|2;630780|1;157690" time_research="57664" para1="78" para2="4" power="2674"/>
+  <ItemSpec id="710703" science_lv="3" max_lv="15" building_condition="403019" research_need="0;2523110|3;2523110|2;630780|1;157690" time_research="57664" para1="78" para2="6" power="4287"/>
+  <ItemSpec id="710704" science_lv="4" max_lv="15" building_condition="403020" research_need="0;3280050|3;3280050|2;820010|1;205000" time_research="69196" para1="78" para2="8" power="5900"/>
+  <ItemSpec id="710705" science_lv="5" max_lv="15" building_condition="403020" research_need="0;3280050|3;3280050|2;820010|1;205000" time_research="69196" para1="78" para2="10" power="7845"/>
+  <ItemSpec id="710706" science_lv="6" max_lv="15" building_condition="403021" research_need="0;4264060|3;4264060|2;1066010|1;266500" time_research="76116" para1="78" para2="12" power="9790"/>
+  <ItemSpec id="710707" science_lv="7" max_lv="15" building_condition="403021" research_need="0;4264060|3;4264060|2;1066010|1;266500" time_research="76116" para1="78" para2="14" power="11978"/>
+  <ItemSpec id="710708" science_lv="8" max_lv="15" building_condition="403022" research_need="0;5543280|3;5543280|2;1385820|1;346450" time_research="91339" para1="78" para2="16" power="14166"/>
+  <ItemSpec id="710709" science_lv="9" max_lv="15" building_condition="403022" research_need="0;5543280|3;5543280|2;1385820|1;346450" time_research="91339" para1="78" para2="18" power="16628"/>
+  <ItemSpec id="710710" science_lv="10" max_lv="15" building_condition="403023" research_need="0;4264060|3;4264060|2;1066010|1;266500" time_research="100473" para1="78" para2="20" power="19090"/>
+  <ItemSpec id="710711" science_lv="11" max_lv="15" building_condition="403023" research_need="0;4264060|3;4264060|2;1066010|1;266500" time_research="100473" para1="78" para2="22" power="21860"/>
+  <ItemSpec id="710712" science_lv="12" max_lv="15" building_condition="403024" research_need="0;9368140|3;9368140|2;2342030|1;585510" time_research="110521" para1="78" para2="24" power="24630"/>
+  <ItemSpec id="710713" science_lv="13" max_lv="15" building_condition="403024" research_need="0;9368140|3;9368140|2;2342030|1;585510" time_research="110521" para1="78" para2="26" power="27746"/>
+  <ItemSpec id="710714" science_lv="14" max_lv="15" building_condition="403025" research_need="0;12178580|3;12178580|2;3044650|1;761160" time_research="121573" para1="78" para2="28" power="30862"/>
+  <ItemSpec id="710715" science_lv="15" max_lv="15" para1="78" para2="30" power="34368"/>
+  <ItemSpec id="711000" science_lv="0" max_lv="15" science_condition="710701" building_condition="403020" research_need="0;5466740|3;0|2;911120|1;303710" time_research="115328" para1="68" para2="0" power="0"/>
+  <ItemSpec id="711001" science_lv="1" max_lv="15" building_condition="403020" research_need="0;5466740|3;0|2;911120|1;303710" time_research="115328" para1="68" para2="1" power="2161"/>
+  <ItemSpec id="711002" science_lv="2" max_lv="15" building_condition="403021" research_need="0;7106770|3;0|2;1184460|1;394820" time_research="126861" para1="68" para2="2" power="4322"/>
+  <ItemSpec id="711003" science_lv="3" max_lv="15" building_condition="403021" research_need="0;7106770|3;0|2;1184460|1;394820" time_research="126861" para1="68" para2="3" power="6754"/>
+  <ItemSpec id="711004" science_lv="4" max_lv="15" building_condition="403022" research_need="0;9238800|3;0|2;1539800|1;513270" time_research="152233" para1="68" para2="4" power="9186"/>
+  <ItemSpec id="711005" science_lv="5" max_lv="15" building_condition="403022" research_need="0;9238800|3;0|2;1539800|1;513270" time_research="152233" para1="68" para2="5" power="11922"/>
+  <ItemSpec id="711006" science_lv="6" max_lv="15" building_condition="403023" research_need="0;7106770|3;0|2;1184460|1;394820" time_research="167456" para1="68" para2="6" power="14658"/>
+  <ItemSpec id="711007" science_lv="7" max_lv="15" building_condition="403023" research_need="0;7106770|3;0|2;1184460|1;394820" time_research="167456" para1="68" para2="7" power="17736"/>
+  <ItemSpec id="711008" science_lv="8" max_lv="15" building_condition="403024" research_need="0;15613570|3;0|2;2602260|1;867420" time_research="184202" para1="68" para2="8" power="20814"/>
+  <ItemSpec id="711009" science_lv="9" max_lv="15" building_condition="403024" research_need="0;15613570|3;0|2;2602260|1;867420" time_research="184202" para1="68" para2="9" power="24276"/>
+  <ItemSpec id="711010" science_lv="10" max_lv="15" building_condition="403025" research_need="0;20297640|3;0|2;3382940|1;1127650" time_research="202622" para1="68" para2="10" power="27738"/>
+  <ItemSpec id="711011" science_lv="11" max_lv="15" building_condition="403025" research_need="0;20297640|3;0|2;3382940|1;1127650" time_research="202622" para1="68" para2="11" power="31633"/>
+  <ItemSpec id="711012" science_lv="12" max_lv="15" building_condition="403026" research_need="0;26386930|3;0|2;4397820|1;1465940" time_research="222884" para1="68" para2="12" power="35528"/>
+  <ItemSpec id="711013" science_lv="13" max_lv="15" building_condition="403026" research_need="0;26386930|3;0|2;4397820|1;1465940" time_research="222884" para1="68" para2="13" power="39910"/>
+  <ItemSpec id="711014" science_lv="14" max_lv="15" building_condition="403027" research_need="0;34303010|3;0|2;5717170|1;1905720" time_research="245173" para1="68" para2="15" power="44292"/>
+  <ItemSpec id="711015" science_lv="15" max_lv="15" para1="68" para2="18" power="49222"/>
+  <ItemSpec id="711200" science_lv="0" max_lv="15" science_condition="711001" building_condition="403022" research_need="0;2463680|3;2463680|2;615920|1;153980" time_research="137009" para1="73" para2="0" power="0"/>
+  <ItemSpec id="711201" science_lv="1" max_lv="15" building_condition="403022" research_need="0;2463680|3;2463680|2;615920|1;153980" time_research="137009" para1="73" para2="2000" power="1094"/>
+  <ItemSpec id="711202" science_lv="2" max_lv="15" building_condition="403023" research_need="0;1895140|3;1895140|2;473780|1;118450" time_research="150710" para1="73" para2="4000" power="2188"/>
+  <ItemSpec id="711203" science_lv="3" max_lv="15" building_condition="403023" research_need="0;1895140|3;1895140|2;473780|1;118450" time_research="150710" para1="73" para2="6000" power="3419"/>
+  <ItemSpec id="711204" science_lv="4" max_lv="15" building_condition="403024" research_need="0;4163620|3;4163620|2;1040900|1;260230" time_research="165781" para1="73" para2="8000" power="4650"/>
+  <ItemSpec id="711205" science_lv="5" max_lv="15" building_condition="403024" research_need="0;4163620|3;4163620|2;1040900|1;260230" time_research="165781" para1="73" para2="10000" power="6035"/>
+  <ItemSpec id="711206" science_lv="6" max_lv="15" building_condition="403025" research_need="0;5412700|3;5412700|2;1353180|1;338290" time_research="182360" para1="73" para2="12000" power="7420"/>
+  <ItemSpec id="711207" science_lv="7" max_lv="15" building_condition="403025" research_need="0;5412700|3;5412700|2;1353180|1;338290" time_research="182360" para1="73" para2="14000" power="8978"/>
+  <ItemSpec id="711208" science_lv="8" max_lv="15" building_condition="403026" research_need="0;7036510|3;7036510|2;1759130|1;439780" time_research="200596" para1="73" para2="16000" power="10536"/>
+  <ItemSpec id="711209" science_lv="9" max_lv="15" building_condition="403026" research_need="0;7036510|3;7036510|2;1759130|1;439780" time_research="200596" para1="73" para2="18000" power="12289"/>
+  <ItemSpec id="711210" science_lv="10" max_lv="15" building_condition="403027" research_need="0;9147470|3;9147470|2;2286870|1;571720" time_research="220655" para1="73" para2="20000" power="14042"/>
+  <ItemSpec id="711211" science_lv="11" max_lv="15" building_condition="403027" research_need="0;9147470|3;9147470|2;2286870|1;571720" time_research="220655" para1="73" para2="22000" power="16014"/>
+  <ItemSpec id="711212" science_lv="12" max_lv="15" building_condition="403028" research_need="0;11891710|3;11891710|2;2972930|1;743230" time_research="242721" para1="73" para2="24000" power="17986"/>
+  <ItemSpec id="711213" science_lv="13" max_lv="15" building_condition="403028" research_need="0;11891710|3;11891710|2;2972930|1;743230" time_research="242721" para1="73" para2="26000" power="20204"/>
+  <ItemSpec id="711214" science_lv="14" max_lv="15" building_condition="403029" research_need="0;15459220|3;15459220|2;3864810|1;966200" time_research="266993" para1="73" para2="28000" power="22422"/>
+  <ItemSpec id="711215" science_lv="15" max_lv="15" para1="73" para2="30000" power="24918"/>
+  <ItemSpec id="711300" science_lv="0" max_lv="15" science_condition="711001" building_condition="403022" research_need="0;5543280|3;3695520|2;0|1;384950" time_research="76116" para1="121" para2="0" power="0"/>
+  <ItemSpec id="711301" science_lv="1" max_lv="15" building_condition="403022" research_need="0;5543280|3;3695520|2;0|1;384950" time_research="76116" para1="121" para2="2" power="1641"/>
+  <ItemSpec id="711302" science_lv="2" max_lv="15" building_condition="403023" research_need="0;4264060|3;2842710|2;0|1;296120" time_research="83728" para1="121" para2="4" power="3282"/>
+  <ItemSpec id="711303" science_lv="3" max_lv="15" building_condition="403023" research_need="0;4264060|3;2842710|2;0|1;296120" time_research="83728" para1="121" para2="6" power="5128"/>
+  <ItemSpec id="711304" science_lv="4" max_lv="15" building_condition="403024" research_need="0;9368140|3;6245430|2;0|1;650570" time_research="92101" para1="121" para2="8" power="6974"/>
+  <ItemSpec id="711305" science_lv="5" max_lv="15" building_condition="403024" research_need="0;9368140|3;6245430|2;0|1;650570" time_research="92101" para1="121" para2="10" power="9051"/>
+  <ItemSpec id="711306" science_lv="6" max_lv="15" building_condition="403025" research_need="0;12178580|3;8119050|2;0|1;845730" time_research="101311" para1="121" para2="12" power="11128"/>
+  <ItemSpec id="711307" science_lv="7" max_lv="15" building_condition="403025" research_need="0;12178580|3;8119050|2;0|1;845730" time_research="101311" para1="121" para2="14" power="13465"/>
+  <ItemSpec id="711308" science_lv="8" max_lv="15" building_condition="403026" research_need="0;15832160|3;10554770|2;0|1;1099460" time_research="111442" para1="121" para2="16" power="15802"/>
+  <ItemSpec id="711309" science_lv="9" max_lv="15" building_condition="403026" research_need="0;15832160|3;10554770|2;0|1;1099460" time_research="111442" para1="121" para2="18" power="18431"/>
+  <ItemSpec id="711310" science_lv="10" max_lv="15" building_condition="403027" research_need="0;20581800|3;13721200|2;0|1;1429290" time_research="122586" para1="121" para2="20" power="21060"/>
+  <ItemSpec id="711311" science_lv="11" max_lv="15" building_condition="403027" research_need="0;20581800|3;13721200|2;0|1;1429290" time_research="122586" para1="121" para2="22" power="24018"/>
+  <ItemSpec id="711312" science_lv="12" max_lv="15" building_condition="403028" research_need="0;26756340|3;17837560|2;0|1;1858080" time_research="134845" para1="121" para2="24" power="26976"/>
+  <ItemSpec id="711313" science_lv="13" max_lv="15" building_condition="403028" research_need="0;26756340|3;17837560|2;0|1;1858080" time_research="134845" para1="121" para2="26" power="30304"/>
+  <ItemSpec id="711314" science_lv="14" max_lv="15" building_condition="403029" research_need="0;34783250|3;23188830|2;0|1;2415500" time_research="148329" para1="121" para2="28" power="33632"/>
+  <ItemSpec id="711315" science_lv="15" max_lv="15" para1="121" para2="30" power="37376"/>
+  <ItemSpec id="711100" science_lv="0" max_lv="15" science_condition="711201;711301" building_condition="403026" research_need="0;12313900|3;49255600|2;0|1;0" time_research="178307" para1="64" para2="0" power="0"/>
+  <ItemSpec id="711101" science_lv="1" max_lv="15" building_condition="403026" research_need="0;12313900|3;49255600|2;0|1;0" time_research="178307" para1="64" para2="1" power="3067"/>
+  <ItemSpec id="711102" science_lv="2" max_lv="15" building_condition="403026" research_need="0;12313900|3;49255600|2;0|1;0" time_research="178307" para1="64" para2="2" power="6134"/>
+  <ItemSpec id="711103" science_lv="3" max_lv="15" building_condition="403026" research_need="0;12313900|3;49255600|2;0|1;0" time_research="178307" para1="64" para2="3" power="9201"/>
+  <ItemSpec id="711104" science_lv="4" max_lv="15" building_condition="403027" research_need="0;16008070|3;64032280|2;0|1;0" time_research="196138" para1="64" para2="4" power="12268"/>
+  <ItemSpec id="711105" science_lv="5" max_lv="15" building_condition="403027" research_need="0;16008070|3;64032280|2;0|1;0" time_research="196138" para1="64" para2="5" power="15719"/>
+  <ItemSpec id="711106" science_lv="6" max_lv="15" building_condition="403027" research_need="0;16008070|3;64032280|2;0|1;0" time_research="196138" para1="64" para2="6" power="19170"/>
+  <ItemSpec id="711107" science_lv="7" max_lv="15" building_condition="403027" research_need="0;16008070|3;64032280|2;0|1;0" time_research="196138" para1="64" para2="7" power="22621"/>
+  <ItemSpec id="711108" science_lv="8" max_lv="15" building_condition="403028" research_need="0;20810490|3;83241960|2;0|1;0" time_research="215752" para1="64" para2="8" power="26072"/>
+  <ItemSpec id="711109" science_lv="9" max_lv="15" building_condition="403028" research_need="0;20810490|3;83241960|2;0|1;0" time_research="215752" para1="64" para2="9" power="29954"/>
+  <ItemSpec id="711110" science_lv="10" max_lv="15" building_condition="403028" research_need="0;20810490|3;83241960|2;0|1;0" time_research="215752" para1="64" para2="10" power="33836"/>
+  <ItemSpec id="711111" science_lv="11" max_lv="15" building_condition="403028" research_need="0;20810490|3;83241960|2;0|1;0" time_research="215752" para1="64" para2="11" power="37718"/>
+  <ItemSpec id="711112" science_lv="12" max_lv="15" building_condition="403029" research_need="0;27053640|3;108214550|2;0|1;0" time_research="237327" para1="64" para2="12" power="41600"/>
+  <ItemSpec id="711113" science_lv="13" max_lv="15" building_condition="403029" research_need="0;27053640|3;108214550|2;0|1;0" time_research="237327" para1="64" para2="13" power="45968"/>
+  <ItemSpec id="711114" science_lv="14" max_lv="15" building_condition="403029" research_need="0;27053640|3;108214550|2;0|1;0" time_research="237327" para1="64" para2="14" power="50336"/>
+  <ItemSpec id="711115" science_lv="15" max_lv="15" para1="64" para2="15" power="54704"/>
+  <ItemSpec id="720000" science_lv="0" max_lv="10" building_condition="403003" research_need="0;1010|3;0|2;0|1;0" time_research="1800" para1="125" para2="0" power="0"/>
+  <ItemSpec id="720001" science_lv="1" max_lv="10" building_condition="403003" research_need="0;1420|3;0|2;0|1;0" time_research="2160" para1="125" para2="90" power="5"/>
+  <ItemSpec id="720002" science_lv="2" max_lv="10" building_condition="403003" research_need="0;2130|3;0|2;0|1;0" time_research="2592" para1="125" para2="180" power="13"/>
+  <ItemSpec id="720003" science_lv="3" max_lv="10" building_condition="403003" research_need="0;3620|3;0|2;0|1;0" time_research="3628" para1="125" para2="270" power="28"/>
+  <ItemSpec id="720004" science_lv="4" max_lv="10" building_condition="403003" research_need="0;6520|3;0|2;0|1;0" time_research="3991" para1="125" para2="360" power="53"/>
+  <ItemSpec id="720005" science_lv="5" max_lv="10" building_condition="403003" research_need="0;6520|3;0|2;0|1;0" time_research="3991" para1="125" para2="450" power="91"/>
+  <ItemSpec id="720006" science_lv="6" max_lv="10" building_condition="403003" research_need="0;12380|3;0|2;0|1;0" time_research="4390" para1="125" para2="540" power="129"/>
+  <ItemSpec id="720007" science_lv="7" max_lv="10" building_condition="403003" research_need="0;12380|3;0|2;0|1;0" time_research="4390" para1="125" para2="630" power="179"/>
+  <ItemSpec id="720008" science_lv="8" max_lv="10" building_condition="403003" research_need="0;23520|3;0|2;0|1;0" time_research="4829" para1="125" para2="720" power="229"/>
+  <ItemSpec id="720009" science_lv="9" max_lv="10" building_condition="403003" research_need="0;23520|3;0|2;0|1;0" time_research="4829" para1="125" para2="810" power="288"/>
+  <ItemSpec id="720010" science_lv="10" max_lv="10" para1="125" para2="900" power="347"/>
+  <ItemSpec id="720100" science_lv="0" max_lv="5" science_condition="720001" building_condition="403004" research_need="0;4540|3;1140|2;0|1;0" time_research="8640" para1="1220" para2="0" power="0"/>
+  <ItemSpec id="720101" science_lv="1" max_lv="5" building_condition="403004" research_need="0;6810|3;1700|2;0|1;0" time_research="10368" para1="1220" para2="1" power="35"/>
+  <ItemSpec id="720102" science_lv="2" max_lv="5" building_condition="403004" research_need="0;11580|3;2900|2;0|1;0" time_research="14515" para1="1220" para2="2" power="97"/>
+  <ItemSpec id="720103" science_lv="3" max_lv="5" building_condition="403004" research_need="0;20850|3;5210|2;0|1;0" time_research="15966" para1="1220" para2="3" power="199"/>
+  <ItemSpec id="720104" science_lv="4" max_lv="5" building_condition="403004" research_need="0;39620|3;9900|2;0|1;0" time_research="17563" para1="1220" para2="4" power="351"/>
+  <ItemSpec id="720105" science_lv="5" max_lv="5" para1="1220" para2="5" power="553"/>
+  <ItemSpec id="720200" science_lv="0" max_lv="5" science_condition="720001" building_condition="403004" research_need="0;3410|3;2270|2;0|1;0" time_research="8640" para1="1230" para2="0" power="0"/>
+  <ItemSpec id="720201" science_lv="1" max_lv="5" building_condition="403004" research_need="0;5110|3;3410|2;0|1;0" time_research="10368" para1="1230" para2="1" power="35"/>
+  <ItemSpec id="720202" science_lv="2" max_lv="5" building_condition="403004" research_need="0;8690|3;5790|2;0|1;0" time_research="14515" para1="1230" para2="2" power="97"/>
+  <ItemSpec id="720203" science_lv="3" max_lv="5" building_condition="403004" research_need="0;15640|3;10430|2;0|1;0" time_research="15966" para1="1230" para2="3" power="199"/>
+  <ItemSpec id="720204" science_lv="4" max_lv="5" building_condition="403004" research_need="0;29710|3;19810|2;0|1;0" time_research="17563" para1="1230" para2="4" power="351"/>
+  <ItemSpec id="720205" science_lv="5" max_lv="5" para1="1230" para2="5" power="553"/>
+  <ItemSpec id="720300" science_lv="0" max_lv="5" science_condition="720101" building_condition="403006" research_need="0;8870|3;3800|2;0|1;0" time_research="12700" para1="1591|1592|1593|1594|1595|1596|1597|1598" para2="0" power="0"/>
+  <ItemSpec id="720301" science_lv="1" max_lv="5" building_condition="403007" research_need="0;15960|3;6840|2;0|1;0" time_research="13970" para1="1591|1592|1593|1594|1595|1596|1597|1598" para2="1" power="90"/>
+  <ItemSpec id="720302" science_lv="2" max_lv="5" building_condition="403008" research_need="0;30330|3;13000|2;0|1;0" time_research="15367" para1="1591|1592|1593|1594|1595|1596|1597|1598" para2="2" power="223"/>
+  <ItemSpec id="720303" science_lv="3" max_lv="5" building_condition="403009" research_need="0;57630|3;24700|2;0|1;0" time_research="16904" para1="1591|1592|1593|1594|1595|1596|1597|1598" para2="3" power="400"/>
+  <ItemSpec id="720304" science_lv="4" max_lv="5" building_condition="403010" research_need="0;109500|3;46930|2;0|1;0" time_research="20285" para1="1591|1592|1593|1594|1595|1596|1597|1598" para2="4" power="606"/>
+  <ItemSpec id="720305" science_lv="5" max_lv="5" para1="1591|1592|1593|1594|1595|1596|1597|1598" para2="5" power="846"/>
+  <ItemSpec id="720400" science_lv="0" max_lv="10" science_condition="720201" building_condition="403006" research_need="0;5790|3;1450|2;0|1;0" time_research="7257" para1="88" para2="0" power="0"/>
+  <ItemSpec id="720401" science_lv="1" max_lv="10" building_condition="403006" research_need="0;5790|3;1450|2;0|1;0" time_research="7257" para1="88" para2="200" power="51"/>
+  <ItemSpec id="720402" science_lv="2" max_lv="10" building_condition="403007" research_need="0;10430|3;2610|2;0|1;0" time_research="7983" para1="88" para2="400" power="102"/>
+  <ItemSpec id="720403" science_lv="3" max_lv="10" building_condition="403007" research_need="0;10430|3;2610|2;0|1;0" time_research="7983" para1="88" para2="650" power="178"/>
+  <ItemSpec id="720404" science_lv="4" max_lv="10" building_condition="403008" research_need="0;19810|3;4950|2;0|1;0" time_research="8781" para1="88" para2="900" power="254"/>
+  <ItemSpec id="720405" science_lv="5" max_lv="10" building_condition="403008" research_need="0;19810|3;4950|2;0|1;0" time_research="8781" para1="88" para2="1200" power="355"/>
+  <ItemSpec id="720406" science_lv="6" max_lv="10" building_condition="403009" research_need="0;37640|3;9410|2;0|1;0" time_research="9659" para1="88" para2="1500" power="456"/>
+  <ItemSpec id="720407" science_lv="7" max_lv="10" building_condition="403009" research_need="0;37640|3;9410|2;0|1;0" time_research="9659" para1="88" para2="1850" power="574"/>
+  <ItemSpec id="720408" science_lv="8" max_lv="10" building_condition="403010" research_need="0;71510|3;17880|2;0|1;0" time_research="11591" para1="88" para2="2200" power="692"/>
+  <ItemSpec id="720409" science_lv="9" max_lv="10" building_condition="403010" research_need="0;71510|3;17880|2;0|1;0" time_research="11591" para1="88" para2="2600" power="829"/>
+  <ItemSpec id="720410" science_lv="10" max_lv="10" para1="88" para2="3000" power="966"/>
+  <ItemSpec id="720500" science_lv="0" max_lv="5" science_condition="720001" building_condition="403010" research_need="0;156430|3;0|2;0|1;0" time_research="20285" para1="1591|1592" para2="0" power="0"/>
+  <ItemSpec id="720501" science_lv="1" max_lv="5" building_condition="403011" research_need="0;148600|3;0|2;24770|1;0" time_research="22314" para1="1591|1592" para2="1" power="240"/>
+  <ItemSpec id="720502" science_lv="2" max_lv="5" building_condition="403012" research_need="0;282350|3;0|2;47060|1;0" time_research="24545" para1="1591|1592" para2="2" power="520"/>
+  <ItemSpec id="720503" science_lv="3" max_lv="5" building_condition="403013" research_need="0;508230|3;0|2;84700|1;0" time_research="29454" para1="1591|1592" para2="3" power="858"/>
+  <ItemSpec id="720504" science_lv="4" max_lv="5" building_condition="403014" research_need="0;863980|3;0|2;144000|1;0" time_research="32400" para1="1591|1592" para2="4" power="1265"/>
+  <ItemSpec id="720505" science_lv="5" max_lv="5" para1="1591|1592" para2="5" power="1756"/>
+  <ItemSpec id="720600" science_lv="0" max_lv="5" science_condition="720001" building_condition="403010" research_need="0;78210|3;78210|2;0|1;0" time_research="20285" para1="1593|1594" para2="0" power="0"/>
+  <ItemSpec id="720601" science_lv="1" max_lv="5" building_condition="403011" research_need="0;148600|3;148600|2;0|1;0" time_research="22314" para1="1593|1594" para2="1" power="240"/>
+  <ItemSpec id="720602" science_lv="2" max_lv="5" building_condition="403012" research_need="0;282350|3;282350|2;0|1;0" time_research="24545" para1="1593|1594" para2="2" power="520"/>
+  <ItemSpec id="720603" science_lv="3" max_lv="5" building_condition="403013" research_need="0;508230|3;508230|2;0|1;0" time_research="29454" para1="1593|1594" para2="3" power="858"/>
+  <ItemSpec id="720604" science_lv="4" max_lv="5" building_condition="403014" research_need="0;863980|3;863980|2;0|1;0" time_research="32400" para1="1593|1594" para2="4" power="1265"/>
+  <ItemSpec id="720605" science_lv="5" max_lv="5" para1="1593|1594" para2="5" power="1756"/>
+  <ItemSpec id="720700" science_lv="0" max_lv="5" science_condition="720001" building_condition="403010" research_need="0;156430|3;0|2;0|1;0" time_research="20285" para1="1595|1596" para2="0" power="0"/>
+  <ItemSpec id="720701" science_lv="1" max_lv="5" building_condition="403011" research_need="0;297210|3;0|2;0|1;0" time_research="22314" para1="1595|1596" para2="1" power="240"/>
+  <ItemSpec id="720702" science_lv="2" max_lv="5" building_condition="403012" research_need="0;564700|3;0|2;0|1;0" time_research="24545" para1="1595|1596" para2="2" power="520"/>
+  <ItemSpec id="720703" science_lv="3" max_lv="5" building_condition="403013" research_need="0;1016450|3;0|2;0|1;0" time_research="29454" para1="1595|1596" para2="3" power="858"/>
+  <ItemSpec id="720704" science_lv="4" max_lv="5" building_condition="403014" research_need="0;1727970|3;0|2;0|1;0" time_research="32400" para1="1595|1596" para2="4" power="1265"/>
+  <ItemSpec id="720705" science_lv="5" max_lv="5" para1="1595|1596" para2="5" power="1756"/>
+  <ItemSpec id="720800" science_lv="0" max_lv="10" science_condition="720501;720601;720701" building_condition="403011" research_need="0;148600|3;0|2;24770|1;0" time_research="22314" para1="67" para2="0" power="0"/>
+  <ItemSpec id="720801" science_lv="1" max_lv="10" building_condition="403011" research_need="0;148600|3;0|2;24770|1;0" time_research="22314" para1="67" para2="2" power="280"/>
+  <ItemSpec id="720802" science_lv="2" max_lv="10" building_condition="403012" research_need="0;282350|3;0|2;47060|1;0" time_research="24545" para1="67" para2="4" power="560"/>
+  <ItemSpec id="720803" science_lv="3" max_lv="10" building_condition="403012" research_need="0;282350|3;0|2;47060|1;0" time_research="24545" para1="67" para2="6" power="898"/>
+  <ItemSpec id="720804" science_lv="4" max_lv="10" building_condition="403013" research_need="0;508230|3;0|2;84700|1;0" time_research="29454" para1="67" para2="8" power="1236"/>
+  <ItemSpec id="720805" science_lv="5" max_lv="10" building_condition="403013" research_need="0;508230|3;0|2;84700|1;0" time_research="29454" para1="67" para2="10" power="1643"/>
+  <ItemSpec id="720806" science_lv="6" max_lv="10" building_condition="403014" research_need="0;863980|3;0|2;144000|1;0" time_research="32400" para1="67" para2="12" power="2050"/>
+  <ItemSpec id="720807" science_lv="7" max_lv="10" building_condition="403014" research_need="0;863980|3;0|2;144000|1;0" time_research="32400" para1="67" para2="14" power="2541"/>
+  <ItemSpec id="720808" science_lv="8" max_lv="10" building_condition="403015" research_need="0;1382380|3;0|2;230400|1;0" time_research="42120" para1="67" para2="16" power="3032"/>
+  <ItemSpec id="720809" science_lv="9" max_lv="10" building_condition="403015" research_need="0;1382380|3;0|2;230400|1;0" time_research="42120" para1="67" para2="18" power="3625"/>
+  <ItemSpec id="720810" science_lv="10" max_lv="10" para1="67" para2="20" power="4218"/>
+  <ItemSpec id="720900" science_lv="0" max_lv="10" science_condition="720801" building_condition="403015" research_need="0;710940|3;2843740|2;0|1;0" time_research="54154" para1="77" para2="0" power="0"/>
+  <ItemSpec id="720901" science_lv="1" max_lv="10" building_condition="403015" research_need="0;710940|3;2843740|2;0|1;0" time_research="54154" para1="77" para2="1" power="762"/>
+  <ItemSpec id="720902" science_lv="2" max_lv="10" building_condition="403016" research_need="0;0|3;3732410|2;0|1;66650" time_research="59570" para1="77" para2="2" power="1524"/>
+  <ItemSpec id="720903" science_lv="3" max_lv="10" building_condition="403016" research_need="0;0|3;3732410|2;0|1;66650" time_research="59570" para1="77" para2="3" power="2443"/>
+  <ItemSpec id="720904" science_lv="4" max_lv="10" building_condition="403017" research_need="0;0|3;5225380|2;0|1;93310" time_research="71484" para1="77" para2="4" power="3362"/>
+  <ItemSpec id="720905" science_lv="5" max_lv="10" building_condition="403017" research_need="0;0|3;5225380|2;0|1;93310" time_research="71484" para1="77" para2="5" power="4471"/>
+  <ItemSpec id="720906" science_lv="6" max_lv="10" building_condition="403018" research_need="0;0|3;6792990|2;0|1;121300" time_research="78632" para1="77" para2="6" power="5580"/>
+  <ItemSpec id="720907" science_lv="7" max_lv="10" building_condition="403018" research_need="0;0|3;6792990|2;0|1;121300" time_research="78632" para1="77" para2="7" power="6917"/>
+  <ItemSpec id="720908" science_lv="8" max_lv="10" building_condition="403019" research_need="0;0|3;8830890|2;0|1;157690" time_research="86496" para1="77" para2="8" power="8254"/>
+  <ItemSpec id="720909" science_lv="9" max_lv="10" building_condition="403019" research_need="0;0|3;8830890|2;0|1;157690" time_research="86496" para1="77" para2="9" power="9867"/>
+  <ItemSpec id="720910" science_lv="10" max_lv="10" para1="77" para2="10" power="11480"/>
+  <ItemSpec id="721000" science_lv="0" max_lv="15" science_condition="720901" building_condition="403016" research_need="0;592450|3;0|2;98740|1;0" time_research="13237" para1="125" para2="0" power="0"/>
+  <ItemSpec id="721001" science_lv="1" max_lv="15" building_condition="403016" research_need="0;592450|3;0|2;98740|1;0" time_research="13237" para1="125" para2="140" power="204"/>
+  <ItemSpec id="721002" science_lv="2" max_lv="15" building_condition="403016" research_need="0;592450|3;0|2;98740|1;0" time_research="13237" para1="125" para2="280" power="408"/>
+  <ItemSpec id="721003" science_lv="3" max_lv="15" building_condition="403017" research_need="0;829430|3;0|2;138240|1;0" time_research="15885" para1="125" para2="420" power="612"/>
+  <ItemSpec id="721004" science_lv="4" max_lv="15" building_condition="403017" research_need="0;829430|3;0|2;138240|1;0" time_research="15885" para1="125" para2="560" power="858"/>
+  <ItemSpec id="721005" science_lv="5" max_lv="15" building_condition="403017" research_need="0;829430|3;0|2;138240|1;0" time_research="15885" para1="125" para2="700" power="1104"/>
+  <ItemSpec id="721006" science_lv="6" max_lv="15" building_condition="403018" research_need="0;1078250|3;0|2;179710|1;0" time_research="17473" para1="125" para2="840" power="1350"/>
+  <ItemSpec id="721007" science_lv="7" max_lv="15" building_condition="403018" research_need="0;1078250|3;0|2;179710|1;0" time_research="17473" para1="125" para2="980" power="1647"/>
+  <ItemSpec id="721008" science_lv="8" max_lv="15" building_condition="403018" research_need="0;1078250|3;0|2;179710|1;0" time_research="17473" para1="125" para2="1120" power="1944"/>
+  <ItemSpec id="721009" science_lv="9" max_lv="15" building_condition="403019" research_need="0;1401730|3;0|2;233620|1;0" time_research="19221" para1="125" para2="1260" power="2241"/>
+  <ItemSpec id="721010" science_lv="10" max_lv="15" building_condition="403019" research_need="0;1401730|3;0|2;233620|1;0" time_research="19221" para1="125" para2="1400" power="2599"/>
+  <ItemSpec id="721011" science_lv="11" max_lv="15" building_condition="403019" research_need="0;1401730|3;0|2;233620|1;0" time_research="19221" para1="125" para2="1540" power="2957"/>
+  <ItemSpec id="721012" science_lv="12" max_lv="15" building_condition="403020" research_need="0;1822250|3;0|2;303710|1;0" time_research="23065" para1="125" para2="1680" power="3315"/>
+  <ItemSpec id="721013" science_lv="13" max_lv="15" building_condition="403020" research_need="0;1822250|3;0|2;303710|1;0" time_research="23065" para1="125" para2="1820" power="3747"/>
+  <ItemSpec id="721014" science_lv="14" max_lv="15" building_condition="403020" research_need="0;1822250|3;0|2;303710|1;0" time_research="23065" para1="125" para2="1960" power="4179"/>
+  <ItemSpec id="721015" science_lv="15" max_lv="15" para1="125" para2="2100" power="4611"/>
+  <ItemSpec id="721100" science_lv="0" max_lv="10" science_condition="721001" building_condition="403019" research_need="0;3364150|3;0|2;1308280|1;0" time_research="76885" para1="1220" para2="0" power="0"/>
+  <ItemSpec id="721101" science_lv="1" max_lv="10" building_condition="403019" research_need="0;3364150|3;0|2;1308280|1;0" time_research="76885" para1="1220" para2="1" power="1434"/>
+  <ItemSpec id="721102" science_lv="2" max_lv="10" building_condition="403019" research_need="0;3364150|3;0|2;1308280|1;0" time_research="76885" para1="1220" para2="2" power="2868"/>
+  <ItemSpec id="721103" science_lv="3" max_lv="10" building_condition="403020" research_need="0;4373390|3;0|2;1700760|1;0" time_research="92262" para1="1220" para2="3" power="4302"/>
+  <ItemSpec id="721104" science_lv="4" max_lv="10" building_condition="403020" research_need="0;4373390|3;0|2;1700760|1;0" time_research="92262" para1="1220" para2="4" power="6031"/>
+  <ItemSpec id="721105" science_lv="5" max_lv="10" building_condition="403020" research_need="0;4373390|3;0|2;1700760|1;0" time_research="92262" para1="1220" para2="5" power="7760"/>
+  <ItemSpec id="721106" science_lv="6" max_lv="10" building_condition="403021" research_need="0;5685410|3;0|2;2210990|1;0" time_research="101488" para1="1220" para2="6" power="9489"/>
+  <ItemSpec id="721107" science_lv="7" max_lv="10" building_condition="403021" research_need="0;5685410|3;0|2;2210990|1;0" time_research="101488" para1="1220" para2="7" power="11434"/>
+  <ItemSpec id="721108" science_lv="8" max_lv="10" building_condition="403021" research_need="0;5685410|3;0|2;2210990|1;0" time_research="101488" para1="1220" para2="8" power="13379"/>
+  <ItemSpec id="721109" science_lv="9" max_lv="10" building_condition="403022" research_need="0;7391040|3;0|2;2874290|1;0" time_research="121786" para1="1220" para2="9" power="15324"/>
+  <ItemSpec id="721110" science_lv="10" max_lv="10" para1="1220" para2="10" power="17512"/>
+  <ItemSpec id="721200" science_lv="0" max_lv="10" science_condition="721001" building_condition="403019" research_need="0;2242770|3;0|2;934490|1;140170" time_research="76885" para1="1230" para2="0" power="0"/>
+  <ItemSpec id="721201" science_lv="1" max_lv="10" building_condition="403019" research_need="0;2242770|3;0|2;934490|1;140170" time_research="76885" para1="1230" para2="1" power="1434"/>
+  <ItemSpec id="721202" science_lv="2" max_lv="10" building_condition="403019" research_need="0;2242770|3;0|2;934490|1;140170" time_research="76885" para1="1230" para2="2" power="2868"/>
+  <ItemSpec id="721203" science_lv="3" max_lv="10" building_condition="403020" research_need="0;2915600|3;0|2;1214830|1;182220" time_research="92262" para1="1230" para2="3" power="4302"/>
+  <ItemSpec id="721204" science_lv="4" max_lv="10" building_condition="403020" research_need="0;2915600|3;0|2;1214830|1;182220" time_research="92262" para1="1230" para2="4" power="6031"/>
+  <ItemSpec id="721205" science_lv="5" max_lv="10" building_condition="403020" research_need="0;2915600|3;0|2;1214830|1;182220" time_research="92262" para1="1230" para2="5" power="7760"/>
+  <ItemSpec id="721206" science_lv="6" max_lv="10" building_condition="403021" research_need="0;3790280|3;0|2;1579280|1;236890" time_research="101488" para1="1230" para2="6" power="9489"/>
+  <ItemSpec id="721207" science_lv="7" max_lv="10" building_condition="403021" research_need="0;3790280|3;0|2;1579280|1;236890" time_research="101488" para1="1230" para2="7" power="11434"/>
+  <ItemSpec id="721208" science_lv="8" max_lv="10" building_condition="403021" research_need="0;3790280|3;0|2;1579280|1;236890" time_research="101488" para1="1230" para2="8" power="13379"/>
+  <ItemSpec id="721209" science_lv="9" max_lv="10" building_condition="403022" research_need="0;4927360|3;0|2;2053070|1;307960" time_research="121786" para1="1230" para2="9" power="15324"/>
+  <ItemSpec id="721210" science_lv="10" max_lv="10" para1="1230" para2="10" power="17512"/>
+  <ItemSpec id="721400" science_lv="0" max_lv="20" science_condition="721201" building_condition="403022" research_need="0;3079600|3;3079600|2;513270|1;128320" time_research="60893" para1="88" para2="0" power="0"/>
+  <ItemSpec id="721401" science_lv="1" max_lv="20" building_condition="403022" research_need="0;3079600|3;3079600|2;513270|1;128320" time_research="60893" para1="88" para2="450" power="1094"/>
+  <ItemSpec id="721402" science_lv="2" max_lv="20" building_condition="403022" research_need="0;3079600|3;3079600|2;513270|1;128320" time_research="60893" para1="88" para2="900" power="2188"/>
+  <ItemSpec id="721403" science_lv="3" max_lv="20" building_condition="403022" research_need="0;3079600|3;3079600|2;513270|1;128320" time_research="60893" para1="88" para2="1400" power="3282"/>
+  <ItemSpec id="721404" science_lv="4" max_lv="20" building_condition="403022" research_need="0;3079600|3;3079600|2;513270|1;128320" time_research="60893" para1="88" para2="1900" power="4376"/>
+  <ItemSpec id="721405" science_lv="5" max_lv="20" building_condition="403023" research_need="0;2368920|3;2368920|2;394820|1;98710" time_research="66982" para1="88" para2="2450" power="5470"/>
+  <ItemSpec id="721406" science_lv="6" max_lv="20" building_condition="403023" research_need="0;2368920|3;2368920|2;394820|1;98710" time_research="66982" para1="88" para2="3000" power="6701"/>
+  <ItemSpec id="721407" science_lv="7" max_lv="20" building_condition="403023" research_need="0;2368920|3;2368920|2;394820|1;98710" time_research="66982" para1="88" para2="3600" power="7932"/>
+  <ItemSpec id="721408" science_lv="8" max_lv="20" building_condition="403023" research_need="0;2368920|3;2368920|2;394820|1;98710" time_research="66982" para1="88" para2="4200" power="9163"/>
+  <ItemSpec id="721409" science_lv="9" max_lv="20" building_condition="403023" research_need="0;2368920|3;2368920|2;394820|1;98710" time_research="66982" para1="88" para2="4850" power="10394"/>
+  <ItemSpec id="721410" science_lv="10" max_lv="20" building_condition="403024" research_need="0;5204520|3;5204520|2;867420|1;216860" time_research="73680" para1="88" para2="5500" power="11625"/>
+  <ItemSpec id="721411" science_lv="11" max_lv="20" building_condition="403024" research_need="0;5204520|3;5204520|2;867420|1;216860" time_research="73680" para1="88" para2="6200" power="13010"/>
+  <ItemSpec id="721412" science_lv="12" max_lv="20" building_condition="403024" research_need="0;5204520|3;5204520|2;867420|1;216860" time_research="73680" para1="88" para2="6900" power="14395"/>
+  <ItemSpec id="721413" science_lv="13" max_lv="20" building_condition="403024" research_need="0;5204520|3;5204520|2;867420|1;216860" time_research="73680" para1="88" para2="7650" power="15780"/>
+  <ItemSpec id="721414" science_lv="14" max_lv="20" building_condition="403024" research_need="0;5204520|3;5204520|2;867420|1;216860" time_research="73680" para1="88" para2="8400" power="17165"/>
+  <ItemSpec id="721415" science_lv="15" max_lv="20" building_condition="403025" research_need="0;6765880|3;6765880|2;1127650|1;281910" time_research="81048" para1="88" para2="9200" power="18550"/>
+  <ItemSpec id="721416" science_lv="16" max_lv="20" building_condition="403025" research_need="0;6765880|3;6765880|2;1127650|1;281910" time_research="81048" para1="88" para2="10000" power="20108"/>
+  <ItemSpec id="721417" science_lv="17" max_lv="20" building_condition="403025" research_need="0;6765880|3;6765880|2;1127650|1;281910" time_research="81048" para1="88" para2="10850" power="21666"/>
+  <ItemSpec id="721418" science_lv="18" max_lv="20" building_condition="403025" research_need="0;6765880|3;6765880|2;1127650|1;281910" time_research="81048" para1="88" para2="11750" power="23224"/>
+  <ItemSpec id="721419" science_lv="19" max_lv="20" building_condition="403025" research_need="0;6765880|3;6765880|2;1127650|1;281910" time_research="81048" para1="88" para2="12750" power="24782"/>
+  <ItemSpec id="721420" science_lv="20" max_lv="20" para1="88" para2="13950" power="26340"/>
+  <ItemSpec id="721500" science_lv="0" max_lv="10" science_condition="721001" building_condition="403025" research_need="0;14208350|3;0|2;5525470|1;0" time_research="141835" para1="1591|1592" para2="0" power="0"/>
+  <ItemSpec id="721501" science_lv="1" max_lv="10" building_condition="403025" research_need="0;14208350|3;0|2;5525470|1;0" time_research="141835" para1="1591|1592" para2="1" power="2727"/>
+  <ItemSpec id="721502" science_lv="2" max_lv="10" building_condition="403025" research_need="0;14208350|3;0|2;5525470|1;0" time_research="141835" para1="1591|1592" para2="2" power="5454"/>
+  <ItemSpec id="721503" science_lv="3" max_lv="10" building_condition="403026" research_need="0;18470850|3;0|2;7183110|1;0" time_research="156019" para1="1591|1592" para2="3" power="8181"/>
+  <ItemSpec id="721504" science_lv="4" max_lv="10" building_condition="403026" research_need="0;18470850|3;0|2;7183110|1;0" time_research="156019" para1="1591|1592" para2="4" power="11248"/>
+  <ItemSpec id="721505" science_lv="5" max_lv="10" building_condition="403026" research_need="0;18470850|3;0|2;7183110|1;0" time_research="156019" para1="1591|1592" para2="5" power="14315"/>
+  <ItemSpec id="721506" science_lv="6" max_lv="10" building_condition="403027" research_need="0;24012100|3;0|2;9338040|1;0" time_research="171621" para1="1591|1592" para2="6" power="17382"/>
+  <ItemSpec id="721507" science_lv="7" max_lv="10" building_condition="403027" research_need="0;24012100|3;0|2;9338040|1;0" time_research="171621" para1="1591|1592" para2="7" power="20833"/>
+  <ItemSpec id="721508" science_lv="8" max_lv="10" building_condition="403027" research_need="0;24012100|3;0|2;9338040|1;0" time_research="171621" para1="1591|1592" para2="8" power="24284"/>
+  <ItemSpec id="721509" science_lv="9" max_lv="10" building_condition="403028" research_need="0;31215730|3;0|2;12139450|1;0" time_research="188783" para1="1591|1592" para2="9" power="27735"/>
+  <ItemSpec id="721510" science_lv="10" max_lv="10" para1="1591|1592" para2="10" power="31617"/>
+  <ItemSpec id="721600" science_lv="0" max_lv="10" science_condition="721001" building_condition="403025" research_need="0;9472230|3;14208350|2;0|1;986690" time_research="141835" para1="1593|1594" para2="0" power="0"/>
+  <ItemSpec id="721601" science_lv="1" max_lv="10" building_condition="403025" research_need="0;9472230|3;14208350|2;0|1;986690" time_research="141835" para1="1593|1594" para2="1" power="2727"/>
+  <ItemSpec id="721602" science_lv="2" max_lv="10" building_condition="403025" research_need="0;9472230|3;14208350|2;0|1;986690" time_research="141835" para1="1593|1594" para2="2" power="5454"/>
+  <ItemSpec id="721603" science_lv="3" max_lv="10" building_condition="403026" research_need="0;12313900|3;18470850|2;0|1;1282700" time_research="156019" para1="1593|1594" para2="3" power="8181"/>
+  <ItemSpec id="721604" science_lv="4" max_lv="10" building_condition="403026" research_need="0;12313900|3;18470850|2;0|1;1282700" time_research="156019" para1="1593|1594" para2="4" power="11248"/>
+  <ItemSpec id="721605" science_lv="5" max_lv="10" building_condition="403026" research_need="0;12313900|3;18470850|2;0|1;1282700" time_research="156019" para1="1593|1594" para2="5" power="14315"/>
+  <ItemSpec id="721606" science_lv="6" max_lv="10" building_condition="403027" research_need="0;16008070|3;24012100|2;0|1;1667510" time_research="171621" para1="1593|1594" para2="6" power="17382"/>
+  <ItemSpec id="721607" science_lv="7" max_lv="10" building_condition="403027" research_need="0;16008070|3;24012100|2;0|1;1667510" time_research="171621" para1="1593|1594" para2="7" power="20833"/>
+  <ItemSpec id="721608" science_lv="8" max_lv="10" building_condition="403027" research_need="0;16008070|3;24012100|2;0|1;1667510" time_research="171621" para1="1593|1594" para2="8" power="24284"/>
+  <ItemSpec id="721609" science_lv="9" max_lv="10" building_condition="403028" research_need="0;20810490|3;31215730|2;0|1;2167760" time_research="188783" para1="1593|1594" para2="9" power="27735"/>
+  <ItemSpec id="721610" science_lv="10" max_lv="10" para1="1593|1594" para2="10" power="31617"/>
+  <ItemSpec id="721700" science_lv="0" max_lv="10" science_condition="721001" building_condition="403025" research_need="0;47361150|3;0|2;0|1;0" time_research="141835" para1="1595|1596" para2="0" power="0"/>
+  <ItemSpec id="721701" science_lv="1" max_lv="10" building_condition="403025" research_need="0;47361150|3;0|2;0|1;0" time_research="141835" para1="1595|1596" para2="1" power="2727"/>
+  <ItemSpec id="721702" science_lv="2" max_lv="10" building_condition="403025" research_need="0;47361150|3;0|2;0|1;0" time_research="141835" para1="1595|1596" para2="2" power="5454"/>
+  <ItemSpec id="721703" science_lv="3" max_lv="10" building_condition="403026" research_need="0;61569500|3;0|2;0|1;0" time_research="156019" para1="1595|1596" para2="3" power="8181"/>
+  <ItemSpec id="721704" science_lv="4" max_lv="10" building_condition="403026" research_need="0;61569500|3;0|2;0|1;0" time_research="156019" para1="1595|1596" para2="4" power="11248"/>
+  <ItemSpec id="721705" science_lv="5" max_lv="10" building_condition="403026" research_need="0;61569500|3;0|2;0|1;0" time_research="156019" para1="1595|1596" para2="5" power="14315"/>
+  <ItemSpec id="721706" science_lv="6" max_lv="10" building_condition="403027" research_need="0;80040350|3;0|2;0|1;0" time_research="171621" para1="1595|1596" para2="6" power="17382"/>
+  <ItemSpec id="721707" science_lv="7" max_lv="10" building_condition="403027" research_need="0;80040350|3;0|2;0|1;0" time_research="171621" para1="1595|1596" para2="7" power="20833"/>
+  <ItemSpec id="721708" science_lv="8" max_lv="10" building_condition="403027" research_need="0;80040350|3;0|2;0|1;0" time_research="171621" para1="1595|1596" para2="8" power="24284"/>
+  <ItemSpec id="721709" science_lv="9" max_lv="10" building_condition="403028" research_need="0;104052450|3;0|2;0|1;0" time_research="188783" para1="1595|1596" para2="9" power="27735"/>
+  <ItemSpec id="721710" science_lv="10" max_lv="10" para1="1595|1596" para2="10" power="31617"/>
+  <ItemSpec id="721800" science_lv="0" max_lv="20" science_condition="721501;721601;721701" building_condition="403027" research_need="0;24012100|3;8004030|2;4002020|1;1000500" time_research="171621" para1="67" para2="0" power="0"/>
+  <ItemSpec id="721801" science_lv="1" max_lv="20" building_condition="403027" research_need="0;24012100|3;8004030|2;4002020|1;1000500" time_research="171621" para1="67" para2="2" power="3451"/>
+  <ItemSpec id="721802" science_lv="2" max_lv="20" building_condition="403027" research_need="0;24012100|3;8004030|2;4002020|1;1000500" time_research="171621" para1="67" para2="4" power="6902"/>
+  <ItemSpec id="721803" science_lv="3" max_lv="20" building_condition="403027" research_need="0;24012100|3;8004030|2;4002020|1;1000500" time_research="171621" para1="67" para2="6" power="10353"/>
+  <ItemSpec id="721804" science_lv="4" max_lv="20" building_condition="403027" research_need="0;24012100|3;8004030|2;4002020|1;1000500" time_research="171621" para1="67" para2="8" power="13804"/>
+  <ItemSpec id="721805" science_lv="5" max_lv="20" building_condition="403028" research_need="0;31215730|3;10405240|2;5202620|1;1300660" time_research="188783" para1="67" para2="10" power="17255"/>
+  <ItemSpec id="721806" science_lv="6" max_lv="20" building_condition="403028" research_need="0;31215730|3;10405240|2;5202620|1;1300660" time_research="188783" para1="67" para2="12" power="21137"/>
+  <ItemSpec id="721807" science_lv="7" max_lv="20" building_condition="403028" research_need="0;31215730|3;10405240|2;5202620|1;1300660" time_research="188783" para1="67" para2="14" power="25019"/>
+  <ItemSpec id="721808" science_lv="8" max_lv="20" building_condition="403028" research_need="0;31215730|3;10405240|2;5202620|1;1300660" time_research="188783" para1="67" para2="16" power="28901"/>
+  <ItemSpec id="721809" science_lv="9" max_lv="20" building_condition="403028" research_need="0;31215730|3;10405240|2;5202620|1;1300660" time_research="188783" para1="67" para2="18" power="32783"/>
+  <ItemSpec id="721810" science_lv="10" max_lv="20" building_condition="403029" research_need="0;40580450|3;13526820|2;6763410|1;1690850" time_research="207661" para1="67" para2="20" power="36665"/>
+  <ItemSpec id="721811" science_lv="11" max_lv="20" building_condition="403029" research_need="0;40580450|3;13526820|2;6763410|1;1690850" time_research="207661" para1="67" para2="22" power="41033"/>
+  <ItemSpec id="721812" science_lv="12" max_lv="20" building_condition="403029" research_need="0;40580450|3;13526820|2;6763410|1;1690850" time_research="207661" para1="67" para2="24" power="45401"/>
+  <ItemSpec id="721813" science_lv="13" max_lv="20" building_condition="403029" research_need="0;40580450|3;13526820|2;6763410|1;1690850" time_research="207661" para1="67" para2="26" power="49769"/>
+  <ItemSpec id="721814" science_lv="14" max_lv="20" building_condition="403029" research_need="0;40580450|3;13526820|2;6763410|1;1690850" time_research="207661" para1="67" para2="28" power="54137"/>
+  <ItemSpec id="721815" science_lv="15" max_lv="20" building_condition="403030" research_need="0;52754590|3;17584860|2;8792430|1;2198110" time_research="228427" para1="67" para2="30" power="58505"/>
+  <ItemSpec id="721816" science_lv="16" max_lv="20" building_condition="403030" research_need="0;52754590|3;17584860|2;8792430|1;2198110" time_research="228427" para1="67" para2="32" power="63419"/>
+  <ItemSpec id="721817" science_lv="17" max_lv="20" building_condition="403030" research_need="0;52754590|3;17584860|2;8792430|1;2198110" time_research="228427" para1="67" para2="34" power="68333"/>
+  <ItemSpec id="721818" science_lv="18" max_lv="20" building_condition="403030" research_need="0;52754590|3;17584860|2;8792430|1;2198110" time_research="228427" para1="67" para2="36" power="73247"/>
+  <ItemSpec id="721819" science_lv="19" max_lv="20" building_condition="403030" research_need="0;52754590|3;17584860|2;8792430|1;2198110" time_research="228427" para1="67" para2="38" power="78161"/>
+  <ItemSpec id="721820" science_lv="20" max_lv="20" para1="67" para2="40" power="83075"/>
+  <ItemSpec id="730000" science_lv="0" max_lv="10" building_condition="403001" research_need="0;900|3;2100|2;0|1;0" time_research="1800" para1="66" para2="0" power="0"/>
+  <ItemSpec id="730001" science_lv="1" max_lv="10" building_condition="403001" research_need="0;1170|3;2730|2;0|1;0" time_research="3600" para1="66" para2="10" power="10"/>
+  <ItemSpec id="730002" science_lv="2" max_lv="10" building_condition="403001" research_need="0;1520|3;3550|2;0|1;0" time_research="5400" para1="66" para2="20" power="25"/>
+  <ItemSpec id="730003" science_lv="3" max_lv="10" building_condition="403001" research_need="0;2130|3;4970|2;0|1;0" time_research="6480" para1="66" para2="30" power="50"/>
+  <ItemSpec id="730004" science_lv="4" max_lv="10" building_condition="403001" research_need="0;3190|3;7450|2;0|1;0" time_research="7776" para1="66" para2="40" power="93"/>
+  <ItemSpec id="730005" science_lv="5" max_lv="10" building_condition="403001" research_need="0;5430|3;12670|2;0|1;0" time_research="10886" para1="66" para2="50" power="171"/>
+  <ItemSpec id="730006" science_lv="6" max_lv="10" building_condition="403001" research_need="0;9770|3;22810|2;0|1;0" time_research="11975" para1="66" para2="60" power="299"/>
+  <ItemSpec id="730007" science_lv="7" max_lv="10" building_condition="403001" research_need="0;18570|3;43330|2;0|1;0" time_research="13172" para1="66" para2="70" power="489"/>
+  <ItemSpec id="730008" science_lv="8" max_lv="10" building_condition="403001" research_need="0;35280|3;82330|2;0|1;0" time_research="14489" para1="66" para2="80" power="742"/>
+  <ItemSpec id="730009" science_lv="9" max_lv="10" building_condition="403001" research_need="0;67040|3;156430|2;0|1;0" time_research="17387" para1="66" para2="90" power="1037"/>
+  <ItemSpec id="730010" science_lv="10" max_lv="10" para1="66" para2="100" power="1380"/>
+  <ItemSpec id="730100" science_lv="0" max_lv="3" science_condition="730001" building_condition="403002" research_need="0;1370|3;1370|2;0|1;0" time_research="4200" para1="1011|1012" para2="0" power="0" mark="1"/>
+  <ItemSpec id="730101" science_lv="1" max_lv="3" building_condition="403002" research_need="0;1770|3;1770|2;0|1;0" time_research="6300" para1="1011|1012" para2="1" power="10" mark="1"/>
+  <ItemSpec id="730102" science_lv="2" max_lv="3" building_condition="403002" research_need="0;2480|3;2480|2;0|1;0" time_research="7560" para1="1011|1012" para2="2" power="27" mark="1"/>
+  <ItemSpec id="730103" science_lv="3" max_lv="3" para1="1011|1012" para2="3" power="57" mark="1"/>
+  <ItemSpec id="730200" science_lv="0" max_lv="3" science_condition="730001" building_condition="403002" research_need="0;820|3;1910|2;0|1;0" time_research="4200" para1="1013|1014" para2="0" power="0" mark="1"/>
+  <ItemSpec id="730201" science_lv="1" max_lv="3" building_condition="403002" research_need="0;1060|3;2480|2;0|1;0" time_research="6300" para1="1013|1014" para2="1" power="10" mark="1"/>
+  <ItemSpec id="730202" science_lv="2" max_lv="3" building_condition="403002" research_need="0;1490|3;3480|2;0|1;0" time_research="7560" para1="1013|1014" para2="2" power="27" mark="1"/>
+  <ItemSpec id="730203" science_lv="3" max_lv="3" para1="1013|1014" para2="3" power="57" mark="1"/>
+  <ItemSpec id="730300" science_lv="0" max_lv="3" science_condition="730001" building_condition="403002" research_need="0;2730|3;0|2;0|1;0" time_research="4200" para1="1015|1016" para2="0" power="0" mark="1"/>
+  <ItemSpec id="730301" science_lv="1" max_lv="3" building_condition="403002" research_need="0;3550|3;0|2;0|1;0" time_research="6300" para1="1015|1016" para2="1" power="10" mark="1"/>
+  <ItemSpec id="730302" science_lv="2" max_lv="3" building_condition="403002" research_need="0;4970|3;0|2;0|1;0" time_research="7560" para1="1015|1016" para2="2" power="27" mark="1"/>
+  <ItemSpec id="730303" science_lv="3" max_lv="3" para1="1015|1016" para2="3" power="57" mark="1"/>
+  <ItemSpec id="730400" science_lv="0" max_lv="3" science_condition="730001" building_condition="403002" research_need="0;1910|3;820|2;0|1;0" time_research="4200" para1="1017|1018" para2="0" power="0" mark="1"/>
+  <ItemSpec id="730401" science_lv="1" max_lv="3" building_condition="403002" research_need="0;2480|3;1060|2;0|1;0" time_research="6300" para1="1017|1018" para2="1" power="10" mark="1"/>
+  <ItemSpec id="730402" science_lv="2" max_lv="3" building_condition="403002" research_need="0;3480|3;1490|2;0|1;0" time_research="7560" para1="1017|1018" para2="2" power="27" mark="1"/>
+  <ItemSpec id="730403" science_lv="3" max_lv="3" para1="1017|1018" para2="3" power="57" mark="1"/>
+  <ItemSpec id="730500" science_lv="0" max_lv="10" science_condition="730001" building_condition="403004" research_need="0;3830|3;2560|2;0|1;0" time_research="9720" para1="60" para2="0" power="0"/>
+  <ItemSpec id="730501" science_lv="1" max_lv="10" building_condition="403005" research_need="0;5750|3;3830|2;0|1;0" time_research="11664" para1="60" para2="1" power="39"/>
+  <ItemSpec id="730502" science_lv="2" max_lv="10" building_condition="403006" research_need="0;9770|3;6520|2;0|1;0" time_research="16329" para1="60" para2="2" power="109"/>
+  <ItemSpec id="730503" science_lv="3" max_lv="10" building_condition="403007" research_need="0;17590|3;11730|2;0|1;0" time_research="17962" para1="60" para2="3" power="224"/>
+  <ItemSpec id="730504" science_lv="4" max_lv="10" building_condition="403008" research_need="0;33430|3;22280|2;0|1;0" time_research="19758" para1="60" para2="4" power="395"/>
+  <ItemSpec id="730505" science_lv="5" max_lv="10" building_condition="403009" research_need="0;63510|3;42340|2;0|1;0" time_research="21734" para1="60" para2="5" power="623"/>
+  <ItemSpec id="730506" science_lv="6" max_lv="10" building_condition="403010" research_need="0;120670|3;80450|2;0|1;0" time_research="26081" para1="60" para2="6" power="888"/>
+  <ItemSpec id="730507" science_lv="7" max_lv="10" building_condition="403011" research_need="0;229280|3;152850|2;0|1;0" time_research="28689" para1="60" para2="7" power="1197"/>
+  <ItemSpec id="730508" science_lv="8" max_lv="10" building_condition="403012" research_need="0;435620|3;290420|2;0|1;0" time_research="31558" para1="60" para2="8" power="1557"/>
+  <ItemSpec id="730509" science_lv="9" max_lv="10" building_condition="403013" research_need="0;784120|3;522750|2;0|1;0" time_research="37870" para1="60" para2="9" power="1991"/>
+  <ItemSpec id="730510" science_lv="10" max_lv="10" para1="60" para2="10" power="2515"/>
+  <ItemSpec id="730600" science_lv="0" max_lv="3" science_condition="730101" building_condition="403005" research_need="0;5220|3;2240|2;0|1;0" time_research="9072" para1="1031|1032" para2="0" power="0" mark="1"/>
+  <ItemSpec id="730601" science_lv="1" max_lv="3" building_condition="403006" research_need="0;8870|3;3800|2;0|1;0" time_research="12700" para1="1031|1032" para2="1" power="54" mark="1"/>
+  <ItemSpec id="730602" science_lv="2" max_lv="3" building_condition="403007" research_need="0;15960|3;6840|2;0|1;0" time_research="13970" para1="1031|1032" para2="2" power="144" mark="1"/>
+  <ItemSpec id="730603" science_lv="3" max_lv="3" para1="1031|1032" para2="3" power="277" mark="1"/>
+  <ItemSpec id="730700" science_lv="0" max_lv="3" science_condition="730201" building_condition="403005" research_need="0;7450|3;0|2;0|1;0" time_research="9072" para1="1033|1034" para2="0" power="0" mark="1"/>
+  <ItemSpec id="730701" science_lv="1" max_lv="3" building_condition="403006" research_need="0;12670|3;0|2;0|1;0" time_research="12700" para1="1033|1034" para2="1" power="54" mark="1"/>
+  <ItemSpec id="730702" science_lv="2" max_lv="3" building_condition="403007" research_need="0;22810|3;0|2;0|1;0" time_research="13970" para1="1033|1034" para2="2" power="144" mark="1"/>
+  <ItemSpec id="730703" science_lv="3" max_lv="3" para1="1033|1034" para2="3" power="277" mark="1"/>
+  <ItemSpec id="730800" science_lv="0" max_lv="3" science_condition="730301" building_condition="403005" research_need="0;3730|3;3730|2;0|1;0" time_research="9072" para1="1035|1036" para2="0" power="0" mark="1"/>
+  <ItemSpec id="730801" science_lv="1" max_lv="3" building_condition="403006" research_need="0;6330|3;6330|2;0|1;0" time_research="12700" para1="1035|1036" para2="1" power="54" mark="1"/>
+  <ItemSpec id="730802" science_lv="2" max_lv="3" building_condition="403007" research_need="0;11400|3;11400|2;0|1;0" time_research="13970" para1="1035|1036" para2="2" power="144" mark="1"/>
+  <ItemSpec id="730803" science_lv="3" max_lv="3" para1="1035|1036" para2="3" power="277" mark="1"/>
+  <ItemSpec id="730900" science_lv="0" max_lv="3" science_condition="730401" building_condition="403005" research_need="0;5960|3;1490|2;0|1;0" time_research="9072" para1="1037|1038" para2="0" power="0" mark="1"/>
+  <ItemSpec id="730901" science_lv="1" max_lv="3" building_condition="403006" research_need="0;10140|3;2530|2;0|1;0" time_research="12700" para1="1037|1038" para2="1" power="54" mark="1"/>
+  <ItemSpec id="730902" science_lv="2" max_lv="3" building_condition="403007" research_need="0;18240|3;4560|2;0|1;0" time_research="13970" para1="1037|1038" para2="2" power="144" mark="1"/>
+  <ItemSpec id="730903" science_lv="3" max_lv="3" para1="1037|1038" para2="3" power="277" mark="1"/>
+  <ItemSpec id="731000" science_lv="0" max_lv="1" science_condition="730501" building_condition="403006" research_need="0;9050|3;9050|2;0|1;0" time_research="18144" para1="55" para2="0" power="0"/>
+  <ItemSpec id="731001" science_lv="1" max_lv="1" para1="55" para2="1" power="128"/>
+  <ItemSpec id="731100" science_lv="0" max_lv="3" science_condition="730601" building_condition="403008" research_need="0;9900|3;39620|2;0|1;0" time_research="17563" para1="1041|1042" para2="0" power="0" mark="1"/>
+  <ItemSpec id="731101" science_lv="1" max_lv="3" building_condition="403009" research_need="0;18820|3;75270|2;0|1;0" time_research="19319" para1="1041|1042" para2="1" power="202" mark="1"/>
+  <ItemSpec id="731102" science_lv="2" max_lv="3" building_condition="403010" research_need="0;35750|3;143020|2;0|1;0" time_research="23183" para1="1041|1042" para2="2" power="438" mark="1"/>
+  <ItemSpec id="731103" science_lv="3" max_lv="3" para1="1041|1042" para2="3" power="713" mark="1"/>
+  <ItemSpec id="731200" science_lv="0" max_lv="3" science_condition="730701" building_condition="403008" research_need="0;9900|3;39620|2;0|1;0" time_research="17563" para1="1043|1044" para2="0" power="0" mark="1"/>
+  <ItemSpec id="731201" science_lv="1" max_lv="3" building_condition="403009" research_need="0;18820|3;75270|2;0|1;0" time_research="19319" para1="1043|1044" para2="1" power="202" mark="1"/>
+  <ItemSpec id="731202" science_lv="2" max_lv="3" building_condition="403010" research_need="0;35750|3;143020|2;0|1;0" time_research="23183" para1="1043|1044" para2="2" power="438" mark="1"/>
+  <ItemSpec id="731203" science_lv="3" max_lv="3" para1="1043|1044" para2="3" power="713" mark="1"/>
+  <ItemSpec id="731300" science_lv="0" max_lv="3" science_condition="730801" building_condition="403008" research_need="0;0|3;49520|2;0|1;0" time_research="17563" para1="1045|1046" para2="0" power="0" mark="1"/>
+  <ItemSpec id="731301" science_lv="1" max_lv="3" building_condition="403009" research_need="0;0|3;94090|2;0|1;0" time_research="19319" para1="1045|1046" para2="1" power="202" mark="1"/>
+  <ItemSpec id="731302" science_lv="2" max_lv="3" building_condition="403010" research_need="0;0|3;178770|2;0|1;0" time_research="23183" para1="1045|1046" para2="2" power="438" mark="1"/>
+  <ItemSpec id="731303" science_lv="3" max_lv="3" para1="1045|1046" para2="3" power="713" mark="1"/>
+  <ItemSpec id="731400" science_lv="0" max_lv="3" science_condition="730901" building_condition="403008" research_need="0;49520|3;0|2;0|1;0" time_research="17563" para1="1047|1048" para2="0" power="0" mark="1"/>
+  <ItemSpec id="731401" science_lv="1" max_lv="3" building_condition="403009" research_need="0;94090|3;0|2;0|1;0" time_research="19319" para1="1047|1048" para2="1" power="202" mark="1"/>
+  <ItemSpec id="731402" science_lv="2" max_lv="3" building_condition="403010" research_need="0;178770|3;0|2;0|1;0" time_research="23183" para1="1047|1048" para2="2" power="438" mark="1"/>
+  <ItemSpec id="731403" science_lv="3" max_lv="3" para1="1047|1048" para2="3" power="713" mark="1"/>
+  <ItemSpec id="731500" science_lv="0" max_lv="3" science_condition="731001" building_condition="403009" research_need="0;35280|3;35280|2;0|1;0" time_research="14489" para1="56" para2="0" power="0"/>
+  <ItemSpec id="731501" science_lv="1" max_lv="3" building_condition="403010" research_need="0;67040|3;67040|2;0|1;0" time_research="17387" para1="56" para2="2000" power="177"/>
+  <ItemSpec id="731502" science_lv="2" max_lv="3" building_condition="403011" research_need="0;127380|3;127380|2;0|1;0" time_research="19126" para1="56" para2="4000" power="383"/>
+  <ItemSpec id="731503" science_lv="3" max_lv="3" para1="56" para2="6000" power="623"/>
+  <ItemSpec id="731600" science_lv="0" max_lv="1" science_condition="731501" building_condition="403011" research_need="0;127380|3;127380|2;28310|1;0" time_research="31877" para1="55" para2="0" power="0"/>
+  <ItemSpec id="731601" science_lv="1" max_lv="1" para1="55" para2="1" power="400"/>
+  <ItemSpec id="731700" science_lv="0" max_lv="5" science_condition="731601" building_condition="403013" research_need="0;609870|3;203290|2;33880|1;0" time_research="29454" para1="1011|1012" para2="0" power="0" mark="1"/>
+  <ItemSpec id="731701" science_lv="1" max_lv="5" building_condition="403014" research_need="0;1036780|3;345590|2;57600|1;0" time_research="32400" para1="1011|1012" para2="1" power="407" mark="1"/>
+  <ItemSpec id="731702" science_lv="2" max_lv="5" building_condition="403015" research_need="0;1658850|3;552950|2;92160|1;0" time_research="42120" para1="1011|1012" para2="2" power="898" mark="1"/>
+  <ItemSpec id="731703" science_lv="3" max_lv="5" building_condition="403016" research_need="0;2488280|3;829430|2;138240|1;0" time_research="46332" para1="1011|1012" para2="3" power="1491" mark="1"/>
+  <ItemSpec id="731704" science_lv="4" max_lv="5" building_condition="403017" research_need="0;3483590|3;1161200|2;193530|1;0" time_research="55598" para1="1011|1012" para2="4" power="2206" mark="1"/>
+  <ItemSpec id="731705" science_lv="5" max_lv="5" para1="1011|1012" para2="5" power="3068" mark="1"/>
+  <ItemSpec id="731800" science_lv="0" max_lv="5" science_condition="731601" building_condition="403013" research_need="0;203290|3;609870|2;33880|1;0" time_research="29454" para1="1013|1014" para2="0" power="0" mark="1"/>
+  <ItemSpec id="731801" science_lv="1" max_lv="5" building_condition="403014" research_need="0;345590|3;1036780|2;57600|1;0" time_research="32400" para1="1013|1014" para2="1" power="407" mark="1"/>
+  <ItemSpec id="731802" science_lv="2" max_lv="5" building_condition="403015" research_need="0;552950|3;1658850|2;92160|1;0" time_research="42120" para1="1013|1014" para2="2" power="898" mark="1"/>
+  <ItemSpec id="731803" science_lv="3" max_lv="5" building_condition="403016" research_need="0;829430|3;2488280|2;138240|1;0" time_research="46332" para1="1013|1014" para2="3" power="1491" mark="1"/>
+  <ItemSpec id="731804" science_lv="4" max_lv="5" building_condition="403017" research_need="0;1161200|3;3483590|2;193530|1;0" time_research="55598" para1="1013|1014" para2="4" power="2206" mark="1"/>
+  <ItemSpec id="731805" science_lv="5" max_lv="5" para1="1013|1014" para2="5" power="3068" mark="1"/>
+  <ItemSpec id="731900" science_lv="0" max_lv="5" science_condition="731601" building_condition="403013" research_need="0;508230|3;0|2;84700|1;0" time_research="29454" para1="1015|1016" para2="0" power="0" mark="1"/>
+  <ItemSpec id="731901" science_lv="1" max_lv="5" building_condition="403014" research_need="0;863980|3;0|2;144000|1;0" time_research="32400" para1="1015|1016" para2="1" power="407" mark="1"/>
+  <ItemSpec id="731902" science_lv="2" max_lv="5" building_condition="403015" research_need="0;1382380|3;0|2;230400|1;0" time_research="42120" para1="1015|1016" para2="2" power="898" mark="1"/>
+  <ItemSpec id="731903" science_lv="3" max_lv="5" building_condition="403016" research_need="0;2073560|3;0|2;345590|1;0" time_research="46332" para1="1015|1016" para2="3" power="1491" mark="1"/>
+  <ItemSpec id="731904" science_lv="4" max_lv="5" building_condition="403017" research_need="0;2902990|3;0|2;483830|1;0" time_research="55598" para1="1015|1016" para2="4" power="2206" mark="1"/>
+  <ItemSpec id="731905" science_lv="5" max_lv="5" para1="1015|1016" para2="5" power="3068" mark="1"/>
+  <ItemSpec id="732000" science_lv="0" max_lv="5" science_condition="731601" building_condition="403013" research_need="0;304940|3;0|2;118590|1;0" time_research="29454" para1="1017|1018" para2="0" power="0" mark="1"/>
+  <ItemSpec id="732001" science_lv="1" max_lv="5" building_condition="403014" research_need="0;518390|3;0|2;201600|1;0" time_research="32400" para1="1017|1018" para2="1" power="407" mark="1"/>
+  <ItemSpec id="732002" science_lv="2" max_lv="5" building_condition="403015" research_need="0;829430|3;0|2;322550|1;0" time_research="42120" para1="1017|1018" para2="2" power="898" mark="1"/>
+  <ItemSpec id="732003" science_lv="3" max_lv="5" building_condition="403016" research_need="0;1244140|3;0|2;483830|1;0" time_research="46332" para1="1017|1018" para2="3" power="1491" mark="1"/>
+  <ItemSpec id="732004" science_lv="4" max_lv="5" building_condition="403017" research_need="0;1741790|3;0|2;677360|1;0" time_research="55598" para1="1017|1018" para2="4" power="2206" mark="1"/>
+  <ItemSpec id="732005" science_lv="5" max_lv="5" para1="1017|1018" para2="5" power="3068" mark="1"/>
+  <ItemSpec id="732100" science_lv="0" max_lv="15" science_condition="731601" building_condition="403014" research_need="0;740560|3;987410|2;123430|1;0" time_research="37028" para1="66" para2="0" power="0"/>
+  <ItemSpec id="732101" science_lv="1" max_lv="15" building_condition="403014" research_need="0;740560|3;987410|2;123430|1;0" time_research="37028" para1="66" para2="10" power="702"/>
+  <ItemSpec id="732102" science_lv="2" max_lv="15" building_condition="403015" research_need="0;1184890|3;1579860|2;197480|1;0" time_research="48137" para1="66" para2="20" power="1404"/>
+  <ItemSpec id="732103" science_lv="3" max_lv="15" building_condition="403015" research_need="0;1184890|3;1579860|2;197480|1;0" time_research="48137" para1="66" para2="30" power="2251"/>
+  <ItemSpec id="732104" science_lv="4" max_lv="15" building_condition="403016" research_need="0;1777340|3;2369790|2;296220|1;0" time_research="52951" para1="66" para2="40" power="3098"/>
+  <ItemSpec id="732105" science_lv="5" max_lv="15" building_condition="403016" research_need="0;1777340|3;2369790|2;296220|1;0" time_research="52951" para1="66" para2="50" power="4119"/>
+  <ItemSpec id="732106" science_lv="6" max_lv="15" building_condition="403017" research_need="0;2488280|3;3317700|2;414710|1;0" time_research="63541" para1="66" para2="60" power="5140"/>
+  <ItemSpec id="732107" science_lv="7" max_lv="15" building_condition="403017" research_need="0;2488280|3;3317700|2;414710|1;0" time_research="63541" para1="66" para2="70" power="6372"/>
+  <ItemSpec id="732108" science_lv="8" max_lv="15" building_condition="403018" research_need="0;3234760|3;4313010|2;539130|1;0" time_research="69895" para1="66" para2="80" power="7604"/>
+  <ItemSpec id="732109" science_lv="9" max_lv="15" building_condition="403018" research_need="0;3234760|3;4313010|2;539130|1;0" time_research="69895" para1="66" para2="90" power="9090"/>
+  <ItemSpec id="732110" science_lv="10" max_lv="15" building_condition="403019" research_need="0;4205190|3;5606920|2;700860|1;0" time_research="76885" para1="66" para2="100" power="10576"/>
+  <ItemSpec id="732111" science_lv="11" max_lv="15" building_condition="403019" research_need="0;4205190|3;5606920|2;700860|1;0" time_research="76885" para1="66" para2="110" power="12368"/>
+  <ItemSpec id="732112" science_lv="12" max_lv="15" building_condition="403020" research_need="0;5466740|3;7288990|2;911120|1;0" time_research="92262" para1="66" para2="120" power="14160"/>
+  <ItemSpec id="732113" science_lv="13" max_lv="15" building_condition="403020" research_need="0;5466740|3;7288990|2;911120|1;0" time_research="92262" para1="66" para2="130" power="16321"/>
+  <ItemSpec id="732114" science_lv="14" max_lv="15" building_condition="403021" research_need="0;7106770|3;9475690|2;1184460|1;0" time_research="101488" para1="66" para2="140" power="18482"/>
+  <ItemSpec id="732115" science_lv="15" max_lv="15" para1="66" para2="150" power="20914"/>
+  <ItemSpec id="732200" science_lv="0" max_lv="5" science_condition="731701" building_condition="403016" research_need="0;0|3;0|2;345590|1;86400" time_research="46332" para1="1031|1032" para2="0" power="0" mark="1"/>
+  <ItemSpec id="732201" science_lv="1" max_lv="5" building_condition="403017" research_need="0;0|3;0|2;483830|1;120960" time_research="55598" para1="1031|1032" para2="1" power="715" mark="1"/>
+  <ItemSpec id="732202" science_lv="2" max_lv="5" building_condition="403018" research_need="0;0|3;0|2;628980|1;157250" time_research="61158" para1="1031|1032" para2="2" power="1577" mark="1"/>
+  <ItemSpec id="732203" science_lv="3" max_lv="5" building_condition="403019" research_need="0;0|3;0|2;817680|1;204420" time_research="67274" para1="1031|1032" para2="3" power="2617" mark="1"/>
+  <ItemSpec id="732204" science_lv="4" max_lv="5" building_condition="403020" research_need="0;0|3;0|2;1062980|1;265740" time_research="80729" para1="1031|1032" para2="4" power="3871" mark="1"/>
+  <ItemSpec id="732205" science_lv="5" max_lv="5" para1="1031|1032" para2="5" power="5384" mark="1"/>
+  <ItemSpec id="732300" science_lv="0" max_lv="5" science_condition="731801" building_condition="403016" research_need="0;0|3;0|2;691190|1;0" time_research="46332" para1="1033|1034" para2="0" power="0" mark="1"/>
+  <ItemSpec id="732301" science_lv="1" max_lv="5" building_condition="403017" research_need="0;0|3;0|2;967660|1;0" time_research="55598" para1="1033|1034" para2="1" power="715" mark="1"/>
+  <ItemSpec id="732302" science_lv="2" max_lv="5" building_condition="403018" research_need="0;0|3;0|2;1257960|1;0" time_research="61158" para1="1033|1034" para2="2" power="1577" mark="1"/>
+  <ItemSpec id="732303" science_lv="3" max_lv="5" building_condition="403019" research_need="0;0|3;0|2;1635350|1;0" time_research="67274" para1="1033|1034" para2="3" power="2617" mark="1"/>
+  <ItemSpec id="732304" science_lv="4" max_lv="5" building_condition="403020" research_need="0;0|3;0|2;2125960|1;0" time_research="80729" para1="1033|1034" para2="4" power="3871" mark="1"/>
+  <ItemSpec id="732305" science_lv="5" max_lv="5" para1="1033|1034" para2="5" power="5384" mark="1"/>
+  <ItemSpec id="732400" science_lv="0" max_lv="5" science_condition="731901" building_condition="403016" research_need="0;2073560|3;0|2;0|1;86400" time_research="46332" para1="1035|1036" para2="0" power="0" mark="1"/>
+  <ItemSpec id="732401" science_lv="1" max_lv="5" building_condition="403017" research_need="0;2902990|3;0|2;0|1;120960" time_research="55598" para1="1035|1036" para2="1" power="715" mark="1"/>
+  <ItemSpec id="732402" science_lv="2" max_lv="5" building_condition="403018" research_need="0;3773890|3;0|2;0|1;157250" time_research="61158" para1="1035|1036" para2="2" power="1577" mark="1"/>
+  <ItemSpec id="732403" science_lv="3" max_lv="5" building_condition="403019" research_need="0;4906050|3;0|2;0|1;204420" time_research="67274" para1="1035|1036" para2="3" power="2617" mark="1"/>
+  <ItemSpec id="732404" science_lv="4" max_lv="5" building_condition="403020" research_need="0;6377870|3;0|2;0|1;265740" time_research="80729" para1="1035|1036" para2="4" power="3871" mark="1"/>
+  <ItemSpec id="732405" science_lv="5" max_lv="5" para1="1035|1036" para2="5" power="5384" mark="1"/>
+  <ItemSpec id="732500" science_lv="0" max_lv="5" science_condition="732001" building_condition="403016" research_need="0;3317700|3;0|2;138240|1;0" time_research="46332" para1="1037|1038" para2="0" power="0" mark="1"/>
+  <ItemSpec id="732501" science_lv="1" max_lv="5" building_condition="403017" research_need="0;4644780|3;0|2;193530|1;0" time_research="55598" para1="1037|1038" para2="1" power="715" mark="1"/>
+  <ItemSpec id="732502" science_lv="2" max_lv="5" building_condition="403018" research_need="0;6038220|3;0|2;251590|1;0" time_research="61158" para1="1037|1038" para2="2" power="1577" mark="1"/>
+  <ItemSpec id="732503" science_lv="3" max_lv="5" building_condition="403019" research_need="0;7849680|3;0|2;327070|1;0" time_research="67274" para1="1037|1038" para2="3" power="2617" mark="1"/>
+  <ItemSpec id="732504" science_lv="4" max_lv="5" building_condition="403020" research_need="0;10204590|3;0|2;425190|1;0" time_research="80729" para1="1037|1038" para2="4" power="3871" mark="1"/>
+  <ItemSpec id="732505" science_lv="5" max_lv="5" para1="1037|1038" para2="5" power="5384" mark="1"/>
+  <ItemSpec id="732600" science_lv="0" max_lv="15" science_condition="732101" building_condition="403017" research_need="0;1866210|3;1866210|2;311030|1;77760" time_research="71484" para1="60" para2="0" power="0"/>
+  <ItemSpec id="732601" science_lv="1" max_lv="15" building_condition="403017" research_need="0;1866210|3;1866210|2;311030|1;77760" time_research="71484" para1="60" para2="1" power="1109"/>
+  <ItemSpec id="732602" science_lv="2" max_lv="15" building_condition="403018" research_need="0;2426070|3;2426070|2;404340|1;101090" time_research="78632" para1="60" para2="2" power="2218"/>
+  <ItemSpec id="732603" science_lv="3" max_lv="15" building_condition="403018" research_need="0;2426070|3;2426070|2;404340|1;101090" time_research="78632" para1="60" para2="3" power="3555"/>
+  <ItemSpec id="732604" science_lv="4" max_lv="15" building_condition="403019" research_need="0;3153890|3;3153890|2;525650|1;131410" time_research="86496" para1="60" para2="4" power="4892"/>
+  <ItemSpec id="732605" science_lv="5" max_lv="15" building_condition="403019" research_need="0;3153890|3;3153890|2;525650|1;131410" time_research="86496" para1="60" para2="5" power="6505"/>
+  <ItemSpec id="732606" science_lv="6" max_lv="15" building_condition="403020" research_need="0;4100060|3;4100060|2;683340|1;170840" time_research="103795" para1="60" para2="6" power="8118"/>
+  <ItemSpec id="732607" science_lv="7" max_lv="15" building_condition="403020" research_need="0;4100060|3;4100060|2;683340|1;170840" time_research="103795" para1="60" para2="7" power="10063"/>
+  <ItemSpec id="732608" science_lv="8" max_lv="15" building_condition="403021" research_need="0;5330070|3;5330070|2;888350|1;222090" time_research="114174" para1="60" para2="8" power="12008"/>
+  <ItemSpec id="732609" science_lv="9" max_lv="15" building_condition="403021" research_need="0;5330070|3;5330070|2;888350|1;222090" time_research="114174" para1="60" para2="9" power="14196"/>
+  <ItemSpec id="732610" science_lv="10" max_lv="15" building_condition="403022" research_need="0;6929100|3;6929100|2;1154850|1;288710" time_research="137009" para1="60" para2="10" power="16384"/>
+  <ItemSpec id="732611" science_lv="11" max_lv="15" building_condition="403022" research_need="0;6929100|3;6929100|2;1154850|1;288710" time_research="137009" para1="60" para2="11" power="18846"/>
+  <ItemSpec id="732612" science_lv="12" max_lv="15" building_condition="403023" research_need="0;5330070|3;5330070|2;888350|1;222090" time_research="150710" para1="60" para2="12" power="21308"/>
+  <ItemSpec id="732613" science_lv="13" max_lv="15" building_condition="403023" research_need="0;5330070|3;5330070|2;888350|1;222090" time_research="150710" para1="60" para2="13" power="24078"/>
+  <ItemSpec id="732614" science_lv="14" max_lv="15" building_condition="403024" research_need="0;11710170|3;11710170|2;1951700|1;487920" time_research="165781" para1="60" para2="14" power="26848"/>
+  <ItemSpec id="732615" science_lv="15" max_lv="15" para1="60" para2="15" power="29964"/>
+  <ItemSpec id="732700" science_lv="0" max_lv="5" science_condition="732201" building_condition="403018" research_need="0;0|3;8626030|2;0|1;0" time_research="69895" para1="1041|1042" para2="0" power="0" mark="1"/>
+  <ItemSpec id="732701" science_lv="1" max_lv="5" building_condition="403019" research_need="0;0|3;11213830|2;0|1;0" time_research="76885" para1="1041|1042" para2="1" power="1189" mark="1"/>
+  <ItemSpec id="732702" science_lv="2" max_lv="5" building_condition="403020" research_need="0;0|3;14577980|2;0|1;0" time_research="92262" para1="1041|1042" para2="2" power="2623" mark="1"/>
+  <ItemSpec id="732703" science_lv="3" max_lv="5" building_condition="403021" research_need="0;0|3;18951380|2;0|1;0" time_research="101488" para1="1041|1042" para2="3" power="4352" mark="1"/>
+  <ItemSpec id="732704" science_lv="4" max_lv="5" building_condition="403022" research_need="0;0|3;24636790|2;0|1;0" time_research="121786" para1="1041|1042" para2="4" power="6297" mark="1"/>
+  <ItemSpec id="732705" science_lv="5" max_lv="5" para1="1041|1042" para2="5" power="8485" mark="1"/>
+  <ItemSpec id="732800" science_lv="0" max_lv="5" science_condition="732301" building_condition="403018" research_need="0;0|3;4313010|2;0|1;179710" time_research="69895" para1="1043|1044" para2="0" power="0" mark="1"/>
+  <ItemSpec id="732801" science_lv="1" max_lv="5" building_condition="403019" research_need="0;0|3;5606920|2;0|1;233620" time_research="76885" para1="1043|1044" para2="1" power="1189" mark="1"/>
+  <ItemSpec id="732802" science_lv="2" max_lv="5" building_condition="403020" research_need="0;0|3;7288990|2;0|1;303710" time_research="92262" para1="1043|1044" para2="2" power="2623" mark="1"/>
+  <ItemSpec id="732803" science_lv="3" max_lv="5" building_condition="403021" research_need="0;0|3;9475690|2;0|1;394820" time_research="101488" para1="1043|1044" para2="3" power="4352" mark="1"/>
+  <ItemSpec id="732804" science_lv="4" max_lv="5" building_condition="403022" research_need="0;0|3;12318400|2;0|1;513270" time_research="121786" para1="1043|1044" para2="4" power="6297" mark="1"/>
+  <ItemSpec id="732805" science_lv="5" max_lv="5" para1="1043|1044" para2="5" power="8485" mark="1"/>
+  <ItemSpec id="732900" science_lv="0" max_lv="5" science_condition="732401" building_condition="403018" research_need="0;0|3;4313010|2;0|1;179710" time_research="69895" para1="1045|1046" para2="0" power="0" mark="1"/>
+  <ItemSpec id="732901" science_lv="1" max_lv="5" building_condition="403019" research_need="0;0|3;5606920|2;0|1;233620" time_research="76885" para1="1045|1046" para2="1" power="1189" mark="1"/>
+  <ItemSpec id="732902" science_lv="2" max_lv="5" building_condition="403020" research_need="0;0|3;7288990|2;0|1;303710" time_research="92262" para1="1045|1046" para2="2" power="2623" mark="1"/>
+  <ItemSpec id="732903" science_lv="3" max_lv="5" building_condition="403021" research_need="0;0|3;9475690|2;0|1;394820" time_research="101488" para1="1045|1046" para2="3" power="4352" mark="1"/>
+  <ItemSpec id="732904" science_lv="4" max_lv="5" building_condition="403022" research_need="0;0|3;12318400|2;0|1;513270" time_research="121786" para1="1045|1046" para2="4" power="6297" mark="1"/>
+  <ItemSpec id="732905" science_lv="5" max_lv="5" para1="1045|1046" para2="5" power="8485" mark="1"/>
+  <ItemSpec id="733000" science_lv="0" max_lv="5" science_condition="732501" building_condition="403018" research_need="0;4313010|3;0|2;718840|1;0" time_research="69895" para1="1047|1048" para2="0" power="0" mark="1"/>
+  <ItemSpec id="733001" science_lv="1" max_lv="5" building_condition="403019" research_need="0;5606920|3;0|2;934490|1;0" time_research="76885" para1="1047|1048" para2="1" power="1189" mark="1"/>
+  <ItemSpec id="733002" science_lv="2" max_lv="5" building_condition="403020" research_need="0;7288990|3;0|2;1214830|1;0" time_research="92262" para1="1047|1048" para2="2" power="2623" mark="1"/>
+  <ItemSpec id="733003" science_lv="3" max_lv="5" building_condition="403021" research_need="0;9475690|3;0|2;1579280|1;0" time_research="101488" para1="1047|1048" para2="3" power="4352" mark="1"/>
+  <ItemSpec id="733004" science_lv="4" max_lv="5" building_condition="403022" research_need="0;12318400|3;0|2;2053070|1;0" time_research="121786" para1="1047|1048" para2="4" power="6297" mark="1"/>
+  <ItemSpec id="733005" science_lv="5" max_lv="5" para1="1047|1048" para2="5" power="8485" mark="1"/>
+  <ItemSpec id="733100" science_lv="0" max_lv="5" science_condition="732601" building_condition="403019" research_need="0;0|3;8410370|2;0|1;0" time_research="57664" para1="56" para2="0" power="0"/>
+  <ItemSpec id="733101" science_lv="1" max_lv="5" building_condition="403019" research_need="0;0|3;8410370|2;0|1;0" time_research="57664" para1="56" para2="2000" power="1075"/>
+  <ItemSpec id="733102" science_lv="2" max_lv="5" building_condition="403020" research_need="0;0|3;10933490|2;0|1;0" time_research="69196" para1="56" para2="4000" power="2150"/>
+  <ItemSpec id="733103" science_lv="3" max_lv="5" building_condition="403020" research_need="0;0|3;10933490|2;0|1;0" time_research="69196" para1="56" para2="6000" power="3447"/>
+  <ItemSpec id="733104" science_lv="4" max_lv="5" building_condition="403021" research_need="0;0|3;14213530|2;0|1;0" time_research="76116" para1="56" para2="8000" power="4744"/>
+  <ItemSpec id="733105" science_lv="5" max_lv="5" para1="56" para2="10000" power="6203"/>
+  <ItemSpec id="733200" science_lv="0" max_lv="1" science_condition="733101" building_condition="403020" research_need="0;4555620|3;4555620|2;759270|1;189820" time_research="115328" para1="55" para2="0" power="0"/>
+  <ItemSpec id="733201" science_lv="1" max_lv="1" para1="55" para2="6" power="2161"/>
+  <ItemSpec id="733300" science_lv="0" max_lv="7" science_condition="733201" building_condition="403022" research_need="0;0|3;6467160|2;1077860|1;359290" time_research="106563" para1="1011|1012" para2="0" power="0" mark="1"/>
+  <ItemSpec id="733301" science_lv="1" max_lv="7" building_condition="403023" research_need="0;0|3;4974740|2;829120|1;276370" time_research="117219" para1="1011|1012" para2="1" power="1915" mark="1"/>
+  <ItemSpec id="733302" science_lv="2" max_lv="7" building_condition="403024" research_need="0;0|3;10929500|2;1821580|1;607190" time_research="128941" para1="1011|1012" para2="2" power="4069" mark="1"/>
+  <ItemSpec id="733303" science_lv="3" max_lv="7" building_condition="403025" research_need="0;0|3;14208350|2;2368060|1;789350" time_research="141835" para1="1011|1012" para2="3" power="6493" mark="1"/>
+  <ItemSpec id="733304" science_lv="4" max_lv="7" building_condition="403026" research_need="0;0|3;18470850|2;3078470|1;1026160" time_research="156019" para1="1011|1012" para2="4" power="9220" mark="1"/>
+  <ItemSpec id="733305" science_lv="5" max_lv="7" building_condition="403027" research_need="0;0|3;24012100|2;4002020|1;1334010" time_research="171621" para1="1011|1012" para2="5" power="12287" mark="1"/>
+  <ItemSpec id="733306" science_lv="6" max_lv="7" building_condition="403028" research_need="0;0|3;31215730|2;5202620|1;1734210" time_research="188783" para1="1011|1012" para2="6" power="15738" mark="1"/>
+  <ItemSpec id="733307" science_lv="7" max_lv="7" para1="1011|1012" para2="7" power="19620" mark="1"/>
+  <ItemSpec id="733400" science_lv="0" max_lv="7" science_condition="733201" building_condition="403022" research_need="0;0|3;4311440|2;2155720|1;179640" time_research="106563" para1="1013|1014" para2="0" power="0" mark="1"/>
+  <ItemSpec id="733401" science_lv="1" max_lv="7" building_condition="403023" research_need="0;0|3;3316490|2;1658250|1;138190" time_research="117219" para1="1013|1014" para2="1" power="1915" mark="1"/>
+  <ItemSpec id="733402" science_lv="2" max_lv="7" building_condition="403024" research_need="0;0|3;7286330|2;3643170|1;303600" time_research="128941" para1="1013|1014" para2="2" power="4069" mark="1"/>
+  <ItemSpec id="733403" science_lv="3" max_lv="7" building_condition="403025" research_need="0;0|3;9472230|2;4736120|1;394680" time_research="141835" para1="1013|1014" para2="3" power="6493" mark="1"/>
+  <ItemSpec id="733404" science_lv="4" max_lv="7" building_condition="403026" research_need="0;0|3;12313900|2;6156950|1;513080" time_research="156019" para1="1013|1014" para2="4" power="9220" mark="1"/>
+  <ItemSpec id="733405" science_lv="5" max_lv="7" building_condition="403027" research_need="0;0|3;16008070|2;8004030|1;667000" time_research="171621" para1="1013|1014" para2="5" power="12287" mark="1"/>
+  <ItemSpec id="733406" science_lv="6" max_lv="7" building_condition="403028" research_need="0;0|3;20810490|2;10405240|1;867100" time_research="188783" para1="1013|1014" para2="6" power="15738" mark="1"/>
+  <ItemSpec id="733407" science_lv="7" max_lv="7" para1="1013|1014" para2="7" power="19620" mark="1"/>
+  <ItemSpec id="733500" science_lv="0" max_lv="7" science_condition="733201" building_condition="403022" research_need="0;10778600|3;0|2;898220|1;224550" time_research="106563" para1="1015|1016" para2="0" power="0" mark="1"/>
+  <ItemSpec id="733501" science_lv="1" max_lv="7" building_condition="403023" research_need="0;8291230|3;0|2;690940|1;172730" time_research="117219" para1="1015|1016" para2="1" power="1915" mark="1"/>
+  <ItemSpec id="733502" science_lv="2" max_lv="7" building_condition="403024" research_need="0;18215830|3;0|2;1517990|1;379500" time_research="128941" para1="1015|1016" para2="2" power="4069" mark="1"/>
+  <ItemSpec id="733503" science_lv="3" max_lv="7" building_condition="403025" research_need="0;23680580|3;0|2;1973380|1;493350" time_research="141835" para1="1015|1016" para2="3" power="6493" mark="1"/>
+  <ItemSpec id="733504" science_lv="4" max_lv="7" building_condition="403026" research_need="0;30784750|3;0|2;2565400|1;641350" time_research="156019" para1="1015|1016" para2="4" power="9220" mark="1"/>
+  <ItemSpec id="733505" science_lv="5" max_lv="7" building_condition="403027" research_need="0;40020170|3;0|2;3335010|1;833750" time_research="171621" para1="1015|1016" para2="5" power="12287" mark="1"/>
+  <ItemSpec id="733506" science_lv="6" max_lv="7" building_condition="403028" research_need="0;52026220|3;0|2;4335520|1;1083880" time_research="188783" para1="1015|1016" para2="6" power="15738" mark="1"/>
+  <ItemSpec id="733507" science_lv="7" max_lv="7" para1="1015|1016" para2="7" power="19620" mark="1"/>
+  <ItemSpec id="733600" science_lv="0" max_lv="7" science_condition="733201" building_condition="403022" research_need="0;12934320|3;0|2;1437150|1;0" time_research="106563" para1="1017|1018" para2="0" power="0" mark="1"/>
+  <ItemSpec id="733601" science_lv="1" max_lv="7" building_condition="403023" research_need="0;9949470|3;0|2;1105500|1;0" time_research="117219" para1="1017|1018" para2="1" power="1915" mark="1"/>
+  <ItemSpec id="733602" science_lv="2" max_lv="7" building_condition="403024" research_need="0;21858990|3;0|2;2428780|1;0" time_research="128941" para1="1017|1018" para2="2" power="4069" mark="1"/>
+  <ItemSpec id="733603" science_lv="3" max_lv="7" building_condition="403025" research_need="0;28416690|3;0|2;3157410|1;0" time_research="141835" para1="1017|1018" para2="3" power="6493" mark="1"/>
+  <ItemSpec id="733604" science_lv="4" max_lv="7" building_condition="403026" research_need="0;36941700|3;0|2;4104630|1;0" time_research="156019" para1="1017|1018" para2="4" power="9220" mark="1"/>
+  <ItemSpec id="733605" science_lv="5" max_lv="7" building_condition="403027" research_need="0;48024210|3;0|2;5336020|1;0" time_research="171621" para1="1017|1018" para2="5" power="12287" mark="1"/>
+  <ItemSpec id="733606" science_lv="6" max_lv="7" building_condition="403028" research_need="0;62431470|3;0|2;6936830|1;0" time_research="188783" para1="1017|1018" para2="6" power="15738" mark="1"/>
+  <ItemSpec id="733607" science_lv="7" max_lv="7" para1="1017|1018" para2="7" power="19620" mark="1"/>
+  <ItemSpec id="733700" science_lv="0" max_lv="20" science_condition="733201" building_condition="403024" research_need="0;13011310|3;13011310|2;2168550|1;542140" time_research="184202" para1="66" para2="0" power="0"/>
+  <ItemSpec id="733701" science_lv="1" max_lv="20" building_condition="403024" research_need="0;13011310|3;13011310|2;2168550|1;542140" time_research="184202" para1="66" para2="10" power="3462"/>
+  <ItemSpec id="733702" science_lv="2" max_lv="20" building_condition="403024" research_need="0;13011310|3;13011310|2;2168550|1;542140" time_research="184202" para1="66" para2="20" power="6924"/>
+  <ItemSpec id="733703" science_lv="3" max_lv="20" building_condition="403025" research_need="0;16914700|3;16914700|2;2819120|1;704780" time_research="202622" para1="66" para2="30" power="10386"/>
+  <ItemSpec id="733704" science_lv="4" max_lv="20" building_condition="403025" research_need="0;16914700|3;16914700|2;2819120|1;704780" time_research="202622" para1="66" para2="40" power="14281"/>
+  <ItemSpec id="733705" science_lv="5" max_lv="20" building_condition="403025" research_need="0;16914700|3;16914700|2;2819120|1;704780" time_research="202622" para1="66" para2="50" power="18176"/>
+  <ItemSpec id="733706" science_lv="6" max_lv="20" building_condition="403026" research_need="0;21989110|3;21989110|2;3664850|1;916210" time_research="222884" para1="66" para2="60" power="22071"/>
+  <ItemSpec id="733707" science_lv="7" max_lv="20" building_condition="403026" research_need="0;21989110|3;21989110|2;3664850|1;916210" time_research="222884" para1="66" para2="70" power="26453"/>
+  <ItemSpec id="733708" science_lv="8" max_lv="20" building_condition="403026" research_need="0;21989110|3;21989110|2;3664850|1;916210" time_research="222884" para1="66" para2="80" power="30835"/>
+  <ItemSpec id="733709" science_lv="9" max_lv="20" building_condition="403027" research_need="0;28585840|3;28585840|2;4764310|1;1191080" time_research="245173" para1="66" para2="90" power="35217"/>
+  <ItemSpec id="733710" science_lv="10" max_lv="20" building_condition="403027" research_need="0;28585840|3;28585840|2;4764310|1;1191080" time_research="245173" para1="66" para2="100" power="40147"/>
+  <ItemSpec id="733711" science_lv="11" max_lv="20" building_condition="403027" research_need="0;28585840|3;28585840|2;4764310|1;1191080" time_research="245173" para1="66" para2="110" power="45077"/>
+  <ItemSpec id="733712" science_lv="12" max_lv="20" building_condition="403028" research_need="0;37161590|3;37161590|2;6193600|1;1548400" time_research="269690" para1="66" para2="120" power="50007"/>
+  <ItemSpec id="733713" science_lv="13" max_lv="20" building_condition="403028" research_need="0;37161590|3;37161590|2;6193600|1;1548400" time_research="269690" para1="66" para2="130" power="55553"/>
+  <ItemSpec id="733714" science_lv="14" max_lv="20" building_condition="403028" research_need="0;37161590|3;37161590|2;6193600|1;1548400" time_research="269690" para1="66" para2="140" power="61099"/>
+  <ItemSpec id="733715" science_lv="15" max_lv="20" building_condition="403029" research_need="0;48310070|3;48310070|2;8051680|1;2012920" time_research="296659" para1="66" para2="150" power="66645"/>
+  <ItemSpec id="733716" science_lv="16" max_lv="20" building_condition="403029" research_need="0;48310070|3;48310070|2;8051680|1;2012920" time_research="296659" para1="66" para2="160" power="72885"/>
+  <ItemSpec id="733717" science_lv="17" max_lv="20" building_condition="403029" research_need="0;48310070|3;48310070|2;8051680|1;2012920" time_research="296659" para1="66" para2="170" power="79125"/>
+  <ItemSpec id="733718" science_lv="18" max_lv="20" building_condition="403030" research_need="0;62803090|3;62803090|2;10467180|1;2616800" time_research="326325" para1="66" para2="180" power="85365"/>
+  <ItemSpec id="733719" science_lv="19" max_lv="20" building_condition="403030" research_need="0;62803090|3;62803090|2;10467180|1;2616800" time_research="326325" para1="66" para2="190" power="92385"/>
+  <ItemSpec id="733720" science_lv="20" max_lv="20" para1="66" para2="200" power="99405"/>
+  <ItemSpec id="733800" science_lv="0" max_lv="7" science_condition="733301" building_condition="403025" research_need="0;0|3;0|2;3946760|1;986690" time_research="141835" para1="1031|1032" para2="0" power="0" mark="1"/>
+  <ItemSpec id="733801" science_lv="1" max_lv="7" building_condition="403026" research_need="0;0|3;0|2;5130790|1;1282700" time_research="156019" para1="1031|1032" para2="1" power="2727" mark="1"/>
+  <ItemSpec id="733802" science_lv="2" max_lv="7" building_condition="403027" research_need="0;0|3;0|2;6670030|1;1667510" time_research="171621" para1="1031|1032" para2="2" power="5794" mark="1"/>
+  <ItemSpec id="733803" science_lv="3" max_lv="7" building_condition="403028" research_need="0;0|3;0|2;8671040|1;2167760" time_research="188783" para1="1031|1032" para2="3" power="9245" mark="1"/>
+  <ItemSpec id="733804" science_lv="4" max_lv="7" building_condition="403029" research_need="0;0|3;0|2;11272350|1;2818090" time_research="207661" para1="1031|1032" para2="4" power="13127" mark="1"/>
+  <ItemSpec id="733805" science_lv="5" max_lv="7" building_condition="403030" research_need="0;0|3;0|2;14654050|1;3663510" time_research="228427" para1="1031|1032" para2="5" power="17495" mark="1"/>
+  <ItemSpec id="733806" science_lv="6" max_lv="7" building_condition="403030" research_need="0;0|3;0|2;14654050|1;3663510" time_research="228427" para1="1031|1032" para2="6" power="22409" mark="1"/>
+  <ItemSpec id="733807" science_lv="7" max_lv="7" para1="1031|1032" para2="7" power="27323" mark="1"/>
+  <ItemSpec id="733900" science_lv="0" max_lv="7" science_condition="733401" building_condition="403025" research_need="0;0|3;0|2;6314820|1;394680" time_research="141835" para1="1033|1034" para2="0" power="0" mark="1"/>
+  <ItemSpec id="733901" science_lv="1" max_lv="7" building_condition="403026" research_need="0;0|3;0|2;8209270|1;513080" time_research="156019" para1="1033|1034" para2="1" power="2727" mark="1"/>
+  <ItemSpec id="733902" science_lv="2" max_lv="7" building_condition="403027" research_need="0;0|3;0|2;10672050|1;667000" time_research="171621" para1="1033|1034" para2="2" power="5794" mark="1"/>
+  <ItemSpec id="733903" science_lv="3" max_lv="7" building_condition="403028" research_need="0;0|3;0|2;13873660|1;867100" time_research="188783" para1="1033|1034" para2="3" power="9245" mark="1"/>
+  <ItemSpec id="733904" science_lv="4" max_lv="7" building_condition="403029" research_need="0;0|3;0|2;18035760|1;1127230" time_research="207661" para1="1033|1034" para2="4" power="13127" mark="1"/>
+  <ItemSpec id="733905" science_lv="5" max_lv="7" building_condition="403030" research_need="0;0|3;0|2;23446490|1;1465410" time_research="228427" para1="1033|1034" para2="5" power="17495" mark="1"/>
+  <ItemSpec id="733906" science_lv="6" max_lv="7" building_condition="403030" research_need="0;0|3;0|2;23446490|1;1465410" time_research="228427" para1="1033|1034" para2="6" power="22409" mark="1"/>
+  <ItemSpec id="733907" science_lv="7" max_lv="7" para1="1033|1034" para2="7" power="27323" mark="1"/>
+  <ItemSpec id="734000" science_lv="0" max_lv="7" science_condition="733501" building_condition="403025" research_need="0;23680580|3;0|2;3157410|1;197340" time_research="141835" para1="1035|1036" para2="0" power="0" mark="1"/>
+  <ItemSpec id="734001" science_lv="1" max_lv="7" building_condition="403026" research_need="0;30784750|3;0|2;4104630|1;256540" time_research="156019" para1="1035|1036" para2="1" power="2727" mark="1"/>
+  <ItemSpec id="734002" science_lv="2" max_lv="7" building_condition="403027" research_need="0;40020170|3;0|2;5336020|1;333500" time_research="171621" para1="1035|1036" para2="2" power="5794" mark="1"/>
+  <ItemSpec id="734003" science_lv="3" max_lv="7" building_condition="403028" research_need="0;52026220|3;0|2;6936830|1;433550" time_research="188783" para1="1035|1036" para2="3" power="9245" mark="1"/>
+  <ItemSpec id="734004" science_lv="4" max_lv="7" building_condition="403029" research_need="0;67634090|3;0|2;9017880|1;563620" time_research="207661" para1="1035|1036" para2="4" power="13127" mark="1"/>
+  <ItemSpec id="734005" science_lv="5" max_lv="7" building_condition="403030" research_need="0;87924320|3;0|2;11723240|1;732700" time_research="228427" para1="1035|1036" para2="5" power="17495" mark="1"/>
+  <ItemSpec id="734006" science_lv="6" max_lv="7" building_condition="403030" research_need="0;87924320|3;0|2;11723240|1;732700" time_research="228427" para1="1035|1036" para2="6" power="22409" mark="1"/>
+  <ItemSpec id="734007" science_lv="7" max_lv="7" para1="1035|1036" para2="7" power="27323" mark="1"/>
+  <ItemSpec id="734100" science_lv="0" max_lv="7" science_condition="733601" building_condition="403025" research_need="0;23680580|3;0|2;3946760|1;0" time_research="141835" para1="1037|1038" para2="0" power="0" mark="1"/>
+  <ItemSpec id="734101" science_lv="1" max_lv="7" building_condition="403026" research_need="0;30784750|3;0|2;5130790|1;0" time_research="156019" para1="1037|1038" para2="1" power="2727" mark="1"/>
+  <ItemSpec id="734102" science_lv="2" max_lv="7" building_condition="403027" research_need="0;40020170|3;0|2;6670030|1;0" time_research="171621" para1="1037|1038" para2="2" power="5794" mark="1"/>
+  <ItemSpec id="734103" science_lv="3" max_lv="7" building_condition="403028" research_need="0;52026220|3;0|2;8671040|1;0" time_research="188783" para1="1037|1038" para2="3" power="9245" mark="1"/>
+  <ItemSpec id="734104" science_lv="4" max_lv="7" building_condition="403029" research_need="0;67634090|3;0|2;11272350|1;0" time_research="207661" para1="1037|1038" para2="4" power="13127" mark="1"/>
+  <ItemSpec id="734105" science_lv="5" max_lv="7" building_condition="403030" research_need="0;87924320|3;0|2;14654050|1;0" time_research="228427" para1="1037|1038" para2="5" power="17495" mark="1"/>
+  <ItemSpec id="734106" science_lv="6" max_lv="7" building_condition="403030" research_need="0;87924320|3;0|2;14654050|1;0" time_research="228427" para1="1037|1038" para2="6" power="22409" mark="1"/>
+  <ItemSpec id="734107" science_lv="7" max_lv="7" para1="1037|1038" para2="7" power="27323" mark="1"/>
+  <ItemSpec id="734200" science_lv="0" max_lv="20" science_condition="733701" building_condition="403027" research_need="0;20581800|3;41163610|2;3430300|1;857580" time_research="220655" para1="60" para2="0" power="0"/>
+  <ItemSpec id="734201" science_lv="1" max_lv="20" building_condition="403027" research_need="0;20581800|3;41163610|2;3430300|1;857580" time_research="220655" para1="60" para2="1" power="4437"/>
+  <ItemSpec id="734202" science_lv="2" max_lv="20" building_condition="403027" research_need="0;20581800|3;41163610|2;3430300|1;857580" time_research="220655" para1="60" para2="2" power="8874"/>
+  <ItemSpec id="734203" science_lv="3" max_lv="20" building_condition="403027" research_need="0;20581800|3;41163610|2;3430300|1;857580" time_research="220655" para1="60" para2="3" power="13311"/>
+  <ItemSpec id="734204" science_lv="4" max_lv="20" building_condition="403027" research_need="0;20581800|3;41163610|2;3430300|1;857580" time_research="220655" para1="60" para2="4" power="17748"/>
+  <ItemSpec id="734205" science_lv="5" max_lv="20" building_condition="403028" research_need="0;26756340|3;53512690|2;4459390|1;1114850" time_research="242721" para1="60" para2="5" power="22185"/>
+  <ItemSpec id="734206" science_lv="6" max_lv="20" building_condition="403028" research_need="0;26756340|3;53512690|2;4459390|1;1114850" time_research="242721" para1="60" para2="6" power="27177"/>
+  <ItemSpec id="734207" science_lv="7" max_lv="20" building_condition="403028" research_need="0;26756340|3;53512690|2;4459390|1;1114850" time_research="242721" para1="60" para2="7" power="32169"/>
+  <ItemSpec id="734208" science_lv="8" max_lv="20" building_condition="403028" research_need="0;26756340|3;53512690|2;4459390|1;1114850" time_research="242721" para1="60" para2="8" power="37161"/>
+  <ItemSpec id="734209" science_lv="9" max_lv="20" building_condition="403028" research_need="0;26756340|3;53512690|2;4459390|1;1114850" time_research="242721" para1="60" para2="9" power="42153"/>
+  <ItemSpec id="734210" science_lv="10" max_lv="20" building_condition="403029" research_need="0;34783250|3;69566490|2;5797210|1;1449300" time_research="266993" para1="60" para2="10" power="47145"/>
+  <ItemSpec id="734211" science_lv="11" max_lv="20" building_condition="403029" research_need="0;34783250|3;69566490|2;5797210|1;1449300" time_research="266993" para1="60" para2="11" power="52761"/>
+  <ItemSpec id="734212" science_lv="12" max_lv="20" building_condition="403029" research_need="0;34783250|3;69566490|2;5797210|1;1449300" time_research="266993" para1="60" para2="12" power="58377"/>
+  <ItemSpec id="734213" science_lv="13" max_lv="20" building_condition="403029" research_need="0;34783250|3;69566490|2;5797210|1;1449300" time_research="266993" para1="60" para2="13" power="63993"/>
+  <ItemSpec id="734214" science_lv="14" max_lv="20" building_condition="403029" research_need="0;34783250|3;69566490|2;5797210|1;1449300" time_research="266993" para1="60" para2="14" power="69609"/>
+  <ItemSpec id="734215" science_lv="15" max_lv="20" building_condition="403030" research_need="0;45218220|3;90436440|2;7536370|1;1884090" time_research="293692" para1="60" para2="15" power="75225"/>
+  <ItemSpec id="734216" science_lv="16" max_lv="20" building_condition="403030" research_need="0;45218220|3;90436440|2;7536370|1;1884090" time_research="293692" para1="60" para2="16" power="81543"/>
+  <ItemSpec id="734217" science_lv="17" max_lv="20" building_condition="403030" research_need="0;45218220|3;90436440|2;7536370|1;1884090" time_research="293692" para1="60" para2="17" power="87861"/>
+  <ItemSpec id="734218" science_lv="18" max_lv="20" building_condition="403030" research_need="0;45218220|3;90436440|2;7536370|1;1884090" time_research="293692" para1="60" para2="18" power="94179"/>
+  <ItemSpec id="734219" science_lv="19" max_lv="20" building_condition="403030" research_need="0;45218220|3;90436440|2;7536370|1;1884090" time_research="293692" para1="60" para2="19" power="100497"/>
+  <ItemSpec id="734220" science_lv="20" max_lv="20" para1="60" para2="20" power="106815"/>
+  <ItemSpec id="734300" science_lv="0" max_lv="7" science_condition="733801" building_condition="403028" research_need="0;0|3;118917080|2;0|1;0" time_research="215752" para1="1041|1042" para2="0" power="0" mark="1"/>
+  <ItemSpec id="734301" science_lv="1" max_lv="7" building_condition="403029" research_need="0;0|3;154592210|2;0|1;0" time_research="237327" para1="1041|1042" para2="1" power="4437" mark="1"/>
+  <ItemSpec id="734302" science_lv="2" max_lv="7" building_condition="403030" research_need="0;0|3;200969870|2;0|1;0" time_research="261060" para1="1041|1042" para2="2" power="9429" mark="1"/>
+  <ItemSpec id="734303" science_lv="3" max_lv="7" building_condition="403030" research_need="0;0|3;200969870|2;0|1;0" time_research="261060" para1="1041|1042" para2="3" power="15045" mark="1"/>
+  <ItemSpec id="734304" science_lv="4" max_lv="7" building_condition="403030" research_need="0;0|3;200969870|2;0|1;0" time_research="261060" para1="1041|1042" para2="4" power="20661" mark="1"/>
+  <ItemSpec id="734305" science_lv="5" max_lv="7" building_condition="403030" research_need="0;0|3;200969870|2;0|1;0" time_research="261060" para1="1041|1042" para2="5" power="26277" mark="1"/>
+  <ItemSpec id="734306" science_lv="6" max_lv="7" building_condition="403030" research_need="0;0|3;200969870|2;0|1;0" time_research="261060" para1="1041|1042" para2="6" power="31893" mark="1"/>
+  <ItemSpec id="734307" science_lv="7" max_lv="7" para1="1041|1042" para2="7" power="37509" mark="1"/>
+  <ItemSpec id="734400" science_lv="0" max_lv="7" science_condition="733901" building_condition="403028" research_need="0;0|3;59458540|2;0|1;2477440" time_research="215752" para1="1043|1044" para2="0" power="0" mark="1"/>
+  <ItemSpec id="734401" science_lv="1" max_lv="7" building_condition="403029" research_need="0;0|3;77296100|2;0|1;3220670" time_research="237327" para1="1043|1044" para2="1" power="4437" mark="1"/>
+  <ItemSpec id="734402" science_lv="2" max_lv="7" building_condition="403030" research_need="0;0|3;100484940|2;0|1;4186870" time_research="261060" para1="1043|1044" para2="2" power="9429" mark="1"/>
+  <ItemSpec id="734403" science_lv="3" max_lv="7" building_condition="403030" research_need="0;0|3;100484940|2;0|1;4186870" time_research="261060" para1="1043|1044" para2="3" power="15045" mark="1"/>
+  <ItemSpec id="734404" science_lv="4" max_lv="7" building_condition="403030" research_need="0;0|3;100484940|2;0|1;4186870" time_research="261060" para1="1043|1044" para2="4" power="20661" mark="1"/>
+  <ItemSpec id="734405" science_lv="5" max_lv="7" building_condition="403030" research_need="0;0|3;100484940|2;0|1;4186870" time_research="261060" para1="1043|1044" para2="5" power="26277" mark="1"/>
+  <ItemSpec id="734406" science_lv="6" max_lv="7" building_condition="403030" research_need="0;0|3;100484940|2;0|1;4186870" time_research="261060" para1="1043|1044" para2="6" power="31893" mark="1"/>
+  <ItemSpec id="734407" science_lv="7" max_lv="7" para1="1043|1044" para2="7" power="37509" mark="1"/>
+  <ItemSpec id="734500" science_lv="0" max_lv="7" science_condition="734001" building_condition="403028" research_need="0;59458540|3;0|2;0|1;2477440" time_research="215752" para1="1045|1046" para2="0" power="0" mark="1"/>
+  <ItemSpec id="734501" science_lv="1" max_lv="7" building_condition="403029" research_need="0;77296100|3;0|2;0|1;3220670" time_research="237327" para1="1045|1046" para2="1" power="4437" mark="1"/>
+  <ItemSpec id="734502" science_lv="2" max_lv="7" building_condition="403030" research_need="0;100484940|3;0|2;0|1;4186870" time_research="261060" para1="1045|1046" para2="2" power="9429" mark="1"/>
+  <ItemSpec id="734503" science_lv="3" max_lv="7" building_condition="403030" research_need="0;100484940|3;0|2;0|1;4186870" time_research="261060" para1="1045|1046" para2="3" power="15045" mark="1"/>
+  <ItemSpec id="734504" science_lv="4" max_lv="7" building_condition="403030" research_need="0;100484940|3;0|2;0|1;4186870" time_research="261060" para1="1045|1046" para2="4" power="20661" mark="1"/>
+  <ItemSpec id="734505" science_lv="5" max_lv="7" building_condition="403030" research_need="0;100484940|3;0|2;0|1;4186870" time_research="261060" para1="1045|1046" para2="5" power="26277" mark="1"/>
+  <ItemSpec id="734506" science_lv="6" max_lv="7" building_condition="403030" research_need="0;100484940|3;0|2;0|1;4186870" time_research="261060" para1="1045|1046" para2="6" power="31893" mark="1"/>
+  <ItemSpec id="734507" science_lv="7" max_lv="7" para1="1045|1046" para2="7" power="37509" mark="1"/>
+  <ItemSpec id="734600" science_lv="0" max_lv="7" science_condition="734101" building_condition="403028" research_need="0;59458540|3;0|2;9909760|1;0" time_research="215752" para1="1047|1048" para2="0" power="0" mark="1"/>
+  <ItemSpec id="734601" science_lv="1" max_lv="7" building_condition="403029" research_need="0;77296100|3;0|2;12882680|1;0" time_research="237327" para1="1047|1048" para2="1" power="4437" mark="1"/>
+  <ItemSpec id="734602" science_lv="2" max_lv="7" building_condition="403030" research_need="0;100484940|3;0|2;16747490|1;0" time_research="261060" para1="1047|1048" para2="2" power="9429" mark="1"/>
+  <ItemSpec id="734603" science_lv="3" max_lv="7" building_condition="403030" research_need="0;100484940|3;0|2;16747490|1;0" time_research="261060" para1="1047|1048" para2="3" power="15045" mark="1"/>
+  <ItemSpec id="734604" science_lv="4" max_lv="7" building_condition="403030" research_need="0;100484940|3;0|2;16747490|1;0" time_research="261060" para1="1047|1048" para2="4" power="20661" mark="1"/>
+  <ItemSpec id="734605" science_lv="5" max_lv="7" building_condition="403030" research_need="0;100484940|3;0|2;16747490|1;0" time_research="261060" para1="1047|1048" para2="5" power="26277" mark="1"/>
+  <ItemSpec id="734606" science_lv="6" max_lv="7" building_condition="403030" research_need="0;100484940|3;0|2;16747490|1;0" time_research="261060" para1="1047|1048" para2="6" power="31893" mark="1"/>
+  <ItemSpec id="734607" science_lv="7" max_lv="7" para1="1047|1048" para2="7" power="37509" mark="1"/>
+  <ItemSpec id="734700" science_lv="0" max_lv="7" science_condition="734201" building_condition="403030" research_need="0;37681850|3;37681850|2;6280310|1;1570080" time_research="195795" para1="56" para2="0" power="0"/>
+  <ItemSpec id="734701" science_lv="1" max_lv="7" building_condition="403030" research_need="0;37681850|3;37681850|2;6280310|1;1570080" time_research="195795" para1="56" para2="2000" power="4212"/>
+  <ItemSpec id="734702" science_lv="2" max_lv="7" building_condition="403030" research_need="0;37681850|3;37681850|2;6280310|1;1570080" time_research="195795" para1="56" para2="4000" power="8424"/>
+  <ItemSpec id="734703" science_lv="3" max_lv="7" building_condition="403030" research_need="0;37681850|3;37681850|2;6280310|1;1570080" time_research="195795" para1="56" para2="6000" power="12636"/>
+  <ItemSpec id="734704" science_lv="4" max_lv="7" building_condition="403030" research_need="0;37681850|3;37681850|2;6280310|1;1570080" time_research="195795" para1="56" para2="8000" power="16848"/>
+  <ItemSpec id="734705" science_lv="5" max_lv="7" building_condition="403030" research_need="0;37681850|3;37681850|2;6280310|1;1570080" time_research="195795" para1="56" para2="10000" power="21060"/>
+  <ItemSpec id="734706" science_lv="6" max_lv="7" building_condition="403030" research_need="0;37681850|3;37681850|2;6280310|1;1570080" time_research="195795" para1="56" para2="12000" power="25272"/>
+  <ItemSpec id="734707" science_lv="7" max_lv="7" para1="56" para2="14000" power="29484"/>
+</tns:database>

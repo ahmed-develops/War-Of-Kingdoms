@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ItemSpec id="46301" Day="1" Week="5|241011|241017"/>
+  <ItemSpec id="46302" Day="2" Week="5|241012|241018"/>
+  <ItemSpec id="46303" Day="3" Week="5|231944|231944"/>
+  <ItemSpec id="46304" Day="4" Week="5|241013|241019"/>
+  <ItemSpec id="46305" Day="5" Week="5|241014|241020"/>
+  <ItemSpec id="46306" Day="6" Week="5|241015|241021"/>
+  <ItemSpec id="46307" Day="7" Week="5|231945|231945"/>
+</tns:database>

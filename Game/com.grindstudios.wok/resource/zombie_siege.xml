@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<!-- 丧尸来袭相关配置 by XYHahn-->
+
+	<Group id="monster_siege_detail">
+		<ItemSpec id="9430" march_time_min="110" march_time_max="168" pwr_safe="1.2" pwr_unsure="1" pwr_fail="0.8" reward_rate_safe="2" reward_rate_unsure="1" reward_rate_fail="0.8"/>
+		<ItemSpec id="9431" march_time_min="899" march_time_max="901" pwr_safe="1.2" pwr_unsure="1" pwr_fail="0.8" reward_rate_safe="2" reward_rate_unsure="1" reward_rate_fail="0.8"/>
+		<ItemSpec id="9400" march_time_min="180" march_time_max="260" pwr_safe="1.2" pwr_unsure="1" pwr_fail="0.8" reward_rate_safe="2" reward_rate_unsure="1" reward_rate_fail="0.8"/>
+		<ItemSpec id="9401" march_time_min="175" march_time_max="250" pwr_safe="1.2" pwr_unsure="1" pwr_fail="0.8" reward_rate_safe="2" reward_rate_unsure="1" reward_rate_fail="0.8"/>
+		<ItemSpec id="9402" march_time_min="170" march_time_max="240" pwr_safe="1.2" pwr_unsure="1" pwr_fail="0.8" reward_rate_safe="2" reward_rate_unsure="1" reward_rate_fail="0.8"/>
+		<ItemSpec id="9403" march_time_min="165" march_time_max="230" pwr_safe="1.2" pwr_unsure="1" pwr_fail="0.8" reward_rate_safe="2" reward_rate_unsure="1" reward_rate_fail="0.8"/>
+		<ItemSpec id="9404" march_time_min="160" march_time_max="220" pwr_safe="1.2" pwr_unsure="1" pwr_fail="0.8" reward_rate_safe="2" reward_rate_unsure="1" reward_rate_fail="0.8"/>
+		<ItemSpec id="9405" march_time_min="155" march_time_max="210" pwr_safe="1.2" pwr_unsure="1" pwr_fail="0.8" reward_rate_safe="2" reward_rate_unsure="1" reward_rate_fail="0.8"/>
+		<ItemSpec id="9406" march_time_min="170" march_time_max="220" pwr_safe="1.2" pwr_unsure="1" pwr_fail="0.8" reward_rate_safe="2" reward_rate_unsure="1" reward_rate_fail="0.8"/>
+		<ItemSpec id="9407" march_time_min="185" march_time_max="230" pwr_safe="1.2" pwr_unsure="1" pwr_fail="0.8" reward_rate_safe="2" reward_rate_unsure="1" reward_rate_fail="0.8"/>
+		<ItemSpec id="9408" march_time_min="200" march_time_max="240" pwr_safe="1.2" pwr_unsure="1" pwr_fail="0.8" reward_rate_safe="2" reward_rate_unsure="1" reward_rate_fail="0.8"/>
+		<ItemSpec id="9409" march_time_min="210" march_time_max="250" pwr_safe="1.2" pwr_unsure="1" pwr_fail="0.8" reward_rate_safe="2" reward_rate_unsure="1" reward_rate_fail="0.8"/>
+		<ItemSpec id="9410" march_time_min="220" march_time_max="260" pwr_safe="1.2" pwr_unsure="1" pwr_fail="0.8" reward_rate_safe="2" reward_rate_unsure="1" reward_rate_fail="0.8"/>
+		<ItemSpec id="9411" march_time_min="230" march_time_max="270" pwr_safe="1.2" pwr_unsure="1" pwr_fail="0.8" reward_rate_safe="2" reward_rate_unsure="1" reward_rate_fail="0.8"/>
+		<ItemSpec id="9412" march_time_min="240" march_time_max="280" pwr_safe="1.2" pwr_unsure="1" pwr_fail="0.8" reward_rate_safe="2" reward_rate_unsure="1" reward_rate_fail="0.8"/>
+		<ItemSpec id="9413" march_time_min="250" march_time_max="290" pwr_safe="1.2" pwr_unsure="1" pwr_fail="0.8" reward_rate_safe="2" reward_rate_unsure="1" reward_rate_fail="0.8"/>
+		<ItemSpec id="9414" march_time_min="260" march_time_max="300" pwr_safe="1.2" pwr_unsure="1" pwr_fail="0.8" reward_rate_safe="2" reward_rate_unsure="1" reward_rate_fail="0.8"/>
+		<ItemSpec id="9415" march_time_min="270" march_time_max="310" pwr_safe="1.2" pwr_unsure="1" pwr_fail="0.8" reward_rate_safe="2" reward_rate_unsure="1" reward_rate_fail="0.8"/>
+		<ItemSpec id="9416" march_time_min="280" march_time_max="320" pwr_safe="1.2" pwr_unsure="1" pwr_fail="0.8" reward_rate_safe="2" reward_rate_unsure="1" reward_rate_fail="0.8"/>
+		<ItemSpec id="9417" march_time_min="290" march_time_max="330" pwr_safe="1.2" pwr_unsure="1" pwr_fail="0.8" reward_rate_safe="2" reward_rate_unsure="1" reward_rate_fail="0.8"/>
+		<ItemSpec id="9418" march_time_min="300" march_time_max="340" pwr_safe="1.2" pwr_unsure="1" pwr_fail="0.8" reward_rate_safe="2" reward_rate_unsure="1" reward_rate_fail="0.8"/>
+		<ItemSpec id="9419" march_time_min="310" march_time_max="350" pwr_safe="1.2" pwr_unsure="1" pwr_fail="0.8" reward_rate_safe="2" reward_rate_unsure="1" reward_rate_fail="0.8"/>
+		<ItemSpec id="9420" march_time_min="320" march_time_max="360" pwr_safe="1.2" pwr_unsure="1" pwr_fail="0.8" reward_rate_safe="2" reward_rate_unsure="1" reward_rate_fail="0.8"/>
+		<ItemSpec id="9421" march_time_min="330" march_time_max="370" pwr_safe="1.2" pwr_unsure="1" pwr_fail="0.8" reward_rate_safe="2" reward_rate_unsure="1" reward_rate_fail="0.8"/>
+		<ItemSpec id="9422" march_time_min="340" march_time_max="380" pwr_safe="1.2" pwr_unsure="1" pwr_fail="0.8" reward_rate_safe="2" reward_rate_unsure="1" reward_rate_fail="0.8"/>
+		<ItemSpec id="9423" march_time_min="350" march_time_max="390" pwr_safe="1.2" pwr_unsure="1" pwr_fail="0.8" reward_rate_safe="2" reward_rate_unsure="1" reward_rate_fail="0.8"/>
+		<ItemSpec id="9424" march_time_min="360" march_time_max="400" pwr_safe="1.2" pwr_unsure="1" pwr_fail="0.8" reward_rate_safe="2" reward_rate_unsure="1" reward_rate_fail="0.8"/>
+		<ItemSpec id="9425" march_time_min="370" march_time_max="410" pwr_safe="1.2" pwr_unsure="1" pwr_fail="0.8" reward_rate_safe="2" reward_rate_unsure="1" reward_rate_fail="0.8"/>
+		<ItemSpec id="9426" march_time_min="380" march_time_max="420" pwr_safe="1.2" pwr_unsure="1" pwr_fail="0.8" reward_rate_safe="2" reward_rate_unsure="1" reward_rate_fail="0.8"/>
+		<ItemSpec id="9427" march_time_min="390" march_time_max="430" pwr_safe="1.2" pwr_unsure="1" pwr_fail="0.8" reward_rate_safe="2" reward_rate_unsure="1" reward_rate_fail="0.8"/>
+		<ItemSpec id="9428" march_time_min="400" march_time_max="440" pwr_safe="1.2" pwr_unsure="1" pwr_fail="0.8" reward_rate_safe="2" reward_rate_unsure="1" reward_rate_fail="0.8"/>
+		<ItemSpec id="9429" march_time_min="410" march_time_max="450" pwr_safe="1.2" pwr_unsure="1" pwr_fail="0.8" reward_rate_safe="2" reward_rate_unsure="1" reward_rate_fail="0.8"/>		
+	</Group>
+
+	<Group id="monster_siege_summary">
+		<ItemSpec id="0" zombie_id="9430" base_lv="1" require_player_pwr="0" att_prob="100"/>
+		<ItemSpec id="1" zombie_id="9430" base_lv="1" require_player_pwr="999999" att_prob="0"/>
+		<ItemSpec id="2" zombie_id="9430" base_lv="2" require_player_pwr="999999" att_prob="0"/>
+		<ItemSpec id="3" zombie_id="9430" base_lv="3" require_player_pwr="999999" att_prob="0"/>
+		<ItemSpec id="4" zombie_id="9400" base_lv="4" require_player_pwr="576" att_prob="8"/>
+		<ItemSpec id="5" zombie_id="9401" base_lv="5" require_player_pwr="686" att_prob="5"/>
+		<ItemSpec id="6" zombie_id="9402" base_lv="6" require_player_pwr="1037" att_prob="3"/>
+		<ItemSpec id="7" zombie_id="9403" base_lv="7" require_player_pwr="3120" att_prob="3"/>
+		<ItemSpec id="8" zombie_id="9404" base_lv="8" require_player_pwr="6240" att_prob="2"/>
+		<ItemSpec id="9" zombie_id="9405" base_lv="9" require_player_pwr="19152" att_prob="1"/>
+		<ItemSpec id="10" zombie_id="9406" base_lv="10" require_player_pwr="26136" att_prob="1"/>
+		<ItemSpec id="11" zombie_id="9407" base_lv="11" require_player_pwr="35297" att_prob="0"/>
+		<ItemSpec id="12" zombie_id="9408" base_lv="12" require_player_pwr="40286" att_prob="0"/>
+		<ItemSpec id="13" zombie_id="9409" base_lv="13" require_player_pwr="47734" att_prob="0"/>
+		<ItemSpec id="14" zombie_id="9410" base_lv="14" require_player_pwr="55902" att_prob="0"/>
+		<ItemSpec id="15" zombie_id="9411" base_lv="15" require_player_pwr="64819" att_prob="0"/>
+		<ItemSpec id="16" zombie_id="9412" base_lv="16" require_player_pwr="104509" att_prob="0"/>
+		<ItemSpec id="17" zombie_id="9413" base_lv="17" require_player_pwr="135792" att_prob="0"/>
+		<ItemSpec id="18" zombie_id="9414" base_lv="18" require_player_pwr="180161" att_prob="0"/>
+		<ItemSpec id="19" zombie_id="9415" base_lv="19" require_player_pwr="214229" att_prob="0"/>
+		<ItemSpec id="20" zombie_id="9416" base_lv="20" require_player_pwr="254251" att_prob="0"/>
+		<ItemSpec id="21" zombie_id="9417" base_lv="21" require_player_pwr="283502" att_prob="0"/>
+		<ItemSpec id="22" zombie_id="9418" base_lv="22" require_player_pwr="347954" att_prob="0"/>
+		<ItemSpec id="23" zombie_id="9419" base_lv="23" require_player_pwr="384715" att_prob="0"/>
+		<ItemSpec id="24" zombie_id="9420" base_lv="24" require_player_pwr="469018" att_prob="0"/>
+		<ItemSpec id="25" zombie_id="9421" base_lv="25" require_player_pwr="590674" att_prob="0"/>
+		<ItemSpec id="26" zombie_id="9422" base_lv="26" require_player_pwr="646378" att_prob="0"/>
+		<ItemSpec id="27" zombie_id="9423" base_lv="27" require_player_pwr="705256" att_prob="0"/>
+		<ItemSpec id="28" zombie_id="9424" base_lv="28" require_player_pwr="767388" att_prob="0"/>
+		<ItemSpec id="29" zombie_id="9425" base_lv="29" require_player_pwr="832855" att_prob="0"/>
+		<ItemSpec id="30" zombie_id="9426" base_lv="30" require_player_pwr="1033410" att_prob="0"/>
+	</Group>
+	
+	<Group id="monster_siege_config">
+		<!-- 每个玩家两波丧尸来袭最小时间间隔 -->
+		<ItemSpec id="5000" cooldown="10800"/>
+		<!-- 服务器所有出征的数量超出max_march_num时，不再触发丧尸来袭事件 -->
+		<ItemSpec id="5001" max_march_num="3000"/>
+		<!-- 第一次丧尸进攻之后第二波的CD cooldown_2代表间隔时间 -->
+		<ItemSpec id="5002" cooldown_2="1"/>
+	</Group>
+</tns:database>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<!--
+走私商人
+-->	
+  <Group id="smuggle">
+	<ItemSpec id="700001" itemId="200300" ratio="40" num="2" price="40"/>
+	<ItemSpec id="700002" itemId="200301" ratio="60" num="1" price="96"/>
+	<ItemSpec id="700003" itemId="200302" ratio="100" num="1" price="320"/>
+	<ItemSpec id="700004" itemId="200309" ratio="80" num="1" price="84"/>
+	<ItemSpec id="700005" itemId="200310" ratio="40" num="2" price="40"/>
+	<ItemSpec id="700006" itemId="200311" ratio="60" num="1" price="96"/>
+	<ItemSpec id="700007" itemId="200312" ratio="100" num="1" price="320"/>
+	<ItemSpec id="700008" itemId="200319" ratio="80" num="1" price="84"/>
+	<ItemSpec id="700009" itemId="200320" ratio="40" num="2" price="40"/>
+	<ItemSpec id="700010" itemId="200321" ratio="60" num="1" price="96"/>
+	<ItemSpec id="700011" itemId="200322" ratio="100" num="1" price="320"/>
+	<ItemSpec id="700012" itemId="200329" ratio="80" num="1" price="84"/>
+	<ItemSpec id="700013" itemId="200330" ratio="40" num="2" price="40"/>
+	<ItemSpec id="700014" itemId="200331" ratio="60" num="1" price="96"/>
+	<ItemSpec id="700015" itemId="200332" ratio="100" num="1" price="320"/>
+	<ItemSpec id="700016" itemId="200339" ratio="80" num="1" price="84"/>
+	<ItemSpec id="700017" itemId="200200" ratio="80" num="1" price="105"/>
+	<ItemSpec id="700018" itemId="200201" ratio="60" num="5" price="45"/>
+	<ItemSpec id="700019" itemId="200203" ratio="60" num="5" price="45"/>
+	<ItemSpec id="700020" itemId="200204" ratio="100" num="1" price="224"/>
+	<ItemSpec id="700021" itemId="200207" ratio="60" num="5" price="45"/>
+	<ItemSpec id="700022" itemId="200208" ratio="100" num="1" price="224"/>
+	<ItemSpec id="700023" itemId="200215" ratio="60" num="5" price="45"/>
+	<ItemSpec id="700024" itemId="200216" ratio="100" num="1" price="224"/>
+	<ItemSpec id="700025" itemId="200217" ratio="60" num="5" price="45"/>
+	<ItemSpec id="700026" itemId="200218" ratio="100" num="1" price="224"/>
+	<ItemSpec id="700027" itemId="200220" ratio="100" num="1" price="480"/>
+	<ItemSpec id="700028" itemId="200221" ratio="100" num="1" price="800"/>
+	<ItemSpec id="700029" itemId="200410" ratio="100" num="1" price="400"/>
+	<ItemSpec id="700030" itemId="200411" ratio="100" num="1" price="800"/>
+	<ItemSpec id="700031" itemId="212101" ratio="40" num="5" price="25"/>
+	<ItemSpec id="700032" itemId="212102" ratio="40" num="2" price="42"/>
+	<ItemSpec id="700033" itemId="212201" ratio="40" num="5" price="25"/>
+	<ItemSpec id="700034" itemId="212202" ratio="40" num="2" price="42"/>
+	<ItemSpec id="700035" itemId="212301" ratio="60" num="5" price="20"/>
+	<ItemSpec id="700036" itemId="200002" ratio="1" num="1" price="1800"/>
+	<ItemSpec id="700037" itemId="212401" ratio="1" num="1" price="3200"/>
+	<ItemSpec id="700038" itemId="212402" ratio="1" num="1" price="3200"/>
+	<ItemSpec id="700039" itemId="212403" ratio="1" num="1" price="36000"/>
+	<ItemSpec id="700040" itemId="212404" ratio="1" num="1" price="36000"/>
+  </Group>
+	<!--
+黑市商人
+-->	  
+  <Group id="black">
+  	<ItemSpec id="710001" ratio="55" price="60" quality="1" award="1100101:95|1100102:5"/>
+  	<ItemSpec id="710002" ratio="33" price="150" quality="2" award="1100201:85|1100202:15"/>
+  	<ItemSpec id="710003" ratio="11" price="600" quality="3" award="1100301:75|1100302:25"/>
+  	<ItemSpec id="710004" ratio="1" price="1200" quality="4" award="1100401:65|1100402:45"/>
+  </Group>     
+</tns:database>

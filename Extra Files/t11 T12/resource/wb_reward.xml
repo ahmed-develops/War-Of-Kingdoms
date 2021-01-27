@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="user">
+    <ItemSpec id="1" reward="239888" min="1" max="1"/>
+    <ItemSpec id="2" reward="239889" min="2" max="2"/>
+    <ItemSpec id="3" reward="239890" min="3" max="3"/>
+    <ItemSpec id="4" reward="239891" min="4" max="4"/>
+    <ItemSpec id="5" reward="239892" min="5" max="5"/>
+    <ItemSpec id="6" reward="239893" min="6" max="6"/>
+    <ItemSpec id="7" reward="239894" min="7" max="7"/>
+    <ItemSpec id="8" reward="239895" min="8" max="8"/>
+    <ItemSpec id="9" reward="239896" min="9" max="9"/>
+    <ItemSpec id="10" reward="239897" min="10" max="10"/>
+    <ItemSpec id="11" reward="239898" min="11" max="20"/>
+    <ItemSpec id="12" reward="239899" min="21" max="30"/>
+    <ItemSpec id="13" reward="239900" min="31" max="40"/>
+    <ItemSpec id="14" reward="239902" min="41" max="50"/>
+    <ItemSpec id="15" reward="239903" min="51" max="100"/>
+    <ItemSpec id="16" reward="239904" min="101" max="200"/>
+    <ItemSpec id="17" reward="239905" min="201" max="500"/>
+    <ItemSpec id="18" reward="239906" min="501" max="1000"/>
+  </Group>
+  <Group id="kingdom">
+    <ItemSpec id="1" reward="239878" effect="502600"/>
+    <ItemSpec id="2" reward="239879" effect="502601"/>
+    <ItemSpec id="3" reward="239880" effect="502602"/>
+    <ItemSpec id="4" reward="239881"/>
+    <ItemSpec id="5" reward="239882"/>
+    <ItemSpec id="6" reward="239883"/>
+    <ItemSpec id="7" reward="239884"/>
+    <ItemSpec id="8" reward="239885"/>
+    <ItemSpec id="9" reward="239886"/>
+    <ItemSpec id="10" reward="239887"/>
+  </Group>
+</tns:database>

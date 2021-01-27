@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="skill">
+    <ItemSpec id="101000" name="103000"/>
+    <ItemSpec id="101001" name="103000"/>
+    <ItemSpec id="101002" name="103000"/>
+    <ItemSpec id="101003" name="103000"/>
+    <ItemSpec id="101004" name="103000"/>
+    <ItemSpec id="101005" name="103000"/>
+    <ItemSpec id="101006" name="103000"/>
+    <ItemSpec id="101007" name="116000" description="117000" effectArt="1000"/>
+    <ItemSpec id="101008" name="116001" description="117001" effectArt="1000"/>
+    <ItemSpec id="101009" name="116002" description="117002" effectArt="1000"/>
+    <ItemSpec id="101010" name="116003" description="117003" effectArt="1000"/>
+    <ItemSpec id="104000" name="103000"/>
+    <ItemSpec id="104001" name="103000"/>
+    <ItemSpec id="104002" name="103000"/>
+    <ItemSpec id="104003" name="103000"/>
+  </Group>
+</tns:database>

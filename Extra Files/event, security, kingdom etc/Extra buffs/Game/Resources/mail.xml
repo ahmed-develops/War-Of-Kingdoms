@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ItemSpec id="10000" sender="3000001" title="114000" message="114001" reward="239510" type="0"/>
+  <ItemSpec id="10001" sender="3000001" title="114002" message="114003" reward="239510" type="0"/>
+  <ItemSpec id="10002" sender="105522" title="114102" message="114005" type="1"/>
+  <ItemSpec id="10003" title="114006" message="114007" type="1"/>
+  <ItemSpec id="10004" sender="105566" title="114008" message="114009" type="1"/>
+  <ItemSpec id="10005" sender="3000002" title="114010" message="114024" type="0"/>
+  <ItemSpec id="10006" sender="105522" title="105523" message="105554" type="1"/>
+  <ItemSpec id="10007" sender="101207" title="114012" message="114013" type="1"/>
+  <ItemSpec id="10008" sender="101207" title="114014" message="114015" type="1"/>
+  <ItemSpec id="10009" title="114016" message="114017"/>
+  <ItemSpec id="10010" sender="3000002" title="114019" message="114018" reward="239501" type="0"/>
+  <ItemSpec id="10011" sender="3000002" title="114111" message="114112" reward="231000" type="1"/>
+  <ItemSpec id="10012" sender="3000002" title="114020" message="114021" reward="239502" type="0"/>
+  <ItemSpec id="10013" sender="3000002" title="114115" message="114118" type="1"/>
+  <ItemSpec id="10014" sender="3000002" title="114116" message="114119" type="1"/>
+  <ItemSpec id="10015" sender="3000002" title="114117" message="114120" type="1"/>
+  <ItemSpec id="10016" title="114121" message="114122" type="1"/>
+  <ItemSpec id="10017" sender="3000002" title="114022" message="114023" reward="239510" type="0"/>
+  <ItemSpec id="10018" sender="3000002" title="101227" message="101229" reward="230050" type="1"/>
+  <ItemSpec id="10019" sender="3000002" title="114124" message="114125" reward="231001" type="0"/>
+  <ItemSpec id="10020" sender="3000002" title="114128" message="114129" type="0"/>
+  <ItemSpec id="10021" sender="3000002" title="114128" message="114130" type="0"/>
+  <ItemSpec id="10022" title="105068" message="105070" reward="239512" type="1"/>
+  <ItemSpec id="10023" title="105069" message="105071" reward="239513" type="1"/>
+  <ItemSpec id="10024" title="105069" message="105072" reward="239514" type="1"/>
+  <ItemSpec id="10025" title="105069" message="105073" reward="239515" type="1"/>
+  <ItemSpec id="10026" title="105069" message="105074" reward="239516" type="1"/>
+  <ItemSpec id="10027" title="105069" message="105076" reward="239517" type="1"/>
+  <ItemSpec id="10028" title="105069" message="105076" reward="239518" type="1"/>
+  <ItemSpec id="10029" title="105069" message="105076" reward="239519" type="1"/>
+  <ItemSpec id="10030" title="105069" message="105076" reward="239520" type="1"/>
+  <ItemSpec id="10031" title="105069" message="105076" reward="239521" type="1"/>
+  <ItemSpec id="10032" title="105069" message="105076" reward="239524" type="1"/>
+  <ItemSpec id="10033" title="105069" message="105076" reward="239527" type="1"/>
+  <ItemSpec id="10034" title="105069" message="105076" reward="239528" type="1"/>
+  <ItemSpec id="10035" title="105069" message="105076" reward="239400" type="1"/>
+  <ItemSpec id="10036" title="105069" message="105076" reward="239401" type="1"/>
+  <ItemSpec id="10037" title="105069" message="105076" reward="239402" type="1"/>
+  <ItemSpec id="10038" title="105069" message="105076" reward="239403" type="1"/>
+  <ItemSpec id="10039" title="105069" message="105076" reward="239404" type="1"/>
+  <ItemSpec id="10040" sender="3000001" title="113905" message="113906" reward="239510" type="0"/>
+  <ItemSpec id="10041" title="110014" message="110015" type="1"/>
+  <ItemSpec id="10042" title="105069" message="105076" type="1"/>
+  <ItemSpec id="10043" sender="3000002" title="110100" message="110101" type="1"/>
+  <ItemSpec id="10044" sender="3000002" title="110119" message="110123" reward="231100" type="1"/>
+  <ItemSpec id="10045" sender="3000002" title="110120" message="110124" reward="231101" type="1"/>
+  <ItemSpec id="10046" sender="3000002" title="110121" message="110125" reward="231102" type="1"/>
+  <ItemSpec id="10047" title="105069" message="105076" reward="239405" type="1"/>
+  <ItemSpec id="10048" title="105069" message="105076" reward="239406" type="1"/>
+  <ItemSpec id="10049" title="105069" message="105076" reward="239407" type="1"/>
+  <ItemSpec id="10050" sender="3000002" title="105722" message="105723" type="1"/>
+  <ItemSpec id="10051" sender="3000002" title="105732" message="105733" type="1"/>
+  <ItemSpec id="10052" sender="3000002" title="105734" message="105735" type="1"/>
+  <ItemSpec id="10053" sender="3000002" title="105742" message="105743" type="1"/>
+  <ItemSpec id="10054" title="105069" message="105076" reward="239408" type="1"/>
+  <ItemSpec id="10055" title="105069" message="105076" reward="239409" type="1"/>
+  <ItemSpec id="10056" title="105069" message="105076" reward="239410" type="1"/>
+  <ItemSpec id="10060" sender="3000002" title="111079" message="111078" type="1"/>
+  <ItemSpec id="10061" sender="3000002" title="111080" message="111077" type="1"/>
+  <ItemSpec id="10062" sender="3000002" title="111066" message="111082" type="1"/>
+  <ItemSpec id="10063" sender="103731" title="114135" message="114136" reward="230130" type="2"/>
+  <ItemSpec id="10064" sender="103731" title="114135" message="114137" reward="230131" type="2"/>
+  <ItemSpec id="10065" sender="103731" title="114135" message="114138" reward="230132" type="2"/>
+  <ItemSpec id="10066" sender="103731" title="114135" message="114139" type="2"/>
+  <ItemSpec id="10067" title="115295" message="115296" type="2"/>
+  <ItemSpec id="10068" sender="3000002" title="133017" message="133059" type="2"/>
+  <ItemSpec id="10069" sender="3000002" title="133062" message="133058" type="2"/>
+  <ItemSpec id="10070" sender="3000002" title="133026" message="133060" type="2"/>
+  <ItemSpec id="10071" sender="3000002" title="133100" message="133099" type="2"/>
+  <ItemSpec id="10072" title="137460" message="137454" type="2"/>
+  <ItemSpec id="10073" title="137460" message="137456" type="2"/>
+  <ItemSpec id="10074" title="137461" message="137459" type="1"/>
+  <ItemSpec id="10075" title="137461" message="137463" type="1"/>
+  <ItemSpec id="10076" sender="3000002" title="133270" message="133269" type="2"/>
+  <ItemSpec id="10100" sender="3000002" title="114111" message="114148" reward="231200" type="1"/>
+  <ItemSpec id="10101" sender="3000001" title="114025" message="114026" reward="239510" type="0"/>
+  <ItemSpec id="10102" title="115464" message="115465" type="1"/>
+  <ItemSpec id="10103" sender="115364" title="115476" message="115477" type="1"/>
+  <ItemSpec id="10104" sender="3000002" title="115493" message="115494" type="1" donate="1"/>
+  <ItemSpec id="10105" sender="3000002" title="115496" message="115497" reward="231201" type="1"/>
+  <ItemSpec id="10106" sender="3000001" title="114027" message="114028" reward="239510" type="0"/>
+  <ItemSpec id="10107" sender="3000002" title="115496" message="115498" reward="231202" type="1"/>
+  <ItemSpec id="10108" sender="3000002" title="115496" message="115499" reward="231203" type="1"/>
+  <ItemSpec id="10109" sender="3000002" title="103691" message="103692" type="1" reward="987601"/>
+  <ItemSpec id="10110" sender="3000002" title="115544" message="115545" type="1"/>
+  <ItemSpec id="10111" sender="3000002" title="105771" message="105772" type="2"/>
+  <ItemSpec id="10112" sender="3000002" title="105773" message="105774" type="2"/>
+  <ItemSpec id="11000" title="105714" message="105715" reward="239522" type="1"/>
+  <ItemSpec id="11001" sender="3000002" title="105718" message="105719" reward="239525" type="2"/>
+  <ItemSpec id="11002" sender="3000002" title="105720" message="105721" reward="239526" type="2"/>
+  <ItemSpec id="11003" sender="3000002" title="105720" message="105761" reward="239526" type="2"/>
+  <ItemSpec id="11500" sender="3000002" title="105726" message="105731" reward="230195" type="2"/>
+  <ItemSpec id="11501" sender="3000002" title="105727" message="105736" reward="230196" type="2"/>
+  <ItemSpec id="11502" sender="3000002" title="105728" message="105737" reward="230197" type="2"/>
+  <ItemSpec id="11503" sender="3000002" title="105729" message="105738" reward="230198" type="2"/>
+  <ItemSpec id="11504" sender="3000002" title="105730" message="105739" reward="230199" type="2"/>
+  <ItemSpec id="11505" sender="105519" title="3110118" message="3110117" type="1"/>
+  <ItemSpec id="11506" title="103783" message="103784"/>
+  <ItemSpec id="11507" sender="103715" title="103786" message="103787" type="1"/>
+  <ItemSpec id="11508" sender="105516" message="108896" type="1"/>
+  <ItemSpec id="11509" sender="3000002" title="101007" message="101006" type="2"/>
+  <ItemSpec id="11510" sender="3000002" title="105750" message="105751" reward="239529" type="2"/>
+  <ItemSpec id="11511" sender="3000002" title="105750" message="105751" reward="239530" type="2"/>
+  <ItemSpec id="11512" sender="3000002" title="105750" message="105751" reward="239531" type="2"/>
+  <ItemSpec id="11513" sender="3000002" title="105750" message="105751" reward="239532" type="2"/>
+  <ItemSpec id="11514" sender="3000002" title="105750" message="105751" reward="239533" type="2"/>
+  <ItemSpec id="11515" sender="3000002" title="105726" message="105752" reward="230195" type="2"/>
+  <ItemSpec id="11516" sender="3000002" title="105727" message="105753" reward="230196" type="2"/>
+  <ItemSpec id="11517" sender="3000002" title="105728" message="105754" reward="230197" type="2"/>
+  <ItemSpec id="11518" sender="3000002" title="105729" message="105755" reward="230198" type="2"/>
+  <ItemSpec id="11519" sender="3000002" title="105730" message="105756" reward="230199" type="2"/>
+  <ItemSpec id="11520" sender="3000002" title="101019" message="101020" reward="234863" type="2"/>
+  <ItemSpec id="11521" title="105069" message="105106" reward="239901" type="1"/>
+  <ItemSpec id="11522" sender="3000002" title="101034" message="101035" type="2"/>
+  <ItemSpec id="11523" sender="3000002" title="101041" message="101042" reward="239022" type="2"/>
+  <ItemSpec id="11524" sender="3000002" title="101041" message="101042" reward="239023" type="2"/>
+  <ItemSpec id="11525" title="105069" message="105076" reward="239411" type="1"/>
+  <ItemSpec id="11526" title="105069" message="105076" reward="239412" type="1"/>
+  <ItemSpec id="11600" sender="3000002" title="110167" message="110168" type="1" share="1"/>
+  <ItemSpec id="11601" sender="3000002" title="110191" message="110192" type="1"/>
+  <ItemSpec id="11602" sender="3000002" title="110191" message="110193" type="1"/>
+  <ItemSpec id="11603" title="115335" message="115336" type="2"/>
+  <ItemSpec id="12000" title="114144" message="114145" type="2"/>
+  <ItemSpec id="11604" title="115399" message="115400" type="2"/>
+  <ItemSpec id="11605" sender="3000002" title="105757" message="105758" type="1"/>
+  <ItemSpec id="11606" sender="3000002" title="105759" message="105760" type="1"/>
+  <ItemSpec id="11607" sender="3000002" title="138065" message="138066" reward="239908" type="2"/>
+  <ItemSpec id="11608" sender="3000002" title="138067" message="138068" type="2"/>
+  <ItemSpec id="11609" title="115429" message="115437" type="2" resource="1"/>
+  <ItemSpec id="11610" title="115429" message="115438" type="2" donate="1"/>
+  <ItemSpec id="11611" title="115429" message="115439" type="2" help="1"/>
+  <ItemSpec id="11612" title="115429" message="115440" type="2" build="1"/>
+  <ItemSpec id="11613" title="115429" message="115441" type="2" al_war="1"/>
+  <ItemSpec id="11614" title="115429" message="115442" type="2" shop="1"/>
+  <ItemSpec id="11615" sender="3000002" title="138099" message="138086" type="2"/>
+  <ItemSpec id="11616" sender="3000002" title="111504" message="111505" type="2"/>
+  <ItemSpec id="11617" sender="3000002" title="103786" message="138121" type="2"/>
+  <ItemSpec id="11618" sender="3000002" title="103786" message="138122" type="2"/>
+  <ItemSpec id="11619" sender="3000002" title="103786" message="138123" type="2"/>
+  <ItemSpec id="11620" sender="3000002" title="103830" message="103831" type="2"/>
+  <ItemSpec id="11621" sender="3000002" title="106049" message="106050" type="2" country="AZ|BY|RU|UA|UZ|KZ"/>
+  <ItemSpec id="11622" sender="3000002" title="138065" message="138158" type="2"/>
+</tns:database>

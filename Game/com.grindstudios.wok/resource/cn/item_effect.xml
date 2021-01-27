@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="effect">
+  <ItemSpec id="106001" description="106000" para="1"/>
+  <ItemSpec id="106002" description="106001" para="1"/>
+  <ItemSpec id="106003" description="106002" para="1"/>
+  <ItemSpec id="106004" description="106003" para="1"/>
+  <ItemSpec id="106005" description="106004" para="1"/>
+  </Group>
+</tns:database>

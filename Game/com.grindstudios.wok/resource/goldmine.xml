@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ItemSpec id="44200" lv="1" exp="1" miner="2" gold="5" weektime="20"/>
+  <ItemSpec id="44201" lv="2" exp="2" miner="2" gold="10" weektime="20"/>
+  <ItemSpec id="44202" lv="3" exp="3" miner="2" gold="15" weektime="20"/>
+  <ItemSpec id="44203" lv="4" exp="4" miner="3" gold="20" weektime="20"/>
+  <ItemSpec id="44204" lv="5" exp="5" miner="3" gold="25" weektime="20"/>
+  <ItemSpec id="44205" lv="6" exp="7" miner="3" gold="30" weektime="20"/>
+  <ItemSpec id="44206" lv="7" exp="9" miner="4" gold="35" weektime="20"/>
+  <ItemSpec id="44207" lv="8" exp="11" miner="4" gold="40" weektime="20"/>
+  <ItemSpec id="44208" lv="9" exp="13" miner="4" gold="45" weektime="20"/>
+  <ItemSpec id="44209" lv="10" exp="15" miner="5" gold="50" weektime="20"/>
+  <ItemSpec id="44210" lv="11" exp="17" miner="5" gold="55" weektime="20"/>
+  <ItemSpec id="44211" lv="12" exp="20" miner="5" gold="60" weektime="20"/>
+  <ItemSpec id="44212" lv="13" exp="23" miner="6" gold="65" weektime="20"/>
+  <ItemSpec id="44213" lv="14" exp="26" miner="6" gold="70" weektime="20"/>
+  <ItemSpec id="44214" lv="15" exp="29" miner="6" gold="75" weektime="20"/>
+  <ItemSpec id="44215" lv="16" exp="32" miner="7" gold="80" weektime="20"/>
+  <ItemSpec id="44216" lv="17" exp="36" miner="7" gold="85" weektime="20"/>
+  <ItemSpec id="44217" lv="18" exp="40" miner="7" gold="90" weektime="20"/>
+  <ItemSpec id="44218" lv="19" exp="44" miner="8" gold="95" weektime="20"/>
+  <ItemSpec id="44219" lv="20" exp="48" miner="8" gold="100" weektime="20"/>
+  <ItemSpec id="44220" lv="21" exp="52" miner="8" gold="105" weektime="20"/>
+  <ItemSpec id="44221" lv="22" exp="57" miner="9" gold="110" weektime="20"/>
+  <ItemSpec id="44222" lv="23" exp="62" miner="9" gold="115" weektime="20"/>
+  <ItemSpec id="44223" lv="24" exp="67" miner="9" gold="120" weektime="20"/>
+  <ItemSpec id="44224" lv="25" exp="72" miner="10" gold="125" weektime="20"/>
+  <ItemSpec id="44225" lv="26" exp="77" miner="10" gold="130" weektime="20"/>
+  <ItemSpec id="44226" lv="27" exp="83" miner="10" gold="135" weektime="20"/>
+  <ItemSpec id="44227" lv="28" exp="89" miner="10" gold="140" weektime="20"/>
+  <ItemSpec id="44228" lv="29" exp="95" miner="10" gold="145" weektime="20"/>
+  <ItemSpec id="44229" lv="30" exp="101" miner="10" gold="150" weektime="20"/>
+</tns:database>

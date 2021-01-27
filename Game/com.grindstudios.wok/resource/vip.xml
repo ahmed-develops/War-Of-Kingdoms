@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="vip">
+	<!-- stamina 購買一次體力增加體力值 cost購買一次體力消耗的金幣  count每日可購買幾次體力 callhelpcnt可以申請援助的次數 canhelpcnt每次申請幫助可以被幫次數 canhelpvalue每次被幫助恢復的體力值    -->
+    <ItemSpec id="7000" point="500" speedup="0" reward="1000001" mana="25000" stamina="50" cost="200" count="3" callhelpcnt="2" canhelpcnt="4" canhelpvalue="5"  effect="1010;5|50;4|53;4|52;4|51;4|1166;1" />
+    <ItemSpec id="7001" point="1500" speedup="0" reward="1000002" mana="25000" stamina="50" cost="200" count="3" callhelpcnt="2" canhelpcnt="4" canhelpvalue="5" effect="1010;5|1030;5|59;5|106;10|50;6|53;6|52;6|51;6|1166;2" />
+    <ItemSpec id="7002" point="4000" speedup="0" reward="1000003" mana="25000" stamina="50" cost="200" count="4" callhelpcnt="2" canhelpcnt="4" canhelpvalue="5" effect="1010;5|1030;5|1050;5|59;10|106;12|50;8|53;8|52;8|51;8|1166;3" />
+    <ItemSpec id="7003" point="10000" speedup="0" reward="1000004" mana="25000" stamina="50" cost="200" count="4" callhelpcnt="2" canhelpcnt="4" canhelpvalue="5" effect="1010;8|1030;8|1050;8|59;15|106;14|50;10|53;10|52;10|51;10|1166;4" />
+    <ItemSpec id="7004" point="18000" speedup="0" reward="1000005" mana="25000" stamina="50" cost="200" count="5" callhelpcnt="2" canhelpcnt="4" canhelpvalue="5" effect="1010;10|1030;8|1050;8|60;5|59;20|106;16|50;12|53;12|52;12|51;12|1166;5" />
+    <ItemSpec id="7005" point="30000" speedup="0" reward="1000006" mana="25000" stamina="50" cost="200" count="5" callhelpcnt="2" canhelpcnt="4" canhelpvalue="5" effect="1010;10|1030;10|1050;8|60;6|59;25|106;18|50;14|53;14|52;14|51;14|1166;6" />
+    <ItemSpec id="7006" point="50000" speedup="0" reward="1000007" mana="25000" stamina="50" cost="200" count="6" callhelpcnt="2" canhelpcnt="4" canhelpvalue="5" effect="1010;10|1030;10|1050;10|60;7|59;30|106;20|50;16|53;16|52;16|51;16|1166;7" />
+    <ItemSpec id="7007" point="120000" speedup="0" reward="1000008" mana="25000" stamina="50" cost="200" count="6" callhelpcnt="2" canhelpcnt="4" canhelpvalue="5" effect="1010;15|1030;10|1050;10|60;8|59;35|106;22|50;18|53;18|52;18|51;18|1166;8" />
+    <ItemSpec id="7008" point="240000" speedup="0" reward="1000009" mana="25000" stamina="50" cost="200" count="7" callhelpcnt="2" canhelpcnt="4" canhelpvalue="5" effect="1010;15|1030;15|1050;10|60;9|59;40|106;24|50;20|53;20|52;20|51;20|1166;9" />
+    <ItemSpec id="7009" point="480000" speedup="0" reward="1000010" mana="25000" stamina="50" cost="200" count="7" callhelpcnt="2" canhelpcnt="4" canhelpvalue="5" effect="57;30|1010;15|1030;15|1050;15|60;10|59;50|106;26|50;25|53;25|52;25|51;25|1166;10" />
+  </Group>
+</tns:database>

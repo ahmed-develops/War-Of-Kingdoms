@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ItemSpec id="41050" lv_range="1|1" type="0" rate="1" army="300000|300100" exp="5|1"/>
+  <ItemSpec id="41051" lv_range="2|2" type="0" rate="1" army="300001|300101" exp="6|1"/>
+  <ItemSpec id="41052" lv_range="3|3" type="0" rate="1" army="300002|300102" exp="7|1"/>
+  <ItemSpec id="41053" lv_range="4|4" type="0" rate="1" army="300003|300103" exp="8|1"/>
+  <ItemSpec id="41054" lv_range="5|5" type="0" rate="1" army="300004|300104" exp="9|1"/>
+  <ItemSpec id="41055" lv_range="6|6" type="0" rate="1" army="300005|300105" exp="10|1"/>
+  <ItemSpec id="41056" lv_range="7|7" type="0" rate="1" army="300006|300106" exp="11|1"/>
+  <ItemSpec id="41057" lv_range="8|8" type="0" rate="1" army="300007|300107" exp="12|1"/>
+  <ItemSpec id="41058" lv_range="9|9" type="0" rate="1" army="300008|300108" exp="13|1"/>
+  <ItemSpec id="41059" lv_range="10|10" type="0" rate="1" army="300009|300109" exp="14|1"/>
+  <ItemSpec id="41060" lv_range="11|11" type="0" rate="1" army="300010|300110" exp="15|2"/>
+  <ItemSpec id="41061" lv_range="12|12" type="0" rate="1" army="300011|300111" exp="16|2"/>
+  <ItemSpec id="41062" lv_range="13|13" type="0" rate="1" army="300012|300112" exp="17|2"/>
+  <ItemSpec id="41063" lv_range="14|14" type="0" rate="1" army="300013|300113" exp="18|2"/>
+  <ItemSpec id="41064" lv_range="15|15" type="0" rate="1" army="300014|300114" exp="19|2"/>
+  <ItemSpec id="41065" lv_range="16|16" type="0" rate="1" army="300015|300115" exp="20|2"/>
+  <ItemSpec id="41066" lv_range="17|17" type="0" rate="1" army="300016|300116" exp="21|2"/>
+  <ItemSpec id="41067" lv_range="18|18" type="0" rate="1" army="300017|300117" exp="22|2"/>
+  <ItemSpec id="41068" lv_range="19|19" type="0" rate="1" army="300018|300118" exp="23|2"/>
+  <ItemSpec id="41069" lv_range="20|20" type="0" rate="1" army="300019|300119" exp="24|2"/>
+  <ItemSpec id="41070" lv_range="21|21" type="0" rate="1" army="300020|300120" exp="25|3"/>
+  <ItemSpec id="41071" lv_range="22|22" type="0" rate="1" army="300021|300121" exp="26|3"/>
+  <ItemSpec id="41072" lv_range="23|23" type="0" rate="1" army="300022|300122" exp="27|3"/>
+  <ItemSpec id="41073" lv_range="24|24" type="0" rate="1" army="300023|300123" exp="28|3"/>
+  <ItemSpec id="41074" lv_range="25|25" type="0" rate="1" army="300024|300124" exp="29|3"/>
+  <ItemSpec id="41075" lv_range="26|26" type="0" rate="1" army="300025|300125" exp="30|3"/>
+  <ItemSpec id="41076" lv_range="27|27" type="0" rate="1" army="300026|300126" exp="31|3"/>
+  <ItemSpec id="41077" lv_range="28|28" type="0" rate="1" army="300027|300127" exp="32|3"/>
+  <ItemSpec id="41078" lv_range="29|29" type="0" rate="1" army="300028|300128" exp="33|3"/>
+  <ItemSpec id="41079" lv_range="30|30" type="0" rate="1" army="300029|300129" exp="34|3"/>
+  <ItemSpec id="41080" lv_range="31|31" type="0" rate="1" army="300030|300130" exp="35|4"/>
+  <ItemSpec id="41081" lv_range="32|32" type="0" rate="1" army="300031|300131" exp="36|4"/>
+  <ItemSpec id="41082" lv_range="33|33" type="0" rate="1" army="300032|300132" exp="37|4"/>
+  <ItemSpec id="41083" lv_range="34|34" type="0" rate="1" army="300033|300133" exp="38|4"/>
+  <ItemSpec id="41084" lv_range="35|35" type="0" rate="1" army="300034|300134" exp="39|4"/>
+  <ItemSpec id="41085" lv_range="36|36" type="0" rate="1" army="300035|300135" exp="40|4"/>
+  <ItemSpec id="41086" lv_range="37|37" type="0" rate="1" army="300036|300136" exp="41|4"/>
+  <ItemSpec id="41087" lv_range="38|38" type="0" rate="1" army="300037|300137" exp="42|4"/>
+  <ItemSpec id="41088" lv_range="39|39" type="0" rate="1" army="300038|300138" exp="43|4"/>
+  <ItemSpec id="41089" lv_range="40|40" type="0" rate="1" army="300039|300139" exp="44|4"/>
+  <ItemSpec id="41090" lv_range="41|41" type="0" rate="1" army="300040|300140" exp="45|5"/>
+  <ItemSpec id="41091" lv_range="42|42" type="0" rate="1" army="300041|300141" exp="46|5"/>
+  <ItemSpec id="41092" lv_range="43|43" type="0" rate="1" army="300042|300142" exp="47|5"/>
+  <ItemSpec id="41093" lv_range="44|44" type="0" rate="1" army="300043|300143" exp="48|5"/>
+  <ItemSpec id="41094" lv_range="45|45" type="0" rate="1" army="300044|300144" exp="49|5"/>
+  <ItemSpec id="41095" lv_range="46|46" type="0" rate="1" army="300045|300145" exp="50|5"/>
+  <ItemSpec id="41096" lv_range="47|47" type="0" rate="1" army="300046|300146" exp="51|5"/>
+  <ItemSpec id="41097" lv_range="48|48" type="0" rate="1" army="300047|300147" exp="52|5"/>
+  <ItemSpec id="41098" lv_range="49|49" type="0" rate="1" army="300048|300148" exp="53|5"/>
+  <ItemSpec id="41099" lv_range="50|50" type="0" rate="1" army="300049|300149" exp="54|5"/>
+  <ItemSpec id="41100" lv_range="1|1" type="3" rate="1" value="0;40|3;40"/>
+  <ItemSpec id="41101" lv_range="2|2" type="3" rate="1" value="0;49|3;49"/>
+  <ItemSpec id="41102" lv_range="3|3" type="3" rate="1" value="0;59|3;59"/>
+  <ItemSpec id="41103" lv_range="4|4" type="3" rate="1" value="0;70|3;70"/>
+  <ItemSpec id="41104" lv_range="5|5" type="3" rate="1" value="0;84|3;84"/>
+  <ItemSpec id="41105" lv_range="6|6" type="3" rate="1" value="0;98|3;98"/>
+  <ItemSpec id="41106" lv_range="7|7" type="3" rate="1" value="0;115|3;115"/>
+  <ItemSpec id="41107" lv_range="8|8" type="3" rate="1" value="0;133|3;133"/>
+  <ItemSpec id="41108" lv_range="9|9" type="3" rate="1" value="0;152|3;152"/>
+  <ItemSpec id="41109" lv_range="10|10" type="3" rate="1" value="0;174|3;174"/>
+  <ItemSpec id="41110" lv_range="11|11" type="3" rate="1" value="0;196|3;196"/>
+  <ItemSpec id="41111" lv_range="12|12" type="3" rate="1" value="0;221|3;221"/>
+  <ItemSpec id="41112" lv_range="13|13" type="3" rate="1" value="0;247|3;247"/>
+  <ItemSpec id="41113" lv_range="14|14" type="3" rate="1" value="0;274|3;274"/>
+  <ItemSpec id="41114" lv_range="15|15" type="3" rate="1" value="0;304|3;304"/>
+  <ItemSpec id="41115" lv_range="16|16" type="3" rate="1" value="0;334|3;334"/>
+  <ItemSpec id="41116" lv_range="17|17" type="3" rate="1" value="0;367|3;367"/>
+  <ItemSpec id="41117" lv_range="18|18" type="3" rate="1" value="0;401|3;401"/>
+  <ItemSpec id="41118" lv_range="19|19" type="3" rate="1" value="0;436|3;436"/>
+  <ItemSpec id="41119" lv_range="20|20" type="3" rate="1" value="0;474|3;474"/>
+  <ItemSpec id="41120" lv_range="21|21" type="3" rate="1" value="0;512|3;512"/>
+  <ItemSpec id="41121" lv_range="22|22" type="3" rate="1" value="0;553|3;553"/>
+  <ItemSpec id="41122" lv_range="23|23" type="3" rate="1" value="0;595|3;595"/>
+  <ItemSpec id="41123" lv_range="24|24" type="3" rate="1" value="0;638|3;638"/>
+  <ItemSpec id="41124" lv_range="25|25" type="3" rate="1" value="0;684|3;684"/>
+  <ItemSpec id="41125" lv_range="26|26" type="3" rate="1" value="0;730|3;730"/>
+  <ItemSpec id="41126" lv_range="27|27" type="3" rate="1" value="0;779|3;779"/>
+  <ItemSpec id="41127" lv_range="28|28" type="3" rate="1" value="0;829|3;829"/>
+  <ItemSpec id="41128" lv_range="29|29" type="3" rate="1" value="0;880|3;880"/>
+  <ItemSpec id="41129" lv_range="30|30" type="3" rate="1" value="0;934|3;934"/>
+  <ItemSpec id="41130" lv_range="31|31" type="3" rate="1" value="0;988|3;988"/>
+  <ItemSpec id="41131" lv_range="32|32" type="3" rate="1" value="0;1045|3;1045"/>
+  <ItemSpec id="41132" lv_range="33|33" type="3" rate="1" value="0;1103|3;1103"/>
+  <ItemSpec id="41133" lv_range="34|34" type="3" rate="1" value="0;1162|3;1162"/>
+  <ItemSpec id="41134" lv_range="35|35" type="3" rate="1" value="0;1224|3;1224"/>
+  <ItemSpec id="41135" lv_range="36|36" type="3" rate="1" value="0;1286|3;1286"/>
+  <ItemSpec id="41136" lv_range="37|37" type="3" rate="1" value="0;1351|3;1351"/>
+  <ItemSpec id="41137" lv_range="38|38" type="3" rate="1" value="0;1417|3;1417"/>
+  <ItemSpec id="41138" lv_range="39|39" type="3" rate="1" value="0;1484|3;1484"/>
+  <ItemSpec id="41139" lv_range="40|40" type="3" rate="1" value="0;1554|3;1554"/>
+  <ItemSpec id="41140" lv_range="41|41" type="3" rate="1" value="0;1624|3;1624"/>
+  <ItemSpec id="41141" lv_range="42|42" type="3" rate="1" value="0;1697|3;1697"/>
+  <ItemSpec id="41142" lv_range="43|43" type="3" rate="1" value="0;1771|3;1771"/>
+  <ItemSpec id="41143" lv_range="44|44" type="3" rate="1" value="0;1846|3;1846"/>
+  <ItemSpec id="41144" lv_range="45|45" type="3" rate="1" value="0;1924|3;1924"/>
+  <ItemSpec id="41145" lv_range="46|46" type="3" rate="1" value="0;2002|3;2002"/>
+  <ItemSpec id="41146" lv_range="47|47" type="3" rate="1" value="0;2083|3;2083"/>
+  <ItemSpec id="41147" lv_range="48|48" type="3" rate="1" value="0;2165|3;2165"/>
+  <ItemSpec id="41148" lv_range="49|49" type="3" rate="1" value="0;2248|3;2248"/>
+  <ItemSpec id="41149" lv_range="50|50" type="3" rate="1" value="0;2334|3;2334"/>
+  <ItemSpec id="41150" lv_range="1|5" type="2" rate="1" dead="1"/>
+  <ItemSpec id="41151" lv_range="6|10" type="2" rate="1" dead="2"/>
+  <ItemSpec id="41152" lv_range="11|15" type="2" rate="1" dead="3"/>
+  <ItemSpec id="41153" lv_range="16|20" type="2" rate="1" dead="4"/>
+  <ItemSpec id="41154" lv_range="21|25" type="2" rate="1" dead="5"/>
+  <ItemSpec id="41155" lv_range="26|30" type="2" rate="1" dead="6"/>
+  <ItemSpec id="41156" lv_range="31|35" type="2" rate="1" dead="7"/>
+  <ItemSpec id="41157" lv_range="36|40" type="2" rate="1" dead="8"/>
+  <ItemSpec id="41158" lv_range="41|45" type="2" rate="1" dead="9"/>
+  <ItemSpec id="41159" lv_range="46|50" type="2" rate="1" dead="10"/>
+</tns:database>

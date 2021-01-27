@@ -1,0 +1,74 @@
+2020-05-29 11:12:00,953 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | inserted worldpoint row 1180000
+2020-05-29 11:12:01,856 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | inserted worldpoint row 1190000
+2020-05-29 11:12:02,780 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | inserted worldpoint row 1200000
+2020-05-29 11:12:03,778 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | inserted worldpoint row 1210000
+2020-05-29 11:12:04,666 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | inserted worldpoint row 1220000
+2020-05-29 11:12:05,663 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | inserted worldpoint row 1230000
+2020-05-29 11:12:06,606 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | inserted worldpoint row 1240000
+2020-05-29 11:12:07,698 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | inserted worldpoint row 1250000
+2020-05-29 11:12:08,751 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | inserted worldpoint row 1260000
+2020-05-29 11:12:09,813 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | inserted worldpoint row 1270000
+2020-05-29 11:12:10,896 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | inserted worldpoint row 1280000
+2020-05-29 11:12:11,913 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | inserted worldpoint row 1290000
+2020-05-29 11:12:13,093 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | inserted worldpoint row 1300000
+2020-05-29 11:12:14,065 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | inserted worldpoint row 1310000
+2020-05-29 11:12:14,896 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | inserted worldpoint row 1320000
+2020-05-29 11:12:15,755 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | inserted worldpoint row 1330000
+2020-05-29 11:12:16,632 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | inserted worldpoint row 1340000
+2020-05-29 11:12:17,679 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | inserted worldpoint row 1350000
+2020-05-29 11:12:18,720 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | inserted worldpoint row 1360000
+2020-05-29 11:12:19,644 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | inserted worldpoint row 1370000
+2020-05-29 11:12:20,508 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | inserted worldpoint row 1380000
+2020-05-29 11:12:25,101 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | inserted worldpoint row 1390000
+2020-05-29 11:12:26,030 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | inserted worldpoint row 1400000
+2020-05-29 11:12:26,986 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | inserted worldpoint row 1410000
+2020-05-29 11:12:28,159 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | inserted worldpoint row 1420000
+2020-05-29 11:12:29,150 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | inserted worldpoint row 1430000
+2020-05-29 11:12:30,230 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | inserted worldpoint row 1440000
+2020-05-29 11:12:30,472 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | init world successfully!
+2020-05-29 11:12:30,472 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | create save cost: 147337 ms
+2020-05-29 11:12:33,388 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:1, need:54, space count:874
+2020-05-29 11:12:33,995 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:2, need:54, space count:931
+2020-05-29 11:12:34,584 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:3, need:54, space count:833
+2020-05-29 11:12:35,199 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:4, need:54, space count:953
+2020-05-29 11:12:35,856 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:5, need:54, space count:853
+2020-05-29 11:12:36,391 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:6, need:54, space count:890
+2020-05-29 11:12:36,936 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:7, need:54, space count:909
+2020-05-29 11:12:37,463 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:8, need:54, space count:885
+2020-05-29 11:12:38,005 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:9, need:54, space count:901
+2020-05-29 11:12:38,542 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:10, need:54, space count:879
+2020-05-29 11:12:39,132 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:11, need:54, space count:923
+2020-05-29 11:12:39,704 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:12, need:54, space count:864
+2020-05-29 11:12:40,273 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:13, need:54, space count:871
+2020-05-29 11:12:40,850 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:14, need:54, space count:885
+2020-05-29 11:12:41,377 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:15, need:54, space count:885
+2020-05-29 11:12:41,898 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:16, need:54, space count:866
+2020-05-29 11:12:42,452 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:17, need:54, space count:924
+2020-05-29 11:12:43,041 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:18, need:54, space count:943
+2020-05-29 11:12:43,804 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:19, need:54, space count:910
+2020-05-29 11:12:44,384 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:20, need:54, space count:835
+2020-05-29 11:12:44,949 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:21, need:54, space count:922
+2020-05-29 11:12:45,541 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:22, need:54, space count:930
+2020-05-29 11:12:46,092 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:23, need:54, space count:927
+2020-05-29 11:12:46,746 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:24, need:54, space count:885
+2020-05-29 11:12:47,287 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:25, need:54, space count:780
+2020-05-29 11:12:47,829 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:26, need:54, space count:877
+2020-05-29 11:12:48,367 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:27, need:54, space count:918
+2020-05-29 11:12:48,899 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:28, need:54, space count:927
+2020-05-29 11:12:49,478 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:29, need:54, space count:819
+2020-05-29 11:12:50,062 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:30, need:54, space count:940
+2020-05-29 11:12:50,595 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:31, need:54, space count:936
+2020-05-29 11:12:51,150 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:32, need:54, space count:860
+2020-05-29 11:12:51,828 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:33, need:54, space count:893
+2020-05-29 11:12:52,499 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:34, need:54, space count:823
+2020-05-29 11:12:54,107 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:35, need:54, space count:937
+2020-05-29 11:12:54,635 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:36, need:54, space count:850
+2020-05-29 11:12:55,244 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:37, need:54, space count:941
+2020-05-29 11:12:55,779 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:38, need:54, space count:855
+2020-05-29 11:12:56,371 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:39, need:54, space count:946
+2020-05-29 11:12:56,902 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:40, need:54, space count:906
+2020-05-29 11:12:57,448 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:41, need:54, space count:874
+2020-05-29 11:12:57,978 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:42, need:54, space count:917
+2020-05-29 11:12:58,507 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:43, need:54, space count:969
+2020-05-29 11:12:59,049 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:44, need:54, space count:869
+2020-05-29 11:12:59,623 | INFO  | main | c.e.c.g.world.create.WorldCreatorV2 | flush field monster, area:45, need:54, space count:933

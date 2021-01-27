@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="110000">
+    <ItemSpec id="120000" position="15,48" fb_type="1" army_id="300000" exp="500" wood="500" food="500" silver="500"/>
+    <ItemSpec id="120001" position="25,37" fb_type="1" army_id="300000" exp="500" wood="500" food="500" silver="500"/>
+    <ItemSpec id="120002" position="8,33" fb_type="1" army_id="300000" exp="500" wood="500" food="500" silver="500"/>
+    <ItemSpec id="120003" position="2,29" fb_type="1" army_id="300000" exp="500" wood="500" food="500" silver="500"/>
+    <ItemSpec id="120004" position="4,7" fb_type="1" army_id="300000" exp="500" wood="500" food="500" silver="500"/>
+    <ItemSpec id="120005" position="20,6" fb_type="1" army_id="300000" exp="500" wood="500" food="500" silver="500"/>
+    <ItemSpec id="120006" position="32,5" fb_type="1" army_id="300000" exp="500" wood="500" food="500" silver="500"/>
+    <ItemSpec id="120007" position="42,4" fb_type="1" army_id="300000" exp="500" wood="500" food="500" silver="500"/>
+    <ItemSpec id="120008" position="39,12" fb_type="1" army_id="300000" exp="500" wood="500" food="500" silver="500"/>
+    <ItemSpec id="120009" position="43,21" fb_type="1" army_id="300000" exp="500" wood="500" food="500" silver="500"/>
+    <ItemSpec id="120010" position="29,29" fb_type="1" army_id="300000" exp="500" wood="500" food="500" silver="500"/>
+    <ItemSpec id="120011" position="35,57" fb_type="1" army_id="300000" exp="500" wood="500" food="500" silver="500"/>
+    <ItemSpec id="120012" position="45,63" fb_type="1" army_id="300000" exp="500" wood="500" food="500" silver="500"/>
+    <ItemSpec id="120500" position="17,48" fb_type="2" wood="2000"/>
+    <ItemSpec id="120501" position="17,47" fb_type="3" wood="3000" food="3000"/>
+    <ItemSpec id="120502" position="24,44" fb_type="3" wood="3000" food="3000"/>
+    <ItemSpec id="120503" position="28,38" fb_type="2" wood="2000"/>
+    <ItemSpec id="120504" position="9,31" fb_type="2" wood="2000"/>
+    <ItemSpec id="120505" position="8,31" fb_type="2" wood="2000"/>
+    <ItemSpec id="120506" position="0,29" fb_type="2" wood="2000"/>
+    <ItemSpec id="120507" position="0,28" fb_type="3" wood="3000" food="3000"/>
+    <ItemSpec id="120508" position="13,2" fb_type="3" wood="3000" food="3000"/>
+    <ItemSpec id="120509" position="28,5" fb_type="2" wood="2000"/>
+    <ItemSpec id="120510" position="31,7" fb_type="2" wood="2000"/>
+    <ItemSpec id="120511" position="32,7" fb_type="2" wood="2000"/>
+    <ItemSpec id="120512" position="41,11" fb_type="3" wood="3000" food="3000"/>
+    <ItemSpec id="120513" position="30,15" fb_type="2" wood="2000"/>
+    <ItemSpec id="120514" position="30,16" fb_type="2" wood="2000"/>
+    <ItemSpec id="120515" position="30,17" fb_type="2" wood="2000"/>
+    <ItemSpec id="120516" position="30,18" fb_type="2" wood="2000"/>
+    <ItemSpec id="120517" position="45,21" fb_type="3" wood="3000" food="3000"/>
+    <ItemSpec id="120518" position="27,30" fb_type="2" wood="2000"/>
+    <ItemSpec id="120519" position="27,29" fb_type="2" wood="2000"/>
+    <ItemSpec id="120520" position="28,31" fb_type="2" wood="2000"/>
+    <ItemSpec id="120521" position="29,31" fb_type="2" wood="2000"/>
+    <ItemSpec id="120522" position="27,31" fb_type="2" wood="2000"/>
+    <ItemSpec id="120523" position="26,31" fb_type="2" wood="2000"/>
+    <ItemSpec id="120524" position="28,32" fb_type="2" wood="2000"/>
+    <ItemSpec id="120525" position="29,32" fb_type="2" wood="2000"/>
+    <ItemSpec id="120526" position="26,29" fb_type="2" wood="2000"/>
+    <ItemSpec id="120527" position="26,30" fb_type="2" wood="2000"/>
+    <ItemSpec id="120528" position="25,30" fb_type="2" wood="2000"/>
+    <ItemSpec id="120529" position="25,29" fb_type="2" wood="2000"/>
+    <ItemSpec id="120530" position="33,57" fb_type="3" wood="3000" food="3000"/>
+    <ItemSpec id="120531" position="33,58" fb_type="2" wood="2000"/>
+    <ItemSpec id="120532" position="43,54" fb_type="3" wood="3000" food="3000"/>
+  </Group>
+</tns:database>

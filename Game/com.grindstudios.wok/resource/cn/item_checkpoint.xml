@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="checkpoint">
+    <ItemSpec id="110000" name="100012" npc_id="120000-120012|120500-120532" level="1" icon="small01" background="pve01"/>
+  </Group>
+</tns:database>

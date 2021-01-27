@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ItemSpec id="600000" max_lv="5" type="0" para1="78" base="2" add="2"/>
+  <ItemSpec id="600100" max_lv="5" type="0" para1="1031|1032" base="1|1" add="1|1"/>
+  <ItemSpec id="600200" max_lv="5" type="0" condition_skill="600100;5" para1="1041|1042" base="1|1" add="1|1"/>
+  <ItemSpec id="600300" max_lv="5" type="0" condition_skill="600200;5" para1="1011|1012" base="1|1" add="1|1"/>
+  <ItemSpec id="600400" max_lv="5" type="0" para1="1013|1014" base="1|1" add="1|1"/>
+  <ItemSpec id="600500" max_lv="5" type="0" para1="1015|1016" base="1|1" add="1|1"/>
+  <ItemSpec id="600600" max_lv="5" type="0" condition_skill="600300;5" para1="1017|1018" base="1|1" add="1|1"/>
+  <ItemSpec id="600700" max_lv="5" type="0" condition_skill="600400;5" para1="1033|1034" base="1|1" add="1|1"/>
+  <ItemSpec id="600800" max_lv="5" type="0" condition_skill="600500;5" para1="1035|1036" base="1|1" add="1|1"/>
+  <ItemSpec id="600900" max_lv="5" type="0" condition_skill="600600;5" para1="1037|1038" base="1|1" add="1|1"/>
+  <ItemSpec id="601000" max_lv="5" type="0" condition_skill="600700;5" para1="1043|1044" base="1|1" add="1|1"/>
+  <ItemSpec id="601100" max_lv="20" type="0" condition_skill="600300;5" para1="1031|1032" base="1|1" add="1|1"/>
+  <ItemSpec id="601200" max_lv="20" type="0" condition_skill="601100;20" para1="1041|1042" base="1|1" add="1|1"/>
+  <ItemSpec id="601300" max_lv="20" type="0" condition_skill="601200;20" para1="1011|1012" base="1|1" add="1|1"/>
+  <ItemSpec id="601400" max_lv="20" type="0" condition_skill="600700;5" para1="1013|1014" base="1|1" add="1|1"/>
+  <ItemSpec id="601500" max_lv="20" type="0" condition_skill="600800;5" para1="1015|1016" base="1|1" add="1|1"/>
+  <ItemSpec id="601600" max_lv="20" type="0" condition_skill="622000;1" para1="1017|1018" base="1|1" add="1|1"/>
+  <ItemSpec id="601700" max_lv="20" type="0" condition_skill="601400;20" para1="1033|1034" base="1|1" add="1|1"/>
+  <ItemSpec id="601800" max_lv="20" type="0" condition_skill="601500;20" para1="1035|1036" base="1|1" add="1|1"/>
+  <ItemSpec id="601900" max_lv="20" type="0" condition_skill="601600;20" para1="1037|1038" base="1|1" add="1|1"/>
+  <ItemSpec id="602000" max_lv="20" type="0" condition_skill="601700;20|601800;20|601900;20" para1="1071|1072" base="1|1" add="1|1"/>
+  <ItemSpec id="602100" max_lv="20" type="0" condition_skill="601700;20" para1="1043|1044" base="1|1" add="1|1"/>
+  <ItemSpec id="602200" max_lv="20" type="0" condition_skill="601800;20" para1="1045|1046" base="1|1" add="1|1"/>
+  <ItemSpec id="602300" max_lv="20" type="0" condition_skill="602000;20" para1="1047|1048" base="1|1" add="1|1"/>
+  <ItemSpec id="602400" max_lv="20" type="2" condition_skill="602100;20" para1="101010|101011" base="2|2" add="2|2"/>
+  <ItemSpec id="602500" max_lv="20" type="0" condition_skill="602200;20" para1="1065|1066" base="0.8|0.8" add="0.8|0.8"/>
+  <ItemSpec id="602600" max_lv="20" type="0" condition_skill="602300;20" para1="1207|1208" base="1|1" add="1|1"/>
+  <ItemSpec id="602700" max_lv="1" type="11" condition_skill="602400;20|602500;20|602600;20" cd_time="480"/>
+  <ItemSpec id="610000" max_lv="5" type="0" para1="68" base=".5" add=".5"/>
+  <ItemSpec id="610100" max_lv="5" type="0" condition_skill="610700;1" para1="50" base="4" add="4"/>
+  <ItemSpec id="610200" max_lv="5" type="0" condition_skill="610700;1" para1="53" base="4" add="4"/>
+  <ItemSpec id="610300" max_lv="5" type="0" condition_skill="610100;5" para1="153" base="2" add="2"/>
+  <ItemSpec id="610400" max_lv="5" type="0" condition_skill="610200;5" para1="154" base="2" add="2"/>
+  <ItemSpec id="610500" max_lv="5" type="0" condition_skill="610000;5" para1="69" base=".5" add=".5"/>
+  <ItemSpec id="610600" max_lv="5" type="0" condition_skill="610300;5|610400;5" para1="72" base="10000" add="10000"/>
+  <ItemSpec id="610700" max_lv="1" type="12" condition_skill="610500;5" cd_time="720" para1="5"/>
+  <ItemSpec id="610800" max_lv="20" type="0" condition_skill="610600;5" para1="50" base="4" add="4"/>
+  <ItemSpec id="610900" max_lv="20" type="0" condition_skill="610600;5" para1="53" base="4" add="4"/>
+  <ItemSpec id="611000" max_lv="20" type="0" condition_skill="610600;5" para1="52" base="5" add="5"/>
+  <ItemSpec id="611100" max_lv="20" type="0" condition_skill="610800;20" para1="153" base="2" add="2"/>
+  <ItemSpec id="611200" max_lv="20" type="0" condition_skill="610900;20" para1="154" base="2" add="2"/>
+  <ItemSpec id="611300" max_lv="20" type="0" condition_skill="611000;20" para1="155" base="2" add="2"/>
+  <ItemSpec id="611400" max_lv="20" type="0" condition_skill="622100;1" para1="68" base=".5" add=".5"/>
+  <ItemSpec id="611500" max_lv="20" type="0" condition_skill="611400;20" para1="69" base=".5" add=".5"/>
+  <ItemSpec id="611600" max_lv="20" type="0" condition_skill="611500;20" para1="72" base="10000" add="10000"/>
+  <ItemSpec id="611700" max_lv="20" type="0" condition_skill="611600;20" para1="51" base="5" add="5"/>
+  <ItemSpec id="611800" max_lv="20" type="0" condition_skill="611600;20" para1="156" base="2" add="2"/>
+  <ItemSpec id="611900" max_lv="20" type="0" condition_skill="611700;20|611800;20" para1="79" base="2" add="2"/>
+  <ItemSpec id="612000" max_lv="1" type="13" condition_skill="611900;20" cd_time="1440" para1="501051"/>
+  <ItemSpec id="620000" max_lv="5" type="0" para1="59" base="10" add="10"/>
+  <ItemSpec id="620100" max_lv="5" type="0" condition_skill="620000;5" para1="106" base="10" add="10"/>
+  <ItemSpec id="620200" max_lv="5" type="0" condition_skill="622300;1" para1="131" base="25" add="25"/>
+  <ItemSpec id="620300" max_lv="5" type="0" condition_skill="622300;1" para1="67" base="2" add="2"/>
+  <ItemSpec id="620400" max_lv="5" type="0" condition_skill="620200;5" para1="73" base="1000" add="1000"/>
+  <ItemSpec id="620500" max_lv="5" type="0" condition_skill="620300;5" para1="1154" base="4" add="4"/>
+  <ItemSpec id="620600" max_lv="5" type="0" condition_skill="620400;5|620500;5" para1="66" base=".5" add=".5"/>
+  <ItemSpec id="620700" max_lv="1" type="1" cd_time="240" para1="501050"/>
+  <ItemSpec id="620800" max_lv="20" type="0" condition_skill="620600;5" para1="59" base="10" add="10"/>
+  <ItemSpec id="620900" max_lv="20" type="0" condition_skill="620800;20" para1="60" base="1" add="1"/>
+  <ItemSpec id="621000" max_lv="20" type="0" condition_skill="621900;1" para1="131" base="25" add="25"/>
+  <ItemSpec id="621100" max_lv="20" type="0" condition_skill="621900;1" para1="67" base="2" add="2"/>
+  <ItemSpec id="621200" max_lv="20" type="0" condition_skill="621000;20" para1="73" base="1000" add="1000"/>
+  <ItemSpec id="621300" max_lv="20" type="0" condition_skill="621100;20" para1="1154" base="4" add="4"/>
+  <ItemSpec id="621400" max_lv="20" type="0" condition_skill="621200;20" para1="121" base="2" add="2"/>
+  <ItemSpec id="621500" max_lv="20" type="0" condition_skill="621300;20" para1="1152" base="2" add="2"/>
+  <ItemSpec id="621600" max_lv="20" type="0" condition_skill="621400;20" para1="108" base="2" add="2"/>
+  <ItemSpec id="621700" max_lv="20" type="0" condition_skill="621500;20" para1="1153" base="3" add="3"/>
+  <ItemSpec id="621800" max_lv="20" type="0" condition_skill="621600;20|621700;20" para1="66" base=".5" add=".5"/>
+  <ItemSpec id="621900" max_lv="1" type="15" condition_skill="620900;20" cd_time="240" para1="500"/>
+  <ItemSpec id="622000" max_lv="1" type="18" condition_skill="601100;20|601200;20" cd_time="1440" para1="501053"/>
+  <ItemSpec id="622100" max_lv="1" type="19" condition_skill="611100;20|611200;20|611300;20" cd_time="1080" para1="501054"/>
+  <ItemSpec id="622200" max_lv="1" type="17" condition_skill="621800;20" cd_time="1080" para1="501052"/>
+  <ItemSpec id="622300" max_lv="1" type="20" condition_skill="620100;5" cd_time="720" para1="107;30"/>
+</tns:database>

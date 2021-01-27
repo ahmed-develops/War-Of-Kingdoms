@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ItemSpec id="216000" type_city="1" country="8001"/>
+  <ItemSpec id="216001" type_city="2" country="8001"/>
+  <ItemSpec id="216002" type_city="2" country="8001"/>
+  <ItemSpec id="216003" type_city="2" country="8001"/>
+  <ItemSpec id="216004" type_city="2" country="8001"/>
+  <ItemSpec id="216005" type_city="2" country="8001"/>
+  <ItemSpec id="216006" type_city="2" country="8001"/>
+  <ItemSpec id="216007" type_city="2" country="8001"/>
+  <ItemSpec id="216008" type_city="2" country="8001"/>
+  <ItemSpec id="216009" type_city="2" country="8001"/>
+  <ItemSpec id="216010" type_city="2" country="8001"/>
+  <ItemSpec id="216011" type_city="2" country="8001"/>
+  <ItemSpec id="216012" type_city="2" country="8001"/>
+  <ItemSpec id="216013" type_city="2" country="8001"/>
+  <ItemSpec id="216014" type_city="2" country="8001"/>
+  <ItemSpec id="216015" type_city="2" country="8001"/>
+  <ItemSpec id="216030" type_city="2" country="8001"/>
+  <ItemSpec id="216031" country="8001"/>
+  <ItemSpec id="216032" country="8001"/>
+  <ItemSpec id="216033" country="8001"/>
+  <ItemSpec id="216034" country="8001"/>
+  <ItemSpec id="216035" country="8001"/>
+  <ItemSpec id="216036" country="8001"/>
+  <ItemSpec id="216037" country="8001"/>
+  <ItemSpec id="216038" country="8001"/>
+  <ItemSpec id="216039" country="8001"/>
+  <ItemSpec id="216040" country="8001"/>
+  <ItemSpec id="216041" country="8001"/>
+  <ItemSpec id="216042" country="8001"/>
+  <ItemSpec id="216043" country="8001"/>
+  <ItemSpec id="216044" country="8001"/>
+  <ItemSpec id="216045" country="8001"/>
+  <ItemSpec id="216046" country="8001"/>
+  <ItemSpec id="216047" country="8001"/>
+  <ItemSpec id="216048" country="8001"/>
+  <ItemSpec id="216049" country="8001"/>
+  <ItemSpec id="216050" country="8001"/>
+  <ItemSpec id="216051" country="8001"/>
+  <ItemSpec id="216052" country="8001"/>
+  <ItemSpec id="216053" country="8001"/>
+  <ItemSpec id="216054" country="8001"/>
+  <ItemSpec id="216055" country="8001"/>
+  <ItemSpec id="216056" country="8001"/>
+  <ItemSpec id="216057" country="8001"/>
+  <ItemSpec id="216058" country="8001"/>
+  <ItemSpec id="216059" country="8001"/>
+  <ItemSpec id="216060" country="8001"/>
+  <ItemSpec id="216061" country="8001"/>
+  <ItemSpec id="216062" country="8001"/>
+  <ItemSpec id="216063" country="8001"/>
+  <ItemSpec id="216064" country="8001"/>
+  <ItemSpec id="216065" country="8001"/>
+  <ItemSpec id="216066" country="8001"/>
+  <ItemSpec id="216067" country="8001"/>
+  <ItemSpec id="216068" country="8001"/>
+  <ItemSpec id="216069" country="8001"/>
+  <ItemSpec id="216070" country="8001"/>
+  <ItemSpec id="216071" country="8001"/>
+  <ItemSpec id="216100" country="8002"/>
+  <ItemSpec id="216101" country="8002"/>
+  <ItemSpec id="216102" country="8002"/>
+  <ItemSpec id="216103" country="8002"/>
+  <ItemSpec id="216104" country="8002"/>
+  <ItemSpec id="216105" country="8002"/>
+  <ItemSpec id="216106" country="8002"/>
+  <ItemSpec id="216107" country="8002"/>
+  <ItemSpec id="216108" country="8002"/>
+  <ItemSpec id="216109" country="8002"/>
+  <ItemSpec id="216110" country="8002"/>
+  <ItemSpec id="216111" country="8002"/>
+  <ItemSpec id="216112" country="8002"/>
+  <ItemSpec id="216113" country="8002"/>
+  <ItemSpec id="216114" country="8002"/>
+  <ItemSpec id="216115" country="8002"/>
+  <ItemSpec id="216130" country="8002"/>
+  <ItemSpec id="216131" country="8002"/>
+  <ItemSpec id="216132" country="8002"/>
+  <ItemSpec id="216133" country="8002"/>
+  <ItemSpec id="216134" country="8002"/>
+  <ItemSpec id="216135" country="8002"/>
+  <ItemSpec id="216136" country="8002"/>
+  <ItemSpec id="216137" country="8002"/>
+  <ItemSpec id="216138" country="8002"/>
+  <ItemSpec id="216139" country="8002"/>
+  <ItemSpec id="216140" country="8002"/>
+  <ItemSpec id="216141" country="8002"/>
+  <ItemSpec id="216142" country="8002"/>
+  <ItemSpec id="216143" country="8002"/>
+  <ItemSpec id="216144" country="8002"/>
+  <ItemSpec id="216145" country="8002"/>
+  <ItemSpec id="216146" country="8002"/>
+  <ItemSpec id="216147" country="8002"/>
+  <ItemSpec id="216148" country="8002"/>
+  <ItemSpec id="216149" country="8002"/>
+  <ItemSpec id="216150" country="8002"/>
+  <ItemSpec id="216151" country="8002"/>
+  <ItemSpec id="216152" country="8002"/>
+  <ItemSpec id="216153" country="8002"/>
+  <ItemSpec id="216154" country="8002"/>
+  <ItemSpec id="216155" country="8002"/>
+  <ItemSpec id="216156" country="8002"/>
+  <ItemSpec id="216157" country="8002"/>
+  <ItemSpec id="216158" country="8002"/>
+  <ItemSpec id="216159" country="8002"/>
+  <ItemSpec id="216160" country="8002"/>
+  <ItemSpec id="216161" country="8002"/>
+  <ItemSpec id="216162" country="8002"/>
+  <ItemSpec id="216163" country="8002"/>
+  <ItemSpec id="216164" country="8002"/>
+  <ItemSpec id="216165" country="8002"/>
+  <ItemSpec id="216166" country="8002"/>
+  <ItemSpec id="216167" country="8002"/>
+  <ItemSpec id="216168" country="8002"/>
+  <ItemSpec id="216169" country="8002"/>
+  <ItemSpec id="216170" country="8002"/>
+  <ItemSpec id="216171" country="8002"/>
+  <ItemSpec id="216200" type_city="1" country="8000" neighbour="216201;217000|216203;217002" num_guard="4"/>
+  <ItemSpec id="216201" type_city="2" country="8000" neighbour="216200;217000|216202;217001|216204;217003" num_guard="3"/>
+  <ItemSpec id="216202" type_city="2" country="8000" neighbour="216201;217001|216205;217004" num_guard="2"/>
+  <ItemSpec id="216203" type_city="2" country="8000" neighbour="216200;217002|216204;217005|216206;217007" num_guard="1"/>
+  <ItemSpec id="216204" type_city="2" country="8000" neighbour="216201;217003|216203;217005|216205;217006|216207;217008" num_guard="2"/>
+  <ItemSpec id="216205" type_city="2" country="8000" neighbour="216202;217004|216204;217006|216208;217009" num_guard="3"/>
+  <ItemSpec id="216206" type_city="2" country="8000" neighbour="216203;217007|216207;217010" num_guard="4"/>
+  <ItemSpec id="216207" type_city="2" country="8000" neighbour="216204;217008|216206;217010|216208;217011" num_guard="3"/>
+  <ItemSpec id="216208" type_city="2" country="8000" neighbour="216205;217009|216207;217011" num_guard="2"/>
+  <ItemSpec id="216209" type_city="3" country="8000"/>
+  <ItemSpec id="216210" type_city="3" country="8000"/>
+  <ItemSpec id="216211" type_city="3" country="8000"/>
+  <ItemSpec id="216212" type_city="3" country="8000"/>
+  <ItemSpec id="216213" type_city="3" country="8000"/>
+  <ItemSpec id="216214" type_city="3" country="8000"/>
+  <ItemSpec id="216215" type_city="3" country="8000"/>
+  <ItemSpec id="216216" type_city="3" country="8000"/>
+  <ItemSpec id="216217" type_city="3" country="8000"/>
+  <ItemSpec id="216218" type_city="3" country="8000"/>
+  <ItemSpec id="216219" type_city="3" country="8000"/>
+  <ItemSpec id="216220" type_city="3" country="8000"/>
+  <ItemSpec id="216221" type_city="3" country="8000"/>
+  <ItemSpec id="216222" type_city="3" country="8000"/>
+  <ItemSpec id="216223" country="8000"/>
+  <ItemSpec id="216224" country="8000"/>
+  <ItemSpec id="216225" country="8000"/>
+  <ItemSpec id="216226" country="8000"/>
+  <ItemSpec id="216227" country="8000"/>
+  <ItemSpec id="216228" country="8000"/>
+  <ItemSpec id="216229" country="8000"/>
+  <ItemSpec id="216230" country="8000"/>
+  <ItemSpec id="216231" country="8000"/>
+  <ItemSpec id="216232" country="8000"/>
+  <ItemSpec id="216233" country="8000"/>
+  <ItemSpec id="216234" country="8000"/>
+  <ItemSpec id="216235" country="8000"/>
+  <ItemSpec id="216236" country="8000"/>
+  <ItemSpec id="216237" country="8000"/>
+  <ItemSpec id="216238" country="8000"/>
+  <ItemSpec id="216239" country="8000"/>
+  <ItemSpec id="216240" country="8000"/>
+  <ItemSpec id="216241" country="8000"/>
+  <ItemSpec id="216242" country="8000"/>
+  <ItemSpec id="216243" country="8000"/>
+  <ItemSpec id="216244" country="8000"/>
+  <ItemSpec id="216245" country="8000"/>
+  <ItemSpec id="216246" country="8000"/>
+  <ItemSpec id="216247" country="8000"/>
+  <ItemSpec id="216248" country="8000"/>
+  <ItemSpec id="216249" country="8000"/>
+  <ItemSpec id="216250" country="8000"/>
+  <ItemSpec id="216251" country="8000"/>
+  <ItemSpec id="216252" country="8000"/>
+  <ItemSpec id="216253" country="8000"/>
+  <ItemSpec id="216254" country="8000"/>
+  <ItemSpec id="216255" country="8000"/>
+  <ItemSpec id="216256" country="8000"/>
+  <ItemSpec id="216257" country="8000"/>
+  <ItemSpec id="216258" country="8000"/>
+  <ItemSpec id="216259" country="8000"/>
+  <ItemSpec id="216300"/>
+  <ItemSpec id="216301"/>
+  <ItemSpec id="216302"/>
+  <ItemSpec id="216303"/>
+  <ItemSpec id="216304"/>
+  <ItemSpec id="216330"/>
+  <ItemSpec id="216331"/>
+  <ItemSpec id="216332"/>
+  <ItemSpec id="216333"/>
+  <ItemSpec id="216334"/>
+  <ItemSpec id="216335"/>
+  <ItemSpec id="216336"/>
+  <ItemSpec id="216337"/>
+  <ItemSpec id="216338"/>
+  <ItemSpec id="216339"/>
+  <ItemSpec id="216340"/>
+  <ItemSpec id="216341"/>
+  <ItemSpec id="216400"/>
+  <ItemSpec id="216401"/>
+  <ItemSpec id="216402"/>
+  <ItemSpec id="216403"/>
+  <ItemSpec id="216404"/>
+  <ItemSpec id="216430"/>
+  <ItemSpec id="216431"/>
+  <ItemSpec id="216432"/>
+  <ItemSpec id="216433"/>
+  <ItemSpec id="216434"/>
+  <ItemSpec id="216435"/>
+  <ItemSpec id="216436"/>
+  <ItemSpec id="216437"/>
+  <ItemSpec id="216438"/>
+  <ItemSpec id="216439"/>
+  <ItemSpec id="216440"/>
+  <ItemSpec id="216441"/>
+  <ItemSpec id="216442"/>
+  <ItemSpec id="216443"/>
+  <ItemSpec id="216500"/>
+  <ItemSpec id="216501"/>
+  <ItemSpec id="216502"/>
+  <ItemSpec id="216503"/>
+  <ItemSpec id="216504"/>
+  <ItemSpec id="216530"/>
+  <ItemSpec id="216531"/>
+  <ItemSpec id="216532"/>
+  <ItemSpec id="216533"/>
+  <ItemSpec id="216534"/>
+  <ItemSpec id="216535"/>
+  <ItemSpec id="216536"/>
+  <ItemSpec id="216600"/>
+  <ItemSpec id="216601"/>
+  <ItemSpec id="216602"/>
+  <ItemSpec id="216603"/>
+  <ItemSpec id="216604"/>
+  <ItemSpec id="216605"/>
+  <ItemSpec id="216606"/>
+  <ItemSpec id="216607"/>
+  <ItemSpec id="216608"/>
+  <ItemSpec id="216609"/>
+  <ItemSpec id="216630"/>
+  <ItemSpec id="216631"/>
+  <ItemSpec id="216632"/>
+  <ItemSpec id="216633"/>
+  <ItemSpec id="216634"/>
+  <ItemSpec id="216635"/>
+  <ItemSpec id="216700" type_city="4"/>
+  <ItemSpec id="216701" type_city="4"/>
+  <ItemSpec id="216702" type_city="4"/>
+  <ItemSpec id="216703" type_city="4"/>
+  <ItemSpec id="216704" type_city="4"/>
+  <ItemSpec id="216705" type_city="4"/>
+  <ItemSpec id="216706" type_city="4"/>
+  <ItemSpec id="216707" type_city="4"/>
+  <ItemSpec id="216708" type_city="4"/>
+  <ItemSpec id="216800" type_city="5"/>
+  <ItemSpec id="216801" type_city="5"/>
+  <ItemSpec id="216802" type_city="5"/>
+</tns:database>

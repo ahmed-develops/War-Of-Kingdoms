@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Itemspec id="55000" rate="80" item="200201;2" num="1" price_type="5" price="25" color="1"/>
+  <Itemspec id="55001" rate="80" item="200200;1" num="1" price_type="5" price="145"/>
+  <Itemspec id="55002" condition="7;8" rate="50;1" item="200200;5" num="1" price_type="5" price="300" color="2"/>
+  <Itemspec id="55003" rate="80" item="200200;2" num="1" price_type="5" price="100" color="2"/>
+  <Itemspec id="55004" rate="80" item="200207;2" num="1" price_type="5" price="20"/>
+  <Itemspec id="55005" rate="80" item="200205;2" num="1" price_type="5" price="20"/>
+  <Itemspec id="55006" rate="80" item="200203;2" num="1" price_type="5" price="20"/>
+  <Itemspec id="55007" condition="7;8" rate="80" item="200208;1" num="1" price_type="5" price="250"/>
+  <Itemspec id="55008" condition="7;8" rate="80" item="200206;1" num="1" price_type="5" price="250"/>
+  <Itemspec id="55009" condition="7;8" rate="80" item="200204;1" num="1" price_type="5" price="250"/>
+  <Itemspec id="55010" rate="30" item="200380;1" num="1" price_type="5" price="30" color="1"/>
+  <Itemspec id="55011" rate="30" item="200381;1" num="1" price_type="5" price="190"/>
+  <Itemspec id="55012" rate="0" item="200381;1" num="1" price_type="5" price="20" color="5"/>
+  <Itemspec id="55016" condition="7;8" rate="50" item="200220;2" num="1" price_type="5" price="1100"/>
+  <Itemspec id="55017" rate="20;1" item="200220;1" num="1" price_type="5" price="300" color="3"/>
+  <Itemspec id="55018" condition="7;5" rate="50" item="200220;1" num="1" price_type="5" price="590"/>
+  <Itemspec id="55019" condition="7;5" rate="30" item="200221;1" num="1" price_type="5" price="500" color="3"/>
+  <Itemspec id="55020" rate="50" item="200004;1" num="1" price_type="5" price="40"/>
+  <Itemspec id="55021" condition="7;8" rate="50" item="200004;3" num="1" price_type="5" price="140"/>
+  <Itemspec id="55022" rate="80" item="200350;1" num="1" price_type="5" price="140"/>
+  <Itemspec id="55023" rate="20" item="200350;1" num="1" price_type="5" price="50" color="2"/>
+  <Itemspec id="55024" rate="70" item="200351;1" num="1" price_type="5" price="350"/>
+  <Itemspec id="55025" condition="7;10|14;5" rate="50;1" item="200352;5" num="1" price_type="5" price="2500" color="6"/>
+  <Itemspec id="55026" rate="50" item="200027;1" num="1" price_type="5" price="20"/>
+  <Itemspec id="55027" rate="50;1" item="200027;3" num="1" price_type="5" price="30" color="3"/>
+  <Itemspec id="55028" condition="7;10" rate="10;1" item="200027;20" num="1" price_type="5" price="300" color="2"/>
+  <Itemspec id="55029" rate="50" item="200028;1" num="1" price_type="5" price="20"/>
+  <Itemspec id="55030" rate="50;1" item="200028;3" num="1" price_type="5" price="30" color="3"/>
+  <Itemspec id="55031" condition="7;10" rate="10;1" item="200028;20" num="1" price_type="5" price="300" color="2"/>
+  <Itemspec id="55032" condition="7;10" rate="50" item="200029;1" num="1" price_type="5" price="40"/>
+  <Itemspec id="55033" condition="7;10" rate="50;1" item="200029;3" num="1" price_type="5" price="40" color="3"/>
+  <Itemspec id="55034" condition="7;10" rate="10;1" item="200029;20" num="1" price_type="5" price="350" color="2"/>
+  <Itemspec id="55035" condition="7;15" rate="50" item="200030;1" num="1" price_type="5" price="60"/>
+  <Itemspec id="55036" condition="7;15" rate="50;1" item="200030;3" num="1" price_type="5" price="50" color="3"/>
+  <Itemspec id="55037" condition="7;15" rate="10;1" item="200030;20" num="1" price_type="5" price="350" color="2"/>
+  <Itemspec id="55038" condition="7;5" rate="500;5" item="200603;1" num="1" price_type="5" price="5" color="6"/>
+  <Itemspec id="55039" condition="7;5|1;0" rate="80;70;50" item="201010;1" num="1" price_type="5" price="50" price_hot="100" color="1"/>
+  <Itemspec id="55040" condition="7;5|1;1" rate="80;70;50" item="201020;1" num="1" price_type="5" price="50" price_hot="100" color="1"/>
+  <Itemspec id="55041" condition="7;5|1;2" rate="80;70;50" item="201030;1" num="1" price_type="5" price="50" price_hot="100" color="1"/>
+  <Itemspec id="55042" condition="7;5|1;3" rate="80;70;50" item="201040;1" num="1" price_type="5" price="50" price_hot="100" color="1"/>
+  <Itemspec id="55043" condition="7;5|1;4" rate="80;70;50" item="201050;1" num="1" price_type="5" price="50" price_hot="100" color="1"/>
+  <Itemspec id="55044" condition="7;5|1;5" rate="80;70;50" item="201060;1" num="1" price_type="5" price="50" price_hot="100" color="1"/>
+  <Itemspec id="55045" condition="7;5|1;6" rate="80;70;50" item="201070;1" num="1" price_type="5" price="50" price_hot="100" color="1"/>
+  <Itemspec id="55046" condition="7;5|1;1" rate="0" item="201080;1" num="1" price_type="5" price="50" price_hot="100" color="1"/>
+  <Itemspec id="55047" condition="7;5|1;2" rate="0" item="201090;1" num="1" price_type="5" price="50" price_hot="100" color="1"/>
+  <Itemspec id="55048" condition="7;5|1;3" rate="0" item="201100;1" num="1" price_type="5" price="50" price_hot="100" color="1"/>
+  <Itemspec id="55049" condition="7;5|1;4" rate="0" item="201110;1" num="1" price_type="5" price="50" price_hot="100" color="1"/>
+  <Itemspec id="55050" condition="7;5|1;5" rate="0" item="201120;1" num="1" price_type="5" price="50" price_hot="100" color="1"/>
+  <Itemspec id="55060" condition="7;5|1;0" rate="30;10;8;4" item="201011;1" num="1" price_type="5" price="200" price_hot="400" color="2"/>
+  <Itemspec id="55061" condition="7;5|1;1" rate="30;10;8;5" item="201021;1" num="1" price_type="5" price="200" price_hot="400" color="2"/>
+  <Itemspec id="55062" condition="7;5|1;2" rate="30;10;8;6" item="201031;1" num="1" price_type="5" price="200" price_hot="400" color="2"/>
+  <Itemspec id="55063" condition="7;5|1;3" rate="30;10;8;7" item="201041;1" num="1" price_type="5" price="200" price_hot="400" color="2"/>
+  <Itemspec id="55064" condition="7;5|1;4" rate="30;10;8;8" item="201051;1" num="1" price_type="5" price="200" price_hot="400" color="2"/>
+  <Itemspec id="55065" condition="7;5|1;5" rate="30;10;8;9" item="201061;1" num="1" price_type="5" price="200" price_hot="400" color="2"/>
+  <Itemspec id="55066" condition="7;5|1;6" rate="30;10;8;10" item="201071;1" num="1" price_type="5" price="200" price_hot="400" color="2"/>
+  <Itemspec id="55067" condition="7;5|1;1" rate="0" item="201081;1" num="1" price_type="5" price="200" price_hot="400" color="2"/>
+  <Itemspec id="55068" condition="7;5|1;2" rate="0" item="201091;1" num="1" price_type="5" price="200" price_hot="400" color="2"/>
+  <Itemspec id="55069" condition="7;5|1;3" rate="0" item="201101;1" num="1" price_type="5" price="200" price_hot="400" color="2"/>
+  <Itemspec id="55070" condition="7;5|1;4" rate="0" item="201111;1" num="1" price_type="5" price="200" price_hot="400" color="2"/>
+  <Itemspec id="55071" condition="7;5|1;5" rate="0" item="201121;1" num="1" price_type="5" price="200" price_hot="400" color="2"/>
+  <Itemspec id="55072" condition="7;5|1;0" rate="50;30" item="201012;1" num="1" price_type="5" price="800" price_hot="1600" color="7"/>
+  <Itemspec id="55073" condition="7;5|1;1" rate="50;30" item="201022;1" num="1" price_type="5" price="800" price_hot="1600" color="7"/>
+  <Itemspec id="55074" condition="7;5|1;2" rate="50;30" item="201032;1" num="1" price_type="5" price="800" price_hot="1600" color="7"/>
+  <Itemspec id="55075" condition="7;5|1;3" rate="50;30" item="201042;1" num="1" price_type="5" price="800" price_hot="1600" color="7"/>
+  <Itemspec id="55076" condition="7;5|1;4" rate="50;30" item="201052;1" num="1" price_type="5" price="800" price_hot="1600" color="7"/>
+  <Itemspec id="55077" condition="7;5|1;5" rate="50;30" item="201062;1" num="1" price_type="5" price="800" price_hot="1600" color="7"/>
+  <Itemspec id="55078" condition="7;5|1;6" rate="50;30" item="201072;1" num="1" price_type="5" price="800" price_hot="1600" color="7"/>
+  <Itemspec id="55079" condition="7;10|1;1" rate="0" item="201082;1" num="1" price_type="5" price="800" price_hot="1600" color="7"/>
+  <Itemspec id="55080" condition="7;3|1;2" rate="0" item="201092;1" num="1" price_type="5" price="800" price_hot="1600" color="7"/>
+  <Itemspec id="55081" condition="7;3|1;3" rate="0" item="201102;1" num="1" price_type="5" price="800" price_hot="1600" color="7"/>
+  <Itemspec id="55082" condition="7;3|1;4" rate="0" item="201112;1" num="1" price_type="5" price="800" price_hot="1600" color="7"/>
+  <Itemspec id="55083" condition="7;3|1;5" rate="0" item="201122;1" num="1" price_type="5" price="800" price_hot="1600" color="7"/>
+  <Itemspec id="55087" condition="7;5" rate="100;80;60;40;20;0" item="200340;1" num="1" price_type="5" price="1" color="6"/>
+  <Itemspec id="55088" condition="7;5" rate="100;10" item="200341;1" num="1" price_type="5" price="5" color="6"/>
+  <Itemspec id="55109" condition="7;5" rate="50;10" item="200610;1" num="1" price_type="5" price="500" price_hot="1200" color="6"/>
+  <Itemspec id="55110" condition="7;5" rate="30;10" item="200610;5" num="1" price_type="5" price="2500" price_hot="6000" color="7"/>
+  <Itemspec id="55111" condition="10;13|7;5|14;10" rate="20;5" item="200001;2" num="1" price_type="5" price="900" color="6"/>
+  <Itemspec id="55112" condition="10;12|7;5|14;13" rate="50;1" item="200002;1" num="1" price_type="5" price="1200" color="6"/>
+  <Itemspec id="55113" rate="20;5" item="200021;1" num="1" price_type="5" price="100"/>
+  <Itemspec id="55114" rate="20;5" item="200026;1" num="1" price_type="5" price="200"/>
+  <Itemspec id="55115" rate="50;5" item="200032;1" num="1" price_type="5" price="400"/>
+  <Itemspec id="55116" rate="30;5" item="200040;1" num="1" price_type="5" price="800"/>
+  <Itemspec id="55117" rate="100" item="200370;1" num="1" price_type="5" price="225"/>
+  <Itemspec id="55118" rate="50" item="200370;3" num="1" price_type="5" price="500" color="6"/>
+  <Itemspec id="55119" rate="50" item="200371;1" num="1" price_type="5" price="1250"/>
+  <Itemspec id="55120" condition="7;12" rate="20" item="200334;1" num="1" price_type="5" price="3000"/>
+  <Itemspec id="55121" condition="7;15" rate="20" item="200335;1" num="1" price_type="5" price="9500"/>
+  <Itemspec id="55122" condition="7;12" rate="20" item="200304;1" num="1" price_type="5" price="3000"/>
+  <Itemspec id="55123" condition="7;15" rate="20" item="200305;1" num="1" price_type="5" price="9500"/>
+  <Itemspec id="55124" condition="7;13" rate="20" item="200324;1" num="1" price_type="5" price="3000"/>
+  <Itemspec id="55125" condition="7;16" rate="20" item="200325;1" num="1" price_type="5" price="9500"/>
+  <Itemspec id="55126" condition="7;20" rate="20" item="200315;1" num="1" price_type="5" price="9500"/>
+  <Itemspec id="55127" condition="7;5" rate="100;80;50;30" item="200340;1" num="1" price_type="5" price="20" color="3"/>
+  <Itemspec id="55128" condition="7;5|8;12" rate="100;80;50;30" item="200341;1" num="1" price_type="5" price="120" color="3"/>
+  <Itemspec id="55129" condition="7;5|8;15" rate="100;80;50;30" item="200342;1" num="1" price_type="5" price="350" color="4"/>
+  <Itemspec id="55130" condition="7;5|8;20" rate="100;80;50;30" item="200341;4" num="1" price_type="5" price="480" color="4"/>
+  <Itemspec id="55131" condition="7;5|8;20" rate="100" item="200342;2" num="1" price_type="5" price="700" color="4"/>
+  <Itemspec id="55132" condition="7;13" rate="100" item="200343;1" num="1" price_type="5" price="1150" color="4"/>
+  <Itemspec id="55133" condition="7;15" rate="100" item="200343;2" num="1" price_type="5" price="2300" color="4"/>
+  <Itemspec id="55134" condition="13;20" rate="100;50;10;1" item="200392;2" num="1" price_type="5" price="3900" color="7"/>
+  <Itemspec id="55135" condition="7;10" rate="20;5" item="200412;1" num="1" price_type="5" price="2400"/>
+  <Itemspec id="55136" condition="7;6" rate="20;5" item="200419;1" num="1" price_type="5" price="1800"/>
+  <Itemspec id="55138" rate="20" item="200704;1" num="1" price_type="5" price="125"/>
+  <Itemspec id="55141" condition="7;10" rate="20;10" item="200714;10" num="1" price_type="5" price="9250" color="6"/>
+  <Itemspec id="55142" condition="7;15" rate="20;10" item="200716;1" num="1" price_type="5" price="17500" color="6"/>
+  <Itemspec id="55143" rate="50" item="200011;1" num="1" price_type="5" price="300" color="5"/>
+  <Itemspec id="55144" rate="20" item="200011;3" num="1" price_type="5" price="800" color="5"/>
+  <Itemspec id="55145" rate="20" item="200011;5" num="1" price_type="5" price="1250" color="5"/>
+  <Itemspec id="55146" condition="7;15|14;11|1;5" rate="80;5" item="200451;1" num="1" price_type="5" price="3700" color="8"/>
+  <Itemspec id="55147" condition="9;2" rate="50;1" item="200200;10" num="1" price_type="5" price="1000" color="12"/>
+  <Itemspec id="55148" condition="10;2|9;4" rate="50;1" item="200352;2" num="1" price_type="5" price="1500" color="12"/>
+  <Itemspec id="55149" condition="10;4|9;6" rate="10;2" item="200391;1" num="1" price_type="5" price="350" color="12"/>
+  <Itemspec id="55150" condition="10;6|9;9" rate="100;90;80;70;50;40;30" item="200611;1" num="1" price_type="5" price="150" price_hot="575" color="12"/>
+  <Itemspec id="55151" condition="10;9|9;11|14;10" rate="50;1" item="200002;1" num="1" price_type="5" price="1000" color="12"/>
+  <Itemspec id="55152" condition="10;11|9;12" rate="10;1" item="200001;2" num="1" price_type="5" price="800" color="12"/>
+  <Itemspec id="55153" condition="10;12|9;14" rate="50;1" item="200200;20" num="1" price_type="5" price="2500" color="12"/>
+  <Itemspec id="55154" condition="10;14|9;16" rate="50;1" item="200202;5" num="1" price_type="5" price="4000" color="12"/>
+  <Itemspec id="55155" condition="10;16|9;18" rate="50;5" item="200715;1" num="1" price_type="5" price="3000" color="12"/>
+  <Itemspec id="55156" condition="10;18|9;20" rate="50;5" item="200221;3" num="1" price_type="5" price="1500" color="12"/>
+  <Itemspec id="55157" condition="10;20|9;22" rate="50;1" item="200420;1" num="1" price_type="5" price="1500" color="12"/>
+  <Itemspec id="55158" condition="10;22|9;24" rate="50;1" item="200451;1" num="1" price_type="5" price="3700" color="12"/>
+  <Itemspec id="55159" condition="10;24|9;26" rate="50;5" item="200344;1" num="1" price_type="5" price="2500" color="12"/>
+  <Itemspec id="55160" condition="10;26|9;28" rate="10;1" item="200392;2" num="1" price_type="5" price="3500" color="12"/>
+  <Itemspec id="55161" condition="10;28|9;30" rate="50;5" item="200610;5" num="1" price_type="5" price="2250" price_hot="6000" color="12"/>
+  <Itemspec id="55162" condition="13;10|12;20" rate="80;50" item="200621;1" num="1" price_type="5" price="800" price_hot="1600" color="6"/>
+  <Itemspec id="55163" condition="13;10|12;20" rate="50" item="200621;4" num="1" price_type="5" price="3000" price_hot="6400" color="6"/>
+  <Itemspec id="55164" condition="13;10|12;30" rate="50;30" item="200621;16" num="1" price_type="5" price="12000" price_hot="25600" color="7"/>
+  <Itemspec id="55165" condition="13;5|12;18" rate="150;10;1" item="200390;1" num="1" price_type="5" price="95" color="6"/>
+  <Itemspec id="55166" condition="13;10|12;20" rate="150;50;10;1" item="200390;5" num="1" price_type="5" price="480" color="6"/>
+  <Itemspec id="55167" condition="13;15" rate="150;50;10;1" item="200391;2" num="1" price_type="5" price="750" color="7"/>
+  <Itemspec id="55168" condition="13;20|12;35" rate="150;50;10;1" item="200391;5" num="1" price_type="5" price="1950" color="7"/>
+  <Itemspec id="55169" condition="13;30|12;40" rate="150;50;1" item="200392;5" num="1" price_type="5" price="9800" color="7"/>
+  <Itemspec id="55170" condition="13;40" rate="150;50;1" item="200392;10" num="1" price_type="5" price="19500" color="7"/>
+  <Itemspec id="55171" condition="13;15|12;25" rate="80;50" item="200622;1" num="1" price_type="5" price="1400" price_hot="2800" color="6"/>
+  <Itemspec id="55172" condition="13;15|12;25" rate="50" item="200622;4" num="1" price_type="5" price="5450" price_hot="11200" color="6"/>
+  <Itemspec id="55173" condition="13;15|12;35" rate="50;30" item="200622;16" num="1" price_type="5" price="21000" price_hot="44800" color="7"/>
+  <Itemspec id="55174" condition="13;20|12;35" rate="80;50" item="200623;1" num="1" price_type="5" price="2000" price_hot="4000" color="6"/>
+  <Itemspec id="55175" condition="13;20|12;35" rate="50" item="200623;4" num="1" price_type="5" price="8000" price_hot="16000" color="6"/>
+  <Itemspec id="55176" condition="13;20|12;40" rate="50;30" item="200623;16" num="1" price_type="5" price="30000" price_hot="64000" color="7"/>
+  <Itemspec id="55177" condition="7;10" rate="70;50;30;10" item="200200;10" num="1" price_type="5" price="1250" color="7"/>
+  <Itemspec id="55178" condition="7;15|1;2" rate="70;50;30;10;1" item="200200;20" num="1" price_type="5" price="2700" color="7"/>
+  <Itemspec id="55179" condition="7;18|1;4" rate="70;30;10;1" item="200200;50" num="1" price_type="5" price="6750" color="7"/>
+  <Itemspec id="55180" condition="7;20|1;6" rate="70;10;1" item="200200;100" num="1" price_type="5" price="12000" color="7"/>
+  <Itemspec id="55181" condition="7;12" rate="70;50;30;10" item="200202;1" num="1" price_type="5" price="800" color="6"/>
+  <Itemspec id="55182" condition="7;15|1;3" rate="70;50;30;10;1" item="200202;10" num="1" price_type="5" price="8000" color="7"/>
+  <Itemspec id="55183" condition="7;20|1;5" rate="70;30;10;1" item="200202;50" num="1" price_type="5" price="42000" color="7"/>
+  <Itemspec id="55184" condition="7;23|1;0" rate="70;10;1" item="200202;100" num="1" price_type="5" price="80000" color="7"/>
+  <Itemspec id="55185" rate="70;30;5" item="0;10000" num="1" price_type="5" price="5" price_hot="40" color="6"/>
+  <Itemspec id="55186" rate="70;30;5" item="0;50000" num="1" price_type="5" price="50" price_hot="160" color="6"/>
+  <Itemspec id="55187" condition="7;10|8;15" rate="70;30;5" item="0;100000" num="1" price_type="5" price="100" price_hot="280" color="6"/>
+  <Itemspec id="55188" condition="7;10|8;20" rate="70;30;5" item="0;300000" num="1" price_type="5" price="300" price_hot="750" color="6"/>
+  <Itemspec id="55189" condition="7;15|8;25" rate="70;20;1" item="0;1000000" num="1" price_type="5" price="1000" price_hot="2300" color="7"/>
+  <Itemspec id="55190" condition="7;15|8;25" rate="70;20;1" item="0;1500000" num="1" price_type="5" price="1500" price_hot="3300" color="7"/>
+  <Itemspec id="55191" condition="7;18" rate="70;1" item="0;5000000" num="1" price_type="5" price="5000" price_hot="10000" color="7"/>
+  <Itemspec id="55192" condition="7;20" rate="70;1" item="0;10000000" num="1" price_type="5" price="9500" price_hot="20000" color="7"/>
+  <Itemspec id="55193" condition="13;25|12;40" rate="80;50" item="200624;1" num="1" price_type="5" price="2600" price_hot="5200" color="6"/>
+  <Itemspec id="55194" condition="13;25|12;40" rate="50" item="200624;4" num="1" price_type="5" price="10000" price_hot="20800" color="6"/>
+  <Itemspec id="55195" condition="13;25|12;45" rate="50;30" item="200624;16" num="1" price_type="5" price="40000" price_hot="83200" color="7"/>
+  <Itemspec id="55196" condition="13;30|12;45" rate="80;50" item="200625;1" num="1" price_type="5" price="3400" price_hot="6800" color="6"/>
+  <Itemspec id="55197" condition="13;30|12;45" rate="50" item="200625;4" num="1" price_type="5" price="13000" price_hot="27200" color="6"/>
+  <Itemspec id="55198" condition="13;30" rate="50;30" item="200625;16" num="1" price_type="5" price="50000" price_hot="108800" color="7"/>
+  <Itemspec id="55199" rate="70;5" item="3;150000" num="1" price_type="5" price="5" price_hot="400" color="6"/>
+  <Itemspec id="55200" condition="7;10|8;15" rate="70;30;5" item="3;500000" num="1" price_type="5" price="600" price_hot="1200" color="6"/>
+  <Itemspec id="55201" condition="7;10|8;20" rate="70;30;5" item="3;1000000" num="1" price_type="5" price="1000" price_hot="2300" color="6"/>
+  <Itemspec id="55202" condition="7;15|8;25" rate="70;30;5" item="3;3000000" num="1" price_type="5" price="3000" price_hot="6300" color="6"/>
+  <Itemspec id="55203" condition="7;15|8;25" rate="70;20;1" item="3;5000000" num="1" price_type="5" price="5000" price_hot="10000" color="6"/>
+  <Itemspec id="55204" condition="7;18|8;25" rate="70;20;1" item="3;10000000" num="1" price_type="5" price="10000" price_hot="20000" color="7"/>
+  <Itemspec id="55205" condition="7;23" rate="70;1" item="3;20000000" num="1" price_type="5" price="20000" price_hot="35000" color="7"/>
+  <Itemspec id="55206" condition="7;25" rate="70;1" item="3;50000000" num="1" price_type="5" price="50000" price_hot="80000" color="7"/>
+  <Itemspec id="56000" condition="8;15" rate="200;50;30;5" item="200201;1" num="1" price_type="0" price="8000" color="5"/>
+  <Itemspec id="56001" condition="7;13" rate="200;50;20;2" item="200200;1" num="1" price_type="0" price="96000" color="5"/>
+  <Itemspec id="56002" condition="8;15" rate="200;50;30;5" item="200203;1" num="1" price_type="0" price="8000" color="5"/>
+  <Itemspec id="56003" condition="8;15" rate="200;50;30;5" item="200205;1" num="1" price_type="0" price="8000" color="5"/>
+  <Itemspec id="56004" condition="8;15" rate="200;50;30;5" item="200207;1" num="1" price_type="0" price="8000" color="5"/>
+  <Itemspec id="56005" condition="8;15" rate="200;50;30;5" item="200213;1" num="1" price_type="0" price="8000" color="5"/>
+  <Itemspec id="56006" condition="8;15" rate="200;50;30;5" item="200215;1" num="1" price_type="0" price="8000" color="5"/>
+  <Itemspec id="56007" condition="8;15" rate="200;50;30;5" item="200217;1" num="1" price_type="0" price="8000" color="5"/>
+  <Itemspec id="56008" condition="7;5" rate="150;90;5" item="200031;1" num="1" price_type="0" price="15000" color="1"/>
+  <Itemspec id="56009" rate="45;10;0" item="200004;1" num="1" price_type="0" price="15000" color="1"/>
+  <Itemspec id="56010" rate="150;80;50" item="200353;1" num="1" price_type="0" price="8000" color="1"/>
+  <Itemspec id="56011" rate="50" item="200353;3" num="1" price_type="0" price="10000" color="2"/>
+  <Itemspec id="56012" rate="50;2" item="200380;1" num="1" price_type="0" price="10000" color="1"/>
+  <Itemspec id="56013" condition="7;4" rate="90;50;2" item="200380;2" num="1" price_type="0" price="40000" color="1"/>
+  <Itemspec id="56014" condition="8;10" rate="200;70;50;30;15;0" item="3;2000" num="1" price_type="0" price="500" color="3"/>
+  <Itemspec id="56015" condition="8;10" rate="200;70;50;30;15;0" item="3;4000" num="1" price_type="0" price="1000" color="3"/>
+  <Itemspec id="56016" condition="7;4|8;13" rate="200;70;50;30" item="3;10000" num="1" price_type="0" price="8000" color="2"/>
+  <Itemspec id="56017" condition="7;4|8;13" rate="150" item="3;10000" num="1" price_type="0" price="9500"/>
+  <Itemspec id="56018" condition="7;13|8;18" rate="150;30;5" item="3;80000" num="1" price_type="0" price="60000" color="2"/>
+  <Itemspec id="56019" condition="7;15|8;22" rate="90;10" item="3;200000" num="1" price_type="0" price="195000" color="2"/>
+  <Itemspec id="56020" condition="7;18" rate="90;20;10" item="3;800000" num="1" price_type="0" price="800000"/>
+  <Itemspec id="56021" condition="8;10" rate="200;70;50;30;15;0" item="0;2000" num="1" price_type="3" price="500" color="3"/>
+  <Itemspec id="56022" condition="8;10" rate="200;70;50;30;15;0" item="0;4000" num="1" price_type="3" price="1000" color="3"/>
+  <Itemspec id="56023" condition="7;4|8;13" rate="90;70;50;30" item="0;10000" num="1" price_type="3" price="8000" color="2"/>
+  <Itemspec id="56024" condition="7;4|8;13" rate="150" item="0;10000" num="1" price_type="3" price="9500"/>
+  <Itemspec id="56025" condition="7;13|8;18" rate="30;0" item="0;80000" num="1" price_type="3" price="60000" color="2"/>
+  <Itemspec id="56026" condition="7;15|8;22" rate="90;10" item="0;200000" num="1" price_type="3" price="220000"/>
+  <Itemspec id="56027" condition="7;18" rate="90;20;10" item="0;800000" num="1" price_type="3" price="900000"/>
+  <Itemspec id="56028" condition="7;10|8;15" rate="200;70;50;30;15;0" item="2;300" num="1" price_type="0" price="500" color="3"/>
+  <Itemspec id="56029" condition="7;10|8;15" rate="200;70;50;30;15;0" item="2;600" num="1" price_type="0" price="500" color="3"/>
+  <Itemspec id="56030" condition="7;10|8;20" rate="200;70;50;30" item="2;1600" num="1" price_type="0" price="8000" color="2"/>
+  <Itemspec id="56031" condition="7;10|8;20" rate="150" item="2;1600" num="1" price_type="0" price="9500"/>
+  <Itemspec id="56032" condition="7;10" rate="150" item="2;6000" num="1" price_type="0" price="40000"/>
+  <Itemspec id="56033" condition="7;15" rate="50;0" item="2;25000" num="1" price_type="0" price="60000" color="2"/>
+  <Itemspec id="56034" condition="7;18" rate="50" item="2;100000" num="1" price_type="0" price="700000" color="2"/>
+  <Itemspec id="56035" condition="7;15|8;20" rate="90;70;50;30;15;0" item="1;400" num="1" price_type="0" price="8000" color="3"/>
+  <Itemspec id="56036" condition="7;15|8;20" rate="150" item="1;400" num="1" price_type="0" price="9500" color="2"/>
+  <Itemspec id="56037" condition="7;15" rate="150" item="1;1000" num="1" price_type="0" price="40000"/>
+  <Itemspec id="56038" condition="7;17" rate="50;0" item="1;6250" num="1" price_type="0" price="60000" color="2"/>
+  <Itemspec id="56039" condition="7;20" rate="50" item="1;50000" num="1" price_type="0" price="1300000" color="1"/>
+  <Itemspec id="56040" rate="150" item="200027;1" num="1" price_type="0" price="30000" color="1"/>
+  <Itemspec id="56041" rate="150" item="200028;1" num="1" price_type="0" price="30000" color="1"/>
+  <Itemspec id="56042" condition="7;10" rate="150" item="200029;1" num="1" price_type="0" price="20000" color="1"/>
+  <Itemspec id="56043" condition="7;15" rate="150" item="200030;1" num="1" price_type="0" price="25000" color="1"/>
+  <Itemspec id="56044" rate="80;0" item="200373;1" num="1" price_type="0" price="8000" color="3"/>
+  <Itemspec id="56045" rate="70;0" item="200374;1" num="1" price_type="0" price="10000" color="3"/>
+  <Itemspec id="56046" condition="12;15" rate="150;100;50;0" item="200393;1" num="1" price_type="0" price="8000" color="3"/>
+  <Itemspec id="56047" rate="100;0" item="200428;1" num="1" price_type="0" price="10000" color="3"/>
+  <Itemspec id="56048" condition="7;2" rate="200;200;2" item="200701;1" num="1" price_type="0" price="10000" color="4"/>
+  <Itemspec id="56049" condition="7;2" rate="200;5;1" item="200710;2" num="1" price_type="0" price="20000" color="6"/>
+  <Itemspec id="56050" condition="11;200010" rate="200;100;1" item="200013;1" num="1" price_type="200010" price="13" price_hot="15" color="3" version="1.0.95"/>
+  <Itemspec id="56051" condition="7;20" rate="90;20;10" item="3;1500000" num="1" price_type="0" price="2000000" color="3"/>
+  <Itemspec id="56052" condition="7;15|8;21" rate="200;50;30;5" item="200201;5" num="1" price_type="0" price="40000" color="5"/>
+  <Itemspec id="56053" condition="7;15|8;21" rate="200;50;30;5" item="200203;5" num="1" price_type="0" price="40000" color="5"/>
+  <Itemspec id="56054" condition="7;15|8;21" rate="200;50;30;5" item="200205;5" num="1" price_type="0" price="40000" color="5"/>
+  <Itemspec id="56055" condition="7;15|8;21" rate="200;50;30;5" item="200207;5" num="1" price_type="0" price="40000" color="5"/>
+  <Itemspec id="56056" condition="7;15|8;21" rate="200;50;30;5" item="200215;5" num="1" price_type="0" price="40000" color="5"/>
+  <Itemspec id="56057" condition="7;15|8;21" rate="200;50;30;5" item="200217;5" num="1" price_type="0" price="40000" color="5"/>
+  <Itemspec id="56058" condition="7;21" rate="200;30;2" item="200204;1" num="1" price_type="0" price="185000" color="5"/>
+  <Itemspec id="56059" condition="7;21" rate="200;30;2" item="200206;1" num="1" price_type="0" price="185000" color="5"/>
+  <Itemspec id="56060" condition="7;21" rate="200;30;2" item="200208;1" num="1" price_type="0" price="185000" color="5"/>
+  <Itemspec id="56061" condition="7;21" rate="200;30;2" item="200216;1" num="1" price_type="0" price="185000" color="5"/>
+  <Itemspec id="56062" condition="7;21" rate="200;30;2" item="200218;1" num="1" price_type="0" price="185000" color="5"/>
+  <Itemspec id="56063" condition="7;13|8;18" rate="100;30;2" item="3;40000" num="1" price_type="0" price="20000" color="5"/>
+  <Itemspec id="56064" condition="7;13|8;18" rate="150" item="3;40000" num="1" price_type="0" price="35000" color="3"/>
+  <Itemspec id="56065" condition="7;13|8;18" rate="150;100;20;2" item="0;40000" num="1" price_type="3" price="20000" color="5"/>
+  <Itemspec id="56066" condition="7;13|8;18" rate="150" item="0;40000" num="1" price_type="3" price="35000" color="3"/>
+  <Itemspec id="56067" condition="13;14|12;20" rate="150;100;0" item="200390;1" num="1" price_type="0" price="80000" color="3"/>
+  <Itemspec id="56068" condition="13;19|12;30" rate="150;0" item="200390;2" num="1" price_type="0" price="160000" color="3"/>
+  <Itemspec id="56069" condition="13;29" rate="150;0" item="200390;5" num="1" price_type="0" price="400000" color="3"/>
+</tns:database>

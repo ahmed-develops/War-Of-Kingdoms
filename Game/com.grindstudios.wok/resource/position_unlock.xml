@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ItemSpec id="9990" lv="2" inner="0" position="9926;9927;9928;9929;9930;9932;9933;9934;9936;9937" wood="0" stone="0" iron="0" food="0" silver="0" gold="10" version="0.1.49"/>
+  <ItemSpec id="9991" lv="1" inner="0" unlock="1" position="9922;9923;9924;9925;9931;9935" wood="5000" stone="0" iron="0" food="5000" silver="0" version="0.1.49"/>
+  <ItemSpec id="9992" lv="20" inner="0" position="9954;9955;9956;9957" wood="0" stone="0" iron="0" food="0" silver="0" gold="50" reward="243000" version="0.1.49"/>
+  <ItemSpec id="9993" lv="18" inner="0" position="9946;9947;9948;9949" wood="0" stone="0" iron="0" food="0" silver="0" gold="50" reward="243001" version="0.1.49"/>
+  <ItemSpec id="9994" lv="15" inner="0" position="9950;9951;9952;9953" wood="0" stone="0" iron="0" food="0" silver="0" gold="20" reward="243002" version="0.1.49"/>
+  <ItemSpec id="9995" lv="10" inner="0" position="9942;9943;9944;9945" wood="0" stone="0" iron="0" food="0" silver="0" gold="20" reward="243003" version="0.1.49"/>
+  <ItemSpec id="9996" lv="4" inner="0" position="9938;9939;9940;9941" wood="0" stone="0" iron="0" food="0" silver="0" gold="50" reward="243004" version="0.1.49"/>
+  <ItemSpec id="9980" lv="1" inner="1" unlock="1" position="9910;9911;9914" wood="0" stone="0" iron="0" food="0" silver="0" gold="10"/>
+  <ItemSpec id="9981" lv="1" inner="1" position="9909;9912;9915;9913" wood="0" stone="0" iron="0" food="0" silver="0" gold="10" reward="243005" version="0.1.49"/>
+  <ItemSpec id="9982" lv="3" inner="1" position="" wood="0" stone="0" iron="0" food="0" silver="0" gold="10" version="0.1.49" function="daily_task"/>
+  <ItemSpec id="9983" lv="3" inner="1" position="9916;9906" wood="0" stone="0" iron="0" food="0" silver="0" gold="10" reward="243006" version="0.1.49"/>
+  <ItemSpec id="9984" lv="3" inner="1" position="9920" wood="0" stone="0" iron="0" food="0" silver="0" gold="20" version="0.1.50" function="kill_titan"/>
+  <ItemSpec id="9985" lv="1" inner="0" position="9900" wood="0" stone="0" iron="0" food="0" silver="0" gold="10" version="0.1.49" function="stamina_speedup"/>
+  <ItemSpec id="9986" lv="1" inner="0" position="9907;9908" wood="0" stone="0" iron="0" food="0" silver="0" gold="0"/>
+</tns:database>

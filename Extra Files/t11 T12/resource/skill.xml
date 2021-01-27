@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ItemSpec id="101000" type2="1"/>
+  <ItemSpec id="101001" type2="1"/>
+  <ItemSpec id="101002" type2="1"/>
+  <ItemSpec id="101003" type2="1"/>
+  <ItemSpec id="101004" type2="1" times="2"/>
+  <ItemSpec id="101005" type2="1"/>
+  <ItemSpec id="101006" type2="1"/>
+  <ItemSpec id="101007" type2="1"/>
+  <ItemSpec id="101008" type="1" type_para="3" type2="1" object="13" object_num="1" rate="440" rate_add="0" times="1"/>
+  <ItemSpec id="101009" type="1" type_para="4" type2="1" object="13" object_num="1" rate="440" rate_add="0" times="1"/>
+  <ItemSpec id="101010" type="3" type_para="101008" effect="151;2" effect_add="151;2"/>
+  <ItemSpec id="101011" type="3" type_para="101009" effect="151;2" effect_add="151;2"/>
+  <ItemSpec id="101100" type2="1"/>
+  <ItemSpec id="102000" type="2" type2="1" object="12" object_num="2" effect="152;45" effect_add="152;18" rate="100"/>
+  <ItemSpec id="102001" type="3" type_para="102000" effect="1401;5|1402;5" effect_add="1401;5|1402;5"/>
+  <ItemSpec id="102002" type="3" type_para="102000" effect="1403;5|1404;5" effect_add="1403;5|1404;5"/>
+  <ItemSpec id="102003" type="3" type_para="102000" effect="1405;5|1406;5" effect_add="1405;5|1406;5"/>
+  <ItemSpec id="102004" type="3" type_para="102000" effect="1407;5|1408;5" effect_add="1407;5|1408;5"/>
+  <ItemSpec id="102005" type="3" type_para="102000" status="502000"/>
+  <ItemSpec id="102006" type="3" type_para="102000" rate="20"/>
+  <ItemSpec id="102007" type="3" type_para="102000" object_num="1"/>
+  <ItemSpec id="102008" type="3" type_para="102020" effect="1120;5000"/>
+  <ItemSpec id="102010" type="2" type2="1" object="12" object_num="3" effect="152;30" effect_add="152;12" rate="100"/>
+  <ItemSpec id="102011" type="3" type_para="102010" effect="21;5" effect_add="21;5"/>
+  <ItemSpec id="102012" type="3" type_para="102010" effect="22;5" effect_add="22;5"/>
+  <ItemSpec id="102013" type="3" type_para="102010" status="502010"/>
+  <ItemSpec id="102014" type="3" type_para="102010" status="502011"/>
+  <ItemSpec id="102015" type="3" type_para="102010" status="502012"/>
+  <ItemSpec id="102016" type="3" type_para="102010" rate="20"/>
+  <ItemSpec id="102017" type="3" type_para="102010" object_num="1"/>
+  <ItemSpec id="102018" type="3" type_para="102010" status="502013" status_rate="100"/>
+  <ItemSpec id="102020" type="2" type2="1" object="13" object_num="1" effect="152;20" effect_add="152;8" rate="100"/>
+  <ItemSpec id="102021" type="3" type_para="102020" effect="1405;5" effect_add="1405;5"/>
+  <ItemSpec id="102022" type="3" type_para="102020" effect="1406;5" effect_add="1406;5"/>
+  <ItemSpec id="102023" type="3" type_para="102020" status="502020"/>
+  <ItemSpec id="102024" type="3" type_para="102020" rate="20"/>
+  <ItemSpec id="102025" type="3" type_para="102020" object_num="1"/>
+  <ItemSpec id="102030" type="2" type2="1" object="10" object_num="1" effect="152;20" effect_add="152;8" rate="100"/>
+  <ItemSpec id="102031" type="3" type_para="102030" effect="1401;5" effect_add="1401;5"/>
+  <ItemSpec id="102032" type="3" type_para="102030" effect="1403;5" effect_add="1403;5"/>
+  <ItemSpec id="102033" type="3" type_para="102030" status="502030"/>
+  <ItemSpec id="102034" type="3" type_para="102030" rate="20"/>
+  <ItemSpec id="102035" type="3" type_para="102030" object_num="1"/>
+  <ItemSpec id="102040" type="2" type2="1" object="12" object_num="1" effect="152;20" effect_add="152;8" rate="100"/>
+  <ItemSpec id="102041" type="3" type_para="102040" effect="1406;5" effect_add="1406;5"/>
+  <ItemSpec id="102042" type="3" type_para="102040" effect="1407;5" effect_add="1407;5"/>
+  <ItemSpec id="102043" type="3" type_para="102040" status="502040"/>
+  <ItemSpec id="102044" type="3" type_para="102040" rate="20"/>
+  <ItemSpec id="102045" type="3" type_para="102040" object_num="1"/>
+  <ItemSpec id="102050" type="2" type2="1" object="12" object_num="1" effect="152;20" effect_add="152;8" rate="100"/>
+  <ItemSpec id="102051" type="3" type_para="102050" effect="1402;5" effect_add="1402;5"/>
+  <ItemSpec id="102052" type="3" type_para="102050" effect="1403;5" effect_add="1403;5"/>
+  <ItemSpec id="102053" type="3" type_para="102050" status="502050"/>
+  <ItemSpec id="102054" type="3" type_para="102050" rate="20"/>
+  <ItemSpec id="102055" type="3" type_para="102050" object_num="1"/>
+  <ItemSpec id="102060" type="2" type2="1" object="12" object_num="1" effect="152;20" effect_add="152;8" rate="100"/>
+  <ItemSpec id="102061" type="3" type_para="102060" effect="1407;5" effect_add="1407;5"/>
+  <ItemSpec id="102062" type="3" type_para="102060" effect="1408;5" effect_add="1408;5"/>
+  <ItemSpec id="102063" type="3" type_para="102060" status="502060"/>
+  <ItemSpec id="102064" type="3" type_para="102060" rate="20"/>
+  <ItemSpec id="102065" type="3" type_para="102060" object_num="1"/>
+  <ItemSpec id="102070" type="2" type2="1" object="12" object_num="1" effect="152;10" effect_add="152;4" rate="100" times="2"/>
+  <ItemSpec id="102071" type="3" type_para="102070" effect="1402;5" effect_add="1402;5"/>
+  <ItemSpec id="102072" type="3" type_para="102070" effect="1404;5" effect_add="1404;5"/>
+  <ItemSpec id="102073" type="3" type_para="102070" status="502070"/>
+  <ItemSpec id="102074" type="3" type_para="102070" rate="20"/>
+  <ItemSpec id="102075" type="3" type_para="102070" object_num="1"/>
+  <ItemSpec id="102080" type="2" type2="1" object="12" object_num="1" effect="152;20" effect_add="152;10" rate="100"/>
+  <ItemSpec id="102081" type="3" type_para="102080" effect="1405;5" effect_add="1405;5"/>
+  <ItemSpec id="102082" type="3" type_para="102080" effect="1407;5" effect_add="1407;5"/>
+  <ItemSpec id="102083" type="3" type_para="102080" status="502080"/>
+  <ItemSpec id="102084" type="3" type_para="102080" rate="20"/>
+  <ItemSpec id="102085" type="3" type_para="102080" object_num="1"/>
+  <ItemSpec id="102090" type="2" type2="1" object="10" object_num="1" effect="152;20" effect_add="152;10" rate="100"/>
+  <ItemSpec id="102091" type="3" type_para="102090" effect="1401;5" effect_add="1401;5"/>
+  <ItemSpec id="102092" type="3" type_para="102090" effect="1404;5" effect_add="1404;5"/>
+  <ItemSpec id="102093" type="3" type_para="102090" status="502090"/>
+  <ItemSpec id="102094" type="3" type_para="102090" rate="20"/>
+  <ItemSpec id="102095" type="3" type_para="102090" object_num="1"/>
+  <ItemSpec id="102200" type="1" type_para="1" type2="1" object="0" object_num="1" effect="151;30" effect_add="151;10" rate="100" rate_add="10"/>
+  <ItemSpec id="102201" type="1" type_para="2" type2="1" object="0" object_num="1" effect="151;30" effect_add="151;10" rate="100" rate_add="10"/>
+  <ItemSpec id="102202" type="3" type_para="102200" effect="151;50" status="502206" status_rate="100"/>
+  <ItemSpec id="102203" type="3" type_para="102201" effect="151;50" status="502206" status_rate="100"/>
+  <ItemSpec id="102210" type="1" type_para="3" type2="1" object="0" object_num="1" effect="151;30" effect_add="151;10" rate="100" rate_add="10"/>
+  <ItemSpec id="102211" type="1" type_para="4" type2="1" object="0" object_num="1" effect="151;30" effect_add="151;10" rate="100" rate_add="10"/>
+  <ItemSpec id="102212" type="3" type_para="102210" effect="151;50" status="502216" status_rate="100"/>
+  <ItemSpec id="102213" type="3" type_para="102211" effect="151;50" status="502216" status_rate="100"/>
+  <ItemSpec id="102220" type="1" type_para="5" type2="1" object="0" object_num="1" effect="151;30" effect_add="151;10" rate="100" rate_add="10" times="1"/>
+  <ItemSpec id="102221" type="1" type_para="6" type2="1" object="0" object_num="1" effect="151;30" effect_add="151;10" rate="100" rate_add="10" times="1"/>
+  <ItemSpec id="102222" type="3" type_para="102220" times="1"/>
+  <ItemSpec id="102223" type="3" type_para="102221" times="1"/>
+  <ItemSpec id="102230" type="1" type_para="7" type2="1" object="0" object_num="1" effect="151;30" effect_add="151;10" rate="100" rate_add="10"/>
+  <ItemSpec id="102231" type="1" type_para="8" type2="1" object="0" object_num="1" effect="151;30" effect_add="151;10" rate="100" rate_add="10"/>
+  <ItemSpec id="102232" type="3" type_para="102230" object_num="1"/>
+  <ItemSpec id="102233" type="3" type_para="102231" object_num="1"/>
+  <ItemSpec id="102240" type="1" type_para="1" type2="1" object="0" object_num="1" effect="151;20" effect_add="151;8" rate="100" rate_add="10"/>
+  <ItemSpec id="102250" type="1" type_para="2" type2="1" object="0" object_num="1" effect="151;20" effect_add="151;8" rate="100" rate_add="10"/>
+  <ItemSpec id="102260" type="1" type_para="3" type2="1" object="0" object_num="1" effect="151;20" effect_add="151;8" rate="100" rate_add="10"/>
+  <ItemSpec id="102270" type="1" type_para="4" type2="1" object="0" object_num="1" effect="151;20" effect_add="151;8" rate="100" rate_add="10"/>
+  <ItemSpec id="102280" type="1" type_para="5" type2="1" object="0" object_num="1" effect="151;20" effect_add="151;8" rate="100" rate_add="10"/>
+  <ItemSpec id="102290" type="1" type_para="6" type2="1" object="0" object_num="1" effect="151;20" effect_add="151;8" rate="100" rate_add="10"/>
+  <ItemSpec id="102300" type="1" type_para="7" type2="1" object="12" object_num="2" effect="151;20" effect_add="151;8" rate="100" rate_add="10"/>
+  <ItemSpec id="102310" type="1" type_para="8" type2="1" object="0" object_num="1" effect="151;20" effect_add="151;8" rate="100" rate_add="10"/>
+  <ItemSpec id="102400" type="2" object="12" object_num="1" rate="50" rate_add="5" status="502400"/>
+  <ItemSpec id="102401" type="3" type_para="102400" status="502401"/>
+  <ItemSpec id="102402" type="3" type_para="102400" status="502402"/>
+  <ItemSpec id="102403" type="3" type_para="102400" rate="10" rate_add="10"/>
+  <ItemSpec id="102404" type="3" type_para="102400" status="502403"/>
+  <ItemSpec id="102405" type="3" type_para="102400" status="502404"/>
+  <ItemSpec id="102406" type="3" type_para="102400" effect="20;2"/>
+  <ItemSpec id="102410" type="2" object="20" object_num="1" rate="50" rate_add="5" status="502410"/>
+  <ItemSpec id="102411" type="3" type_para="102410" rate="40" rate_add="4" status="502411"/>
+  <ItemSpec id="102412" type="3" type_para="102410" status="502412"/>
+  <ItemSpec id="102413" type="3" type_para="102410" rate="8" rate_add="8"/>
+  <ItemSpec id="102414" type="3" type_para="102410" status="502413"/>
+  <ItemSpec id="102415" type="3" type_para="102410" status="502414"/>
+  <ItemSpec id="102420" type="2" object="120" object_num="1" rate="50" rate_add="5" status="502420"/>
+  <ItemSpec id="102421" type="3" type_para="102420" status="502421"/>
+  <ItemSpec id="102422" type="3" type_para="102420" status="502422"/>
+  <ItemSpec id="102423" type="3" type_para="102420" rate="8" rate_add="8"/>
+  <ItemSpec id="102424" type="3" type_para="102420" status="502423"/>
+  <ItemSpec id="102425" type="3" type_para="102420" effect="20;1"/>
+</tns:database>

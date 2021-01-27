@@ -1,0 +1,3371 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <environments default="development">
+
+		<environment id="1">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.41.163.16:3306/cokdb2?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="2">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.41.163.16:3306/cokdbs2?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="3">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.41.163.46:3306/cokdb3?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="4">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.41.163.54:3306/cokdb4?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="5">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.41.163.46:3306/cokdb5?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="6">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.41.163.62:3306/cokdb6?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="7">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.41.163.54:3306/cokdb7?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="8">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.41.163.62:3306/cokdb8?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="9">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.81.92.61:3306/cokdb9?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="10">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.81.92.69:3306/cokdb10?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="11">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.81.92.71:3306/cokdb11?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="12">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.81.92.59:3306/cokdb12?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="13">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.81.92.67:3306/cokdb13?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="14">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.81.92.71:3306/cokdb14?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="15">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.81.92.102:3306/cokdb15?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="16">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.81.92.106:3306/cokdb16?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="17">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.81.92.108:3306/cokdb17?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="18">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.81.92.97:3306/cokdb18?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="19">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.81.92.89:3306/cokdb19?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="20">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.84.59.26:3306/cokdb20?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="21">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.84.59.58:3306/cokdb21?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="22">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.84.59.30:3306/cokdb22?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="23">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.84.59.38:3306/cokdb23?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="24">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.84.59.40:3306/cokdb24?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="25">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.81.92.102:3306/cokdb25?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="26">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.81.92.106:3306/cokdb26?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="27">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.81.92.108:3306/cokdb27?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="28">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.81.92.97:3306/cokdb28?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="29">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.81.92.89:3306/cokdb29?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="30">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.84.59.6:3306/cokdb30?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="31">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.84.59.10:3306/cokdb31?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="32">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.84.59.16:3306/cokdb32?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="33">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.84.59.20:3306/cokdb33?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="34">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.86.79.5:3306/cokdb34?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="35">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.84.59.26:3306/cokdb35?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="36">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.84.59.58:3306/cokdb36?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="37">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.84.59.30:3306/cokdb37?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="38">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.84.59.38:3306/cokdb38?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="39">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.84.59.40:3306/cokdb39?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="40">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.84.59.6:3306/cokdb40?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="41">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.84.59.10:3306/cokdb41?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="42">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.84.59.16:3306/cokdb42?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="43">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.84.59.20:3306/cokdb43?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="44">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.86.79.5:3306/cokdb44?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="45">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.81.92.59:3306/cokdb45?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="46">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.226:3306/cokdb46?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="47">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.20.118:3306/cokdb47?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="48">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.20.122:3306/cokdb48?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="49">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.20.126:3306/cokdb49?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="50">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.20.81:3306/cokdb50?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="51">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.20.85:3306/cokdb51?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="52">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.20.112:3306/cokdb52?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="53">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.20.91:3306/cokdb53?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="54">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.31.152:3306/cokdb54?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="55">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.31.158:3306/cokdb55?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="56">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.20.110:3306/cokdb56?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="57">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.20.116:3306/cokdb57?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="58">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.20.97:3306/cokdb58?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="59">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.20.118:3306/cokdb59?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="60">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.20.122:3306/cokdb60?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="61">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.20.126:3306/cokdb61?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="62">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.20.81:3306/cokdb62?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="63">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.60.99.28:3306/cokdb63?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="64">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.60.99.32:3306/cokdb64?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="65">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.60.99.36:3306/cokdb65?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="66">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.60.99.40:3306/cokdb66?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="67">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.60.99.24:3306/cokdb67?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="68">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.20.85:3306/cokdb68?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="69">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.20.112:3306/cokdb69?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="70">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.20.91:3306/cokdb70?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="71">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.31.152:3306/cokdb71?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="72">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.31.158:3306/cokdb72?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="73">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.20.110:3306/cokdb73?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="74">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.20.116:3306/cokdb74?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="75">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.20.97:3306/cokdb75?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="76">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.60.99.28:3306/cokdb76?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="77">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.60.99.32:3306/cokdb77?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="78">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.114.68:3306/cokdb78?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="79">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.114.72:3306/cokdb79?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="80">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.31.136:3306/cokdb80?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="81">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.31.148:3306/cokdb81?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="82">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.31.174:3306/cokdb82?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="83">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.114.112:3306/cokdb83?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="84">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.114.116:3306/cokdb84?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="85">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.114.122:3306/cokdb85?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="86">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.114.74:3306/cokdb86?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="87">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.114.80:3306/cokdb87?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="88">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.114.120:3306/cokdb88?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="89">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.128.27:3306/cokdb89?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="90">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.128.15:3306/cokdb90?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="91">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.128.21:3306/cokdb91?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="92">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.60.99.36:3306/cokdb92?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="93">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.60.99.40:3306/cokdb93?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="94">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.60.99.24:3306/cokdb94?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="95">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.114.68:3306/cokdb95?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="96">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.114.72:3306/cokdb96?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="97">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.31.136:3306/cokdb97?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="98">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.31.148:3306/cokdb98?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="99">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.31.174:3306/cokdb99?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="100">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.114.112:3306/cokdb100?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="101">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.128.69:3306/cokdb101?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="102">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.128.81:3306/cokdb102?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="103">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.128.65:3306/cokdb103?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="104">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.114.116:3306/cokdb104?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="105">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.114.122:3306/cokdb105?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="106">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.114.74:3306/cokdb106?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="107">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.114.80:3306/cokdb107?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="108">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.114.120:3306/cokdb108?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="109">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.128.27:3306/cokdb109?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="110">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.128.15:3306/cokdb110?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="111">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.128.73:3306/cokdb111?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="112">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.128.77:3306/cokdb112?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="113">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.128.87:3306/cokdb113?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="114">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.128.91:3306/cokdb114?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="115">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.128.95:3306/cokdb115?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="116">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.128.99:3306/cokdb116?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="117">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.128.103:3306/cokdb117?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="118">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.128.21:3306/cokdb118?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="119">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.128.69:3306/cokdb119?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="120">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.128.81:3306/cokdb120?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="121">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.128.65:3306/cokdb121?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="122">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.128.73:3306/cokdb122?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="123">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.128.77:3306/cokdb123?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="124">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.128.87:3306/cokdb124?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="125">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.128.91:3306/cokdb125?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="126">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.128.95:3306/cokdb126?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="127">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.128.99:3306/cokdb127?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="128">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.128.103:3306/cokdb128?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="129">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.128.126:3306/cokdb129?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="130">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.4:3306/cokdb130?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="131">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.8:3306/cokdb131?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="132">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.12:3306/cokdb132?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="133">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.16:3306/cokdb133?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="134">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.50:3306/cokdb134?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="135">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.54:3306/cokdb135?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="136">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.58:3306/cokdb136?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="137">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.62:3306/cokdb137?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="138">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.66:3306/cokdb138?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="139">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.32:3306/cokdb139?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="140">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.36:3306/cokdb140?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="141">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.40:3306/cokdb141?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="142">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.44:3306/cokdb142?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="143">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.114.106:3306/cokdb143?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="144">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.190:3306/cokdb144?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="145">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.194:3306/cokdb145?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="146">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.198:3306/cokdb146?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="147">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.166:3306/cokdb147?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="148">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.174:3306/cokdb148?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="149">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.178:3306/cokdb149?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="150">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.182:3306/cokdb150?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="151">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.158:3306/cokdb151?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="152">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.162:3306/cokdb152?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="153">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.46:3306/cokdb153?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="154">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.170:3306/cokdb154?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="155">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.138:3306/cokdb155?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="156">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.142:3306/cokdb156?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="157">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.122:3306/cokdb157?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="158">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.126:3306/cokdb158?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="159">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.242:3306/cokdb159?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="160">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.246:3306/cokdb160?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="161">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.250:3306/cokdb161?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="162">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.26:3306/cokdb162?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="163">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.24:3306/cokdb163?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="164">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.56:3306/cokdb164?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="165">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.66:3306/cokdb165?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="166">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.72:3306/cokdb166?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="167">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.76:3306/cokdb167?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="168">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.80:3306/cokdb168?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="169">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.128.126:3306/cokdb169?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="170">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.4:3306/cokdb170?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="171">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.8:3306/cokdb171?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="172">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.12:3306/cokdb172?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="173">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.16:3306/cokdb173?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="174">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.50:3306/cokdb174?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="175">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.54:3306/cokdb175?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="176">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.58:3306/cokdb176?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="177">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.62:3306/cokdb177?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="178">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.66:3306/cokdb178?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="179">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.32:3306/cokdb179?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="180">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.36:3306/cokdb180?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="181">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.40:3306/cokdb181?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="182">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.44:3306/cokdb182?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="183">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.114.106:3306/cokdb183?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="184">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.190:3306/cokdb184?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="185">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.194:3306/cokdb185?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="186">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.198:3306/cokdb186?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="187">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.166:3306/cokdb187?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="188">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.174:3306/cokdb188?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="189">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.178:3306/cokdb189?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="190">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.182:3306/cokdb190?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="191">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.158:3306/cokdb191?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="192">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.162:3306/cokdb192?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="193">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.46:3306/cokdb193?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="194">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.170:3306/cokdb194?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="195">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.138:3306/cokdb195?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="196">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.142:3306/cokdb196?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="197">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.122:3306/cokdb197?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="198">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.126:3306/cokdb198?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="199">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.242:3306/cokdb199?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="200">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.246:3306/cokdb200?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="201">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.168.250:3306/cokdb201?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="202">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.26:3306/cokdb202?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="203">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.58:3306/cokdb203?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="204">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.60:3306/cokdb204?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="205">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.64:3306/cokdb205?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="206">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.38:3306/cokdb206?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="207">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.68:3306/cokdb207?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="208">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.152:3306/cokdb208?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="209">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.156:3306/cokdb209?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="210">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.160:3306/cokdb210?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="211">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.165:3306/cokdb211?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="212">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.169:3306/cokdb212?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="213">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.173:3306/cokdb213?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="214">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.179:3306/cokdb214?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="215">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.183:3306/cokdb215?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="216">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.187:3306/cokdb216?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="217">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.193:3306/cokdb217?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="218">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.199:3306/cokdb218?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="219">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.205:3306/cokdb219?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="220">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.175:3306/cokdb220?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="221">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.32:3306/cokdb221?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="222">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.48:3306/cokdb222?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="223">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.24:3306/cokdb223?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="224">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.56:3306/cokdb224?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="225">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.66:3306/cokdb225?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="226">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.72:3306/cokdb226?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="227">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.76:3306/cokdb227?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="228">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.80:3306/cokdb228?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="229">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.58:3306/cokdb229?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="230">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.60:3306/cokdb230?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="231">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.64:3306/cokdb231?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="232">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.38:3306/cokdb232?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="233">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.68:3306/cokdb233?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="234">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.152:3306/cokdb234?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="235">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.156:3306/cokdb235?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="236">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.160:3306/cokdb236?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="237">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.165:3306/cokdb237?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="238">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.169:3306/cokdb238?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="239">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.173:3306/cokdb239?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="240">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.179:3306/cokdb240?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="241">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.183:3306/cokdb241?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="242">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.187:3306/cokdb242?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="243">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.193:3306/cokdb243?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="244">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.199:3306/cokdb244?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="245">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.205:3306/cokdb245?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="246">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.175:3306/cokdb246?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="247">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.32:3306/cokdb247?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="248">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.48:3306/cokdb248?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="249">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.12:3306/cokdb249?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="250">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.191:3306/cokdb250?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="251">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.201:3306/cokdb251?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="252">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.72:3306/cokdb252?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="253">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.76:3306/cokdb253?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="254">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.81:3306/cokdb254?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="255">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.85:3306/cokdb255?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="256">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.89:3306/cokdb256?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="257">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.132:3306/cokdb257?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="258">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.140:3306/cokdb258?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="259">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.156:3306/cokdb259?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="260">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.251:3306/cokdb260?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="261">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.168:3306/cokdb261?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="262">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.188:3306/cokdb262?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="263">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.192:3306/cokdb263?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="264">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.12:3306/cokdb264?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="265">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.191:3306/cokdb265?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="266">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.120.232.201:3306/cokdb266?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="267">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.72:3306/cokdb267?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="268">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.76:3306/cokdb268?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="269">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.81:3306/cokdb269?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="270">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.85:3306/cokdb270?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="271">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.89:3306/cokdb271?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="272">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.132:3306/cokdb272?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="273">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.140:3306/cokdb273?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="274">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.156:3306/cokdb274?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="275">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.251:3306/cokdb275?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="276">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.168:3306/cokdb276?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="277">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.188:3306/cokdb277?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="278">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.192:3306/cokdb278?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="279">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.196:3306/cokdb279?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="280">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.200:3306/cokdb280?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="281">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.204:3306/cokdb281?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="282">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.208:3306/cokdb282?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="283">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.212:3306/cokdb283?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="284">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.216:3306/cokdb284?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="285">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.9.220:3306/cokdb285?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="286">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.105.172:3306/cokdb286?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="287">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.105.168:3306/cokdb287?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="288">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.105.176:3306/cokdb288?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="289">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.105.182:3306/cokdb289?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="290">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.105.186:3306/cokdb290?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="291">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.105.239:3306/cokdb291?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="292">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.105.243:3306/cokdb292?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="293">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.105.204:3306/cokdb293?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="294">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.105.208:3306/cokdb294?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="295">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.105.212:3306/cokdb295?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+
+		<environment id="296">
+			<transactionManager type="JDBC" />
+			<dataSource type="UNPOOLED">
+				<property name="driver" value="${local.jdbc.driver}" />
+				<property name="url" value="jdbc:mysql://10.142.105.194:3306/cokdb296?characterEncoding=utf-8" />
+				<property name="username" value="${local.jdbc.user}" />
+				<property name="password" value="${local.jdbc.password}" />
+			</dataSource>
+		</environment>
+
+    </environments>
+    <mappers>
+        <!-- 建议: 1.每一个表一个Mapper.xml -->
+        <mapper resource="com/elex/cok/puredb/dao/UserResourceMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserProfileMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserBuildingMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/QueueMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/WorldPointMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/WorldMarchMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserItemMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserGiftMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserStateMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserWorldMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserTaskMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/TrainMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserWorldPVEMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/ParseInfoMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserGeneralMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/StatLoginMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/StatRegMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/StatTutorialMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/MailMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserLordMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserScienceMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/PaylogMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/PayRequestMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/SuggestionMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/ServerAnnounceMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/ServerPushMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserActivityMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserArmyMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserHospitalMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserWallMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/AllianceGiftMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserVipMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserTalentMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/AllianceMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/AllianceMemberMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/AllianceApplyMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/AllianceShopMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/AllianceShophisMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/AllianceScienceMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/AllianceScienceUpgradeMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/AllianceCommentMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/AllianceCommentShieldMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/AllianceHelpMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/AllianceHelperMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/AllianceBattleTeamMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/PlayerinfoMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/AllianceDonateMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/ReportMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserBuildingExpMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/TimeRewardMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/ServerScoreMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/ServerTopScoreMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/ServerActivityMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/ServerInfoMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/ServerHistoryTopScoreMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserScoreMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/CityMonsterMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/ExchangeTimeMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/WorldFavoriteMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/ChatShieldMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserMineMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/MailGroupMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/ServerMailRecordMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/ActivationMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserActivationMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/ExchangeMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/ExchangeTimeMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserSkillMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/OldmailinsertMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserPrayMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/InviteeMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/InviterMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserHotItemMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserSnowballMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserSockMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/ActivityMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/User14dayLoginMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserCollectRecordMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserHotItemV2Mapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserOnlinerewardMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserEquipMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/HotBuyRecordMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/HotRefreshRecordMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/MonthlyCardMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/KingdomPositionMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/MaterialControlMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/DeviceMailRecordMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/KingPresentRecordMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/LotteryRecordMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/SignInFeedMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/ServerUpdateMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/ServerUpdateSuggestionMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/RefundLogMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/AllianceInviteMoveMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/DonateHistoryMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserMixedInfoMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserTimerewardMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserActivityNewMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserHonorMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserAchievementMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/AllianceTerritoryMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/MonsterSiegeMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserMonsterSiegeMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/MonsterSiegeTopHistoryMapper.xml"/>
+        <mapper resource="com/elex/cok/puredb/dao/UserMonsterSiegeTopHistoryMapper.xml"/>
+    </mappers>
+
+</configuration>

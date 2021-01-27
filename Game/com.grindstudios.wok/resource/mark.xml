@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="Market">
+	<ItemSpec what="点击游戏主icon，开始loading" id="400000" item="4"/>
+	<ItemSpec what="loading成功，进入游戏" id="400001" item="5"/>
+	<ItemSpec what="——————【开场动画】——————" id="400002" item="3000000"/>
+	<ItemSpec what="动画：异鬼与人类大战" id="400003" item="3280102"/>
+	<ItemSpec doing="看见" what="说话：异鬼的攻击十分猛烈" id="400004" item="3280201"/>
+	<ItemSpec doing="点击" what="说话：异鬼的攻击十分猛烈" id="400005" item="3280202"/>
+	<ItemSpec what="玩家操作：点死异鬼" id="400006" item="3280302"/>
+	<ItemSpec doing="看见" what="说话：巨龙部队前来支援" id="400007" item="3280401"/>
+	<ItemSpec doing="点击" what="说话：巨龙部队前来支援" id="400008" item="3280402"/>
+	<ItemSpec what="动画：城门口三只飞龙" id="400009" item="3280502"/>
+	<ItemSpec doing="看见" what="说话：点击发动巨龙总攻" id="400010" item="3280601"/>
+	<ItemSpec doing="点击" what="说话：点击发动巨龙总攻" id="400011" item="3280602"/>
+	<ItemSpec what="动画：巨龙喷火烧死异鬼" id="400012" item="3280702"/>
+	<ItemSpec what="动画：黑屏一天后" id="400013" item="3280800"/>
+	<ItemSpec what="——————【造校场】——————" id="400014" item="3000000"/>
+	<ItemSpec doing="看见" what="剧情：雪诺说（校场第1句）" id="400015" item="3280901"/>
+	<ItemSpec doing="点击" what="剧情：雪诺说（校场第1句）" id="400016" item="3280902"/>
+	<ItemSpec doing="看见" what="剧情：雪诺说（校场第2句）" id="400017" item="3281001"/>
+	<ItemSpec doing="点击" what="剧情：雪诺说（校场第2句）" id="400018" item="3281002"/>
+	<ItemSpec doing="看见" what="引导：点击校场" id="400019" item="3281101"/>
+	<ItemSpec doing="点击" what="引导：点击校场" id="400020" item="3281102"/>
+	<ItemSpec doing="看见" what="引导：解锁界面，点击【解锁】按钮" id="400021" item="3281201"/>
+	<ItemSpec doing="点击" what="引导：解锁界面，点击【解锁】按钮" id="400022" item="3281202"/>
+	<ItemSpec what="等待4s：建筑解锁、奖励动画" id="400023" item="3281302"/>
+	<ItemSpec what="——————【世界探险】——————" id="400024" item="3000000"/>
+	<ItemSpec doing="看见" what="剧情：士兵说" id="400025" item="3281401"/>
+	<ItemSpec doing="点击" what="剧情：士兵说" id="400026" item="3281402"/>
+	<ItemSpec doing="看见" what="引导：点击【世界】按钮" id="400027" item="3281501"/>
+	<ItemSpec doing="点击" what="引导：点击【世界】按钮" id="400028" item="3281502"/>
+	<ItemSpec what="等待2s：出城" id="400029" item="3281602"/>
+	<ItemSpec doing="看见" what="剧情：莎拉说" id="400030" item="3281701"/>
+	<ItemSpec doing="点击" what="剧情：莎拉说" id="400031" item="3281702"/>
+	<ItemSpec what="动画：镜头跟随僵尸行军" id="400032" item="3281802"/>
+	<ItemSpec what="动画：镜头停止" id="400033" item="3281902"/>
+	<ItemSpec doing="看见" what="剧情：士兵说" id="400034" item="3282001"/>
+	<ItemSpec doing="点击" what="剧情：士兵说" id="400035" item="3282002"/>
+	<ItemSpec what="动画：三队列行军" id="400036" item="3282102"/>
+	<ItemSpec doing="看见" what="剧情：莎拉说" id="400037" item="3282201"/>
+	<ItemSpec doing="点击" what="剧情：莎拉说" id="400038" item="3282202"/>
+	<ItemSpec doing="看见" what="引导：点击【回城】按钮" id="400039" item="3282301"/>
+	<ItemSpec doing="点击" what="引导：点击【回城】按钮" id="400040" item="3282302"/>
+	<ItemSpec what="——————【训练步兵】——————" id="400041" item="3000000"/>
+	<ItemSpec doing="看见" what="剧情：雪诺说（训练步兵）" id="400042" item="3283801"/>
+	<ItemSpec doing="点击" what="剧情：雪诺说（训练步兵）" id="400043" item="3283802"/>
+	<ItemSpec doing="看见" what="引导：点击造兵气泡" id="400044" item="3283901"/>
+	<ItemSpec doing="点击" what="引导：点击造兵气泡" id="400045" item="3283902"/>
+	<ItemSpec doing="看见" what="引导：造兵界面，点击【立即训练】按钮" id="400046" item="3284001"/>
+	<ItemSpec doing="点击" what="引导：造兵界面，点击【立即训练】按钮" id="400047" item="3284002"/>
+	<ItemSpec what="等待2s：训练士兵" id="400048" item="3284102"/>
+	<ItemSpec what="——————【结束剧情】——————" id="400049" item="3000000"/>
+	<ItemSpec doing="看见" what="剧情：莎拉说" id="400050" item="3283301"/>
+	<ItemSpec doing="点击" what="剧情：莎拉说" id="400051" item="3283302"/>
+  </Group>
+</tns:database>

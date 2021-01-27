@@ -1,0 +1,63 @@
+2020-05-29 11:20:01,353 | INFO  | SocketReader | c.s.b.sessions.DefaultSessionManager | Session removed: { Id: 1, Type: DEFAULT, Logged: Yes, IP: 197.60.180.60:13786 }
+2020-05-29 11:20:01,353 | INFO  | SocketReader | com.smartfoxserver.v2.entities.SFSZone | User: Guest#0 was disconnected.
+2020-05-29 11:20:01,353 | INFO  | SocketReader | com.smartfoxserver.v2.api.SFSApi | User disconnected: { Zone: COK1 }, ( User Name: Guest#0, Id: 0, Priv: 0, Sess: 197.60.180.60:13786 ) , SessionLen: 68452, Type: Android
+2020-05-29 11:20:01,398 | INFO  | pool-1-thread-1 | com.elex.cok.user | user profile has removed. uid 1292068000001, name Kingdom11711
+2020-05-29 11:20:01,404 | INFO  | pool-1-thread-1 | com.elex.cok.puredb.model.UserArmy | 1292068000001 army db update batch
+2020-05-29 11:20:01,408 | INFO  | pool-1-thread-1 | com.elex.cok.puredb.model.UserProfile | CLICK_FNCTION SAVE USER_DATA:Kingdom11711
+2020-05-29 11:20:01,410 | ERROR | pool-1-thread-1 | com.elex.cok.MoniterTestException | [LOCAL_DB] execute "update stat_login_2020_4 set disconnect = ? where uid = ? and time = ?" with [1590751201408,1292068000001,1590751134013]
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'cokdb1.stat_login_2020_4' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[na:1.8.0_31]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[na:1.8.0_31]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[na:1.8.0_31]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:408) ~[na:1.8.0_31]
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:407) ~[mysql-connector-java-5.1.15-bin.jar:na]
+	at com.mysql.jdbc.Util.getInstance(Util.java:382) ~[mysql-connector-java-5.1.15-bin.jar:na]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1052) ~[mysql-connector-java-5.1.15-bin.jar:na]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3603) ~[mysql-connector-java-5.1.15-bin.jar:na]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3535) ~[mysql-connector-java-5.1.15-bin.jar:na]
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1989) ~[mysql-connector-java-5.1.15-bin.jar:na]
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2150) ~[mysql-connector-java-5.1.15-bin.jar:na]
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2626) ~[mysql-connector-java-5.1.15-bin.jar:na]
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2119) ~[mysql-connector-java-5.1.15-bin.jar:na]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2415) ~[mysql-connector-java-5.1.15-bin.jar:na]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2333) ~[mysql-connector-java-5.1.15-bin.jar:na]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2318) ~[mysql-connector-java-5.1.15-bin.jar:na]
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeUpdate(DelegatingPreparedStatement.java:105) ~[commons-dbcp-1.4.jar:1.4]
+	at org.apache.commons.dbcp.DelegatingPreparedStatement.executeUpdate(DelegatingPreparedStatement.java:105) ~[commons-dbcp-1.4.jar:1.4]
+	at com.smartfoxserver.v2.db.SFSDBManager.executeUpdate(SFSDBManager.java:208) ~[sfs2x.jar:na]
+	at com.elex.cok.utils.SFSMysql.execute(SFSMysql.java:315) ~[COK-1.0.0-Extension.jar:na]
+	at com.elex.cok.puredb.model.StatLogin.writeDisconnectLog(StatLogin.java:54) [COK-1.0.0-Extension.jar:na]
+	at com.elex.cok.puredb.model.UserProfile.onDisconnectEvent(UserProfile.java:781) [COK-1.0.0-Extension.jar:na]
+	at com.elex.cok.handlers.eventhandlers.UserDisconnEventHandler.handleEvent(UserDisconnEventHandler.java:25) [COK-1.0.0-Extension.jar:na]
+	at com.elex.cok.core.AbstractServerEventHandler.handleServerEvent(AbstractServerEventHandler.java:33) [COK-1.0.0-Extension.jar:na]
+	at com.smartfoxserver.v2.extensions.SFSExtension.handleServerEvent(SFSExtension.java:258) [sfs2x.jar:na]
+	at com.smartfoxserver.v2.entities.managers.SFSExtensionManager.dispatchEvent(SFSExtensionManager.java:764) [sfs2x.jar:na]
+	at com.smartfoxserver.v2.entities.managers.SFSExtensionManager.dispatchZoneLevelEvent(SFSExtensionManager.java:685) [sfs2x.jar:na]
+	at com.smartfoxserver.v2.entities.managers.SFSExtensionManager.handleServerEvent(SFSExtensionManager.java:916) [sfs2x.jar:na]
+	at com.smartfoxserver.v2.core.SFSEventManager$SFSEventRunner.run(SFSEventManager.java:64) [sfs2x.jar:na]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_31]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_31]
+	at java.lang.Thread.run(Thread.java:745) [na:1.8.0_31]
+2020-05-29 11:20:01,443 | INFO  | pool-1-thread-1 | com.elex.cok.user | EVENT | UserDisconnEventHandler | 1292068000001 | 90
+2020-05-29 11:20:09,632 | ERROR | pool-16-thread-1 | c.e.c.g.c.c.ChannelSubscribeService | Pub/sub subscribe error
+redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Connection reset
+	at redis.clients.util.RedisInputStream.ensureFill(RedisInputStream.java:210) ~[jedis-2.6.1.jar:na]
+	at redis.clients.util.RedisInputStream.readByte(RedisInputStream.java:47) ~[jedis-2.6.1.jar:na]
+	at redis.clients.jedis.Protocol.process(Protocol.java:131) ~[jedis-2.6.1.jar:na]
+	at redis.clients.jedis.Protocol.read(Protocol.java:196) ~[jedis-2.6.1.jar:na]
+	at redis.clients.jedis.Connection.readProtocolWithCheckingBroken(Connection.java:283) ~[jedis-2.6.1.jar:na]
+	at redis.clients.jedis.Connection.getRawObjectMultiBulkReply(Connection.java:228) ~[jedis-2.6.1.jar:na]
+	at redis.clients.jedis.JedisPubSub.process(JedisPubSub.java:108) ~[jedis-2.6.1.jar:na]
+	at redis.clients.jedis.JedisPubSub.proceed(JedisPubSub.java:102) ~[jedis-2.6.1.jar:na]
+	at redis.clients.jedis.Jedis.subscribe(Jedis.java:2855) ~[jedis-2.6.1.jar:na]
+	at com.elex.cok.utils.RedisSession.subscribe(RedisSession.java:756) ~[na:na]
+	at com.elex.cok.gameengine.cross.channel.ChannelSubscribeService.run(ChannelSubscribeService.java:36) ~[na:na]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [na:1.8.0_31]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [na:1.8.0_31]
+	at java.lang.Thread.run(Thread.java:745) [na:1.8.0_31]
+Caused by: java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:189) ~[na:1.8.0_31]
+	at java.net.SocketInputStream.read(SocketInputStream.java:121) ~[na:1.8.0_31]
+	at java.net.SocketInputStream.read(SocketInputStream.java:107) ~[na:1.8.0_31]
+	at redis.clients.util.RedisInputStream.ensureFill(RedisInputStream.java:204) ~[jedis-2.6.1.jar:na]
+	... 13 common frames omitted

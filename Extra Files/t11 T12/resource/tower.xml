@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ItemSpec id="5000" type="0" army_limit="6" num_attack="2" time="600" id_status="501000"/>
+  <ItemSpec id="5001" type="1" army_limit="5" num_attack="3" time="600" id_status="501010"/>
+  <ItemSpec id="5002" type="2" army_limit="4" num_attack="4" time="600" para="5"/>
+  <ItemSpec id="5003" type="3" time="200" id_status="501020"/>
+  <ItemSpec id="5004" type="3" time="200" id_status="501021"/>
+  <ItemSpec id="5005" type="3" time="200" id_status="501044"/>
+  <ItemSpec id="5006" type="3" time="200" id_status="501030"/>
+  <ItemSpec id="5007" type="3" time="200" id_status="501031"/>
+  <ItemSpec id="5008" type="3" time="200" id_status="501032"/>
+  <ItemSpec id="5009" type="3" time="200" id_status="501033"/>
+  <ItemSpec id="5010" type="3" time="200" id_status="501034"/>
+  <ItemSpec id="5011" type="3" time="200" id_status="501035"/>
+  <ItemSpec id="5012" type="3" time="200" id_status="501036"/>
+</tns:database>

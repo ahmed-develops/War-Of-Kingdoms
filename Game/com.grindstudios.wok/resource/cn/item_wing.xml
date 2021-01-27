@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="wing">
+    <ItemSpec id="80000" starLevel="1" particalName="castleWing_0|castleWing_1|castleWing_2" SpineName="RS_LV01"/>
+    <ItemSpec id="80001" starLevel="2" particalName="castleWing_0|castleWing_1|castleWing_2" SpineName="RS_LV01"/>
+    <ItemSpec id="80002" starLevel="3" particalName="castleWing_0|castleWing_1|castleWing_2" SpineName="RS_LV01"/>
+    <ItemSpec id="80003" starLevel="4" particalName="castleWing_0|castleWing_1|castleWing_2" SpineName="RS_LV01"/>
+    <ItemSpec id="80004" starLevel="5" particalName="castleWing_0|castleWing_1|castleWing_2" SpineName="RS_LV01"/>
+    <ItemSpec id="80005" starLevel="6" particalName="castleWing_0|castleWing_1|castleWing_2" SpineName="RS_LV01"/>
+    <ItemSpec id="80006" starLevel="7" particalName="castleWing_0|castleWing_1|castleWing_2" SpineName="RS_LV01"/>
+    <ItemSpec id="80007" starLevel="8" particalName="castleWing_0|castleWing_1|castleWing_2" SpineName="RS_LV01"/>
+    <ItemSpec id="80008" starLevel="9" particalName="castleWing_0|castleWing_1|castleWing_2" SpineName="RS_LV01"/>
+    <ItemSpec id="80009" starLevel="10" particalName="castleWing_0|castleWing_1|castleWing_2" SpineName="RS_LV01"/>
+  </Group>
+</tns:database>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="road">
+    <ItemSpec id="217000" type="1" city1="216200" city2="216201" way="100;200|100;300"/>
+    <ItemSpec id="217001" type="2" city1="216201" city2="216202" way="100;500|100;600"/>
+    <ItemSpec id="217002" type="1" city1="216200" city2="216203" way="200;100|300;100"/>
+    <ItemSpec id="217003" type="2" city1="216201" city2="216204" way="200;400|300;400"/>
+    <ItemSpec id="217004" type="1" city1="216202" city2="216205" way="200;700|300;700"/>
+    <ItemSpec id="217005" type="2" city1="216203" city2="216204" way="400;200|400;300"/>
+    <ItemSpec id="217006" type="1" city1="216204" city2="216205" way="400;500|400;600"/>
+    <ItemSpec id="217007" type="2" city1="216203" city2="216206" way="500;100|600;100"/>
+    <ItemSpec id="217008" type="1" city1="216204" city2="216207" way="500;400|600;400"/>
+    <ItemSpec id="217009" type="2" city1="216205" city2="216208" way="500;700|600;700"/>
+    <ItemSpec id="217010" type="1" city1="216206" city2="216207" way="700;200|700;300"/>
+    <ItemSpec id="217011" type="2" city1="216207" city2="216208" way="700;500|700;600"/>
+  </Group>
+</tns:database>

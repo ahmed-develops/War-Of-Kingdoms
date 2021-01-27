@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="goal_reward">
+    <ItemSpec id="1" member_kill="2000" alliance_kill="800000" reward="236030"/>
+    <ItemSpec id="2" member_kill="5000" alliance_kill="2000000" reward="236031"/>
+    <ItemSpec id="3" member_kill="10000" alliance_kill="4000000" reward="236032"/>
+    <ItemSpec id="4" member_kill="16000" alliance_kill="6000000" reward="236033"/>
+    <ItemSpec id="5" member_kill="23000" alliance_kill="8000000" reward="236034"/>
+    <ItemSpec id="6" member_kill="30000" alliance_kill="10000000" reward="236035"/>
+    <ItemSpec id="7" member_kill="38000" alliance_kill="13000000" reward="236036"/>
+    <ItemSpec id="8" member_kill="46000" alliance_kill="16000000" reward="236037"/>
+    <ItemSpec id="9" member_kill="54000" alliance_kill="19000000" reward="236038"/>
+    <ItemSpec id="10" member_kill="62000" alliance_kill="22000000" reward="236039"/>
+    <ItemSpec id="11" member_kill="83000" alliance_kill="29000000" reward="236040"/>
+    <ItemSpec id="12" member_kill="105000" alliance_kill="36000000" reward="236041"/>
+    <ItemSpec id="13" member_kill="130000" alliance_kill="44000000" reward="236042"/>
+    <ItemSpec id="14" member_kill="160000" alliance_kill="55000000" reward="236043"/>
+    <ItemSpec id="15" member_kill="190000" alliance_kill="66000000" reward="236044"/>
+    <ItemSpec id="16" member_kill="220000" alliance_kill="78000000" reward="236045"/>
+    <ItemSpec id="17" member_kill="260000" alliance_kill="91000000" reward="236046"/>
+    <ItemSpec id="18" member_kill="300000" alliance_kill="105000000" reward="236047"/>
+    <ItemSpec id="19" member_kill="340000" alliance_kill="120000000" reward="236048"/>
+    <ItemSpec id="20" member_kill="390000" alliance_kill="135000000" reward="236049"/>
+    <ItemSpec id="21" member_kill="440000" alliance_kill="150000000" reward="236050"/>
+    <ItemSpec id="22" member_kill="490000" alliance_kill="170000000" reward="236051"/>
+    <ItemSpec id="23" member_kill="550000" alliance_kill="190000000" reward="236052"/>
+    <ItemSpec id="24" member_kill="610000" alliance_kill="210000000" reward="236053"/>
+    <ItemSpec id="25" member_kill="670000" alliance_kill="240000000" reward="236054"/>
+  </Group>
+  <Group id="alliance_rank">
+    <ItemSpec id="1" reward="236070"/>
+    <ItemSpec id="2" reward="236071"/>
+    <ItemSpec id="3" reward="236072"/>
+    <ItemSpec id="4" reward="236073"/>
+    <ItemSpec id="5" reward="236074"/>
+    <ItemSpec id="6" reward="236075"/>
+    <ItemSpec id="7" reward="236076"/>
+    <ItemSpec id="8" reward="236077"/>
+    <ItemSpec id="9" reward="236078"/>
+    <ItemSpec id="10" reward="236079"/>
+  </Group>
+  <Group id="member_rank">
+    <ItemSpec id="1" reward="236060"/>
+    <ItemSpec id="2" reward="236061"/>
+    <ItemSpec id="3" reward="236062"/>
+    <ItemSpec id="4" reward="236063"/>
+    <ItemSpec id="5" reward="236064"/>
+    <ItemSpec id="6" reward="236065"/>
+    <ItemSpec id="7" reward="236066"/>
+    <ItemSpec id="8" reward="236067"/>
+    <ItemSpec id="9" reward="236068"/>
+    <ItemSpec id="10" reward="236069"/>
+  </Group>
+</tns:database>

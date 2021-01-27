@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ItemSpec id="999000" hp="70" sequence="1" reward="241071"/>
+  <ItemSpec id="999001" hp="120" sequence="2" reward="241071"/>
+  <ItemSpec id="999002" hp="180" sequence="3" reward="241071"/>
+  <ItemSpec id="999003" hp="230" sequence="4" reward="241071"/>
+  <ItemSpec id="999004" hp="270" sequence="5" reward="241071"/>
+  <ItemSpec id="999005" hp="300" sequence="6" reward="241071"/>
+  <ItemSpec id="999006" hp="350" sequence="7" reward="241071"/>
+  <ItemSpec id="999007" hp="400" sequence="8" reward="241071"/>
+</tns:database>

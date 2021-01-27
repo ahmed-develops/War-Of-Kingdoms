@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ItemSpec id="7000001" tpye="24" time="120" name="140082" pic="icon_landmark_3"/>
+  <ItemSpec id="7000002" tpye="28" time="120" name="140083" pic="icon_landmark_4"/>
+  <ItemSpec id="7000003" tpye="26" time="120" name="140084" pic="icon_landmark_2"/>
+  <ItemSpec id="7000004" tpye="30" time="120" name="140086" pic="icon_landmark_7"/>
+  <ItemSpec id="7000005" tpye="31" time="120" name="140087" pic="icon_landmark_9"/>
+  <ItemSpec id="7000006" tpye="32" time="120" name="140085" pic="icon_landmark_9"/>
+  <ItemSpec id="7000007" tpye="33" time="120" name="140090" pic="icon_landmark_6"/>
+  <ItemSpec id="7000008" tpye="34" time="120" name="140089" pic="icon_landmark_9"/>
+  <ItemSpec id="7000009" tpye="36" time="60" name="140088" pic="icon_landmark_8"/>
+</tns:database>

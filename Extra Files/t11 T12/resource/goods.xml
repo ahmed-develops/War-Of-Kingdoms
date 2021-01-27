@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ItemSpec id="200001" type="0" lv_limit="1" price="500" price_all="100000" price_hot="500"/>
+  <ItemSpec id="200002" type="0" lv_limit="1" price="2000" price_all="400000" price_hot="2000"/>
+  <ItemSpec id="200003" type="0" lv_limit="1"/>
+  <ItemSpec id="200065" name="160017" icon="rongyu_Tilt" description="160018" type="0" lv="29" lv_limit="1" color="3" page="4" pages="1" use="0" order_num="0" price="50" sales="1;50|10;480|100;4500|1000;40000" price_hot="50"/>
+  <ItemSpec id="200004" type="0" lv_limit="1" price="50" price_all="10000" price_hot="50"/>
+  <ItemSpec id="200005" type="0" lv_limit="1" price_hot="2000"/>
+  <ItemSpec id="200006" type="0" lv_limit="1" price="400" price_hot="400"/>
+  <ItemSpec id="200007" type="0" lv_limit="1" price="300"/>
+  <ItemSpec id="200008" type="0" lv_limit="1" price_hot="1000"/>
+  <ItemSpec id="200010" type="0" lv_limit="1"/>
+  <ItemSpec id="200011" type="0" lv_limit="1" price="500000000" price_hot="500000000"/>
+  <ItemSpec id="200012" type="0" lv_limit="1"/>
+  <ItemSpec id="200013" type="0" lv_limit="1"/>
+  <ItemSpec id="200014" type="0" lv_limit="1"/>
+  <ItemSpec id="200015" type="0"/>
+  <ItemSpec id="200926" name="104519" icon="item413" description="104520" type="3" type2="11" lv="1" lv_limit="1" para="800" color="3" page="4" pages="4" use="1" useall="1" order_num="12006" store_order="405" price="16000" price_hot="16000" is_gift="1"/>
+  <ItemSpec id="211086" para1="760000" name="123460" icon="train_lonely" description="123506" type="4" type2="75" lv="1" lv_limit="1" color="5" page="1" use="1" useall="1" order_num="556" price="10000" price_hot="10000" is_gift="1"/>
+  <ItemSpec id="200016" type="0" lv_limit="1" price="15" sales="1;15|10;120|100;1100|1000;10000" price_hot="15"/>
+  <ItemSpec id="200017" type="0" lv_limit="1" sales="1;30|2;71"/>
+  <ItemSpec id="200018" type="0" lv_limit="1" sales="1;30|2;72"/>
+  <ItemSpec id="200019" type="0" lv_limit="1" sales="1;30|2;73"/>
+  <ItemSpec id="200020" type="0" lv_limit="1" price="5" sales="1;5|10;40|100;400|1000;4000" price_hot="5"/>
+  <ItemSpec id="200021" type="0" lv_limit="1" price="200" price_all="40000" price_hot="200"/>
+  <ItemSpec id="200026" type="0" lv_limit="1" price="400" price_all="80000" price_hot="400"/>
+  <ItemSpec id="200027" type="0" lv_limit="1" para2="86400" price_all="6000" price_hot="30"/>
+  <ItemSpec id="200028" type="0" lv_limit="1" para2="86400" price_all="6000" price_hot="30"/>
+  <ItemSpec id="200029" type="0" lv_limit="10" para2="86400" price_all="10000" price_hot="50"/>
+  <ItemSpec id="200030" type="0" lv_limit="15" para2="86400" price_all="14000" price_hot="70"/>
+  <ItemSpec id="200031" type="0" lv_limit="3" price_hot="50" useall="1"/>
+  <ItemSpec id="200032" type="0" lv_limit="1" price="500" price_all="100000" price_hot="500"/>
+  <ItemSpec id="200033" type="0" lv_limit="1" price="500" price_all="100000" price_hot="500"/>
+  <ItemSpec id="200040" type="0" lv_limit="1" price_all="200000" price_hot="1000"/>
+  <ItemSpec id="200041" type="0" lv_limit="1"/>
+  <ItemSpec id="200042" type="0" lv_limit="1" price_hot="500"/>
+  <ItemSpec id="200043" type="0" lv_limit="1" price_hot="1500"/>
+  <ItemSpec id="200044" type="0" lv_limit="1" price_hot="3000"/>
+  <ItemSpec id="200045" type="0" lv_limit="1" price_hot="5000"/>
+  <ItemSpec id="200046" type="0" lv_limit="1" price_hot="10000"/>
+  <ItemSpec id="200060" type="11" lv_limit="1" para1="110105;110119;110173" para2="50;30;20" para3="0" price_hot="1000"/>
+  <ItemSpec id="200061" type="11" lv_limit="1" para1="110066;110120;110174" para2="50;30;20" para3="1" price_hot="1000"/>
+  <ItemSpec id="200062" type="11" lv_limit="1" para1="110067;110121;110175" para2="50;30;20" para3="2" price_hot="1000"/>
+  <ItemSpec id="200063" type="11" lv_limit="1" para1="110068;110122;110176" para2="50;30;20" para3="3" price_hot="1000"/>
+  <ItemSpec id="200064" type="11" lv_limit="1" para1="110253;110299;110275" para2="50;30;20" para3="5" price_hot="500"/>
+  <ItemSpec id="200080" type="12" lv_limit="1" para1="9414;9415;9416;9417;9418;9419;9420;9421" para2="80;70;60;50;40;30;20;10" price_hot="10000"/>
+  <ItemSpec id="200101" type="1" lv_limit="1" para1="2" para2="28800" price_hot="42"/>
+  <ItemSpec id="200200" type="2" lv_limit="1" para1="1" para2="1" para3="3600" price="150" price_all="30000" price_hot="150"/>
+  <ItemSpec id="200201" type="2" lv_limit="1" para1="1" para2="1" para3="300" price_all="3000" price_hot="15"/>
+  <ItemSpec id="200202" type="2" lv_limit="1" para1="1" para2="1" para3="28800" price_all="190000" price_hot="950"/>
+  <ItemSpec id="200203" type="2" lv_limit="1" para1="4" para2="1" para3="300" price_hot="15"/>
+  <ItemSpec id="200204" type="2" lv_limit="1" para1="4" para2="1" para3="7200" price_hot="280"/>
+  <ItemSpec id="200205" type="2" lv_limit="1" para1="6" para2="1" para3="300" price_hot="15"/>
+  <ItemSpec id="200206" type="2" lv_limit="1" para1="6" para2="1" para3="7200" price_hot="280"/>
+  <ItemSpec id="200207" type="2" lv_limit="1" para1="3" para2="1" para3="300" price_hot="15"/>
+  <ItemSpec id="200208" type="2" lv_limit="1" para1="3" para2="1" para3="7200" price_hot="280"/>
+  <ItemSpec id="200213" type="2" lv_limit="1" para1="8" para2="1" para3="300" price_hot="15"/>
+  <ItemSpec id="200214" type="2" lv_limit="1" para1="8" para2="1" para3="7200" price_hot="280"/>
+  <ItemSpec id="200215" type="2" lv_limit="1" para1="7" para2="1" para3="300" price_hot="15"/>
+  <ItemSpec id="200216" type="2" lv_limit="1" para1="7" para2="1" para3="7200" price_hot="280"/>
+  <ItemSpec id="200217" type="2" lv_limit="1" para1="5" para2="1" para3="300" price_hot="15"/>
+  <ItemSpec id="200218" type="2" lv_limit="1" para1="5" para2="1" para3="7200" price_hot="280"/>
+  <ItemSpec id="200220" type="2" lv_limit="1" para1="2" para2="2" para3="25" price="600" price_hot="600"/>
+  <ItemSpec id="200221" type="2" lv_limit="1" para1="2" para2="2" para3="50" price="1000" price_hot="1000"/>
+  <ItemSpec id="200300" type="3" lv_limit="1" para1="101" para2="10000" price="40" price_hot="40" useall="1"/>
+  <ItemSpec id="200301" type="3" lv_limit="1" para1="101" para2="50000" price="160" price_hot="160" useall="1"/>
+  <ItemSpec id="200302" type="3" lv_limit="1" para1="101" para2="150000" price="400" price_hot="400" useall="1"/>
+  <ItemSpec id="200303" type="3" lv_limit="1" para1="101" para2="500000" price="1200" price_hot="1200" useall="1"/>
+  <ItemSpec id="200304" type="3" lv_limit="1" para1="101" para2="1500000" price="3300" price_hot="3300" useall="1"/>
+  <ItemSpec id="200305" type="3" lv_limit="1" para1="101" para2="5000000" price="10000" price_hot="10000" useall="1"/>
+  <ItemSpec id="200306" type="3" lv_limit="1" para1="101" para2="1000" useall="1"/>
+  <ItemSpec id="200307" type="3" lv_limit="1" para1="101" para2="2000" useall="1"/>
+  <ItemSpec id="200308" type="3" lv_limit="1" para1="101" para2="4000" useall="1"/>
+  <ItemSpec id="200309" type="3" lv_limit="1" para1="101" para2="30000" useall="1"/>
+  <ItemSpec id="200310" type="3" lv_limit="15" para1="102" para2="400" price="40" price_hot="40" useall="1"/>
+  <ItemSpec id="200311" type="3" lv_limit="15" para1="102" para2="2000" price="160" price_hot="160" useall="1"/>
+  <ItemSpec id="200312" type="3" lv_limit="15" para1="102" para2="6250" price="400" price_hot="400" useall="1"/>
+  <ItemSpec id="200313" type="3" lv_limit="15" para1="102" para2="20000" price="1200" price_hot="1200" useall="1"/>
+  <ItemSpec id="200314" type="3" lv_limit="15" para1="102" para2="62500" price="3300" price_hot="3300" useall="1"/>
+  <ItemSpec id="200315" type="3" lv_limit="15" para1="102" para2="200000" price="10000" price_hot="10000" useall="1"/>
+  <ItemSpec id="200316" type="3" lv_limit="15" para1="102" para2="40" useall="1"/>
+  <ItemSpec id="200317" type="3" lv_limit="15" para1="102" para2="80" useall="1"/>
+  <ItemSpec id="200318" type="3" lv_limit="15" para1="102" para2="160" useall="1"/>
+  <ItemSpec id="200319" type="3" lv_limit="15" para1="102" para2="1250" useall="1"/>
+  <ItemSpec id="200320" type="3" lv_limit="10" para1="103" para2="1600" price="40" price_hot="40" useall="1"/>
+  <ItemSpec id="200321" type="3" lv_limit="10" para1="103" para2="8000" price="160" price_hot="160" useall="1"/>
+  <ItemSpec id="200322" type="3" lv_limit="10" para1="103" para2="25000" price="400" price_hot="400" useall="1"/>
+  <ItemSpec id="200323" type="3" lv_limit="10" para1="103" para2="80000" price="1200" price_hot="1200" useall="1"/>
+  <ItemSpec id="200324" type="3" lv_limit="10" para1="103" para2="250000" price="3300" price_hot="3300" useall="1"/>
+  <ItemSpec id="200325" type="3" lv_limit="10" para1="103" para2="800000" price="10000" price_hot="10000" useall="1"/>
+  <ItemSpec id="200326" type="3" lv_limit="10" para1="103" para2="150" useall="1"/>
+  <ItemSpec id="200327" type="3" lv_limit="10" para1="103" para2="300" useall="1"/>
+  <ItemSpec id="200328" type="3" lv_limit="10" para1="103" para2="600" useall="1"/>
+  <ItemSpec id="200329" type="3" lv_limit="10" para1="103" para2="5000" useall="1"/>
+  <ItemSpec id="200330" type="3" lv_limit="1" para1="104" para2="10000" price="40" price_hot="40" useall="1"/>
+  <ItemSpec id="200331" type="3" lv_limit="1" para1="104" para2="50000" price="160" price_hot="160" useall="1"/>
+  <ItemSpec id="200332" type="3" lv_limit="1" para1="104" para2="150000" price="400" price_hot="400" useall="1"/>
+  <ItemSpec id="200333" type="3" lv_limit="1" para1="104" para2="500000" price="1200" price_hot="1200" useall="1"/>
+  <ItemSpec id="200334" type="3" lv_limit="1" para1="104" para2="1500000" price="3300" price_hot="3300" useall="1"/>
+  <ItemSpec id="200335" type="3" lv_limit="1" para1="104" para2="5000000" price="10000" price_hot="10000" useall="1"/>
+  <ItemSpec id="200336" type="3" lv_limit="1" para1="104" para2="1000" useall="1"/>
+  <ItemSpec id="200337" type="3" lv_limit="1" para1="104" para2="2000" useall="1"/>
+  <ItemSpec id="200338" type="3" lv_limit="1" para1="104" para2="4000" useall="1"/>
+  <ItemSpec id="200339" type="3" lv_limit="1" para1="104" para2="30000" useall="1"/>
+  <ItemSpec id="200340" type="3" lv_limit="5" para1="158" para2="100" price_hot="25" useall="1"/>
+  <ItemSpec id="200341" type="3" lv_limit="5" para1="158" para2="500" price_hot="125" useall="1"/>
+  <ItemSpec id="200342" type="3" lv_limit="5" para1="158" para2="1500" price_hot="375" useall="1"/>
+  <ItemSpec id="200343" type="3" lv_limit="5" para1="158" para2="5000" price_hot="1250" useall="1"/>
+  <ItemSpec id="200344" type="3" lv_limit="5" para1="158" para2="15000" price_hot="3750" useall="1"/>
+  <ItemSpec id="200345" type="3" lv_limit="5" para1="158" para2="50000" price_hot="12500" useall="1"/>
+  <ItemSpec id="200346" type="3" lv_limit="5" para1="158" para2="10" price_hot="2" useall="1"/>
+  <ItemSpec id="200347" type="3" lv_limit="5" para1="158" para2="20" price_hot="5" useall="1"/>
+  <ItemSpec id="200348" type="3" lv_limit="5" para1="158" para2="40" price_hot="10" useall="1"/>
+  <ItemSpec id="200349" type="3" lv_limit="5" para1="158" para2="300" price_hot="75" useall="1"/>
+  <ItemSpec id="200350" type="3" lv_limit="1" para1="110" para2="100" price="150" price_all="30000" price_hot="150" useall="1"/>
+  <ItemSpec id="200351" type="3" lv_limit="1" para1="110" para2="300" price="400" price_hot="400" useall="1"/>
+  <ItemSpec id="200352" type="3" lv_limit="1" para1="110" para2="1000" price="1000" price_hot="1000" useall="1"/>
+  <ItemSpec id="200353" type="3" lv_limit="1" para1="110" para2="10" price_hot="15" useall="1"/>
+  <ItemSpec id="200360" type="3" lv_limit="1" para1="100" para2="5" useall="1"/>
+  <ItemSpec id="200361" type="3" lv_limit="1" para1="100" para2="10" useall="1"/>
+  <ItemSpec id="200362" type="3" lv_limit="1" para1="100" para2="20" useall="1"/>
+  <ItemSpec id="200363" type="3" lv_limit="1" para1="100" para2="50" useall="1"/>
+  <ItemSpec id="200364" type="3" lv_limit="1" para1="100" para2="100" useall="1"/>
+  <ItemSpec id="200365" type="3" lv_limit="1" para1="100" para2="200" useall="1"/>
+  <ItemSpec id="200366" type="3" lv_limit="1" para1="100" para2="1000" useall="1"/>
+  <ItemSpec id="200370" type="3" lv_limit="1" para1="70" para2="86400" price="250" price_hot="250"/>
+  <ItemSpec id="200371" type="3" lv_limit="1" para1="70" para2="604800" price="1500" price_hot="1500"/>
+  <ItemSpec id="200372" type="3" lv_limit="1" para1="70" para2="2592000" price="4000" price_hot="4000"/>
+  <ItemSpec id="200373" type="3" lv_limit="1" para1="70" para2="1800"/>
+  <ItemSpec id="200374" type="3" lv_limit="1" para1="70" para2="3600"/>
+  <ItemSpec id="200380" type="3" lv_limit="1" para1="107" para2="10" price_hot="40"/>
+  <ItemSpec id="200381" type="3" lv_limit="1" para1="107" para2="50" price="200" price_hot="200"/>
+  <ItemSpec id="200382" type="3" lv_limit="1" para1="107" para2="100" price_hot="400"/>
+  <ItemSpec id="200385" type="3" lv_limit="1" para1="101" para2="100" useall="1"/>
+  <ItemSpec id="200386" type="3" lv_limit="1" para1="104" para2="100" useall="1"/>
+  <ItemSpec id="200390" type="3" lv_limit="1" para1="109" para2="5000" price_hot="100" useall="1"/>
+  <ItemSpec id="200391" type="3" lv_limit="1" para1="109" para2="20000" price_hot="400" useall="1"/>
+  <ItemSpec id="200392" type="3" lv_limit="1" para1="109" para2="100000" price_hot="2000" useall="1"/>
+  <ItemSpec id="200393" type="3" lv_limit="1" para1="109" para2="500" price_hot="10" useall="1"/>
+  <ItemSpec id="200394" type="3" lv_limit="1" para1="109" para2="100" price_hot="2" useall="1"/>
+  <ItemSpec id="200395" type="3" lv_limit="1" para1="109" para2="10" price_hot="1" useall="1"/>
+  <ItemSpec id="200408" type="4" lv_limit="1" para1="500005" price="9000" price_hot="9000"/>
+  <ItemSpec id="200409" type="4" lv_limit="1" para1="500004" price_hot="60"/>
+  <ItemSpec id="200410" type="4" lv_limit="1" para1="500000" price="500" price_all="100000" price_hot="500"/>
+  <ItemSpec id="200411" type="4" lv_limit="1" para1="500001" price="1000" price_hot="1000"/>
+  <ItemSpec id="200412" type="4" lv_limit="1" para1="500002" price="2500" price_hot="2500"/>
+  <ItemSpec id="200413" type="4" lv_limit="1" para1="500003" price="30000" price_hot="30000"/>
+  <ItemSpec id="200414" type="4" lv_limit="1" para1="500011" price="250" price_all="50000" price_hot="250"/>
+  <ItemSpec id="200415" type="4" lv_limit="1" para1="500010" price="400" price_hot="400"/>
+  <ItemSpec id="200416" type="4" lv_limit="1" para1="500020" price="250" price_all="50000" price_hot="250"/>
+  <ItemSpec id="200417" type="4" lv_limit="1" para1="500021" price="400" price_hot="400"/>
+  <ItemSpec id="200418" type="4" lv_limit="1" para1="500030" price="500" price_hot="500"/>
+  <ItemSpec id="200419" type="4" lv_limit="1" para1="500031" price="2000" price_hot="2000"/>
+  <ItemSpec id="200420" type="4" lv_limit="1" para1="500032" price="2000" price_hot="2000"/>
+  <ItemSpec id="200421" type="4" lv_limit="1" para1="500033" price="8000" price_hot="8000"/>
+  <ItemSpec id="200424" type="4" lv_limit="1" para1="500050" price="600" price_hot="600"/>
+  <ItemSpec id="200425" type="4" lv_limit="1" para1="500051" price="3000" price_hot="3000"/>
+  <ItemSpec id="200426" type="4" lv_limit="1" para1="500060" price="200" price_hot="200"/>
+  <ItemSpec id="200427" type="4" lv_limit="1" para1="500070" price="600" price_all="120000" price_hot="600"/>
+  <ItemSpec id="200428" type="4" lv_limit="1" para1="500071"/>
+  <ItemSpec id="200450" type="4" lv_limit="1" para1="500140" price="1500" price_hot="1500"/>
+  <ItemSpec id="200451" type="4" lv_limit="1" para1="500141" price_hot="4000"/>
+  <ItemSpec id="200500" type="5" lv_limit="1" para1="230000"/>
+  <ItemSpec id="200501" type="5" lv_limit="1" para1="230001"/>
+  <ItemSpec id="200502" type="5" lv_limit="1" para1="230002"/>
+  <ItemSpec id="200510" type="5" lv_limit="1" para1="230080" price_hot="100"/>
+  <ItemSpec id="200511" type="5" lv_limit="1" para1="230081" price_hot="500"/>
+  <ItemSpec id="200512" type="5" lv_limit="1" para1="230082" price_hot="1500"/>
+  <ItemSpec id="200550" type="5" lv_limit="1" para1="230060" price_hot="4850"/>
+  <ItemSpec id="200551" type="5" lv_limit="1" para1="230061" price_hot="4300"/>
+  <ItemSpec id="200552" type="5" lv_limit="1" para1="230062" price_hot="4500"/>
+  <ItemSpec id="200553" type="5" lv_limit="1" para1="230070" price_hot="7050"/>
+  <ItemSpec id="200554" type="5" lv_limit="1" para1="230043" price="1900" price_hot="1900" useall="1"/>
+  <ItemSpec id="200555" type="5" lv_limit="1" para1="230044" price="1400" price_hot="1400" useall="1"/>
+  <ItemSpec id="200560" type="5" lv_limit="1" para1="230100"/>
+  <ItemSpec id="200561" type="5" lv_limit="10" para1="230101"/>
+  <ItemSpec id="200562" type="5" lv_limit="15" para1="230102"/>
+  <ItemSpec id="200563" type="5" lv_limit="15" para1="230103"/>
+  <ItemSpec id="200564" type="5" lv_limit="1" para1="230104" useall="1"/>
+  <ItemSpec id="200565" type="5" lv_limit="10" para1="230105" useall="1"/>
+  <ItemSpec id="200566" type="5" lv_limit="15" para1="230106" useall="1"/>
+  <ItemSpec id="200567" type="5" lv_limit="15" para1="230107" useall="1"/>
+  <ItemSpec id="200570" type="5" lv_limit="1" para1="230200"/>
+  <ItemSpec id="200571" type="5" lv_limit="1" para1="230201"/>
+  <ItemSpec id="200572" type="5" lv_limit="1" para1="230202"/>
+  <ItemSpec id="200580" type="5" lv_limit="1" para1="231956" useall="1"/>
+  <ItemSpec id="200581" type="5" lv_limit="1" para1="231956" useall="1"/>
+  <ItemSpec id="200590" type="5" lv_limit="2" para1="230051"/>
+  <ItemSpec id="200600" type="5" lv_limit="5" para1="230110" price_hot="200" useall="1"/>
+  <ItemSpec id="200601" type="5" lv_limit="5" para1="230111" price_hot="200" useall="1"/>
+  <ItemSpec id="200602" type="5" lv_limit="5" para1="230112" price_hot="200" useall="1"/>
+  <ItemSpec id="200603" type="5" lv_limit="5" para1="230113" price="100" price_hot="100" useall="1"/>
+  <ItemSpec id="200604" type="5" lv_limit="5" para1="230114" price="75" price_hot="75" useall="1"/>
+  <ItemSpec id="200610" type="5" lv_limit="5" para1="230120" price_hot="1200" useall="1"/>
+  <ItemSpec id="200611" type="5" lv_limit="5" para1="230115" price="280" price_hot="280" useall="1"/>
+  <ItemSpec id="200621" type="5" lv_limit="5" para1="230122" price="800" price_hot="800" useall="1"/>
+  <ItemSpec id="200622" type="5" lv_limit="5" para1="230123" price="1400" price_hot="1400" useall="1"/>
+  <ItemSpec id="200623" type="5" lv_limit="5" para1="230124" price="2000" price_hot="2000" useall="1"/>
+  <ItemSpec id="200624" type="5" lv_limit="5" para1="230125" price="2600" price_hot="2600" useall="1"/>
+  <ItemSpec id="200625" type="5" lv_limit="5" para1="230126" price="3400" price_hot="3400" useall="1"/>
+  <ItemSpec id="200650" type="5" lv_limit="1" para1="230195" useall="1"/>
+  <ItemSpec id="200651" type="5" lv_limit="1" para1="230196" useall="1"/>
+  <ItemSpec id="200652" type="5" lv_limit="1" para1="230197" useall="1"/>
+  <ItemSpec id="200653" type="5" lv_limit="1" para1="230198" useall="1"/>
+  <ItemSpec id="200654" type="5" lv_limit="1" para1="230199" useall="1"/>
+  <ItemSpec id="200655" type="5" lv_limit="1" para1="232682" useall="1"/>
+  <ItemSpec id="200656" type="5" lv_limit="1" para1="232683" useall="1"/>
+  <ItemSpec id="200657" type="5" lv_limit="1" para1="232684" useall="1"/>
+  <ItemSpec id="200658" type="5" lv_limit="1" para1="232685" useall="1"/>
+  <ItemSpec id="200659" type="5" lv_limit="1" para1="232686" useall="1"/>
+  <ItemSpec id="200660" type="5" lv_limit="1" para1="239012" useall="1"/>
+  <ItemSpec id="200661" type="5" lv_limit="1" para1="239013" useall="1"/>
+  <ItemSpec id="200662" type="5" lv_limit="1" para1="239014" useall="1"/>
+  <ItemSpec id="200663" type="5" lv_limit="1" para1="232735" useall="1"/>
+  <ItemSpec id="200664" type="5" lv_limit="1" para1="232736" useall="1"/>
+  <ItemSpec id="200665" type="5" lv_limit="1" para1="232737" useall="1"/>
+  <ItemSpec id="200666" type="5" lv_limit="1" para1="232738" useall="1"/>
+  <ItemSpec id="200667" type="5" lv_limit="1" para1="232739" useall="1"/>
+  <ItemSpec id="200668" type="5" lv_limit="1" para1="232740" useall="1"/>
+  <ItemSpec id="200669" type="5" lv_limit="1" para1="232741" useall="1"/>
+  <ItemSpec id="200670" type="5" lv_limit="1" para1="232742" useall="1"/>
+  <ItemSpec id="200671" type="5" lv_limit="1" para1="232743" useall="1"/>
+  <ItemSpec id="200672" type="5" lv_limit="1" para1="232744" useall="1"/>
+  <ItemSpec id="200673" type="5" lv_limit="1" para1="241174" useall="1"/>
+  <ItemSpec id="200674" type="5" lv_limit="1" para1="241174" useall="1"/>
+  <ItemSpec id="200675" type="5" lv_limit="1" para1="241174" useall="1"/>
+  <ItemSpec id="200676" type="5" lv_limit="1" para1="241174" useall="1"/>
+  <ItemSpec id="200677" type="5" lv_limit="1" para1="241174" useall="1"/>
+  <ItemSpec id="200678" type="5" lv_limit="1" para1="241174" useall="1"/>
+  <ItemSpec id="200679" type="0" lv_limit="1"/>
+  <ItemSpec id="200680" type="0" lv_limit="1" price_hot="10"/>
+  <ItemSpec id="200681" type="0" lv_limit="1" price_hot="50"/>
+  <ItemSpec id="200682" type="5" lv_limit="1" para1="240012" useall="1"/>
+  <ItemSpec id="200700" type="3" lv_limit="1" para1="159" para2="500" price="5" price_hot="5" useall="1"/>
+  <ItemSpec id="200701" type="3" lv_limit="1" para1="159" para2="1500" price="15" price_hot="15" useall="1"/>
+  <ItemSpec id="200702" type="3" lv_limit="1" para1="159" para2="4000" price="40" price_all="8000" price_hot="40" useall="1"/>
+  <ItemSpec id="200703" type="3" lv_limit="1" para1="159" para2="8000" price="80" price_hot="80" useall="1"/>
+  <ItemSpec id="200704" type="3" lv_limit="1" para1="159" para2="15000" price="145" price_hot="145" useall="1"/>
+  <ItemSpec id="200705" type="3" lv_limit="1" para1="159" para2="1000" price="10" price_hot="10" useall="1"/>
+  <ItemSpec id="200706" type="3" lv_limit="1" para1="159" para2="10000" price="100" price_hot="100" useall="1"/>
+  <ItemSpec id="200707" type="3" lv_limit="1" para1="159" para2="100000" price="950" price_hot="950" useall="1"/>
+  <ItemSpec id="200710" type="3" lv_limit="1" para1="160" para2="1" price="20" price_hot="20" useall="1"/>
+  <ItemSpec id="200711" type="3" lv_limit="1" para1="160" para2="3" price="60" price_hot="60" useall="1"/>
+  <ItemSpec id="200712" type="3" lv_limit="1" para1="160" para2="6" price="120" price_all="24000" price_hot="120" useall="1"/>
+  <ItemSpec id="200713" type="3" lv_limit="1" para1="160" para2="15" price="300" price_hot="300" useall="1"/>
+  <ItemSpec id="200714" type="3" lv_limit="1" para1="160" para2="50" price="950" price_hot="950" useall="1"/>
+  <ItemSpec id="200715" type="3" lv_limit="1" para1="160" para2="200" price="4000" price_hot="4000" useall="1"/>
+  <ItemSpec id="200716" type="3" lv_limit="1" para1="160" para2="1000" price="18000" price_hot="18000" useall="1"/>
+  <ItemSpec id="200717" type="3" lv_limit="1" para1="160" para2="5" price="100" price_hot="100" useall="1"/>
+  <ItemSpec id="200718" type="3" lv_limit="1" para1="160" para2="10" price="200" price_hot="200" useall="1"/>
+  <ItemSpec id="200719" type="3" lv_limit="1" para1="160" para2="100" price="1900" price_hot="1900" useall="1"/>
+  <ItemSpec id="200800" type="8" lv_limit="10" para1="107000;107100;107200;107300" para2="1000" price_all="40000" price_hot="200"/>
+  <ItemSpec id="201010" type="7" lv_limit="1" price_hot="50" make="1|7200|100"/>
+  <ItemSpec id="201011" type="7" lv_limit="1" price_hot="200"/>
+  <ItemSpec id="201012" type="7" lv_limit="1" price_hot="800"/>
+  <ItemSpec id="201013" type="7" lv_limit="1" price_hot="3200"/>
+  <ItemSpec id="201014" type="7" lv_limit="1" price_hot="12800"/>
+  <ItemSpec id="201015" type="7" lv_limit="1" price_hot="51200"/>
+  <ItemSpec id="201020" type="7" lv_limit="1" price_hot="50" make="1|7200|100"/>
+  <ItemSpec id="201021" type="7" lv_limit="1" price_hot="200"/>
+  <ItemSpec id="201022" type="7" lv_limit="1" price_hot="800"/>
+  <ItemSpec id="201023" type="7" lv_limit="1" price_hot="3200"/>
+  <ItemSpec id="201024" type="7" lv_limit="1" price_hot="12800"/>
+  <ItemSpec id="201025" type="7" lv_limit="1" price_hot="51200"/>
+  <ItemSpec id="201030" type="7" lv_limit="1" price_hot="50" make="1|7200|100"/>
+  <ItemSpec id="201031" type="7" lv_limit="1" price_hot="200"/>
+  <ItemSpec id="201032" type="7" lv_limit="1" price_hot="800"/>
+  <ItemSpec id="201033" type="7" lv_limit="1" price_hot="3200"/>
+  <ItemSpec id="201034" type="7" lv_limit="1" price_hot="12800"/>
+  <ItemSpec id="201035" type="7" lv_limit="1" price_hot="51200"/>
+  <ItemSpec id="201040" type="7" lv_limit="1" price_hot="50" make="1|7200|100"/>
+  <ItemSpec id="201041" type="7" lv_limit="1" price_hot="200"/>
+  <ItemSpec id="201042" type="7" lv_limit="1" price_hot="800"/>
+  <ItemSpec id="201043" type="7" lv_limit="1" price_hot="3200"/>
+  <ItemSpec id="201044" type="7" lv_limit="1" price_hot="12800"/>
+  <ItemSpec id="201045" type="7" lv_limit="1" price_hot="51200"/>
+  <ItemSpec id="201050" type="7" lv_limit="1" price_hot="50" make="1|7200|100"/>
+  <ItemSpec id="201051" type="7" lv_limit="1" price_hot="200"/>
+  <ItemSpec id="201052" type="7" lv_limit="1" price_hot="800"/>
+  <ItemSpec id="201053" type="7" lv_limit="1" price_hot="3200"/>
+  <ItemSpec id="201054" type="7" lv_limit="1" price_hot="12800"/>
+  <ItemSpec id="201055" type="7" lv_limit="1" price_hot="51200"/>
+  <ItemSpec id="201060" type="7" lv_limit="1" price_hot="50" make="1|7200|100"/>
+  <ItemSpec id="201061" type="7" lv_limit="1" price_hot="200"/>
+  <ItemSpec id="201062" type="7" lv_limit="1" price_hot="800"/>
+  <ItemSpec id="201063" type="7" lv_limit="1" price_hot="3200"/>
+  <ItemSpec id="201064" type="7" lv_limit="1" price_hot="12800"/>
+  <ItemSpec id="201065" type="7" lv_limit="1" price_hot="51200"/>
+  <ItemSpec id="201070" type="7" lv_limit="1" price_hot="50" make="1|7200|100"/>
+  <ItemSpec id="201071" type="7" lv_limit="1" price_hot="200"/>
+  <ItemSpec id="201072" type="7" lv_limit="1" price_hot="800"/>
+  <ItemSpec id="201073" type="7" lv_limit="1" price_hot="3200"/>
+  <ItemSpec id="201074" type="7" lv_limit="1" price_hot="12800"/>
+  <ItemSpec id="201075" type="7" lv_limit="1" price_hot="51200"/>
+  <ItemSpec id="201080" type="7" lv_limit="1" price_hot="50" make="1|7200|100"/>
+  <ItemSpec id="201081" type="7" lv_limit="1" price_hot="200"/>
+  <ItemSpec id="201082" type="7" lv_limit="1" price_hot="800"/>
+  <ItemSpec id="201083" type="7" lv_limit="1" price_hot="3200"/>
+  <ItemSpec id="201084" type="7" lv_limit="1" price_hot="12800"/>
+  <ItemSpec id="201085" type="7" lv_limit="1" price_hot="51200"/>
+  <ItemSpec id="201090" type="7" lv_limit="1" price_hot="50" make="1|7200|100"/>
+  <ItemSpec id="201091" type="7" lv_limit="1" price_hot="200"/>
+  <ItemSpec id="201092" type="7" lv_limit="1" price_hot="800"/>
+  <ItemSpec id="201093" type="7" lv_limit="1" price_hot="3200"/>
+  <ItemSpec id="201094" type="7" lv_limit="1" price_hot="12800"/>
+  <ItemSpec id="201095" type="7" lv_limit="1" price_hot="51200"/>
+  <ItemSpec id="201100" type="7" lv_limit="1" price_hot="50" make="1|7200|100"/>
+  <ItemSpec id="201101" type="7" lv_limit="1" price_hot="200"/>
+  <ItemSpec id="201102" type="7" lv_limit="1" price_hot="800"/>
+  <ItemSpec id="201103" type="7" lv_limit="1" price_hot="3200"/>
+  <ItemSpec id="201104" type="7" lv_limit="1" price_hot="12800"/>
+  <ItemSpec id="201105" type="7" lv_limit="1" price_hot="51200"/>
+  <ItemSpec id="201110" type="7" lv_limit="1" price_hot="50" make="1|7200|100"/>
+  <ItemSpec id="201111" type="7" lv_limit="1" price_hot="200"/>
+  <ItemSpec id="201112" type="7" lv_limit="1" price_hot="800"/>
+  <ItemSpec id="201113" type="7" lv_limit="1" price_hot="3200"/>
+  <ItemSpec id="201114" type="7" lv_limit="1" price_hot="12800"/>
+  <ItemSpec id="201115" type="7" lv_limit="1" price_hot="51200"/>
+  <ItemSpec id="201120" type="7" lv_limit="1" price_hot="50" make="1|7200|100"/>
+  <ItemSpec id="201121" type="7" lv_limit="1" price_hot="200"/>
+  <ItemSpec id="201122" type="7" lv_limit="1" price_hot="800"/>
+  <ItemSpec id="201123" type="7" lv_limit="1" price_hot="3200"/>
+  <ItemSpec id="201124" type="7" lv_limit="1" price_hot="12800"/>
+  <ItemSpec id="201125" type="7" lv_limit="1" price_hot="51200"/>
+  <ItemSpec id="202001" type="9" lv_limit="1" para1="1101601" price_crystal="800"/>
+  <ItemSpec id="202002" type="9" lv_limit="1" para1="1101602" price_crystal="2400"/>
+  <ItemSpec id="202003" type="9" lv_limit="1" para1="1101603" price_crystal="7200"/>
+  <ItemSpec id="202004" type="9" lv_limit="1" para1="1101604" price_crystal="22000"/>
+  <ItemSpec id="202005" type="9" lv_limit="1" para1="1101605" price_crystal="65000"/>
+  <ItemSpec id="202006" type="5" lv_limit="1" para1="241067" price_hot="50" useall="1"/>
+  <ItemSpec id="202007" type="5" lv_limit="1" para1="241068" price_hot="50" useall="1"/>
+  <ItemSpec id="202008" type="5" lv_limit="1" para1="241137" price_hot="200" useall="1"/>
+  <ItemSpec id="202009" type="5" lv_limit="1" para1="241138" price_hot="1900" useall="1"/>
+  <ItemSpec id="203000" type="4" lv_limit="1" para1="500500" price_hot="5"/>
+  <ItemSpec id="203001" name="137753" icon="icon_JP_face" description="137758" skin="9401058;9401052" type="4" type2="100" lv="1" lv_limit="1" para="137761;137762;137835" color="1" page="4" pages="4" use="1" main_num="40" order_num="40001008" store_order="2289" price="300" price_hot="300" para1="500501" para2="101479"/>
+  <ItemSpec id="203002" name="137754" icon="icon_JP_face" description="137759" skin="9401058;9401053" type="4" type2="100" lv="1" lv_limit="1" para="137761;137762;137835" color="2" page="4" pages="4" use="1" main_num="40" order_num="40001009" store_order="2290" price="600" price_hot="600" para1="500502" para2="101480"/>
+  <ItemSpec id="203003" name="137755" icon="icon_JP_face" description="137760" skin="9401058;9401054" type="4" type2="100" lv="1" lv_limit="1" para="137761;137762;137835" color="3" page="4" use="1" main_num="40" order_num="40001010" price="2500" price_hot="2500" para1="500503" para2="101481"/>
+  <ItemSpec id="203004" name="137715" icon="icon_DE_face" description="137720" skin="137725;9401050" type="4" type2="100" lv="1" lv_limit="1" para="137725;137726;137836" color="0" page="4" use="1" main_num="40" order_num="40001011" price_hot="5" para1="500504" para2="101476"/>
+  <ItemSpec id="203005" name="137717" icon="icon_DE_face" description="137722" skin="137725;9401052" type="4" type2="100" lv="1" lv_limit="1" para="137725;137726;137836" color="1" page="4" pages="4" use="1" main_num="40" order_num="40001012" store_order="2293" price="300" price_hot="300" para1="500505" para2="101479"/>
+  <ItemSpec id="203006" name="137718" icon="icon_DE_face" description="137723" skin="137725;9401053" type="4" type2="100" lv="1" lv_limit="1" para="137725;137726;137836" color="2" page="4" pages="4" use="1" main_num="40" order_num="40001013" store_order="2294" price="600" price_hot="600" para1="500506" para2="101480"/>
+  <ItemSpec id="203007" name="137719" icon="icon_DE_face" description="137724" skin="137725;9401054" type="4" type2="100" lv="1" lv_limit="1" para="137725;137726;137836" color="3" page="4" use="1" main_num="40" order_num="40001014" price="2500" price_hot="2500" para1="500507" para2="101481"/>
+  <ItemSpec id="203008" name="9400511" icon="icon_CN_face" description="9400516" skin="9401067;9401050" type="4" type2="100" lv="1" lv_limit="1" para="9400521;9400522;9400523" color="0" page="4" use="1" main_num="40" order_num="40001015" price_hot="5" para1="500508" para2="101476"/>
+  <ItemSpec id="203009" name="9400513" icon="icon_CN_face" description="9400518" skin="9401067;9401052" type="4" type2="100" lv="1" lv_limit="1" para="9400521;9400522;9400523" color="1" page="4" pages="4" use="1" main_num="40" order_num="40001016" store_order="2297" price="300" price_hot="300" para1="500509" para2="101479"/>
+  <ItemSpec id="203010" name="9400514" icon="icon_CN_face" description="9400519" skin="9401067;9401053" type="4" type2="100" lv="1" lv_limit="1" para="9400521;9400522;9400523" color="2" page="4" pages="4" use="1" main_num="40" order_num="40001017" store_order="2298" price="600" price_hot="600" para1="500510" para2="101480"/>
+  <ItemSpec id="203011" name="9400515" icon="icon_CN_face" description="9400520" skin="9401067;9401054" type="4" type2="100" lv="1" lv_limit="1" para="9400521;9400522;9400523" color="3" page="4" use="1" main_num="40" order_num="40001018" price="2500" price_hot="2500" para1="500511" para2="101481"/>
+  <ItemSpec id="203012" name="104449" icon="icon_Halloween_face" description="101495" skin="9401097;9401050" type="4" type2="100" lv="1" lv_limit="1" para="101472;101473;137838" color="1" page="4" use="1" main_num="40" order_num="40001019" price_hot="300" para1="500512" para2="101478"/>
+  <ItemSpec id="203013" name="104451" icon="icon_Halloween_face" description="101496" skin="9401097;9401052" type="4" type2="100" lv="1" lv_limit="1" para="101472;101473;137838" color="2" page="4" pages="4" use="1" main_num="40" order_num="40001020" store_order="2285" price="1000" price_hot="1000" para1="500513" para2="101479"/>
+  <ItemSpec id="203014" name="104453" icon="icon_Halloween_face" description="101497" skin="9401097;9401053" type="4" type2="100" lv="1" lv_limit="1" para="101472;101473;137838" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001021" store_order="2286" price="2000" price_hot="2000" para1="500514" para2="101480"/>
+  <ItemSpec id="203015" name="104455" icon="icon_Halloween_face" description="101498" skin="9401097;9401054" type="4" type2="100" lv="1" lv_limit="1" para="101472;101473;137838" color="4" page="4" use="1" main_num="40" order_num="40001022" price="6000" price_hot="6000" para1="500515" para2="101481"/>
+  <ItemSpec id="203016" name="104467" icon="icon_Christmas_face" description="104472" skin="9401061;9401050" type="4" type2="100" lv="1" lv_limit="1" para="101500;101501;137928" color="0" page="4" use="1" main_num="40" order_num="40001023" price_hot="20" para1="500516" para2="101476"/>
+  <ItemSpec id="203017" name="104468" icon="icon_Christmas_face" description="104473" skin="9401061;9401051" type="4" type2="100" lv="1" lv_limit="1" para="101500;101501;137928" color="1" page="4" use="1" main_num="40" order_num="40001024" price_hot="300" para1="500517" para2="101478"/>
+  <ItemSpec id="203018" name="104469" icon="icon_Christmas_face" description="104474" skin="9401061;9401052" type="4" type2="100" lv="1" lv_limit="1" para="101500;101501;137928" color="2" page="4" pages="4" use="1" main_num="40" order_num="40001025" store_order="2281" price="1000" price_hot="1000" para1="500518" para2="101479"/>
+  <ItemSpec id="203019" name="104470" icon="icon_Christmas_face" description="104475" skin="9401061;9401053" type="4" type2="100" lv="1" lv_limit="1" para="101500;101501;137928" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001026" store_order="2282" price="2000" price_hot="2000" para1="500519" para2="101480"/>
+  <ItemSpec id="203020" name="104471" icon="icon_Christmas_face" description="104476" skin="9401061;9401054" type="4" type2="100" lv="1" lv_limit="1" para="101500;101501;137928" color="4" page="4" use="1" main_num="40" order_num="40001027" price="6000" price_hot="6000" para1="500520" para2="101481"/>
+  <ItemSpec id="203021" name="104521" icon="icon_ChunJie_face" description="104526" skin="9401060;9401050" type="4" type2="100" lv="1" lv_limit="1" para="104531;104532;137839" color="0" page="4" use="1" main_num="40" order_num="40001028" price_hot="20" para1="500521" para2="101476"/>
+  <ItemSpec id="203022" name="104522" icon="icon_ChunJie_face" description="104527" skin="9401060;9401051" type="4" type2="100" lv="1" lv_limit="1" para="104531;104532;137839" color="1" page="4" use="1" main_num="40" order_num="40001029" price_hot="300" para1="500522" para2="101478"/>
+  <ItemSpec id="203023" name="104523" icon="icon_ChunJie_face" description="104528" skin="9401060;9401052" type="4" type2="100" lv="1" lv_limit="1" para="104531;104532;137839" color="2" page="4" pages="4" use="1" main_num="40" order_num="40001030" store_order="2276" price="1000" price_hot="1000" para1="500523" para2="101479"/>
+  <ItemSpec id="203024" name="104524" icon="icon_ChunJie_face" description="104529" skin="9401060;9401053" type="4" type2="100" lv="1" lv_limit="1" para="104531;104532;137839" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001031" store_order="2277" price="2000" price_hot="2000" para1="500524" para2="101480"/>
+  <ItemSpec id="203025" name="104525" icon="icon_ChunJie_face" description="104530" skin="9401060;9401054" type="4" type2="100" lv="1" lv_limit="1" para="104531;104532;137839" color="4" page="4" use="1" main_num="40" order_num="40001032" price="6000" price_hot="6000" para1="500525" para2="101481"/>
+  <ItemSpec id="203026" name="137589" icon="icon_Qingrenjie_face" description="137595" skin="9401093;9401050" type="4" type2="100" lv="1" lv_limit="1" para="104535;104536;137840" color="0" page="4" use="1" main_num="40" order_num="40001034" price_hot="20" para1="500527" para2="101476"/>
+  <ItemSpec id="203027" name="137590" icon="icon_Qingrenjie_face" description="137596" skin="9401093;9401051" type="4" type2="100" lv="1" lv_limit="1" para="104535;104536;137840" color="1" page="4" use="1" main_num="40" order_num="40001035" price_hot="300" para1="500528" para2="101478"/>
+  <ItemSpec id="203028" name="137591" icon="icon_Qingrenjie_face" description="137597" skin="9401093;9401052" type="4" type2="100" lv="1" lv_limit="1" para="104535;104536;137840" color="2" page="4" use="1" main_num="40" order_num="40001036" price="1000" price_hot="1000" para1="500529" para2="101479"/>
+  <ItemSpec id="203029" name="137592" icon="icon_Qingrenjie_face" description="137598" skin="9401093;9401053" type="4" type2="100" lv="1" lv_limit="1" para="104535;104536;137840" color="3" page="4" use="1" main_num="40" order_num="40001037" price="2000" price_hot="2000" para1="500530" para2="101480"/>
+  <ItemSpec id="203030" name="137593" icon="icon_Qingrenjie_face" description="137599" skin="9401093;9401054" type="4" type2="100" lv="1" lv_limit="1" para="104535;104536;137840" color="4" page="4" use="1" main_num="40" order_num="40001038" price="6000" price_hot="6000" para1="500531" para2="101481"/>
+  <ItemSpec id="203031" name="137605" icon="icon_Yurenjie_face" description="137610" skin="9401085;9401050" type="4" type2="100" lv="1" lv_limit="1" para="137615;137616;137841" color="0" page="4" use="1" main_num="40" order_num="40001040" price_hot="20" para1="500533" para2="101476"/>
+  <ItemSpec id="203032" name="137606" icon="icon_Yurenjie_face" description="137611" skin="9401085;9401051" type="4" type2="100" lv="1" lv_limit="1" para="137615;137616;137841" color="1" page="4" use="1" main_num="40" order_num="40001041" price_hot="300" para1="500534" para2="101478"/>
+  <ItemSpec id="203033" name="137607" icon="icon_Yurenjie_face" description="137612" skin="9401085;9401052" type="4" type2="100" lv="1" lv_limit="1" para="137615;137616;137841" color="2" page="4" pages="4" use="1" main_num="40" order_num="40001042" price="1000" price_hot="1000" para1="500535" para2="101479"/>
+  <ItemSpec id="203034" name="137608" icon="icon_Yurenjie_face" description="137613" skin="9401085;9401053" type="4" type2="100" lv="1" lv_limit="1" para="137615;137616;137841" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001043" price="2000" price_hot="2000" para1="500536" para2="101480"/>
+  <ItemSpec id="203035" name="137609" icon="icon_Yurenjie_face" description="137614" skin="9401085;9401054" type="4" type2="100" lv="1" lv_limit="1" para="137615;137616;137841" color="4" page="4" use="1" main_num="40" order_num="40001044" price="6000" price_hot="6000" para1="500537" para2="101481"/>
+  <ItemSpec id="203036" name="137619" icon="icon_YurenjieDragon_face" description="137624" skin="9401086;9401050" type="4" type2="100" lv="1" lv_limit="1" para="137629;137630;137842" color="0" page="4" use="1" main_num="40" order_num="40001045" price_hot="20" para1="500538" para2="101476"/>
+  <ItemSpec id="203037" name="137620" icon="icon_YurenjieDragon_face" description="137625" skin="9401086;9401051" type="4" type2="100" lv="1" lv_limit="1" para="137629;137630;137842" color="1" page="4" use="1" main_num="40" order_num="40001046" price_hot="300" para1="500539" para2="101478"/>
+  <ItemSpec id="203038" name="137621" icon="icon_YurenjieDragon_face" description="137626" skin="9401086;9401052" type="4" type2="100" lv="1" lv_limit="1" para="137629;137630;137842" color="2" page="4" pages="4" use="1" main_num="40" order_num="40001047" price="2000" price_hot="1000" para1="500540" para2="101479"/>
+  <ItemSpec id="203039" name="137622" icon="icon_YurenjieDragon_face" description="137627" skin="9401086;9401053" type="4" type2="100" lv="1" lv_limit="1" para="137629;137630;137842" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001048" price="4000" price_hot="2000" para1="500541" para2="101480"/>
+  <ItemSpec id="203040" name="137623" icon="icon_YurenjieDragon_face" description="137628" skin="9401086;9401054" type="4" type2="100" lv="1" lv_limit="1" para="137629;137630;137842" color="4" page="4" use="1" main_num="40" order_num="40001049" price="8000" price_hot="6000" para1="500542" para2="101481"/>
+  <ItemSpec id="203041" name="137640" icon="icon_FuHuoJie_face" description="137645" skin="9401062;9401050" type="4" type2="100" lv="1" lv_limit="1" para="137650;137651;137843" color="0" page="4" use="1" main_num="40" order_num="40001050" price="20" price_hot="20" para1="500543" para2="101476"/>
+  <ItemSpec id="203042" name="137641" icon="icon_FuHuoJie_face" description="137646" skin="9401062;9401051" type="4" type2="100" lv="1" lv_limit="1" para="137650;137651;137843" color="1" page="4" use="1" main_num="40" order_num="40001051" price="300" price_hot="300" para1="500544" para2="101478"/>
+  <ItemSpec id="203043" name="137642" icon="icon_FuHuoJie_face" description="137647" skin="9401062;9401052" type="4" type2="100" lv="1" lv_limit="1" para="137650;137651;137843" color="2" page="4" use="1" main_num="40" order_num="40001052" price="1000" price_hot="1000" para1="500545" para2="101479"/>
+  <ItemSpec id="203044" name="137643" icon="icon_FuHuoJie_face" description="137648" skin="9401062;9401053" type="4" type2="100" lv="1" lv_limit="1" para="137650;137651;137843" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001053" price="2000" price_hot="2000" para1="500546" para2="101480"/>
+  <ItemSpec id="203045" name="137644" icon="icon_FuHuoJie_face" description="137649" skin="9401062;9401054" type="4" type2="100" lv="1" lv_limit="1" para="137650;137651;137843" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001054" price="6000" price_hot="6000" para1="500547" para2="101481"/>
+  <ItemSpec id="203046" name="137739" icon="icon_TW_face" description="137744" skin="9401057;9401050" type="4" type2="100" lv="1" lv_limit="1" para="137749;137750;137845" color="0" page="4" use="1" main_num="40" order_num="40001055" price="20" price_hot="20" para1="500548" para2="101476"/>
+  <ItemSpec id="203047" name="137740" icon="icon_TW_face" description="137745" skin="9401057;9401051" type="4" type2="100" lv="1" lv_limit="1" para="137749;137750;137845" color="1" page="4" use="1" main_num="40" order_num="40001056" price="300" price_hot="300" para1="500549" para2="101478"/>
+  <ItemSpec id="203048" name="137741" icon="icon_TW_face" description="137746" skin="9401057;9401052" type="4" type2="100" lv="1" lv_limit="1" para="137749;137750;137845" color="2" page="4" use="1" main_num="40" order_num="40001057" price="1000" price_hot="1000" para1="500550" para2="101479"/>
+  <ItemSpec id="203049" name="137742" icon="icon_TW_face" description="137747" skin="9401057;9401053" type="4" type2="100" lv="1" lv_limit="1" para="137749;137750;137845" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001058" price="2000" price_hot="2000" para1="500551" para2="101480"/>
+  <ItemSpec id="203050" name="137743" icon="icon_TW_face" description="137748" skin="9401057;9401054" type="4" type2="100" lv="1" lv_limit="1" para="137749;137750;137845" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001059" price="6000" price_hot="6000" para1="500552" para2="101481"/>
+  <ItemSpec id="203051" name="137763" icon="icon_KR_face" description="137768" skin="137773;9401050" type="4" type2="100" lv="1" lv_limit="1" para="137773;137774;137846" color="0" page="4" use="1" main_num="40" order_num="40001060" price="20" price_hot="20" para1="500558" para2="101476"/>
+  <ItemSpec id="203052" name="137764" icon="icon_KR_face" description="137769" skin="137773;9401051" type="4" type2="100" lv="1" lv_limit="1" para="137773;137774;137846" color="1" page="4" use="1" main_num="40" order_num="40001061" price="300" price_hot="300" para1="500559" para2="101478"/>
+  <ItemSpec id="203053" name="137765" icon="icon_KR_face" description="137770" skin="137773;9401052" type="4" type2="100" lv="1" lv_limit="1" para="137773;137774;137846" color="2" page="4" use="1" main_num="40" order_num="40001062" price="1000" price_hot="1000" para1="500560" para2="101479"/>
+  <ItemSpec id="203054" name="137766" icon="icon_KR_face" description="137771" skin="137773;9401053" type="4" type2="100" lv="1" lv_limit="1" para="137773;137774;137846" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001063" price="2000" price_hot="2000" para1="500561" para2="101480"/>
+  <ItemSpec id="203055" name="137767" icon="icon_KR_face" description="137772" skin="137773;9401054" type="4" type2="100" lv="1" lv_limit="1" para="137773;137774;137846" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001064" price="6000" price_hot="6000" para1="500562" para2="101481"/>
+  <ItemSpec id="203056" name="137727" icon="icon_EN_face" description="137732" skin="9401056;9401050" type="4" type2="100" lv="1" lv_limit="1" para="137737;137738;137844" color="0" page="4" use="1" main_num="40" order_num="40001065" price="20" price_hot="20" para1="500553" para2="101476"/>
+  <ItemSpec id="203057" name="137728" icon="icon_EN_face" description="137733" skin="9401056;9401051" type="4" type2="100" lv="1" lv_limit="1" para="137737;137738;137844" color="1" page="4" use="1" main_num="40" order_num="40001066" price="300" price_hot="300" para1="500554" para2="101478"/>
+  <ItemSpec id="203058" name="137729" icon="icon_EN_face" description="137734" skin="9401056;9401052" type="4" type2="100" lv="1" lv_limit="1" para="137737;137738;137844" color="2" page="4" use="1" main_num="40" order_num="40001067" price="1000" price_hot="1000" para1="500555" para2="101479"/>
+  <ItemSpec id="203059" name="137730" icon="icon_EN_face" description="137735" skin="9401056;9401053" type="4" type2="100" lv="1" lv_limit="1" para="137737;137738;137844" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001068" price="2000" price_hot="2000" para1="500556" para2="101480"/>
+  <ItemSpec id="203060" name="137731" icon="icon_EN_face" description="137736" skin="9401056;9401054" type="4" type2="100" lv="1" lv_limit="1" para="137737;137738;137844" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001069" price="6000" price_hot="6000" para1="500557" para2="101481"/>
+  <ItemSpec id="203061" name="137811" icon="icon_ChildrensDay_face" description="137816" skin="9401059;9401050" type="4" type2="100" lv="1" lv_limit="1" para="137821;137822;137847" color="0" page="4" use="1" main_num="40" order_num="40001070" price="20" price_hot="20" para1="500563" para2="101476"/>
+  <ItemSpec id="203062" name="137812" icon="icon_ChildrensDay_face" description="137817" skin="9401059;9401051" type="4" type2="100" lv="1" lv_limit="1" para="137821;137822;137847" color="1" page="4" use="1" main_num="40" order_num="40001071" price="300" price_hot="300" para1="500564" para2="101478"/>
+  <ItemSpec id="203063" name="137813" icon="icon_ChildrensDay_face" description="137818" skin="9401059;9401052" type="4" type2="100" lv="1" lv_limit="1" para="137821;137822;137847" color="2" page="4" use="1" main_num="40" order_num="40001072" price="1000" price_hot="1000" para1="500565" para2="101479"/>
+  <ItemSpec id="203064" name="137814" icon="icon_ChildrensDay_face" description="137819" skin="9401059;9401053" type="4" type2="100" lv="1" lv_limit="1" para="137821;137822;137847" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001073" price="2000" price_hot="2000" para1="500566" para2="101480"/>
+  <ItemSpec id="203065" name="137815" icon="icon_ChildrensDay_face" description="137820" skin="9401059;9401054" type="4" type2="100" lv="1" lv_limit="1" para="137821;137822;137847" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001074" price="6000" price_hot="6000" para1="500567" para2="101481"/>
+  <ItemSpec id="203066" name="137731" icon="icon_DE_face" description="137816" type="4" type2="102" lv="1" lv_limit="1" para="137737;137738" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001877" price="6000" price_hot="6000" para1="500568" para2="101476"/>
+  <ItemSpec id="203067" name="137815" icon="icon_YurenjieDragon_face" description="137820" type="4" type2="101" lv="1" lv_limit="1" para="137821;137822" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001878" price="6000" price_hot="6000" para1="500569" para2="101476"/>
+  <ItemSpec id="203068" name="137901" icon="icon_March_red_face" description="137906" skin="9401119;9401050" type="4" type2="101" lv="1" lv_limit="1" para="137911;137912;137913" color="0" page="4" use="1" main_num="40" order_num="40001075" price="20" price_hot="20" para1="500570" para2="101476"/>
+  <ItemSpec id="203069" name="137902" icon="icon_March_red_face" description="137907" skin="9401119;9401051" type="4" type2="101" lv="1" lv_limit="1" para="137911;137912;137913" color="1" page="4" use="1" main_num="40" order_num="40001076" price="300" price_hot="300" para1="500571" para2="101478"/>
+  <ItemSpec id="203070" name="137903" icon="icon_March_red_face" description="137908" skin="9401119;9401052" type="4" type2="101" lv="1" lv_limit="1" para="137911;137912;137913" color="2" page="4" pages="4" use="1" main_num="40" order_num="40001077" price="1000" price_hot="1000" para1="500572" para2="101479"/>
+  <ItemSpec id="203071" name="137904" icon="icon_March_red_face" description="137909" skin="9401119;9401053" type="4" type2="101" lv="1" lv_limit="1" para="137911;137912;137913" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001078" price="2000" price_hot="2000" para1="500573" para2="101480"/>
+  <ItemSpec id="203072" name="137905" icon="icon_March_red_face" description="137910" skin="9401119;9401054" type="4" type2="101" lv="1" lv_limit="1" para="137911;137912;137913" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001079" price="6000" price_hot="6000" para1="500574" para2="101481"/>
+  <ItemSpec id="203073" name="137875" icon="icon_Ground_Halloween_face" description="137880" skin="9401112;9401050" type="4" type2="102" lv="1" lv_limit="1" para="137885;137886;137887" color="0" page="4" use="1" main_num="40" order_num="40001080" price="20" price_hot="20" para1="500575" para2="101476"/>
+  <ItemSpec id="203074" name="137876" icon="icon_Ground_Halloween_face" description="137881" skin="9401112;9401051" type="4" type2="102" lv="1" lv_limit="1" para="137885;137886;137887" color="1" page="4" use="1" main_num="40" order_num="40001081" price="300" price_hot="300" para1="500576" para2="101478"/>
+  <ItemSpec id="203075" name="137877" icon="icon_Ground_Halloween_face" description="137882" skin="9401112;9401052" type="4" type2="102" lv="1" lv_limit="1" para="137885;137886;137887" color="2" page="4" pages="4" use="1" main_num="40" order_num="40001082" price="1000" price_hot="1000" para1="500577" para2="101479"/>
+  <ItemSpec id="203076" name="137878" icon="icon_Ground_Halloween_face" description="137883" skin="9401112;9401053" type="4" type2="102" lv="1" lv_limit="1" para="137885;137886;137887" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001083" price="2000" price_hot="2000" para1="500578" para2="101480"/>
+  <ItemSpec id="203077" name="137879" icon="icon_Ground_Halloween_face" description="137884" skin="9401112;9401054" type="4" type2="102" lv="1" lv_limit="1" para="137885;137886;137887" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001084" price="6000" price_hot="6000" para1="500579" para2="101481"/>
+  <ItemSpec id="203078" name="137961" icon="icon_TWGoogle_face" description="137966" skin="9401140;9401050" type="4" type2="100" lv="1" lv_limit="1" para="137971;137972;137973" color="0" page="4" use="1" main_num="40" order_num="40001085" price="20" price_hot="20" para1="500581" para2="101476"/>
+  <ItemSpec id="203079" name="137962" icon="icon_TWGoogle_face" description="137967" skin="9401140;9401051" type="4" type2="100" lv="1" lv_limit="1" para="137971;137972;137973" color="1" page="4" use="1" main_num="40" order_num="40001086" price="300" price_hot="300" para1="500582" para2="101478"/>
+  <ItemSpec id="203080" name="137963" icon="icon_TWGoogle_face" description="137968" skin="9401140;9401052" type="4" type2="100" lv="1" lv_limit="1" para="137971;137972;137973" color="2" page="4" use="1" main_num="40" order_num="40001087" price="1000" price_hot="1000" para1="500583" para2="101479"/>
+  <ItemSpec id="203081" name="137964" icon="icon_TWGoogle_face" description="137969" skin="9401140;9401053" type="4" type2="100" lv="1" lv_limit="1" para="137971;137972;137973" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001088" price="2000" price_hot="2000" para1="500584" para2="101480"/>
+  <ItemSpec id="203082" name="137965" icon="icon_TWGoogle_face" description="137970" skin="9401140;9401054" type="4" type2="100" lv="1" lv_limit="1" para="137971;137972;137973" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001089" price_hot="6000" para1="500585" para2="101481"/>
+  <ItemSpec id="203083" name="9400028" icon="icon_GaoJi2Year_face" description="9400033" skin="9401066;9401050" type="4" type2="100" lv="1" lv_limit="1" para="9400038;9400039;9400040" color="0" page="4" use="1" main_num="40" order_num="40001090" para1="500590" para2="101476"/>
+  <ItemSpec id="203084" name="9400029" icon="icon_GaoJi2Year_face" description="9400034" skin="9401066;9401051" type="4" type2="100" lv="1" lv_limit="1" para="9400038;9400039;9400040" color="1" page="4" use="1" main_num="40" order_num="40001091" para1="500591" para2="101478"/>
+  <ItemSpec id="203085" name="9400030" icon="icon_GaoJi2Year_face" description="9400035" skin="9401066;9401052" type="4" type2="100" lv="1" lv_limit="1" para="9400038;9400039;9400040" color="2" page="4" use="1" main_num="40" order_num="40001092" para1="500592" para2="101479"/>
+  <ItemSpec id="203086" name="9400031" icon="icon_GaoJi2Year_face" description="9400036" skin="9401066;9401053" type="4" type2="100" lv="1" lv_limit="1" para="9400038;9400039;9400040" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001093" para1="500593" para2="101480"/>
+  <ItemSpec id="203087" name="9400032" icon="icon_GaoJi2Year_face" description="9400037" skin="9401066;9401054" type="4" type2="100" lv="1" lv_limit="1" para="9400038;9400039;9400040" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001094" para1="500594" para2="101481"/>
+  <ItemSpec id="203088" name="9400110" icon="icon_GaoJi2Year_face" description="9400111" skin="9401066;9401055" type="4" type2="100" lv="1" lv_limit="1" para="9400038;9400039;9400111" color="5" page="4" use="1" main_num="40" order_num="40001095" para1="500595" para2="101502"/>
+  <ItemSpec id="203089" name="9400097" icon="icon_Ground_2_face" description="9400102" skin="9401111;9401050" type="4" type2="102" lv="1" lv_limit="1" para="9400107;9400108;9400109" color="0" page="4" use="1" main_num="40" order_num="40001096" para1="500596" para2="101476"/>
+  <ItemSpec id="203090" name="9400098" icon="icon_Ground_2_face" description="9400103" skin="9401111;9401051" type="4" type2="102" lv="1" lv_limit="1" para="9400107;9400108;9400109" color="1" page="4" use="1" main_num="40" order_num="40001097" para1="500597" para2="101478"/>
+  <ItemSpec id="203091" name="9400099" icon="icon_Ground_2_face" description="9400104" skin="9401111;9401052" type="4" type2="102" lv="1" lv_limit="1" para="9400107;9400108;9400109" color="2" page="4" use="1" main_num="40" order_num="40001098" para1="500598" para2="101479"/>
+  <ItemSpec id="203092" name="9400100" icon="icon_Ground_2_face" description="9400105" skin="9401111;9401053" type="4" type2="102" lv="1" lv_limit="1" para="9400107;9400108;9400109" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001099" para1="500599" para2="101480"/>
+  <ItemSpec id="203093" name="9400101" icon="icon_Ground_2_face" description="9400106" skin="9401111;9401054" type="4" type2="102" lv="1" lv_limit="1" para="9400107;9400108;9400109" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001100" para1="500600" para2="101481"/>
+  <ItemSpec id="203094" name="9400041" icon="chat_2year" description="9400046" skin="9401094;9401050" type="4" type2="103" lv="1" lv_limit="1" para="9400051;9400052;9400053" color="0" page="4" use="1" main_num="40" order_num="40001101" para1="500601" para2="101476"/>
+  <ItemSpec id="203095" name="9400042" icon="chat_2year" description="9400047" skin="9401094;9401051" type="4" type2="103" lv="1" lv_limit="1" para="9400051;9400052;9400053" color="1" page="4" use="1" main_num="40" order_num="40001102" para1="500602" para2="101478"/>
+  <ItemSpec id="203096" name="9400043" icon="chat_2year" description="9400048" skin="9401094;9401052" type="4" type2="103" lv="1" lv_limit="1" para="9400051;9400052;9400053" color="2" page="4" use="1" main_num="40" order_num="40001103" para1="500603" para2="101479"/>
+  <ItemSpec id="203097" name="9400044" icon="chat_2year" description="9400049" skin="9401094;9401053" type="4" type2="103" lv="1" lv_limit="1" para="9400051;9400052;9400053" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001104" para1="500604" para2="101480"/>
+  <ItemSpec id="203098" name="9400045" icon="chat_2year" description="9400050" skin="9401094;9401054" type="4" type2="103" lv="1" lv_limit="1" para="9400051;9400052;9400053" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001105" para1="500605" para2="101481"/>
+  <ItemSpec id="203099" name="9400080" icon="chat_europe" description="9400085" skin="9401094;9401050" type="4" type2="103" lv="1" lv_limit="1" para="9400090;9400091;9400092" color="0" page="4" use="1" main_num="40" order_num="40001106" para1="500606" para2="101476"/>
+  <ItemSpec id="203100" name="9400081" icon="chat_europe" description="9400086" skin="9401094;9401051" type="4" type2="103" lv="1" lv_limit="1" para="9400090;9400091;9400092" color="1" page="4" use="1" main_num="40" order_num="40001107" para1="500607" para2="101478"/>
+  <ItemSpec id="203101" name="9400082" icon="chat_europe" description="9400087" skin="9401094;9401052" type="4" type2="103" lv="1" lv_limit="1" para="9400090;9400091;9400092" color="2" page="4" use="1" main_num="40" order_num="40001108" para1="500608" para2="101479"/>
+  <ItemSpec id="203102" name="9400083" icon="chat_europe" description="9400088" skin="9401094;9401053" type="4" type2="103" lv="1" lv_limit="1" para="9400090;9400091;9400092" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001109" para1="500609" para2="101480"/>
+  <ItemSpec id="203103" name="9400084" icon="chat_europe" description="9400089" skin="9401094;9401054" type="4" type2="103" lv="1" lv_limit="1" para="9400090;9400091;9400092" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001110" para1="500610" para2="101481"/>
+  <ItemSpec id="203104" name="9400000" icon="icon_Arab_face" description="9400005" skin="9401065;9401050" type="4" type2="100" lv="1" lv_limit="1" para="9400010;9400011;9400012" color="0" page="4" use="1" main_num="40" order_num="40001111" para1="500611" para2="101476"/>
+  <ItemSpec id="203105" name="9400001" icon="icon_Arab_face" description="9400006" skin="9401065;9401051" type="4" type2="100" lv="1" lv_limit="1" para="9400010;9400011;9400012" color="1" page="4" use="1" main_num="40" order_num="40001112" para1="500612" para2="101478"/>
+  <ItemSpec id="203106" name="9400002" icon="icon_Arab_face" description="9400007" skin="9401065;9401052" type="4" type2="100" lv="1" lv_limit="1" para="9400010;9400011;9400012" color="2" page="4" use="1" main_num="40" order_num="40001113" para1="500613" para2="101479"/>
+  <ItemSpec id="203107" name="9400003" icon="icon_Arab_face" description="9400008" skin="9401065;9401053" type="4" type2="100" lv="1" lv_limit="1" para="9400010;9400011;9400012" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001114" para1="500614" para2="101480"/>
+  <ItemSpec id="203108" name="9400004" icon="icon_Arab_face" description="9400009" skin="9401065;9401054" type="4" type2="100" lv="1" lv_limit="1" para="9400010;9400011;9400012" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001115" para1="500615" para2="101481"/>
+  <ItemSpec id="203109" name="9400125" icon="icon_Long_face" description="9400126" skin="9401071;9401055" type="4" type2="100" lv="1" lv_limit="1" para="9400125;9400126;9400126" color="5" page="4" use="1" main_num="40" order_num="40001116" para1="500621" para2="101502"/>
+  <ItemSpec id="203110" name="9400093" icon="item1064" description="9400141" type="13" lv="1" lv_limit="1" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001117" para1="203088" para2="203110" para3="56"/>
+  <ItemSpec id="203111" name="9400112" icon="icon_Long_face" description="9400117" skin="9401071;9401050" type="4" type2="100" lv="1" lv_limit="1" para="9400122;9400123;9400124" color="0" page="4" use="1" main_num="40" order_num="40001118" para1="500616" para2="101476"/>
+  <ItemSpec id="203112" name="9400113" icon="icon_Long_face" description="9400118" skin="9401071;9401051" type="4" type2="100" lv="1" lv_limit="1" para="9400122;9400123;9400124" color="1" page="4" use="1" main_num="40" order_num="40001119" para1="500617" para2="101478"/>
+  <ItemSpec id="203113" name="9400114" icon="icon_Long_face" description="9400119" skin="9401071;9401052" type="4" type2="100" lv="1" lv_limit="1" para="9400122;9400123;9400124" color="2" page="4" use="1" main_num="40" order_num="40001120" para1="500618" para2="101479"/>
+  <ItemSpec id="203114" name="9400115" icon="icon_Long_face" description="9400120" skin="9401071;9401053" type="4" type2="100" lv="1" lv_limit="1" para="9400122;9400123;9400124" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001121" para1="500619" para2="101480"/>
+  <ItemSpec id="203115" name="9400116" icon="icon_Long_face" description="9400121" skin="9401071;9401054" type="4" type2="100" lv="1" lv_limit="1" para="9400122;9400123;9400124" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001122" para1="500620" para2="101481"/>
+  <ItemSpec id="203116" name="137942" icon="icon_Free2Year_face" description="137947" skin="9401063;9401050" type="4" type2="100" lv="1" lv_limit="1" para="137952;137953;137954" color="0" page="4" use="1" main_num="40" order_num="40001123" para1="500622" para2="101476"/>
+  <ItemSpec id="203117" name="137943" icon="icon_Free2Year_face" description="137948" skin="9401063;9401051" type="4" type2="100" lv="1" lv_limit="1" para="137952;137953;137954" color="1" page="4" use="1" main_num="40" order_num="40001124" para1="500623" para2="101478"/>
+  <ItemSpec id="203118" name="137944" icon="icon_Free2Year_face" description="137949" skin="9401063;9401052" type="4" type2="100" lv="1" lv_limit="1" para="137952;137953;137954" color="2" page="4" use="1" main_num="40" order_num="40001125" para1="500624" para2="101479"/>
+  <ItemSpec id="203119" name="137945" icon="icon_Free2Year_face" description="137950" skin="9401063;9401053" type="4" type2="100" lv="1" lv_limit="1" para="137952;137953;137954" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001126" para1="500625" para2="101480"/>
+  <ItemSpec id="203120" name="137946" icon="icon_Free2Year_face" description="137951" skin="9401063;9401054" type="4" type2="100" lv="1" lv_limit="1" para="137952;137953;137954" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001127" para1="500626" para2="101481"/>
+  <ItemSpec id="203121" name="9400054" icon="chat_mufu" description="9400059" skin="9401139;9401050" type="4" type2="103" lv="1" lv_limit="1" para="9400064;9400065;9400066" color="0" page="4" use="1" main_num="40" order_num="40001128" para1="500627" para2="101476"/>
+  <ItemSpec id="203122" name="9400055" icon="chat_mufu" description="9400060" skin="9401139;9401051" type="4" type2="103" lv="1" lv_limit="1" para="9400064;9400065;9400066" color="1" page="4" use="1" main_num="40" order_num="40001129" para1="500628" para2="101478"/>
+  <ItemSpec id="203123" name="9400056" icon="chat_mufu" description="9400061" skin="9401139;9401052" type="4" type2="103" lv="1" lv_limit="1" para="9400064;9400065;9400066" color="2" page="4" use="1" main_num="40" order_num="40001130" para1="500629" para2="101479"/>
+  <ItemSpec id="203124" name="9400057" icon="chat_mufu" description="9400062" skin="9401139;9401053" type="4" type2="103" lv="1" lv_limit="1" para="9400064;9400065;9400066" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001131" para1="500630" para2="101480"/>
+  <ItemSpec id="203125" name="9400058" icon="chat_mufu" description="9400063" skin="9401139;9401054" type="4" type2="103" lv="1" lv_limit="1" para="9400064;9400065;9400066" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001132" para1="500631" para2="101481"/>
+  <ItemSpec id="203126" name="9400190" icon="chat_nangua" description="9400195" skin="9401097;9401050" type="4" type2="103" lv="1" lv_limit="1" para="9400200;9400201;9400202" color="0" page="4" use="1" main_num="40" order_num="40001133" para1="500632" para2="101476"/>
+  <ItemSpec id="203127" name="9400191" icon="chat_nangua" description="9400196" skin="9401097;9401051" type="4" type2="103" lv="1" lv_limit="1" para="9400200;9400201;9400202" color="1" page="4" use="1" main_num="40" order_num="40001134" para1="500633" para2="101478"/>
+  <ItemSpec id="203128" name="9400192" icon="chat_nangua" description="9400197" skin="9401097;9401052" type="4" type2="103" lv="1" lv_limit="1" para="9400200;9400201;9400202" color="2" page="4" use="1" main_num="40" order_num="40001135" para1="500634" para2="101479"/>
+  <ItemSpec id="203129" name="9400193" icon="chat_nangua" description="9400198" skin="9401097;9401053" type="4" type2="103" lv="1" lv_limit="1" para="9400200;9400201;9400202" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001136" para1="500635" para2="101480"/>
+  <ItemSpec id="203130" name="9400194" icon="chat_nangua" description="9400199" skin="9401097;9401054" type="4" type2="103" lv="1" lv_limit="1" para="9400200;9400201;9400202" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001137" para1="500636" para2="101481"/>
+  <ItemSpec id="203131" name="9400311" icon="icon_March_4_face" description="9400316" skin="9401116;9401050" type="4" type2="101" lv="1" lv_limit="1" para="9400321;9400322;9400323" color="0" page="4" use="1" main_num="40" order_num="40001138" para1="500637" para2="101476"/>
+  <ItemSpec id="203132" name="9400312" icon="icon_March_4_face" description="9400317" skin="9401116;9401051" type="4" type2="101" lv="1" lv_limit="1" para="9400321;9400322;9400323" color="1" page="4" use="1" main_num="40" order_num="40001139" para1="500638" para2="101478"/>
+  <ItemSpec id="203133" name="9400313" icon="icon_March_4_face" description="9400318" skin="9401116;9401052" type="4" type2="101" lv="1" lv_limit="1" para="9400321;9400322;9400323" color="2" page="4" use="1" main_num="40" order_num="40001140" para1="500639" para2="101479"/>
+  <ItemSpec id="203134" name="9400314" icon="icon_March_4_face" description="9400319" skin="9401116;9401053" type="4" type2="101" lv="1" lv_limit="1" para="9400321;9400322;9400323" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001141" para1="500640" para2="101480"/>
+  <ItemSpec id="203135" name="9400315" icon="icon_March_4_face" description="9400320" skin="9401116;9401054" type="4" type2="101" lv="1" lv_limit="1" para="9400321;9400322;9400323" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001142" para1="500641" para2="101481"/>
+  <ItemSpec id="203136" name="9400324" icon="icon_March_2_face" description="9400329" skin="9401117;9401050" type="4" type2="101" lv="1" lv_limit="1" para="9400334;9400335;9400336" color="0" page="4" use="1" main_num="40" order_num="40001143" para1="500642" para2="101476"/>
+  <ItemSpec id="203137" name="9400325" icon="icon_March_2_face" description="9400330" skin="9401117;9401051" type="4" type2="101" lv="1" lv_limit="1" para="9400334;9400335;9400336" color="1" page="4" use="1" main_num="40" order_num="40001144" para1="500643" para2="101478"/>
+  <ItemSpec id="203138" name="9400326" icon="icon_March_2_face" description="9400331" skin="9401117;9401052" type="4" type2="101" lv="1" lv_limit="1" para="9400334;9400335;9400336" color="2" page="4" use="1" main_num="40" order_num="40001145" para1="500644" para2="101479"/>
+  <ItemSpec id="203139" name="9400327" icon="icon_March_2_face" description="9400332" skin="9401117;9401053" type="4" type2="101" lv="1" lv_limit="1" para="9400334;9400335;9400336" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001146" para1="500645" para2="101480"/>
+  <ItemSpec id="203140" name="9400328" icon="icon_March_2_face" description="9400333" skin="9401117;9401054" type="4" type2="101" lv="1" lv_limit="1" para="9400334;9400335;9400336" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001147" para1="500646" para2="101481"/>
+  <ItemSpec id="203141" name="9400337" icon="icon_March_3_face" description="9400342" skin="9401118;9401050" type="4" type2="101" lv="1" lv_limit="1" para="9400347;9400348;9400349" color="0" page="4" use="1" main_num="40" order_num="40001148" para1="500647" para2="101476"/>
+  <ItemSpec id="203142" name="9400338" icon="icon_March_3_face" description="9400343" skin="9401118;9401051" type="4" type2="101" lv="1" lv_limit="1" para="9400347;9400348;9400349" color="1" page="4" use="1" main_num="40" order_num="40001149" para1="500648" para2="101478"/>
+  <ItemSpec id="203143" name="9400339" icon="icon_March_3_face" description="9400344" skin="9401118;9401052" type="4" type2="101" lv="1" lv_limit="1" para="9400347;9400348;9400349" color="2" page="4" use="1" main_num="40" order_num="40001150" para1="500649" para2="101479"/>
+  <ItemSpec id="203144" name="9400340" icon="icon_March_3_face" description="9400345" skin="9401118;9401053" type="4" type2="101" lv="1" lv_limit="1" para="9400347;9400348;9400349" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001151" para1="500650" para2="101480"/>
+  <ItemSpec id="203145" name="9400341" icon="icon_March_3_face" description="9400346" skin="9401118;9401054" type="4" type2="101" lv="1" lv_limit="1" para="9400347;9400348;9400349" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001152" para1="500651" para2="101481"/>
+  <ItemSpec id="203146" name="9400350" icon="chat_zhongguo" description="9400355" skin="9401099;9401050" type="4" type2="103" lv="1" lv_limit="1" para="9400360;9400361;9400362" color="0" page="4" use="1" main_num="40" order_num="40001153" para1="500652" para2="101476"/>
+  <ItemSpec id="203147" name="9400351" icon="chat_zhongguo" description="9400356" skin="9401099;9401051" type="4" type2="103" lv="1" lv_limit="1" para="9400360;9400361;9400362" color="1" page="4" use="1" main_num="40" order_num="40001154" para1="500653" para2="101478"/>
+  <ItemSpec id="203148" name="9400352" icon="chat_zhongguo" description="9400357" skin="9401099;9401052" type="4" type2="103" lv="1" lv_limit="1" para="9400360;9400361;9400362" color="2" page="4" use="1" main_num="40" order_num="40001155" para1="500654" para2="101479"/>
+  <ItemSpec id="203149" name="9400353" icon="chat_zhongguo" description="9400358" skin="9401099;9401053" type="4" type2="103" lv="1" lv_limit="1" para="9400360;9400361;9400362" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001156" para1="500655" para2="101480"/>
+  <ItemSpec id="203150" name="9400354" icon="chat_zhongguo" description="9400359" skin="9401099;9401054" type="4" type2="103" lv="1" lv_limit="1" para="9400360;9400361;9400362" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001157" para1="500656" para2="101481"/>
+  <ItemSpec id="203151" name="9400363" icon="chat_meiguo" description="9400368" skin="9401100;9401050" type="4" type2="103" lv="1" lv_limit="1" para="9400373;9400374;9400375" color="0" page="4" use="1" main_num="40" order_num="40001158" para1="500662" para2="101476"/>
+  <ItemSpec id="203152" name="9400364" icon="chat_meiguo" description="9400369" skin="9401100;9401051" type="4" type2="103" lv="1" lv_limit="1" para="9400373;9400374;9400375" color="1" page="4" use="1" main_num="40" order_num="40001159" para1="500663" para2="101478"/>
+  <ItemSpec id="203153" name="9400365" icon="chat_meiguo" description="9400370" skin="9401100;9401052" type="4" type2="103" lv="1" lv_limit="1" para="9400373;9400374;9400375" color="2" page="4" use="1" main_num="40" order_num="40001160" para1="500664" para2="101479"/>
+  <ItemSpec id="203154" name="9400366" icon="chat_meiguo" description="9400371" skin="9401100;9401053" type="4" type2="103" lv="1" lv_limit="1" para="9400373;9400374;9400375" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001161" para1="500665" para2="101480"/>
+  <ItemSpec id="203155" name="9400367" icon="chat_meiguo" description="9400372" skin="9401100;9401054" type="4" type2="103" lv="1" lv_limit="1" para="9400373;9400374;9400375" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001162" para1="500666" para2="101481"/>
+  <ItemSpec id="203156" name="9400389" icon="chat_eluosi" description="9400394" skin="9401102;9401050" type="4" type2="103" lv="1" lv_limit="1" para="9400399;9400400;9400401" color="0" page="4" use="1" main_num="40" order_num="40001163" para1="500657" para2="101476"/>
+  <ItemSpec id="203157" name="9400390" icon="chat_eluosi" description="9400395" skin="9401102;9401051" type="4" type2="103" lv="1" lv_limit="1" para="9400399;9400400;9400401" color="1" page="4" use="1" main_num="40" order_num="40001164" para1="500658" para2="101478"/>
+  <ItemSpec id="203158" name="9400391" icon="chat_eluosi" description="9400396" skin="9401102;9401052" type="4" type2="103" lv="1" lv_limit="1" para="9400399;9400400;9400401" color="2" page="4" use="1" main_num="40" order_num="40001165" para1="500659" para2="101479"/>
+  <ItemSpec id="203159" name="9400392" icon="chat_eluosi" description="9400397" skin="9401102;9401053" type="4" type2="103" lv="1" lv_limit="1" para="9400399;9400400;9400401" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001166" para1="500660" para2="101480"/>
+  <ItemSpec id="203160" name="9400393" icon="chat_eluosi" description="9400398" skin="9401102;9401054" type="4" type2="103" lv="1" lv_limit="1" para="9400399;9400400;9400401" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001167" para1="500661" para2="101481"/>
+  <ItemSpec id="203161" name="9400376" icon="chat_yingguo" description="9400381" skin="9401101;9401050" type="4" type2="103" lv="1" lv_limit="1" para="9400386;9400387;9400388" color="0" page="4" use="1" main_num="40" order_num="40001168" para1="500667" para2="101476"/>
+  <ItemSpec id="203162" name="9400377" icon="chat_yingguo" description="9400382" skin="9401101;9401051" type="4" type2="103" lv="1" lv_limit="1" para="9400386;9400387;9400388" color="1" page="4" use="1" main_num="40" order_num="40001169" para1="500668" para2="101478"/>
+  <ItemSpec id="203163" name="9400378" icon="chat_yingguo" description="9400383" skin="9401101;9401052" type="4" type2="103" lv="1" lv_limit="1" para="9400386;9400387;9400388" color="2" page="4" use="1" main_num="40" order_num="40001170" para1="500669" para2="101479"/>
+  <ItemSpec id="203164" name="9400379" icon="chat_yingguo" description="9400384" skin="9401101;9401053" type="4" type2="103" lv="1" lv_limit="1" para="9400386;9400387;9400388" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001171" para1="500670" para2="101480"/>
+  <ItemSpec id="203165" name="9400380" icon="chat_yingguo" description="9400385" skin="9401101;9401054" type="4" type2="103" lv="1" lv_limit="1" para="9400386;9400387;9400388" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001172" para1="500671" para2="101481"/>
+  <ItemSpec id="203166" name="9400415" icon="chat_riben" description="9400420" skin="9401104;9401050" type="4" type2="103" lv="1" lv_limit="1" para="9400425;9400426;9400427" color="0" page="4" use="1" main_num="40" order_num="40001173" para1="500677" para2="101476"/>
+  <ItemSpec id="203167" name="9400416" icon="chat_riben" description="9400421" skin="9401104;9401051" type="4" type2="103" lv="1" lv_limit="1" para="9400425;9400426;9400427" color="1" page="4" use="1" main_num="40" order_num="40001174" para1="500678" para2="101478"/>
+  <ItemSpec id="203168" name="9400417" icon="chat_riben" description="9400422" skin="9401104;9401052" type="4" type2="103" lv="1" lv_limit="1" para="9400425;9400426;9400427" color="2" page="4" use="1" main_num="40" order_num="40001175" para1="500679" para2="101479"/>
+  <ItemSpec id="203169" name="9400418" icon="chat_riben" description="9400423" skin="9401104;9401053" type="4" type2="103" lv="1" lv_limit="1" para="9400425;9400426;9400427" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001176" para1="500680" para2="101480"/>
+  <ItemSpec id="203170" name="9400419" icon="chat_riben" description="9400424" skin="9401104;9401054" type="4" type2="103" lv="1" lv_limit="1" para="9400425;9400426;9400427" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001177" para1="500681" para2="101481"/>
+  <ItemSpec id="203171" name="9400402" icon="chat_hanguo" description="9400407" skin="9401103;9401050" type="4" type2="103" lv="1" lv_limit="1" para="9400412;9400413;9400414" color="0" page="4" use="1" main_num="40" order_num="40001178" para1="500672" para2="101476"/>
+  <ItemSpec id="203172" name="9400403" icon="chat_hanguo" description="9400408" skin="9401103;9401051" type="4" type2="103" lv="1" lv_limit="1" para="9400412;9400413;9400414" color="1" page="4" use="1" main_num="40" order_num="40001179" para1="500673" para2="101478"/>
+  <ItemSpec id="203173" name="9400404" icon="chat_hanguo" description="9400409" skin="9401103;9401052" type="4" type2="103" lv="1" lv_limit="1" para="9400412;9400413;9400414" color="2" page="4" use="1" main_num="40" order_num="40001180" para1="500674" para2="101479"/>
+  <ItemSpec id="203174" name="9400405" icon="chat_hanguo" description="9400410" skin="9401103;9401053" type="4" type2="103" lv="1" lv_limit="1" para="9400412;9400413;9400414" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001181" para1="500675" para2="101480"/>
+  <ItemSpec id="203175" name="9400406" icon="chat_hanguo" description="9400411" skin="9401103;9401054" type="4" type2="103" lv="1" lv_limit="1" para="9400412;9400413;9400414" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001182" para1="500676" para2="101481"/>
+  <ItemSpec id="203176" name="9400428" icon="chat_aoyun" description="9400433" skin="9401105;9401050" type="4" type2="103" lv="1" lv_limit="1" para="9400438;9400439;9400440" color="0" page="4" use="1" main_num="40" order_num="40001183" para1="500682" para2="101476"/>
+  <ItemSpec id="203177" name="9400429" icon="chat_aoyun" description="9400434" skin="9401105;9401051" type="4" type2="103" lv="1" lv_limit="1" para="9400438;9400439;9400440" color="1" page="4" use="1" main_num="40" order_num="40001184" para1="500683" para2="101478"/>
+  <ItemSpec id="203178" name="9400430" icon="chat_aoyun" description="9400435" skin="9401105;9401052" type="4" type2="103" lv="1" lv_limit="1" para="9400438;9400439;9400440" color="2" page="4" use="1" main_num="40" order_num="40001185" para1="500684" para2="101479"/>
+  <ItemSpec id="203179" name="9400431" icon="chat_aoyun" description="9400436" skin="9401105;9401053" type="4" type2="103" lv="1" lv_limit="1" para="9400438;9400439;9400440" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001186" para1="500685" para2="101480"/>
+  <ItemSpec id="203180" name="9400432" icon="chat_aoyun" description="9400437" skin="9401105;9401054" type="4" type2="103" lv="1" lv_limit="1" para="9400438;9400439;9400440" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001187" para1="500686" para2="101481"/>
+  <ItemSpec id="203181" name="9400125" icon="icon_Long_face" description="9400126" skin="9400122;9401055" type="4" type2="100" lv="1" lv_limit="26" para="9400125;9400126;9400126" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001188" para1="500687" para2="101502"/>
+  <ItemSpec id="203182" name="9400125" icon="icon_Long_face" description="9400126" skin="9400122;9401055" type="4" type2="100" lv="1" lv_limit="26" para="9400125;9400126;9400126" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001189" para1="500688" para2="101502"/>
+  <ItemSpec id="203183" name="9400125" icon="icon_Long_face" description="9400126" skin="9400122;9401055" type="4" type2="100" lv="1" lv_limit="26" para="9400125;9400126;9400126" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001190" para1="500689" para2="101502"/>
+  <ItemSpec id="203184" name="9400444" icon="chat_pirate" description="9400449" skin="9401106;9401050" type="4" type2="103" lv="1" lv_limit="1" para="9400454;9400455;9400456" color="0" page="4" use="1" main_num="40" order_num="40001191" para1="500690" para2="101476"/>
+  <ItemSpec id="203185" name="9400445" icon="chat_pirate" description="9400450" skin="9401106;9401051" type="4" type2="103" lv="1" lv_limit="1" para="9400454;9400455;9400456" color="1" page="4" use="1" main_num="40" order_num="40001192" para1="500691" para2="101478"/>
+  <ItemSpec id="203186" name="9400446" icon="chat_pirate" description="9400451" skin="9401106;9401052" type="4" type2="103" lv="1" lv_limit="1" para="9400454;9400455;9400456" color="2" page="4" use="1" main_num="40" order_num="40001193" para1="500692" para2="101479"/>
+  <ItemSpec id="203187" name="9400447" icon="chat_pirate" description="9400452" skin="9401106;9401053" type="4" type2="103" lv="1" lv_limit="1" para="9400454;9400455;9400456" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001194" para1="500693" para2="101480"/>
+  <ItemSpec id="203188" name="9400448" icon="chat_pirate" description="9400453" skin="9401106;9401054" type="4" type2="103" lv="1" lv_limit="1" para="9400454;9400455;9400456" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001195" para1="500694" para2="101481"/>
+  <ItemSpec id="203189" name="9400457" icon="chat_egypt" description="9400462" skin="9401107;9401050" type="4" type2="103" lv="1" lv_limit="1" para="9400467;9400468;9400469" color="0" page="4" use="1" main_num="40" order_num="40001196" para1="500695" para2="101476"/>
+  <ItemSpec id="203190" name="9400458" icon="chat_egypt" description="9400463" skin="9401107;9401051" type="4" type2="103" lv="1" lv_limit="1" para="9400467;9400468;9400469" color="1" page="4" use="1" main_num="40" order_num="40001197" para1="500696" para2="101478"/>
+  <ItemSpec id="203191" name="9400459" icon="chat_egypt" description="9400464" skin="9401107;9401052" type="4" type2="103" lv="1" lv_limit="1" para="9400467;9400468;9400469" color="2" page="4" use="1" main_num="40" order_num="40001198" para1="500697" para2="101479"/>
+  <ItemSpec id="203192" name="9400460" icon="chat_egypt" description="9400465" skin="9401107;9401053" type="4" type2="103" lv="1" lv_limit="1" para="9400467;9400468;9400469" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001199" para1="500698" para2="101480"/>
+  <ItemSpec id="203193" name="9400461" icon="chat_egypt" description="9400466" skin="9401107;9401054" type="4" type2="103" lv="1" lv_limit="1" para="9400467;9400468;9400469" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001200" para1="500699" para2="101481"/>
+  <ItemSpec id="203194" name="9400470" icon="chat_sparta" description="9400475" skin="9401108;9401050" type="4" type2="103" lv="1" lv_limit="1" para="9400480;9400481;9400482" color="0" page="4" use="1" main_num="40" order_num="40001201" para1="500700" para2="101476"/>
+  <ItemSpec id="203195" name="9400471" icon="chat_sparta" description="9400476" skin="9401108;9401051" type="4" type2="103" lv="1" lv_limit="1" para="9400480;9400481;9400482" color="1" page="4" use="1" main_num="40" order_num="40001202" para1="500701" para2="101478"/>
+  <ItemSpec id="203196" name="9400472" icon="chat_sparta" description="9400477" skin="9401108;9401052" type="4" type2="103" lv="1" lv_limit="1" para="9400480;9400481;9400482" color="2" page="4" use="1" main_num="40" order_num="40001203" para1="500702" para2="101479"/>
+  <ItemSpec id="203197" name="9400473" icon="chat_sparta" description="9400478" skin="9401108;9401053" type="4" type2="103" lv="1" lv_limit="1" para="9400480;9400481;9400482" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001204" para1="500703" para2="101480"/>
+  <ItemSpec id="203198" name="9400474" icon="chat_sparta" description="9400479" skin="9401108;9401054" type="4" type2="103" lv="1" lv_limit="1" para="9400480;9400481;9400482" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001205" para1="500704" para2="101481"/>
+  <ItemSpec id="203199" name="9400483" icon="chat_vampire" description="9400488" skin="9401109;9401050" type="4" type2="103" lv="1" lv_limit="1" para="9400493;9400494;9400495" color="0" page="4" use="1" main_num="40" order_num="40001206" para1="500705" para2="101476"/>
+  <ItemSpec id="203200" name="9400484" icon="chat_vampire" description="9400489" skin="9401109;9401051" type="4" type2="103" lv="1" lv_limit="1" para="9400493;9400494;9400495" color="1" page="4" use="1" main_num="40" order_num="40001207" para1="500706" para2="101478"/>
+  <ItemSpec id="203201" name="9400485" icon="chat_vampire" description="9400490" skin="9401109;9401052" type="4" type2="103" lv="1" lv_limit="1" para="9400493;9400494;9400495" color="2" page="4" use="1" main_num="40" order_num="40001208" para1="500707" para2="101479"/>
+  <ItemSpec id="203202" name="9400486" icon="chat_vampire" description="9400491" skin="9401109;9401053" type="4" type2="103" lv="1" lv_limit="1" para="9400493;9400494;9400495" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001209" para1="500708" para2="101480"/>
+  <ItemSpec id="203203" name="9400487" icon="chat_vampire" description="9400492" skin="9401109;9401054" type="4" type2="103" lv="1" lv_limit="1" para="9400493;9400494;9400495" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001210" para1="500709" para2="101481"/>
+  <ItemSpec id="203204" name="9400496" icon="chat_fight" description="9400501" skin="9401110;9401050" type="4" type2="103" lv="1" lv_limit="1" para="9400506;9400507;9400508" color="0" page="4" use="1" main_num="40" order_num="40001211" para1="500710" para2="101476"/>
+  <ItemSpec id="203205" name="9400497" icon="chat_fight" description="9400502" skin="9401110;9401051" type="4" type2="103" lv="1" lv_limit="1" para="9400506;9400507;9400508" color="1" page="4" use="1" main_num="40" order_num="40001212" para1="500711" para2="101478"/>
+  <ItemSpec id="203206" name="9400498" icon="chat_fight" description="9400503" skin="9401110;9401052" type="4" type2="103" lv="1" lv_limit="1" para="9400506;9400507;9400508" color="2" page="4" use="1" main_num="40" order_num="40001213" para1="500712" para2="101479"/>
+  <ItemSpec id="203207" name="9400499" icon="chat_fight" description="9400504" skin="9401110;9401053" type="4" type2="103" lv="1" lv_limit="1" para="9400506;9400507;9400508" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001214" para1="500713" para2="101480"/>
+  <ItemSpec id="203208" name="9400500" icon="chat_fight" description="9400505" skin="9401110;9401054" type="4" type2="103" lv="1" lv_limit="1" para="9400506;9400507;9400508" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001215" para1="500714" para2="101481"/>
+  <ItemSpec id="203209" name="9400524" icon="icon_Russia_face" description="9400529" skin="9401068;9401050" type="4" type2="100" lv="1" lv_limit="1" para="9400534;9400535;9400536" color="0" page="4" use="1" main_num="40" order_num="40001216" para1="500715" para2="101476"/>
+  <ItemSpec id="203210" name="9400525" icon="icon_Russia_face" description="9400530" skin="9401068;9401051" type="4" type2="100" lv="1" lv_limit="1" para="9400534;9400535;9400536" color="1" page="4" use="1" main_num="40" order_num="40001217" para1="500716" para2="101478"/>
+  <ItemSpec id="203211" name="9400526" icon="icon_Russia_face" description="9400531" skin="9401068;9401052" type="4" type2="100" lv="1" lv_limit="1" para="9400534;9400535;9400536" color="2" page="4" use="1" main_num="40" order_num="40001218" para1="500717" para2="101479"/>
+  <ItemSpec id="203212" name="9400527" icon="icon_Russia_face" description="9400532" skin="9401068;9401053" type="4" type2="100" lv="1" lv_limit="1" para="9400534;9400535;9400536" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001219" para1="500718" para2="101480"/>
+  <ItemSpec id="203213" name="9400528" icon="icon_Russia_face" description="9400533" skin="9401068;9401054" type="4" type2="100" lv="1" lv_limit="1" para="9400534;9400535;9400536" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001220" para1="500719" para2="101481"/>
+  <ItemSpec id="203214" name="103974" icon="Nameplate_kuanglong" description="103979" skin="9401134;9401050" type="4" type2="104" lv="1" lv_limit="1" para="103984;103985;103986" color="0" page="4" use="1" main_num="40" order_num="40001221" para1="500720" para2="101482"/>
+  <ItemSpec id="203215" name="103975" icon="Nameplate_kuanglong" description="103980" skin="9401134;9401051" type="4" type2="104" lv="1" lv_limit="1" para="103984;103985;103986" color="1" page="4" use="1" main_num="40" order_num="40001222" para1="500721" para2="101483"/>
+  <ItemSpec id="203216" name="103976" icon="Nameplate_kuanglong" description="103981" skin="9401134;9401052" type="4" type2="104" lv="1" lv_limit="1" para="103984;103985;103986" color="2" page="4" use="1" main_num="40" order_num="40001223" para1="500722" para2="101484"/>
+  <ItemSpec id="203217" name="103977" icon="Nameplate_kuanglong" description="103982" skin="9401134;9401053" type="4" type2="104" lv="1" lv_limit="1" para="103984;103985;103986" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001224" para1="500723" para2="101485"/>
+  <ItemSpec id="203218" name="103978" icon="Nameplate_kuanglong" description="103983" skin="9401134;9401054" type="4" type2="104" lv="1" lv_limit="1" para="103984;103985;103986" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001225" para1="500724" para2="101486"/>
+  <ItemSpec id="203219" name="9400550" icon="chat_xianhua" description="9400555" skin="9401098;9401050" type="4" type2="103" lv="1" lv_limit="1" para="9400560;9400561;9400562" color="0" page="4" use="1" main_num="40" order_num="40001226" para1="500725" para2="101487"/>
+  <ItemSpec id="203220" name="9400551" icon="chat_xianhua" description="9400556" skin="9401098;9401051" type="4" type2="103" lv="1" lv_limit="1" para="9400560;9400561;9400562" color="1" page="4" use="1" main_num="40" order_num="40001227" para1="500726" para2="101488"/>
+  <ItemSpec id="203221" name="9400552" icon="chat_xianhua" description="9400557" skin="9401098;9401052" type="4" type2="103" lv="1" lv_limit="1" para="9400560;9400561;9400562" color="2" page="4" use="1" main_num="40" order_num="40001228" para1="500727" para2="101489"/>
+  <ItemSpec id="203222" name="9400553" icon="chat_xianhua" description="9400558" skin="9401098;9401053" type="4" type2="103" lv="1" lv_limit="1" para="9400560;9400561;9400562" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001229" para1="500728" para2="101490"/>
+  <ItemSpec id="203223" name="9400554" icon="chat_xianhua" description="9400559" skin="9401098;9401054" type="4" type2="103" lv="1" lv_limit="1" para="9400560;9400561;9400562" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001230" para1="500729" para2="101491"/>
+  <ItemSpec id="203224" name="9400511" icon="icon_CN_face" description="9400516" skin="9401067;9401050" type="4" type2="100" lv="1" lv_limit="1" para="9400521;9400522;9400523" color="0" page="4" use="1" main_num="40" order_num="40001231" para1="500730" para2="101492"/>
+  <ItemSpec id="203225" name="9400512" icon="icon_CN_face" description="9400517" skin="9401067;9401051" type="4" type2="100" lv="1" lv_limit="1" para="9400521;9400522;9400523" color="1" page="4" use="1" main_num="40" order_num="40001232" para1="500731" para2="101493"/>
+  <ItemSpec id="203226" name="9400513" icon="icon_CN_face" description="9400518" skin="9401067;9401052" type="4" type2="100" lv="1" lv_limit="1" para="9400521;9400522;9400523" color="2" page="4" use="1" main_num="40" order_num="40001233" para1="500732" para2="101494"/>
+  <ItemSpec id="203227" name="9400514" icon="icon_CN_face" description="9400519" skin="9401067;9401053" type="4" type2="100" lv="1" lv_limit="1" para="9400521;9400522;9400523" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001234" para1="500733" para2="101495"/>
+  <ItemSpec id="203228" name="9400515" icon="icon_CN_face" description="9400520" skin="9401067;9401054" type="4" type2="100" lv="1" lv_limit="1" para="9400521;9400522;9400523" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001235" para1="500734" para2="101496"/>
+  <ItemSpec id="203229" name="9400638" icon="icon_ICE_face" description="9400637" type="4" type2="100" lv="1" lv_limit="1" para="9400635;9400636;9400637" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001236" para1="500735" para2="101497"/>
+  <ItemSpec id="203230" name="9400686" icon="icon_VIP_face" description="9400691" skin="9401069;9401050" type="4" type2="100" lv="1" lv_limit="1" para="9400696;9400697;9400698" color="0" page="4" use="1" main_num="40" order_num="40001237" para1="500736" para2="101498"/>
+  <ItemSpec id="203231" name="9400687" icon="icon_VIP_face" description="9400692" skin="9401069;9401051" type="4" type2="100" lv="1" lv_limit="1" para="9400696;9400697;9400698" color="1" page="4" use="1" main_num="40" order_num="40001238" para1="500737" para2="101499"/>
+  <ItemSpec id="203232" name="9400688" icon="icon_VIP_face" description="9400693" skin="9401069;9401052" type="4" type2="100" lv="1" lv_limit="1" para="9400696;9400697;9400698" color="2" page="4" use="1" main_num="40" order_num="40001239" para1="500738" para2="101500"/>
+  <ItemSpec id="203233" name="9400689" icon="icon_VIP_face" description="9400694" skin="9401069;9401053" type="4" type2="100" lv="1" lv_limit="1" para="9400696;9400697;9400698" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001240" para1="500739" para2="101501"/>
+  <ItemSpec id="203234" name="9400690" icon="icon_VIP_face" description="9400695" skin="9401069;9401054" type="4" type2="100" lv="1" lv_limit="1" para="9400696;9400697;9400698" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001241" para1="500740" para2="101502"/>
+  <ItemSpec id="203235" name="137862" icon="icon_Ground_3_face" description="137867" skin="9401138;9401050" type="4" type2="102" lv="1" lv_limit="1" para="137872;137873;137874" color="0" page="4" use="1" main_num="40" order_num="40001242" para1="500741" para2="101476"/>
+  <ItemSpec id="203236" name="137863" icon="icon_Ground_3_face" description="137868" skin="9401138;9401051" type="4" type2="102" lv="1" lv_limit="1" para="137872;137873;137874" color="1" page="4" use="1" main_num="40" order_num="40001243" para1="500742" para2="101478"/>
+  <ItemSpec id="203237" name="137864" icon="icon_Ground_3_face" description="137869" skin="9401138;9401052" type="4" type2="102" lv="1" lv_limit="1" para="137872;137873;137874" color="2" page="4" use="1" main_num="40" order_num="40001244" para1="500743" para2="101479"/>
+  <ItemSpec id="203238" name="137865" icon="icon_Ground_3_face" description="137870" skin="9401138;9401053" type="4" type2="102" lv="1" lv_limit="1" para="137872;137873;137874" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001245" para1="500744" para2="101480"/>
+  <ItemSpec id="203239" name="137866" icon="icon_Ground_3_face" description="137871" skin="9401138;9401054" type="4" type2="102" lv="1" lv_limit="1" para="137872;137873;137874" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001246" para1="500745" para2="101481"/>
+  <ItemSpec id="203240" name="9400730" icon="icon_face_Birthday" description="9400735" skin="9401070;9401050" type="4" type2="100" lv="1" lv_limit="1" para="9400740;9400741;9400742" color="0" page="4" use="1" main_num="40" order_num="40001247" para1="500746" para2="101498"/>
+  <ItemSpec id="203241" name="9400731" icon="icon_face_Birthday" description="9400736" skin="9401070;9401051" type="4" type2="100" lv="1" lv_limit="1" para="9400740;9400741;9400742" color="1" page="4" use="1" main_num="40" order_num="40001248" para1="500747" para2="101499"/>
+  <ItemSpec id="203242" name="9400732" icon="icon_face_Birthday" description="9400737" skin="9401070;9401052" type="4" type2="100" lv="1" lv_limit="1" para="9400740;9400741;9400742" color="2" page="4" use="1" main_num="40" order_num="40001249" para1="500748" para2="101500"/>
+  <ItemSpec id="203243" name="9400733" icon="icon_face_Birthday" description="9400738" skin="9401070;9401053" type="4" type2="100" lv="1" lv_limit="1" para="9400740;9400741;9400742" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001250" para1="500749" para2="101501"/>
+  <ItemSpec id="203244" name="9400734" icon="icon_face_Birthday" description="9400739" skin="9401070;9401054" type="4" type2="100" lv="1" lv_limit="1" para="9400740;9400741;9400742" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001251" para1="500750" para2="101502"/>
+  <ItemSpec id="203245" name="9400776" icon="icon_ChunJie_JiNian_face" description="9400777" skin="9401072;9401055" type="4" type2="100" lv="1" lv_limit="1" para="9400776;9400777;9400777" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001252" para1="500756" para2="101497"/>
+  <ItemSpec id="203246" name="9400781" icon="icon_Ground_4_face" description="9400786" skin="9401113;9401050" type="4" type2="102" lv="1" lv_limit="1" para="9400791;9400792;9400793" color="0" page="4" use="1" main_num="40" order_num="40001253" para1="500757" para2="101498"/>
+  <ItemSpec id="203247" name="9400782" icon="icon_Ground_4_face" description="9400787" skin="9401113;9401051" type="4" type2="102" lv="1" lv_limit="1" para="9400791;9400792;9400793" color="1" page="4" use="1" main_num="40" order_num="40001254" para1="500758" para2="101499"/>
+  <ItemSpec id="203248" name="9400783" icon="icon_Ground_4_face" description="9400788" skin="9401113;9401052" type="4" type2="102" lv="1" lv_limit="1" para="9400791;9400792;9400793" color="2" page="4" use="1" main_num="40" order_num="40001255" para1="500759" para2="101500"/>
+  <ItemSpec id="203249" name="9400784" icon="icon_Ground_4_face" description="9400789" skin="9401113;9401053" type="4" type2="102" lv="1" lv_limit="1" para="9400791;9400792;9400793" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001256" para1="500760" para2="101501"/>
+  <ItemSpec id="203250" name="9400785" icon="icon_Ground_4_face" description="9400790" skin="9401113;9401054" type="4" type2="102" lv="1" lv_limit="1" para="9400791;9400792;9400793" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001257" para1="500761" para2="101502"/>
+  <ItemSpec id="203251" name="9400829" icon="icon_March_5_face" description="9400834" skin="9401115;9401050" type="4" type2="101" lv="1" lv_limit="1" para="9400839;9400840;9400841" color="0" page="4" use="1" main_num="40" order_num="40001258" para1="500762" para2="101498"/>
+  <ItemSpec id="203252" name="9400830" icon="icon_March_5_face" description="9400835" skin="9401115;9401051" type="4" type2="101" lv="1" lv_limit="1" para="9400839;9400840;9400841" color="1" page="4" use="1" main_num="40" order_num="40001259" para1="500763" para2="101499"/>
+  <ItemSpec id="203253" name="9400831" icon="icon_March_5_face" description="9400836" skin="9401115;9401052" type="4" type2="101" lv="1" lv_limit="1" para="9400839;9400840;9400841" color="2" page="4" use="1" main_num="40" order_num="40001260" para1="500764" para2="101500"/>
+  <ItemSpec id="203254" name="9400832" icon="icon_March_5_face" description="9400837" skin="9401115;9401053" type="4" type2="101" lv="1" lv_limit="1" para="9400839;9400840;9400841" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001261" para1="500765" para2="101501"/>
+  <ItemSpec id="203255" name="9400833" icon="icon_March_5_face" description="9400838" skin="9401115;9401054" type="4" type2="101" lv="1" lv_limit="1" para="9400839;9400840;9400841" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001262" para1="500766" para2="101502"/>
+  <ItemSpec id="203256" name="9400767" icon="item_phoenix_debris" description="9400768" type="13" lv="1" lv_limit="1" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001263" is_gift="1" para1="203245" para2="203256" para3="100"/>
+  <ItemSpec id="203257" name="9400844" icon="icon_face_valentine" description="9400850" skin="9401073;9401050" type="4" type2="100" lv="1" lv_limit="1" para="9400856;9400857;9400858" color="0" page="4" use="1" main_num="40" order_num="40001264" para1="500767" para2="101498"/>
+  <ItemSpec id="203258" name="9400845" icon="icon_face_valentine" description="9400851" skin="9401073;9401051" type="4" type2="100" lv="1" lv_limit="1" para="9400856;9400857;9400858" color="1" page="4" use="1" main_num="40" order_num="40001265" para1="500768" para2="101499"/>
+  <ItemSpec id="203259" name="9400846" icon="icon_face_valentine" description="9400852" skin="9401073;9401052" type="4" type2="100" lv="1" lv_limit="1" para="9400856;9400857;9400858" color="2" page="4" use="1" main_num="40" order_num="40001266" para1="500769" para2="101500"/>
+  <ItemSpec id="203260" name="9400847" icon="icon_face_valentine" description="9400853" skin="9401073;9401053" type="4" type2="100" lv="1" lv_limit="1" para="9400856;9400857;9400858" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001267" para1="500770" para2="101501"/>
+  <ItemSpec id="203261" name="9400848" icon="icon_face_valentine" description="9400854" skin="9401073;9401054" type="4" type2="100" lv="1" lv_limit="1" para="9400856;9400857;9400858" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001268" para1="500771" para2="101502"/>
+  <ItemSpec id="203262" name="9400849" icon="icon_face_valentine" description="9400855" skin="9401073;9401055" type="4" type2="100" lv="1" lv_limit="1" para="9400856;9400857;9400855" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001269" is_gift="1" para1="500772" para2="101497"/>
+  <ItemSpec id="203263" name="9400511" icon="icon_face_CN_style" description="9400516" skin="9400521;9401050" type="4" type2="100" lv="1" lv_limit="1" para="9400521;9400522;9400523" color="0" page="4" use="1" main_num="40" order_num="40001270" para1="500773" para2="101498"/>
+  <ItemSpec id="203264" name="9400512" icon="icon_face_CN_style" description="9400517" skin="9400521;9401051" type="4" type2="100" lv="1" lv_limit="1" para="9400521;9400522;9400523" color="1" page="4" use="1" main_num="40" order_num="40001271" para1="500774" para2="101499"/>
+  <ItemSpec id="203265" name="9400513" icon="icon_face_CN_style" description="9400518" skin="9400521;9401052" type="4" type2="100" lv="1" lv_limit="1" para="9400521;9400522;9400523" color="2" page="4" use="1" main_num="40" order_num="40001272" para1="500775" para2="101500"/>
+  <ItemSpec id="203266" name="9400514" icon="icon_face_CN_style" description="9400519" skin="9400521;9401053" type="4" type2="100" lv="1" lv_limit="1" para="9400521;9400522;9400523" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001273" para1="500776" para2="101501"/>
+  <ItemSpec id="203267" name="9400515" icon="icon_face_CN_style" description="9400520" skin="9400521;9401054" type="4" type2="100" lv="1" lv_limit="1" para="9400521;9400522;9400523" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001274" para1="500777" para2="101502"/>
+  <ItemSpec id="203268" name="9450008" icon="icon_face_GoldColor" description="9450013" skin="9401079;9401050" type="4" type2="100" lv="1" lv_limit="1" para="9450018;9450019;9450020" color="0" page="4" use="1" main_num="40" order_num="40001275" para1="500778" para2="101498"/>
+  <ItemSpec id="203269" name="9450009" icon="icon_face_GoldColor" description="9450014" skin="9401079;9401051" type="4" type2="100" lv="1" lv_limit="1" para="9450018;9450019;9450020" color="1" page="4" use="1" main_num="40" order_num="40001276" para1="500779" para2="101499"/>
+  <ItemSpec id="203270" name="9450010" icon="icon_face_GoldColor" description="9450015" skin="9401079;9401052" type="4" type2="100" lv="1" lv_limit="1" para="9450018;9450019;9450020" color="2" page="4" use="1" main_num="40" order_num="40001277" para1="500780" para2="101500"/>
+  <ItemSpec id="203271" name="9450011" icon="icon_face_GoldColor" description="9450016" skin="9401079;9401053" type="4" type2="100" lv="1" lv_limit="1" para="9450018;9450019;9450020" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001278" para1="500781" para2="101501"/>
+  <ItemSpec id="203272" name="9450012" icon="icon_face_GoldColor" description="9450017" skin="9401079;9401054" type="4" type2="100" lv="1" lv_limit="1" para="9450018;9450019;9450020" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001279" para1="500782" para2="101502"/>
+  <ItemSpec id="203273" name="9450021" icon="icon_ChunJie_face" description="9450022" skin="9401081;9401055" type="4" type2="100" lv="1" lv_limit="1" para="9450021;9450022;9450022" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001280" is_gift="1" para1="500783" para2="101497"/>
+  <ItemSpec id="203274" name="9400935" icon="icon_JulongDuikang_face" description="9400940" skin="9401137;9401050" type="4" type2="100" lv="1" lv_limit="1" para="9400945;9400946;9400947" color="0" page="4" use="1" main_num="40" order_num="40001281" para1="500784" para2="101498"/>
+  <ItemSpec id="203275" name="9400936" icon="icon_JulongDuikang_face" description="9400941" skin="9401137;9401051" type="4" type2="100" lv="1" lv_limit="1" para="9400945;9400946;9400947" color="1" page="4" use="1" main_num="40" order_num="40001282" para1="500785" para2="101499"/>
+  <ItemSpec id="203276" name="9400937" icon="icon_JulongDuikang_face" description="9400942" skin="9401137;9401052" type="4" type2="100" lv="1" lv_limit="1" para="9400945;9400946;9400947" color="2" page="4" use="1" main_num="40" order_num="40001283" para1="500786" para2="101500"/>
+  <ItemSpec id="203277" name="9400938" icon="icon_JulongDuikang_face" description="9400943" skin="9401137;9401053" type="4" type2="100" lv="1" lv_limit="1" para="9400945;9400946;9400947" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001284" para1="500787" para2="101501"/>
+  <ItemSpec id="203278" name="9400939" icon="icon_JulongDuikang_face" description="9400944" skin="9401137;9401054" type="4" type2="100" lv="1" lv_limit="1" para="9400945;9400946;9400947" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001285" para1="500788" para2="101502"/>
+  <ItemSpec id="203279" name="9401016" icon="icon_face_dmw" description="9401021" skin="9401078;9401050" type="4" type2="100" lv="1" lv_limit="1" para="9401026;9401028;9401030" color="0" page="4" use="1" main_num="40" order_num="40001286" para1="500789" para2="101497"/>
+  <ItemSpec id="203280" name="9401017" icon="icon_face_dmw" description="9401022" skin="9401078;9401051" type="4" type2="100" lv="1" lv_limit="1" para="9401026;9401028;9401030" color="1" page="4" use="1" main_num="40" order_num="40001287" para1="500790" para2="101498"/>
+  <ItemSpec id="203281" name="9401018" icon="icon_face_dmw" description="9401023" skin="9401078;9401052" type="4" type2="100" lv="1" lv_limit="1" para="9401026;9401028;9401030" color="2" page="4" use="1" main_num="40" order_num="40001288" para1="500791" para2="101499"/>
+  <ItemSpec id="203282" name="9401019" icon="icon_face_dmw" description="9401024" skin="9401078;9401053" type="4" type2="100" lv="1" lv_limit="1" para="9401026;9401028;9401030" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001289" para1="500792" para2="101500"/>
+  <ItemSpec id="203283" name="9401020" icon="icon_face_dmw" description="9401025" skin="9401078;9401054" type="4" type2="100" lv="1" lv_limit="1" para="9401026;9401028;9401030" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001290" para1="500793" para2="101501"/>
+  <ItemSpec id="203284" name="9400997" icon="icon_face_redDragon" description="9400998" skin="9401076;9401055" type="4" type2="100" lv="1" lv_limit="1" para="9400997;9400998;9400999" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001291" para1="500794" para2="101497"/>
+  <ItemSpec id="203285" name="9450023" icon="icon_face_GoldColor" description="9450024" skin="9401079;9401055" type="4" type2="100" lv="1" lv_limit="1" para="9450023;9450024;9450024" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001292" para1="500795" para2="101497"/>
+  <ItemSpec id="203286" name="9401031" icon="icon_face_redDragon" description="9401032" type="13" lv="1" lv_limit="1" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001293" para1="203284" para2="203286" para3="100"/>
+  <ItemSpec id="203287" name="9401016" icon="icon_CastleEffect_1_face" description="9401021" skin="9401078;9401053" type="4" type2="108" lv="1" lv_limit="1" para="9401026;9401028;9401030" color="0" page="4" use="1" main_num="40" order_num="40001294" para1="509105" para2="101498"/>
+  <ItemSpec id="203288" name="9401017" icon="icon_CastleEffect_1_face" description="9401022" skin="9401078;9401053" type="4" type2="108" lv="1" lv_limit="1" para="9401026;9401028;9401030" color="1" page="4" use="1" main_num="40" order_num="40001295" para1="509106" para2="101499"/>
+  <ItemSpec id="203289" name="9401018" icon="icon_CastleEffect_1_face" description="9401023" skin="9401078;9401053" type="4" type2="108" lv="1" lv_limit="1" para="9401026;9401028;9401030" color="2" page="4" use="1" main_num="40" order_num="40001296" para1="509107" para2="101500"/>
+  <ItemSpec id="203290" name="9401019" icon="icon_CastleEffect_1_face" description="9401024" skin="9401078;9401053" type="4" type2="108" lv="1" lv_limit="1" para="9401026;9401028;9401030" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001297" para1="509108" para2="101501"/>
+  <ItemSpec id="203291" name="9401020" icon="icon_CastleEffect_1_face" description="9401025" skin="9401078;9401053" type="4" type2="108" lv="1" lv_limit="1" para="9401026;9401028;9401030" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001298" para1="509109" para2="101502"/>
+  <ItemSpec id="203292" name="9401020" icon="icon_CastleEffect_1_face" description="9401025" skin="9401078;9401053" type="4" type2="108" lv="1" lv_limit="1" para="9401026;9401028;9401030" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001299" para1="509110" para2="101497"/>
+  <ItemSpec id="203293" name="9450179" icon="icon_face_iceDragon" description="9450184" skin="9450189;9401050" type="4" type2="100" lv="1" lv_limit="1" para="9450189;9450191;9450193" color="0" page="4" use="1" main_num="40" order_num="40001300" para1="509111" para2="101498"/>
+  <ItemSpec id="203294" name="9450180" icon="icon_face_iceDragon" description="9450185" skin="9450189;9401051" type="4" type2="100" lv="1" lv_limit="1" para="9450189;9450191;9450193" color="1" page="4" use="1" main_num="40" order_num="40001301" para1="509112" para2="101499"/>
+  <ItemSpec id="203295" name="9450181" icon="icon_face_iceDragon" description="9450186" skin="9450189;9401052" type="4" type2="100" lv="1" lv_limit="1" para="9450189;9450191;9450193" color="2" page="4" use="1" main_num="40" order_num="40001302" para1="509113" para2="101500"/>
+  <ItemSpec id="203296" name="9450182" icon="icon_face_iceDragon" description="9450187" skin="9450189;9401053" type="4" type2="100" lv="1" lv_limit="1" para="9450189;9450191;9450193" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001303" para1="509114" para2="101501"/>
+  <ItemSpec id="203297" name="9450183" icon="icon_face_iceDragon" description="9450188" skin="9450189;9401054" type="4" type2="100" lv="1" lv_limit="1" para="9450189;9450191;9450193" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001304" para1="509115" para2="101502"/>
+  <ItemSpec id="203298" name="9450190" icon="icon_face_iceDragon" description="9450192" skin="9450189;9401055" type="4" type2="100" lv="1" lv_limit="1" para="9450189;9450191;9450192" color="5" page="4" pages="4" use="1" main_num="40" order_num="40001305" para1="509116" para2="101497"/>
+  <ItemSpec id="203299" name="9450240" icon="icon_Wings_1_face" description="9450245" skin="9450250;9401050" type="4" type2="109" lv="1" lv_limit="1" para="9450250;9450252;9450254" color="0" page="4" use="1" main_num="40" order_num="40001306" para1="509117" para2="101498"/>
+  <ItemSpec id="203300" name="9450241" icon="icon_Wings_1_face" description="9450246" skin="9450250;9401051" type="4" type2="109" lv="1" lv_limit="1" para="9450250;9450252;9450254" color="1" page="4" use="1" main_num="40" order_num="40001307" para1="509118" para2="101499"/>
+  <ItemSpec id="203301" name="9450242" icon="icon_Wings_1_face" description="9450247" skin="9450250;9401052" type="4" type2="109" lv="1" lv_limit="1" para="9450250;9450252;9450254" color="2" page="4" pages="4" use="1" main_num="40" order_num="40001308" para1="509119" para2="101500"/>
+  <ItemSpec id="203302" name="9450243" icon="icon_Wings_1_face" description="9450248" skin="9450250;9401053" type="4" type2="109" lv="1" lv_limit="1" para="9450250;9450252;9450254" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001309" para1="509120" para2="101501"/>
+  <ItemSpec id="203303" name="9450244" icon="icon_Wings_1_face" description="9450249" skin="9450250;9401054" type="4" type2="109" lv="1" lv_limit="1" para="9450250;9450252;9450254" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001310" para1="509121" para2="101502"/>
+  <ItemSpec id="203304" name="9450250" icon="icon_Wings_1_face" description="9450253" skin="9450250;9401055" type="4" type2="109" lv="1" lv_limit="1" para="9450250;9450252;9450253" color="4" page="4" use="1" main_num="40" order_num="40001311" para1="509122" para2="101497"/>
+  <ItemSpec id="203305" name="9401160" icon="icon_face_12gong_shuangzi" description="9401165" skin="9401175;9401050" type="4" type2="100" lv="1" lv_limit="1" para="9401170;9401172;9401174" color="0" page="4" use="1" main_num="40" order_num="40001312" para1="509156" para2="101498"/>
+  <ItemSpec id="203306" name="9401161" icon="icon_face_12gong_shuangzi" description="9401166" skin="9401175;9401051" type="4" type2="100" lv="1" lv_limit="1" para="9401170;9401172;9401174" color="1" page="4" use="1" main_num="40" order_num="40001313" para1="509157" para2="101499"/>
+  <ItemSpec id="203307" name="9401162" icon="icon_face_12gong_shuangzi" description="9401167" skin="9401175;9401052" type="4" type2="100" lv="1" lv_limit="1" para="9401170;9401172;9401174" color="2" page="4" use="1" main_num="40" order_num="40001314" para1="509158" para2="101500"/>
+  <ItemSpec id="203308" name="9401163" icon="icon_face_12gong_shuangzi" description="9401168" skin="9401175;9401053" type="4" type2="100" lv="1" lv_limit="1" para="9401170;9401172;9401174" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001315" para1="509159" para2="101501"/>
+  <ItemSpec id="203309" name="9401164" icon="icon_face_12gong_shuangzi" description="9401169" skin="9401175;9401054" type="4" type2="100" lv="1" lv_limit="1" para="9401170;9401172;9401174" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001316" para1="509160" para2="101502"/>
+  <ItemSpec id="203310" name="9401170" icon="icon_face_12gong_shuangzi" description="9401173" skin="9401175;9401055" type="4" type2="100" lv="1" lv_limit="1" para="9401170;9401172;9401173" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001317" para1="509161" para2="101497"/>
+  <ItemSpec id="203311" name="9401016" icon="icon_CastleEffect_2_face" description="9401021" skin="9401078;9401053" type="4" type2="108" lv="1" lv_limit="1" para="9401026;9401028;9401030" color="0" page="4" use="1" main_num="40" order_num="40001318" para1="509162" para2="101498"/>
+  <ItemSpec id="203312" name="9401017" icon="icon_CastleEffect_2_face" description="9401022" skin="9401078;9401053" type="4" type2="108" lv="1" lv_limit="1" para="9401026;9401028;9401030" color="1" page="4" use="1" main_num="40" order_num="40001319" para1="509163" para2="101499"/>
+  <ItemSpec id="203313" name="9401018" icon="icon_CastleEffect_2_face" description="9401023" skin="9401078;9401053" type="4" type2="108" lv="1" lv_limit="1" para="9401026;9401028;9401030" color="2" page="4" use="1" main_num="40" order_num="40001320" para1="509164" para2="101500"/>
+  <ItemSpec id="203314" name="9401019" icon="icon_CastleEffect_2_face" description="9401024" skin="9401078;9401053" type="4" type2="108" lv="1" lv_limit="1" para="9401026;9401028;9401030" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001321" para1="509165" para2="101501"/>
+  <ItemSpec id="203315" name="9401020" icon="icon_CastleEffect_2_face" description="9401025" skin="9401078;9401053" type="4" type2="108" lv="1" lv_limit="1" para="9401026;9401028;9401030" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001322" para1="509166" para2="101502"/>
+  <ItemSpec id="203316" name="9401020" icon="icon_CastleEffect_2_face" description="9401025" skin="9401078;9401053" type="4" type2="108" lv="1" lv_limit="1" para="9401026;9401028;9401030" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001323" para1="509167" para2="101497"/>
+  <ItemSpec id="203317" name="9450208" icon="icon_Qinglv_1_face" description="9450213" skin="9450223;9401053" type="4" type2="100" lv="1" lv_limit="1" para="9450218;9450220;9450222" color="0" page="4" use="1" main_num="40" order_num="40001324" para1="509168" para2="101498"/>
+  <ItemSpec id="203318" name="9450209" icon="icon_Qinglv_1_face" description="9450214" skin="9450223;9401053" type="4" type2="100" lv="1" lv_limit="1" para="9450218;9450220;9450222" color="1" page="4" use="1" main_num="40" order_num="40001325" para1="509169" para2="101499"/>
+  <ItemSpec id="203319" name="9450210" icon="icon_Qinglv_1_face" description="9450215" skin="9450223;9401053" type="4" type2="100" lv="1" lv_limit="1" para="9450218;9450220;9450222" color="2" page="4" use="1" main_num="40" order_num="40001326" para1="509170" para2="101500"/>
+  <ItemSpec id="203320" name="9450211" icon="icon_Qinglv_1_face" description="9450216" skin="9450223;9401053" type="4" type2="100" lv="1" lv_limit="1" para="9450218;9450220;9450222" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001327" para1="509171" para2="101501"/>
+  <ItemSpec id="203321" name="9450212" icon="icon_Qinglv_1_face" description="9450217" skin="9450223;9401053" type="4" type2="100" lv="1" lv_limit="1" para="9450218;9450220;9450222" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001328" para1="509172" para2="101502"/>
+  <ItemSpec id="203322" name="9450219" icon="icon_Qinglv_1_face" description="9450221" skin="9450223;9401053" type="4" type2="100" lv="1" lv_limit="1" para="9450218;9450220;9450221" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001329" para1="509173" para2="101497"/>
+  <ItemSpec id="203323" name="9450224" icon="icon_Qinglv_2_face" description="9450229" skin="9450239;9401053" type="4" type2="100" lv="1" lv_limit="1" para="9450234;9450236;9450238" color="0" page="4" use="1" main_num="40" order_num="40001330" para1="509174" para2="101498"/>
+  <ItemSpec id="203324" name="9450225" icon="icon_Qinglv_2_face" description="9450230" skin="9450239;9401053" type="4" type2="100" lv="1" lv_limit="1" para="9450234;9450236;9450238" color="1" page="4" use="1" main_num="40" order_num="40001331" para1="509175" para2="101499"/>
+  <ItemSpec id="203325" name="9450226" icon="icon_Qinglv_2_face" description="9450231" skin="9450239;9401053" type="4" type2="100" lv="1" lv_limit="1" para="9450234;9450236;9450238" color="2" page="4" use="1" main_num="40" order_num="40001332" para1="509176" para2="101500"/>
+  <ItemSpec id="203326" name="9450227" icon="icon_Qinglv_2_face" description="9450232" skin="9450239;9401053" type="4" type2="100" lv="1" lv_limit="1" para="9450234;9450236;9450238" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001333" para1="509177" para2="101501"/>
+  <ItemSpec id="203327" name="9450228" icon="icon_Qinglv_2_face" description="9450233" skin="9450239;9401053" type="4" type2="100" lv="1" lv_limit="1" para="9450234;9450236;9450238" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001334" para1="509178" para2="101502"/>
+  <ItemSpec id="203328" name="9450235" icon="icon_Qinglv_2_face" description="9450237" skin="9450239;9401053" type="4" type2="100" lv="1" lv_limit="1" para="9450234;9450236;9450237" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001335" para1="509179" para2="101497"/>
+  <ItemSpec id="203329" name="9450272" icon="icon_Wings_2_face" description="9450277" skin="9450282;9401050" type="4" type2="109" lv="1" lv_limit="1" para="9450282;9450284;9450286" color="0" page="4" use="1" main_num="40" order_num="40001879" para1="509189" para2="101498"/>
+  <ItemSpec id="203330" name="9450273" icon="icon_Wings_2_face" description="9450278" skin="9450282;9401051" type="4" type2="109" lv="1" lv_limit="1" para="9450282;9450284;9450286" color="1" page="4" use="1" main_num="40" order_num="40001880" para1="509190" para2="101499"/>
+  <ItemSpec id="203331" name="9450274" icon="icon_Wings_2_face" description="9450279" skin="9450282;9401052" type="4" type2="109" lv="1" lv_limit="1" para="9450282;9450284;9450286" color="2" page="4" pages="4" use="1" main_num="40" order_num="40001881" para1="509191" para2="101500"/>
+  <ItemSpec id="203332" name="9450275" icon="icon_Wings_2_face" description="9450280" skin="9450282;9401053" type="4" type2="109" lv="1" lv_limit="1" para="9450282;9450284;9450286" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001882" para1="509192" para2="101501"/>
+  <ItemSpec id="203333" name="9450276" icon="icon_Wings_2_face" description="9450281" skin="9450282;9401054" type="4" type2="109" lv="1" lv_limit="1" para="9450282;9450284;9450286" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001883" para1="509193" para2="101502"/>
+  <ItemSpec id="203334" name="9450283" icon="icon_Wings_2_face" description="9450285" skin="9450282;9401055" type="4" type2="109" lv="1" lv_limit="1" para="9450282;9450284;9450286" color="4" page="4" use="1" main_num="40" order_num="40001884" para1="509194" para2="101497"/>
+  <ItemSpec id="203335" name="9401240" icon="icon_face_julong" description="9401245" skin="9401255;9401050" type="4" type2="100" lv="1" lv_limit="1" para="9401250;9401252;9401254" color="0" page="4" use="1" main_num="40" order_num="40001885" is_gift="1" para1="509239" para2="101498"/>
+  <ItemSpec id="203336" name="9401241" icon="icon_face_julong" description="9401246" skin="9401255;9401051" type="4" type2="100" lv="1" lv_limit="1" para="9401250;9401252;9401254" color="1" page="4" use="1" main_num="40" order_num="40001886" is_gift="1" para1="509240" para2="101499"/>
+  <ItemSpec id="203337" name="9401242" icon="icon_face_julong" description="9401247" skin="9401255;9401052" type="4" type2="100" lv="1" lv_limit="1" para="9401250;9401252;9401254" color="2" page="4" pages="4" use="1" main_num="40" order_num="40001887" is_gift="1" para1="509241" para2="101500"/>
+  <ItemSpec id="203338" name="9401243" icon="icon_face_julong" description="9401248" skin="9401255;9401053" type="4" type2="100" lv="1" lv_limit="1" para="9401250;9401252;9401254" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001888" is_gift="1" para1="509242" para2="101501"/>
+  <ItemSpec id="203339" name="9401244" icon="icon_face_julong" description="9401249" skin="9401255;9401054" type="4" type2="100" lv="1" lv_limit="1" para="9401250;9401252;9401254" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001889" is_gift="1" para1="509243" para2="101502"/>
+  <ItemSpec id="203340" name="9401250" icon="icon_face_julong" description="9401253" skin="9401255;9401055" type="4" type2="100" lv="1" lv_limit="1" para="9401250;9401252;9401253" color="5" page="4" use="1" main_num="40" order_num="40001890" is_gift="1" para1="509244" para2="101497"/>
+  <ItemSpec id="203341" name="9401256" icon="icon_face_julong" description="9401261" skin="9401271;9401050" type="4" type2="100" lv="1" lv_limit="1" para="9401266;9401268;9401270" color="0" page="4" use="1" main_num="40" order_num="40001891" is_gift="1" para1="509245" para2="101498"/>
+  <ItemSpec id="203342" name="9401257" icon="icon_face_julong" description="9401262" skin="9401271;9401051" type="4" type2="100" lv="1" lv_limit="1" para="9401266;9401268;9401270" color="1" page="4" use="1" main_num="40" order_num="40001892" is_gift="1" para1="509246" para2="101499"/>
+  <ItemSpec id="203343" name="9401258" icon="icon_face_julong" description="9401263" skin="9401271;9401052" type="4" type2="100" lv="1" lv_limit="1" para="9401266;9401268;9401270" color="2" page="4" pages="4" use="1" main_num="40" order_num="40001893" is_gift="1" para1="509247" para2="101500"/>
+  <ItemSpec id="203344" name="9401259" icon="icon_face_julong" description="9401264" skin="9401271;9401053" type="4" type2="100" lv="1" lv_limit="1" para="9401266;9401268;9401270" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001894" is_gift="1" para1="509248" para2="101501"/>
+  <ItemSpec id="203345" name="9401260" icon="icon_face_julong" description="9401265" skin="9401271;9401054" type="4" type2="100" lv="1" lv_limit="1" para="9401266;9401268;9401270" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001895" is_gift="1" para1="509249" para2="101502"/>
+  <ItemSpec id="203346" name="9401266" icon="icon_face_julong" description="9401269" skin="9401271;9401055" type="4" type2="100" lv="1" lv_limit="1" para="9401266;9401268;9401269" color="4" page="4" use="1" main_num="40" order_num="40001896" is_gift="1" para1="509250" para2="101497"/>
+  <ItemSpec id="203347" name="9401272" icon="icon_face_julong" description="9401277" skin="9401287;9401050" type="4" type2="100" lv="1" lv_limit="1" para="9401282;9401284;9401286" color="0" page="4" use="1" main_num="40" order_num="40001897" is_gift="1" para1="509251" para2="101498"/>
+  <ItemSpec id="203348" name="9401273" icon="icon_face_julong" description="9401278" skin="9401287;9401051" type="4" type2="100" lv="1" lv_limit="1" para="9401282;9401284;9401286" color="1" page="4" use="1" main_num="40" order_num="40001898" is_gift="1" para1="509252" para2="101499"/>
+  <ItemSpec id="203349" name="9401274" icon="icon_face_julong" description="9401279" skin="9401287;9401052" type="4" type2="100" lv="1" lv_limit="1" para="9401282;9401284;9401286" color="2" page="4" pages="4" use="1" main_num="40" order_num="40001899" is_gift="1" para1="509253" para2="101500"/>
+  <ItemSpec id="203350" name="9401275" icon="icon_face_julong" description="9401280" skin="9401287;9401053" type="4" type2="100" lv="1" lv_limit="1" para="9401282;9401284;9401286" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001900" is_gift="1" para1="509254" para2="101501"/>
+  <ItemSpec id="203351" name="9401276" icon="icon_face_julong" description="9401281" skin="9401287;9401054" type="4" type2="100" lv="1" lv_limit="1" para="9401282;9401284;9401286" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001901" is_gift="1" para1="509255" para2="101502"/>
+  <ItemSpec id="203352" name="9401282" icon="icon_face_julong" description="9401285" skin="9401287;9401055" type="4" type2="100" lv="1" lv_limit="1" para="9401282;9401284;9401285" color="3" page="4" use="1" main_num="40" order_num="40001902" is_gift="1" para1="509256" para2="101497"/>
+  <ItemSpec id="203353" name="9401288" icon="icon_ancient_dragon" description="9401293" skin="9401298;9401050" type="4" type2="100" lv="1" lv_limit="1" para="9401298;9401300;9401302" color="0" page="4" use="1" main_num="40" order_num="40001903" para1="509403" para2="101498"/>
+  <ItemSpec id="203354" name="9401289" icon="icon_ancient_dragon" description="9401294" skin="9401298;9401051" type="4" type2="100" lv="1" lv_limit="1" para="9401298;9401300;9401302" color="1" page="4" use="1" main_num="40" order_num="40001904" para1="509404" para2="101499"/>
+  <ItemSpec id="203355" name="9401290" icon="icon_ancient_dragon" description="9401295" skin="9401298;9401052" type="4" type2="100" lv="1" lv_limit="1" para="9401298;9401300;9401302" color="2" page="4" pages="4" use="1" main_num="40" order_num="40001905" para1="509405" para2="101500"/>
+  <ItemSpec id="203356" name="9401291" icon="icon_ancient_dragon" description="9401296" skin="9401298;9401053" type="4" type2="100" lv="1" lv_limit="1" para="9401298;9401300;9401302" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001906" para1="509406" para2="101501"/>
+  <ItemSpec id="203357" name="9401292" icon="icon_ancient_dragon" description="9401297" skin="9401298;9401054" type="4" type2="100" lv="1" lv_limit="1" para="9401298;9401300;9401302" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001907" para1="509407" para2="101502"/>
+  <ItemSpec id="203358" name="9401299" icon="icon_ancient_dragon" description="9401301" skin="9401298;9401055" type="4" type2="100" lv="1" lv_limit="1" para="9401298;9401300;9401302" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001908" para1="509408" para2="101497"/>
+  <ItemSpec id="203359" name="9450294" icon="icon_ancient_dragon" description="9450299" skin="9450304;9401050" type="4" type2="100" lv="1" lv_limit="1" para="9450304;9450306;9450308" color="0" page="4" use="1" main_num="40" order_num="40001909" para1="509409" para2="101498"/>
+  <ItemSpec id="203360" name="9450295" icon="icon_ancient_dragon" description="9450300" skin="9450304;9401051" type="4" type2="100" lv="1" lv_limit="1" para="9450304;9450306;9450308" color="1" page="4" use="1" main_num="40" order_num="40001910" para1="509410" para2="101499"/>
+  <ItemSpec id="203361" name="9450296" icon="icon_ancient_dragon" description="9450301" skin="9450304;9401052" type="4" type2="100" lv="1" lv_limit="1" para="9450304;9450306;9450308" color="2" page="4" pages="4" use="1" main_num="40" order_num="40001911" para1="509411" para2="101500"/>
+  <ItemSpec id="203362" name="9450297" icon="icon_ancient_dragon" description="9450302" skin="9450304;9401053" type="4" type2="100" lv="1" lv_limit="1" para="9450304;9450306;9450308" color="3" page="4" pages="4" use="1" main_num="40" order_num="40001912" para1="509412" para2="101501"/>
+  <ItemSpec id="203363" name="9450298" icon="icon_ancient_dragon" description="9450303" skin="9450304;9401054" type="4" type2="100" lv="1" lv_limit="1" para="9450304;9450306;9450308" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001913" para1="509413" para2="101502"/>
+  <ItemSpec id="203364" name="9450305" icon="icon_ancient_dragon" description="9450307" skin="9450304;9401055" type="4" type2="100" lv="1" lv_limit="1" para="9450304;9450306;9450308" color="4" page="4" pages="4" use="1" main_num="40" order_num="40001914" para1="509414" para2="101497"/>
+  <ItemSpec id="203365" name="9401304" icon="icon_face_12gong_juxie" description="9401309" skin="9401319;9401050" type="4" type2="100" lv="1" lv_limit="1" para="9401314;9401316;9401318" color="0" page="4" use="1" order_num="40001915" para1="509397" para2="101498"/>
+  <ItemSpec id="203366" name="9401305" icon="icon_face_12gong_juxie" description="9401310" skin="9401319;9401051" type="4" type2="100" lv="1" lv_limit="1" para="9401314;9401316;9401318" color="1" page="4" use="1" order_num="40001916" para1="509398" para2="101499"/>
+  <ItemSpec id="203367" name="9401306" icon="icon_face_12gong_juxie" description="9401311" skin="9401319;9401052" type="4" type2="100" lv="1" lv_limit="1" para="9401314;9401316;9401318" color="2" page="4" pages="4" use="1" order_num="40001917" para1="509399" para2="101500"/>
+  <ItemSpec id="203368" name="9401307" icon="icon_face_12gong_juxie" description="9401312" skin="9401319;9401053" type="4" type2="100" lv="1" lv_limit="1" para="9401314;9401316;9401318" color="3" page="4" pages="4" use="1" order_num="40001918" para1="509400" para2="101501"/>
+  <ItemSpec id="203369" name="9401308" icon="icon_face_12gong_juxie" description="9401313" skin="9401319;9401054" type="4" type2="100" lv="1" lv_limit="1" para="9401314;9401316;9401318" color="4" page="4" pages="4" use="1" order_num="40001919" para1="509401" para2="101502"/>
+  <ItemSpec id="203370" name="9401315" icon="icon_face_12gong_juxie" description="9401317" skin="9401319;9401055" type="4" type2="100" lv="1" lv_limit="1" para="9401314;9401316;9401317" color="4" page="4" pages="4" use="1" order_num="40001920" para1="509402" para2="101497"/>  
+  <ItemSpec id="209000" type="3" lv_limit="1" para1="104" para2="10" price_hot="1" useall="1"/>
+  <ItemSpec id="209001" type="5" lv_limit="1" para1="230190" price_hot="20"/>
+  <ItemSpec id="209002" type="5" lv_limit="1" para1="230191" price_hot="200"/>
+  <ItemSpec id="209003" type="5" lv_limit="1" para1="230192" price_hot="1000"/>
+  <ItemSpec id="209004" type="0" lv_limit="1" price_hot="1000000"/>
+  <ItemSpec id="209005" type="5" lv_limit="1" para1="230194" useall="1"/>
+  <ItemSpec id="209170" type="3" lv_limit="1" para1="70" para2="86400"/>
+  <ItemSpec id="209200" type="2" lv_limit="1" para1="1" para2="1" para3="3600"/>
+  <ItemSpec id="209171" type="3" lv_limit="1" para1="70" para2="604800"/>
+  <ItemSpec id="209172" type="5" lv_limit="1" para1="230193" useall="1"/>
+  <ItemSpec id="209173" type="5" lv_limit="1" para1="230194" useall="1"/>
+  <ItemSpec id="209174" type="3" lv_limit="1" para1="104" para2="1000" price="10" sales="1;10|10;90|100;800" price_hot="10" useall="1"/>
+  <ItemSpec id="209175" type="5" lv_limit="1" para1="230097" price="399" price_hot="599" useall="1"/>
+  <ItemSpec id="209176" type="5" lv_limit="1" para1="230098" price="4999" price_hot="7999" useall="1"/>
+  <ItemSpec id="209177" type="5" lv_limit="1" para1="230193" useall="1"/>
+  <ItemSpec id="209178" type="0" lv_limit="1"/>
+  <ItemSpec id="209179" type="5" lv_limit="1" para1="230099" useall="1"/>
+  <ItemSpec id="209180" type="5" lv_limit="1" para1="240001" useall="1"/>
+  <ItemSpec id="209181" type="5" lv_limit="1" para1="240003" useall="1"/>
+  <ItemSpec id="209182" type="0" lv_limit="1"/>
+  <ItemSpec id="209183" type="5" lv_limit="1" para1="230099" useall="1"/>
+  <ItemSpec id="209184" type="5" lv_limit="1" para1="230099" useall="1"/>
+  <ItemSpec id="209185" type="5" lv_limit="1" para1="230099" useall="1"/>
+  <ItemSpec id="209300" type="3" lv_limit="1" para1="101" para2="10000" useall="1"/>
+  <ItemSpec id="209301" type="3" lv_limit="1" para1="101" para2="50000" useall="1"/>
+  <ItemSpec id="209302" type="3" lv_limit="1" para1="101" para2="150000" useall="1"/>
+  <ItemSpec id="209303" type="3" lv_limit="1" para1="101" para2="500000" useall="1"/>
+  <ItemSpec id="209304" type="3" lv_limit="1" para1="101" para2="1500000" useall="1"/>
+  <ItemSpec id="209305" type="3" lv_limit="1" para1="101" para2="5000000" useall="1"/>
+  <ItemSpec id="209306" type="3" lv_limit="1" para1="101" para2="1000" useall="1"/>
+  <ItemSpec id="209307" type="3" lv_limit="1" para1="101" para2="2000" useall="1"/>
+  <ItemSpec id="209308" type="3" lv_limit="1" para1="101" para2="4000" useall="1"/>
+  <ItemSpec id="209309" type="3" lv_limit="1" para1="101" para2="30000" useall="1"/>
+  <ItemSpec id="209310" type="3" lv_limit="15" para1="102" para2="400" useall="1"/>
+  <ItemSpec id="209311" type="3" lv_limit="15" para1="102" para2="2000" useall="1"/>
+  <ItemSpec id="209312" type="3" lv_limit="15" para1="102" para2="6250" useall="1"/>
+  <ItemSpec id="209313" type="3" lv_limit="15" para1="102" para2="20000" useall="1"/>
+  <ItemSpec id="209314" type="3" lv_limit="15" para1="102" para2="62500" useall="1"/>
+  <ItemSpec id="209315" type="3" lv_limit="15" para1="102" para2="200000" useall="1"/>
+  <ItemSpec id="209316" type="3" lv_limit="15" para1="102" para2="40" useall="1"/>
+  <ItemSpec id="209317" type="3" lv_limit="15" para1="102" para2="80" useall="1"/>
+  <ItemSpec id="209318" type="3" lv_limit="15" para1="102" para2="160" useall="1"/>
+  <ItemSpec id="209319" type="3" lv_limit="15" para1="102" para2="1250" useall="1"/>
+  <ItemSpec id="209320" type="3" lv_limit="10" para1="103" para2="1600" useall="1"/>
+  <ItemSpec id="209321" type="3" lv_limit="10" para1="103" para2="8000" useall="1"/>
+  <ItemSpec id="209322" type="3" lv_limit="10" para1="103" para2="25000" useall="1"/>
+  <ItemSpec id="209323" type="3" lv_limit="10" para1="103" para2="80000" useall="1"/>
+  <ItemSpec id="209324" type="3" lv_limit="10" para1="103" para2="250000" useall="1"/>
+  <ItemSpec id="209325" type="3" lv_limit="10" para1="103" para2="800000" useall="1"/>
+  <ItemSpec id="209326" type="3" lv_limit="10" para1="103" para2="150" useall="1"/>
+  <ItemSpec id="209327" type="3" lv_limit="10" para1="103" para2="300" useall="1"/>
+  <ItemSpec id="209328" type="3" lv_limit="10" para1="103" para2="600" useall="1"/>
+  <ItemSpec id="209329" type="3" lv_limit="10" para1="103" para2="5000" useall="1"/>
+  <ItemSpec id="209330" type="3" lv_limit="1" para1="104" para2="10000" useall="1"/>
+  <ItemSpec id="209331" type="3" lv_limit="1" para1="104" para2="50000" useall="1"/>
+  <ItemSpec id="209332" type="3" lv_limit="1" para1="104" para2="150000" useall="1"/>
+  <ItemSpec id="209333" type="3" lv_limit="1" para1="104" para2="500000" useall="1"/>
+  <ItemSpec id="209334" type="3" lv_limit="1" para1="104" para2="1500000" useall="1"/>
+  <ItemSpec id="209335" type="3" lv_limit="1" para1="104" para2="5000000" useall="1"/>
+  <ItemSpec id="209336" type="3" lv_limit="1" para1="104" para2="1000" useall="1"/>
+  <ItemSpec id="209337" type="3" lv_limit="1" para1="104" para2="2000" useall="1"/>
+  <ItemSpec id="209338" type="3" lv_limit="1" para1="104" para2="4000" useall="1"/>
+  <ItemSpec id="209339" type="3" lv_limit="1" para1="104" para2="30000" useall="1"/>
+  <ItemSpec id="209340" type="3" lv_limit="1" para1="101" para2="10000" useall="1"/>
+  <ItemSpec id="209341" type="3" lv_limit="1" para1="101" para2="50000" useall="1"/>
+  <ItemSpec id="209342" type="3" lv_limit="1" para1="101" para2="150000" useall="1"/>
+  <ItemSpec id="209343" type="3" lv_limit="1" para1="101" para2="500000" useall="1"/>
+  <ItemSpec id="209344" type="3" lv_limit="1" para1="101" para2="1500000" useall="1"/>
+  <ItemSpec id="209345" type="3" lv_limit="1" para1="101" para2="5000000" useall="1"/>
+  <ItemSpec id="209346" type="3" lv_limit="1" para1="101" para2="1000" useall="1"/>
+  <ItemSpec id="209347" type="3" lv_limit="1" para1="101" para2="2000" useall="1"/>
+  <ItemSpec id="209348" type="3" lv_limit="1" para1="101" para2="4000" useall="1"/>
+  <ItemSpec id="209349" type="3" lv_limit="1" para1="101" para2="30000" useall="1"/>
+  <ItemSpec id="209350" type="3" lv_limit="1" para1="104" para2="10000" useall="1"/>
+  <ItemSpec id="209351" type="3" lv_limit="1" para1="104" para2="50000" useall="1"/>
+  <ItemSpec id="209352" type="3" lv_limit="1" para1="104" para2="150000" useall="1"/>
+  <ItemSpec id="209353" type="3" lv_limit="1" para1="104" para2="500000" useall="1"/>
+  <ItemSpec id="209354" type="3" lv_limit="1" para1="104" para2="1500000" useall="1"/>
+  <ItemSpec id="209355" type="3" lv_limit="1" para1="104" para2="5000000" useall="1"/>
+  <ItemSpec id="209356" type="3" lv_limit="1" para1="104" para2="1000" useall="1"/>
+  <ItemSpec id="209357" type="3" lv_limit="1" para1="104" para2="2000" useall="1"/>
+  <ItemSpec id="209358" type="3" lv_limit="1" para1="104" para2="4000" useall="1"/>
+  <ItemSpec id="209359" type="3" lv_limit="1" para1="104" para2="30000" useall="1"/>
+  <ItemSpec id="209360" type="3" lv_limit="1" para1="100" para2="5" useall="1"/>
+  <ItemSpec id="209361" type="3" lv_limit="1" para1="100" para2="10" useall="1"/>
+  <ItemSpec id="209362" type="3" lv_limit="1" para1="100" para2="20" useall="1"/>
+  <ItemSpec id="209363" type="3" lv_limit="1" para1="100" para2="50" useall="1"/>
+  <ItemSpec id="209364" type="3" lv_limit="1" para1="100" para2="100" useall="1"/>
+  <ItemSpec id="209365" type="3" lv_limit="1" para1="100" para2="200" useall="1"/>
+  <ItemSpec id="209366" type="3" lv_limit="1" para1="100" para2="1000" useall="1"/>
+  <ItemSpec id="209370" type="3" lv_limit="1" para1="100" para2="5" useall="1"/>
+  <ItemSpec id="209371" type="3" lv_limit="1" para1="100" para2="10" useall="1"/>
+  <ItemSpec id="209372" type="3" lv_limit="1" para1="100" para2="20" useall="1"/>
+  <ItemSpec id="209373" type="3" lv_limit="1" para1="100" para2="50" useall="1"/>
+  <ItemSpec id="209374" type="3" lv_limit="1" para1="100" para2="100" useall="1"/>
+  <ItemSpec id="209375" type="3" lv_limit="1" para1="100" para2="200" useall="1"/>
+  <ItemSpec id="209376" type="3" lv_limit="1" para1="100" para2="1000" useall="1"/>
+  <ItemSpec id="209380" type="3" lv_limit="1" para1="107" para2="10"/>
+  <ItemSpec id="209381" type="3" lv_limit="1" para1="107" para2="50"/>
+  <ItemSpec id="209382" type="3" lv_limit="1" para1="107" para2="100"/>
+  <ItemSpec id="209390" type="3" lv_limit="1" para1="109" para2="5000" useall="1"/>
+  <ItemSpec id="209391" type="3" lv_limit="1" para1="109" para2="20000" useall="1"/>
+  <ItemSpec id="209392" type="3" lv_limit="1" para1="109" para2="100000" useall="1"/>
+  <ItemSpec id="209400" type="3" lv_limit="1" para1="101" para2="10000" useall="1"/>
+  <ItemSpec id="209401" type="3" lv_limit="1" para1="101" para2="50000" useall="1"/>
+  <ItemSpec id="209402" type="3" lv_limit="1" para1="101" para2="150000" useall="1"/>
+  <ItemSpec id="209403" type="3" lv_limit="1" para1="101" para2="500000" useall="1"/>
+  <ItemSpec id="209404" type="3" lv_limit="1" para1="101" para2="1500000" useall="1"/>
+  <ItemSpec id="209405" type="3" lv_limit="1" para1="101" para2="5000000" useall="1"/>
+  <ItemSpec id="209406" type="3" lv_limit="1" para1="101" para2="1000" useall="1"/>
+  <ItemSpec id="209407" type="3" lv_limit="1" para1="101" para2="2000" useall="1"/>
+  <ItemSpec id="209408" type="3" lv_limit="1" para1="101" para2="4000" useall="1"/>
+  <ItemSpec id="209409" type="3" lv_limit="1" para1="101" para2="30000" useall="1"/>
+  <ItemSpec id="209410" type="3" lv_limit="15" para1="102" para2="400" useall="1"/>
+  <ItemSpec id="209411" type="3" lv_limit="15" para1="102" para2="2000" useall="1"/>
+  <ItemSpec id="209412" type="3" lv_limit="15" para1="102" para2="6250" useall="1"/>
+  <ItemSpec id="209413" type="3" lv_limit="15" para1="102" para2="20000" useall="1"/>
+  <ItemSpec id="209414" type="3" lv_limit="15" para1="102" para2="62500" useall="1"/>
+  <ItemSpec id="209415" type="3" lv_limit="15" para1="102" para2="200000" useall="1"/>
+  <ItemSpec id="209416" type="3" lv_limit="15" para1="102" para2="40" useall="1"/>
+  <ItemSpec id="209417" type="3" lv_limit="15" para1="102" para2="80" useall="1"/>
+  <ItemSpec id="209418" type="3" lv_limit="15" para1="102" para2="160" useall="1"/>
+  <ItemSpec id="209419" type="3" lv_limit="15" para1="102" para2="1250" useall="1"/>
+  <ItemSpec id="209420" type="3" lv_limit="10" para1="103" para2="1600" useall="1"/>
+  <ItemSpec id="209421" type="3" lv_limit="10" para1="103" para2="8000" useall="1"/>
+  <ItemSpec id="209422" type="3" lv_limit="10" para1="103" para2="25000" useall="1"/>
+  <ItemSpec id="209423" type="3" lv_limit="10" para1="103" para2="80000" useall="1"/>
+  <ItemSpec id="209424" type="3" lv_limit="10" para1="103" para2="250000" useall="1"/>
+  <ItemSpec id="209425" type="3" lv_limit="10" para1="103" para2="800000" useall="1"/>
+  <ItemSpec id="209426" type="3" lv_limit="10" para1="103" para2="150" useall="1"/>
+  <ItemSpec id="209427" type="3" lv_limit="10" para1="103" para2="300" useall="1"/>
+  <ItemSpec id="209428" type="3" lv_limit="10" para1="103" para2="600" useall="1"/>
+  <ItemSpec id="209429" type="3" lv_limit="10" para1="103" para2="5000" useall="1"/>
+  <ItemSpec id="209430" type="3" lv_limit="1" para1="104" para2="10000" useall="1"/>
+  <ItemSpec id="209431" type="3" lv_limit="1" para1="104" para2="50000" useall="1"/>
+  <ItemSpec id="209432" type="3" lv_limit="1" para1="104" para2="150000" useall="1"/>
+  <ItemSpec id="209433" type="3" lv_limit="1" para1="104" para2="500000" useall="1"/>
+  <ItemSpec id="209434" type="3" lv_limit="1" para1="104" para2="1500000" useall="1"/>
+  <ItemSpec id="209435" type="3" lv_limit="1" para1="104" para2="5000000" useall="1"/>
+  <ItemSpec id="209436" type="3" lv_limit="1" para1="104" para2="1000" useall="1"/>
+  <ItemSpec id="209437" type="3" lv_limit="1" para1="104" para2="2000" useall="1"/>
+  <ItemSpec id="209438" type="3" lv_limit="1" para1="104" para2="4000" useall="1"/>
+  <ItemSpec id="209439" type="3" lv_limit="1" para1="104" para2="30000" useall="1"/>
+  <ItemSpec id="209460" type="3" lv_limit="1" para1="100" para2="5" useall="1"/>
+  <ItemSpec id="209461" type="3" lv_limit="1" para1="100" para2="10" useall="1"/>
+  <ItemSpec id="209462" type="3" lv_limit="1" para1="100" para2="20" useall="1"/>
+  <ItemSpec id="209463" type="3" lv_limit="1" para1="100" para2="50" useall="1"/>
+  <ItemSpec id="209464" type="3" lv_limit="1" para1="100" para2="100" useall="1"/>
+  <ItemSpec id="209465" type="3" lv_limit="1" para1="100" para2="200" useall="1"/>
+  <ItemSpec id="209466" type="3" lv_limit="1" para1="100" para2="1000" useall="1"/>
+  <ItemSpec id="209480" type="3" lv_limit="1" para1="107" para2="10"/>
+  <ItemSpec id="209481" type="3" lv_limit="1" para1="107" para2="50"/>
+  <ItemSpec id="209482" type="3" lv_limit="1" para1="107" para2="100"/>
+  <ItemSpec id="209490" type="3" lv_limit="1" para1="109" para2="5000" useall="1"/>
+  <ItemSpec id="209491" type="3" lv_limit="1" para1="109" para2="20000" useall="1"/>
+  <ItemSpec id="209492" type="3" lv_limit="1" para1="109" para2="100000" useall="1"/>
+  <ItemSpec id="209500" type="5" lv_limit="1" para1="230000" useall="1"/>
+  <ItemSpec id="209564" type="5" lv_limit="1" para1="230104" useall="1"/>
+  <ItemSpec id="209565" type="5" lv_limit="10" para1="230105" useall="1"/>
+  <ItemSpec id="209566" type="5" lv_limit="15" para1="230106" useall="1"/>
+  <ItemSpec id="209567" type="5" lv_limit="15" para1="230107" useall="1"/>
+  <ItemSpec id="209568" type="5" lv_limit="0" para1="1" para2="23000"/>
+  <ItemSpec id="209569" type="13" lv_limit="0" para1="209568" para2="209569|209570|209571" para3="3|5|7"/>
+  <ItemSpec id="209570" type="13" lv_limit="0" para1="209568" para2="209569|209570|209571" para3="3|5|7"/>
+  <ItemSpec id="209571" type="13" lv_limit="0" para1="209568" para2="209569|209570|209571" para3="3|5|7"/>
+  <ItemSpec id="209572" type="5" lv_limit="0" para1="1" para2="241022"/>
+  <ItemSpec id="209573" type="5" lv_limit="1" para1="241027" price_hot="22" useall="1"/>
+  <ItemSpec id="209574" type="5" lv_limit="1" para1="241028" price_hot="102" useall="1"/>
+  <ItemSpec id="209575" type="5" lv_limit="1" para1="241029"/>
+  <ItemSpec id="209576" type="5" lv_limit="6" para1="241030"/>
+  <ItemSpec id="209577" type="5" lv_limit="9" para1="241031"/>
+  <ItemSpec id="209578" type="5" lv_limit="12" para1="241032"/>
+  <ItemSpec id="209579" type="5" lv_limit="1" para1="241071" useall="1"/>
+  <ItemSpec id="209580" type="5" lv_limit="1" para1="241072" useall="1"/>
+  <ItemSpec id="209581" type="5" lv_limit="1" para1="241139" useall="1"/>
+  <ItemSpec id="209582" type="5" lv_limit="1" para1="241140" useall="1"/>
+  <ItemSpec id="209583" type="5" lv_limit="1" para1="241141" useall="1"/>
+  <ItemSpec id="209584" type="5" lv_limit="1" para1="241142" useall="1"/>
+  <ItemSpec id="209585" type="5" lv_limit="1" para1="241143" useall="1"/>
+  <ItemSpec id="209586" type="5" lv_limit="1" para1="241154" useall="1"/>
+  <ItemSpec id="209587" type="5" lv_limit="1" para1="241155" useall="1"/>
+  <ItemSpec id="209588" type="5" lv_limit="1" para1="241156" useall="1"/>
+  <ItemSpec id="209589" type="5" lv_limit="1" para1="241157" useall="1"/>
+  <ItemSpec id="209590" type="5" lv_limit="1" para1="241158" useall="1"/>
+  <ItemSpec id="209591" type="5" lv_limit="1" para1="241165" useall="1"/>
+  <ItemSpec id="209592" type="5" lv_limit="1" para1="241166" useall="1"/>
+  <ItemSpec id="209593" type="5" lv_limit="1" para1="241167" useall="1"/>
+  <ItemSpec id="209594" type="5" lv_limit="1" para1="241168" useall="1"/>
+  <ItemSpec id="209595" type="5" lv_limit="1" para1="241169" useall="1"/>
+  <ItemSpec id="209596" type="5" lv_limit="1" para1="241173" useall="1"/>
+  <ItemSpec id="209597" type="13" lv_limit="1" para1="209599" para2="209597|209598" para3="2|2"/>
+  <ItemSpec id="209598" type="13" lv_limit="1" para1="209599" para2="209597|209598" para3="2|2"/>
+  <ItemSpec id="209599" type="5" lv_limit="1" para1="1" para2="241022" useall="1"/>
+  <ItemSpec id="209601" type="3" lv_limit="1" para1="163" para2="1000" useall="1"/>
+  <ItemSpec id="209602" type="3" lv_limit="1" para1="500" para2="500" useall="1"/>
+  <ItemSpec id="209603" type="3" lv_limit="1" para1="1000" para2="1000" useall="1"/>
+  <ItemSpec id="209604" type="3" lv_limit="1" para1="2000" para2="2000" useall="1"/>
+  <ItemSpec id="209613" name="111811" icon="item515" para1="10000000" description="111812" type="4" type2="14" lv="1" lv_limit="20" color="4" page="1" pages="2" use="1" order_num="1705" store_order="214" price="1000000" price_hot="1000000"/>
+  <ItemSpec id="209630" name="111813" icon="item515"  para1="10000001" description="111814" type="4" type2="14" lv="1" lv_limit="25" color="5" page="1" pages="2" use="1" order_num="1706" store_order="214" price="3000000" price_hot="3000000"/>
+  <ItemSpec id="209631" name="111815" icon="item501"  para1="20000001" description="111816" type="4" type2="2" lv="1" lv_limit="25" color="2" page="1" pages="2" use="1" order_num="1909" store_order="215"  price="1000000" price_hot="1000000"/>
+	<ItemSpec id="209632" name="111817" icon="item501" para1="20000002" description="111818" type="4" type2="2" lv="1" lv_limit="25" color="3" page="1" pages="2" use="1" order_num="1910" store_order="215"  price="1300000" price_hot="1300000"/>
+	<ItemSpec id="209633" name="111819" icon="item501"  para1="20000003" description="111820" type="4" type2="2" lv="1" lv_limit="25" color="4" page="1" pages="2" use="1" order_num="1911" store_order="215"  price="2000000" price_hot="2000000"/>
+  <ItemSpec id="209634" name="111821" icon="item501"  para1="20000004" description="111822" type="4" type2="2" lv="1" lv_limit="25" color="5" page="1" pages="2" use="1" order_num="1912" store_order="215"  price="4000000" price_hot="4000000"/>
+  <ItemSpec id="209635" name="111823" icon="item502" para1="30000000" description="111824" type="4" type2="3" lv="1" lv_limit="23" color="2" page="1" pages="2" use="1" order_num="1909" store_order="216"  price="5000000" price_hot="5000000"/>
+  
+  
+  <ItemSpec id="866666" name="100001" icon="item501"  para1="200000012" description="100002" type="4" type2="2" lv="1" lv_limit="25" color="5" page="1" pages="2" use="1" order_num="1911" store_order="215"  price="10000000" price_hot="10000000"/>
+ 
+  <ItemSpec id="766666" name="200001" icon="item502" para1="30000001" description="200002" type="4" type2="3" lv="1" lv_limit="23" color="5" page="1" pages="2" use="1" order_num="1909" store_order="216"  price="10000000" price_hot="10000000"/>
+  <ItemSpec id="566666" name="200003" icon="item502" para1="30000002" description="200004" type="5" type2="3" lv="1" lv_limit="23" color="5" page="1" pages="2" use="1" order_num="1909" store_order="216"  price="10000000" price_hot="10000000"/>
+<ItemSpec id="209613" name="150193" icon="item658" description="150194" type="5" lv="1" lv_limit="1" color="5" page="4" use="1" useall="1" order_num="100"/>
+ <ItemSpec id="209607" name="150180" icon="item652" description="150181" type="5" lv="1" lv_limit="1" color="5" page="4" use="1" useall="1" order_num="100"/> 
+  
+  
+  </tns:database>

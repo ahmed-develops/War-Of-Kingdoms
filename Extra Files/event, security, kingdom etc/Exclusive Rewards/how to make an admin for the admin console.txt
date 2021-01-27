@@ -1,0 +1,4 @@
+first copy the folder which it named "admin console user maker"
+and register you will have error while registering says "error while sending email confirm code"
+go to the database and you will see the confirm code copy it then go to confirm code page
+delete the "admin console user maker" and login with the user you had made 

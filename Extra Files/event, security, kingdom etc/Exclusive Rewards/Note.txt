@@ -1,0 +1,1 @@
+Replace the xxx in equipment files to your own equipment ID that you can find in resource-Equipment.xml or Database.local.xml in apk file

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="1">
+	<ItemSpec id="1" name="#Server 1" ip="173.212.239.241" port="9933" zone="COK1" recommend="false" hot="true" new="true" test="false" open_time="2017-06-22 10:30:00" inner_ip="127.0.0.1" db_ip="127.0.0.1" db_name="cokdb1"/>
+	<ItemSpec id="2" name="#Server 2" ip="173.212.239.241" port="11033" zone="COK1" recommend="false" hot="true" new="true" test="false" open_time="2017-06-24 00:00:00" inner_ip="127.0.0.1" db_ip="127.0.0.1" db_name="cokdb2"/>
+	
+  </Group>
+</tns:database>
+

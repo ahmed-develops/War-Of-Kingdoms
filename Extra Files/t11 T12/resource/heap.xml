@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Itemspec id="44900" type="1" Node="500" Gift="239000"/>
+  <Itemspec id="44901" type="1" Node="1700" Gift="239001"/>
+  <Itemspec id="44902" type="1" Node="3500" Gift="239002"/>
+  <Itemspec id="44903" type="1" Node="5500" Gift="239003"/>
+  <Itemspec id="44904" type="1" Node="9500" Gift="239004"/>
+  <Itemspec id="44905" type="1" Node="14000" Gift="239005"/>
+  <Itemspec id="44906" type="1" Node="24000" Gift="239006"/>
+  <Itemspec id="44907" type="1" Node="50000" Gift="239007"/>
+  <Itemspec id="44908" type="1" Node="100000" Gift="239008"/>
+  <Itemspec id="44909" type="1" Node="200000" Gift="239009"/>
+  <Itemspec id="44910" type="1" Node="500000" Gift="239010"/>
+  <Itemspec id="44911" type="1" Node="1000000" Gift="239011"/>
+  <Itemspec id="44912" type="1" Node="5000000" Gift="239016"/>
+  <Itemspec id="44913" type="1" Node="10000000" Gift="239017"/>
+  <Itemspec id="44950" type="2" Node="4.99" Gift="239018"/>
+  <Itemspec id="44951" type="2" Node="9.99" Gift="239019"/>
+  <Itemspec id="44952" type="2" Node="19.99" Gift="239020"/>
+  <Itemspec id="44953" type="2" Node="49.99" Gift="239021"/>
+</tns:database>

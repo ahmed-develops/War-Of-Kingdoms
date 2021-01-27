@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ItemSpec id="600001" dialog="138127" dialog_office="138129"/>
+  <ItemSpec id="600002" dialog="138127" dialog_office="138129"/>
+  <ItemSpec id="600003" dialog="138127" dialog_office="138129"/>
+  <ItemSpec id="600004" dialog="138127" dialog_office="138129" shut_down_desc="138149"/>
+  <ItemSpec id="600005" dialog="138127" dialog_office="138129" shut_down_desc="138150"/>
+  <ItemSpec id="600006" dialog="138127" dialog_office="138129" shut_down_desc="138151"/>
+</tns:database>

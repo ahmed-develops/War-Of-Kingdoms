@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="field_monster">
+    <ItemSpec id="9430" army="300200" exp="100" rate1="230401;1000" rate2="230501;1000" reward="230601;230301;230632" level="1" para3="5"/>
+    <ItemSpec id="9431" army="300201" exp="100" rate1="230401;1000" rate2="230501;1000" reward="230601;230301;230632" level="1" para3="5"/>   
+    <ItemSpec id="9400" army="300200" exp="20" rate1="230401;1000" rate2="230501;1000" reward="230601;230301;230632" level="1" para3="5" usePower="5"/>
+    <ItemSpec id="9401" army="300201" exp="35" rate1="230402;1000" rate2="230502;1000" reward="230602;230302;230633" level="2" para3="5" usePower="5"/>
+    <ItemSpec id="9402" army="300202" exp="60" rate1="230403;1000" rate2="230503;1000" reward="230603;230303;230634" level="3" para3="5" usePower="5"/>
+    <ItemSpec id="9403" army="300203" exp="95" rate1="230404;1000" rate2="230504;1000" reward="230604;230304;230635" level="4" para3="5" usePower="5"/>
+    <ItemSpec id="9404" army="300204" exp="130" rate1="230405;1000" rate2="230505;1000" reward="230605;230305;230636" level="5" para3="5" usePower="5"/>
+    <ItemSpec id="9405" army="300205" exp="175" rate1="230406;1000" rate2="230506;1000" reward="230606;230306;230637" level="6" para3="5" usePower="5"/>
+    <ItemSpec id="9406" army="300206" exp="220" rate1="230407;1000" rate2="230507;1000" reward="230607;230307;230638" level="7" para3="5" usePower="5"/>
+    <ItemSpec id="9407" army="300207" exp="275" rate1="230408;1000" rate2="230508;1000" reward="230608;230308;230639" level="8" para3="5" usePower="5"/>
+    <ItemSpec id="9408" army="300208" exp="340" rate1="230409;1000" rate2="230509;1000" reward="230609;230309;230640" level="9" para3="5" usePower="5"/>
+    <ItemSpec id="9409" army="300209" exp="405" rate1="230410;1000" rate2="230510;1000" reward="230610;230310;230641" level="10" para3="5" usePower="5"/>
+    <ItemSpec id="9410" army="300210" exp="480" rate1="230411;1000" rate2="230511;1000" reward="230611;230311;230642" level="11" para3="5" usePower="5"/>
+    <ItemSpec id="9411" army="300211" exp="555" rate1="230412;1000" rate2="230512;1000" reward="230612;230312;230643" level="12" para3="5" usePower="5"/>
+    <ItemSpec id="9412" army="300212" exp="640" rate1="230413;1000" rate2="230513;1000" reward="230613;230313;230644" level="13" para3="5" usePower="5"/>
+    <ItemSpec id="9413" army="300213" exp="735" rate1="230414;1000" rate2="230514;1000" reward="230614;230314;230645" level="14" para3="5" usePower="5"/>
+    <ItemSpec id="9414" army="300214" exp="830" rate1="230415;1000" rate2="230515;1000" reward="230615;230315;230646" level="15" para3="5" usePower="5"/>
+    <ItemSpec id="9415" army="300215" exp="935" rate1="230416;1000" rate2="230516;1000" reward="230616;230316;230647" level="16" para3="5" usePower="5"/>
+    <ItemSpec id="9416" army="300216" exp="1040" rate1="230417;1000" rate2="230517;1000" reward="230617;230317;230648" level="17" para3="5" usePower="5"/>
+    <ItemSpec id="9417" army="300217" exp="1155" rate1="230418;1000" rate2="230518;1000" reward="230618;230318;230649" level="18" para3="5" usePower="5"/>
+    <ItemSpec id="9418" army="300218" exp="1280" rate1="230419;1000" rate2="230519;1000" reward="230619;230319;230650" level="19" para3="5" usePower="5"/>
+    <ItemSpec id="9419" army="300219" exp="1405" rate1="230420;1000" rate2="230520;1000" reward="230620;230320;230651" level="20" para3="5" usePower="5"/>
+    <ItemSpec id="9420" army="300220" exp="1540" rate1="230421;1000" rate2="230521;1000" reward="230621;230321;230652" level="21" para3="5" usePower="5"/>
+    <ItemSpec id="9421" army="300221" exp="1675" rate1="230422;1000" rate2="230522;1000" reward="230622;230322;230653" level="22" para3="5" usePower="5"/>
+    <ItemSpec id="9422" army="300222" exp="1820" rate1="230423;1000" rate2="230523;1000" reward="230623;230323;230654" level="23" para3="5" usePower="5"/>
+    <ItemSpec id="9423" army="300223" exp="1975" rate1="230424;1000" rate2="230524;1000" reward="230624;230324;230655" level="24" para3="5" usePower="5"/>
+    <ItemSpec id="9424" army="300224" exp="2130" rate1="230425;1000" rate2="230525;1000" reward="230625;230325;230656" level="25" para3="5" usePower="5"/>
+    <ItemSpec id="9425" army="300225" exp="2295" rate1="230426;1000" rate2="230526;1000" reward="230626;230326;230657" level="26" para3="5" usePower="5"/>
+    <ItemSpec id="9426" army="300226" exp="2460" rate1="230427;1000" rate2="230527;1000" reward="230627;230327;230658" level="27" para3="5" usePower="5"/>
+    <ItemSpec id="9427" army="300227" exp="2635" rate1="230428;1000" rate2="230528;1000" reward="230628;230328;230659" level="28" para3="5" usePower="5"/>
+    <ItemSpec id="9428" army="300228" exp="2820" rate1="230429;1000" rate2="230529;1000" reward="230629;230329;230660" level="29" para3="5" usePower="5"/>
+    <ItemSpec id="9429" army="300229" exp="3005" rate1="230430;1000" rate2="230530;1000" reward="230630;230330;230661" level="30" para3="5" usePower="5"/>
+    <ItemSpec id="806110" army="306111" para3="1" usePower="5"/>
+    <ItemSpec id="806120" army="306121" para3="1" usePower="5"/>
+    <ItemSpec id="806210" army="306211" para3="1" usePower="5"/>
+    <ItemSpec id="806220" army="306221" para3="1" usePower="5"/>
+    <ItemSpec id="806230" army="306231" para3="1" usePower="5"/>
+    <ItemSpec id="806240" army="306241" para3="1" usePower="5"/>
+    <ItemSpec id="806310" army="306311" para3="1" usePower="5"/>
+    <ItemSpec id="806320" army="306321" para3="1" usePower="5"/>
+    <ItemSpec id="803110" army="303111" para3="1" usePower="5"/>
+    <ItemSpec id="803120" army="303121" para3="1" usePower="5"/>
+    <ItemSpec id="803210" army="303211" para3="1" usePower="5"/>
+    <ItemSpec id="803220" army="303221" para3="1" usePower="5"/>
+    <ItemSpec id="803230" army="303231" para3="1" usePower="5"/>
+    <ItemSpec id="803240" army="303241" para3="1" usePower="5"/>
+    <ItemSpec id="803310" army="303311" para3="1" usePower="5"/>
+    <ItemSpec id="803320" army="303321" para3="1" usePower="5"/>
+    <ItemSpec id="812110" army="312111" para3="1" usePower="5"/>
+    <ItemSpec id="812120" army="312121" para3="1" usePower="5"/>
+    <ItemSpec id="812210" army="312211" para3="1" usePower="5"/>
+    <ItemSpec id="812220" army="312221" para3="1" usePower="5"/>
+    <ItemSpec id="812230" army="312231" para3="1" usePower="5"/>
+    <ItemSpec id="812240" army="312241" para3="1" usePower="5"/>
+    <ItemSpec id="812310" army="312311" para3="1" usePower="5"/>
+    <ItemSpec id="812320" army="312321" para3="1" usePower="5"/>
+    <ItemSpec id="818110" army="318111" para3="1" usePower="5"/>
+    <ItemSpec id="818120" army="318121" para3="1" usePower="5"/>
+    <ItemSpec id="818210" army="318211" para3="1" usePower="5"/>
+    <ItemSpec id="818220" army="318221" para3="1" usePower="5"/>
+    <ItemSpec id="818230" army="318231" para3="1" usePower="5"/>
+    <ItemSpec id="818240" army="318241" para3="1" usePower="5"/>
+    <ItemSpec id="818310" army="318311" para3="1" usePower="5"/>
+    <ItemSpec id="818320" army="318321" para3="1" usePower="5"/>
+    <ItemSpec id="806410" army="306411;306411;306411;306411;306412;306412" para3="1" usePower="5"/>
+    <ItemSpec id="806420" army="306421;306421;306421;306421;306422;306422" para3="1" usePower="5"/>
+    <ItemSpec id="806510" army="306511;306511;306511;306511;306511;306511;306512;306513" para3="1" usePower="5"/>
+    <ItemSpec id="806520" army="306521;306521;306521;306521;306521;306521;306522;306523" para3="1" usePower="5"/>
+    <ItemSpec id="806610" army="306611;306611;306612;306612;306613" para3="1" usePower="5"/>
+    <ItemSpec id="806620" army="306621;306621;306622;306622;306623" para3="1" usePower="5"/>
+    <ItemSpec id="803410" army="303411;303411;303411;303411;303412;303412" para3="1" usePower="5"/>
+    <ItemSpec id="803420" army="303421;303421;303421;303421;303422;303422" para3="1" usePower="5"/>
+    <ItemSpec id="803510" army="303511;303511;303511;303511;303511;303511;303512;303513" para3="1" usePower="5"/>
+    <ItemSpec id="803520" army="303521;303521;303521;303521;303521;303521;303522;303523" para3="1" usePower="5"/>
+    <ItemSpec id="803610" army="303611;303611;303612;303612;303613" para3="1" usePower="5"/>
+    <ItemSpec id="803620" army="303621;303621;303622;303622;303623" para3="1" usePower="5"/>
+    <ItemSpec id="812410" army="312411;312411;312411;312411;312412;312412" para3="1" usePower="5"/>
+    <ItemSpec id="812420" army="312421;312421;312421;312421;312422;312422" para3="1" usePower="5"/>
+    <ItemSpec id="812510" army="312511;312511;312511;312511;312511;312511;312512;312513" para3="1" usePower="5"/>
+    <ItemSpec id="812520" army="312521;312521;312521;312521;312521;312521;312522;312523" para3="1" usePower="5"/>
+    <ItemSpec id="812610" army="312611;312611;312612;312612;312613" para3="1" usePower="5"/>
+    <ItemSpec id="812620" army="312621;312621;312622;312622;312623" para3="1" usePower="5"/>
+    <ItemSpec id="818410" army="318411;318411;318411;318411;318412;318412" para3="1" usePower="5"/>
+    <ItemSpec id="818420" army="318421;318421;318421;318421;318422;318422" para3="1" usePower="5"/>
+    <ItemSpec id="818510" army="318511;318511;318511;318511;318511;318511;318512;318513" para3="1" usePower="5"/>
+    <ItemSpec id="818520" army="318521;318521;318521;318521;318521;318521;318522;318523" para3="1" usePower="5"/>
+    <ItemSpec id="818610" army="318611;318611;318612;318612;318613" para3="1" usePower="5"/>
+    <ItemSpec id="818620" army="318621;318621;318622;318622;318623" para3="1" usePower="5"/>
+    <ItemSpec id="900000" army="300200" exp="20" rate1="230401;1000" rate2="230700;1000" reward="230601;230301;230632" level="1" para3="5" usePower="5"/>
+    <ItemSpec id="900001" army="300201" exp="35" rate1="230402;1000" rate2="230701;1000" reward="230602;230302;230633" level="2" para3="5" usePower="5"/>
+    <ItemSpec id="900002" army="300202" exp="60" rate1="230403;1000" rate2="230702;1000" reward="230603;230303;230634" level="3" para3="5" usePower="5"/>
+    <ItemSpec id="900003" army="300203" exp="95" rate1="230404;1000" rate2="230703;1000" reward="230604;230304;230635" level="4" para3="5" usePower="5"/>
+    <ItemSpec id="900004" army="300204" exp="130" rate1="230405;1000" rate2="230704;1000" reward="230605;230305;230636" level="5" para3="5" usePower="5"/>
+    <ItemSpec id="900005" army="300205" exp="175" rate1="230406;1000" rate2="230705;1000" reward="230606;230306;230637" level="6" para3="5" usePower="5"/>
+    <ItemSpec id="900006" army="300206" exp="220" rate1="230407;1000" rate2="230706;1000" reward="230607;230307;230638" level="7" para3="5" usePower="5"/>
+    <ItemSpec id="900007" army="300207" exp="275" rate1="230408;1000" rate2="230707;1000" reward="230608;230308;230639" level="8" para3="5" usePower="5"/>
+    <ItemSpec id="900008" army="300208" exp="340" rate1="230409;1000" rate2="230708;1000" reward="230609;230309;230640" level="9" para3="5" usePower="5"/>
+    <ItemSpec id="900009" army="300209" exp="405" rate1="230410;1000" rate2="230709;1000" reward="230610;230310;230641" level="10" para3="5" usePower="5"/>
+    <ItemSpec id="900010" army="300210" exp="480" rate1="230411;1000" rate2="230710;1000" reward="230611;230311;230642" level="11" para3="5" usePower="5"/>
+    <ItemSpec id="900011" army="300211" exp="555" rate1="230412;1000" rate2="230711;1000" reward="230612;230312;230643" level="12" para3="5" usePower="5"/>
+    <ItemSpec id="900012" army="300212" exp="640" rate1="230413;1000" rate2="230712;1000" reward="230613;230313;230644" level="13" para3="5" usePower="5"/>
+    <ItemSpec id="900013" army="300213" exp="735" rate1="230414;1000" rate2="230713;1000" reward="230614;230314;230645" level="14" para3="5" usePower="5"/>
+    <ItemSpec id="900014" army="300214" exp="830" rate1="230415;1000" rate2="230714;1000" reward="230615;230315;230646" level="15" para3="5" usePower="5"/>
+    <ItemSpec id="900015" army="300215" exp="935" rate1="230416;1000" rate2="230715;1000" reward="230616;230316;230647" level="16" para3="5" usePower="5"/>
+    <ItemSpec id="900016" army="300216" exp="1040" rate1="230417;1000" rate2="230716;1000" reward="230617;230317;230648" level="17" para3="5" usePower="5"/>
+    <ItemSpec id="900017" army="300217" exp="1155" rate1="230418;1000" rate2="230717;1000" reward="230618;230318;230649" level="18" para3="5" usePower="5"/>
+    <ItemSpec id="900018" army="300218" exp="1280" rate1="230419;1000" rate2="230718;1000" reward="230619;230319;230650" level="19" para3="5" usePower="5"/>
+    <ItemSpec id="900019" army="300219" exp="1405" rate1="230420;1000" rate2="230719;1000" reward="230620;230320;230651" level="20" para3="5" usePower="5"/>
+    <ItemSpec id="900020" army="300220" exp="1540" rate1="230421;1000" rate2="230720;1000" reward="230621;230321;230652" level="21" para3="5" usePower="5"/>
+    <ItemSpec id="900021" army="300221" exp="1675" rate1="230422;1000" rate2="230721;1000" reward="230622;230322;230653" level="22" para3="5" usePower="5"/>
+    <ItemSpec id="900022" army="300222" exp="1820" rate1="230423;1000" rate2="230722;1000" reward="230623;230323;230654" level="23" para3="5" usePower="5"/>
+    <ItemSpec id="900023" army="300223" exp="1975" rate1="230424;1000" rate2="230723;1000" reward="230624;230324;230655" level="24" para3="5" usePower="5"/>
+    <ItemSpec id="900024" army="300224" exp="2130" rate1="230425;1000" rate2="230724;1000" reward="230625;230325;230656" level="25" para3="5" usePower="5"/>
+    <ItemSpec id="900025" army="300225" exp="2295" rate1="230426;1000" rate2="230725;1000" reward="230626;230326;230657" level="26" para3="5" usePower="5"/>
+    <ItemSpec id="900026" army="300226" exp="2460" rate1="230427;1000" rate2="230726;1000" reward="230627;230327;230658" level="27" para3="5" usePower="5"/>
+    <ItemSpec id="900027" army="300227" exp="2635" rate1="230428;1000" rate2="230727;1000" reward="230628;230328;230659" level="28" para3="5" usePower="5"/>
+    <ItemSpec id="900028" army="300228" exp="2820" rate1="230429;1000" rate2="230728;1000" reward="230629;230329;230660" level="29" para3="5" usePower="5"/>
+    <ItemSpec id="900029" army="300229" exp="3005" rate1="230430;1000" rate2="230729;1000" reward="230630;230330;230661" level="30" para3="5" usePower="5"/>
+    <ItemSpec id="900030" army="320001;320001;300212" rate2="241159;1000|241170;1000|241171;1000" reward="241149;241160" level="1" para3="1" boss="1" num="4" usePower="5"/>
+    <ItemSpec id="900031" army="320002;320002;300212" rate2="241159;1000|241170;1000|241171;1000" reward="241150;241161" level="2" para3="1" boss="1" num="4" usePower="5"/>
+    <ItemSpec id="900032" army="320003;320003;300213" rate2="241159;1000|241170;1000|241171;1000" reward="241151;241162" level="3" para3="1" boss="1" num="4" usePower="5"/>
+    <ItemSpec id="900033" army="320003;320004;300214" rate2="241159;1000|241170;1000|241171;1000" reward="241152;241163" level="4" para3="1" boss="1" num="4" usePower="5"/>
+    <ItemSpec id="900034" army="320005;320005;300215" rate2="241159;1000|241170;1000|241171;1000" reward="241153;241164" level="5" para3="1" boss="1" num="4" usePower="5"/>
+    <ItemSpec id="900035" army="320001;320001;320001;320001;320001;320001;320001;320001;320001" rate2="232720;1000|232721;1000|232722;1000" reward="232677" level="6" para3="1" boss="1" num="4" usePower="5"/>
+    <ItemSpec id="900036" army="320002;320002;320002;320002;320002;320002;320002;320002;320002" rate2="232723;1000|232724;1000|232725;1000" reward="232678" level="7" para3="1" boss="1" num="4" usePower="5"/>
+    <ItemSpec id="900037" army="320002;320003;320003;320002;320003;320003;320002;320003;320003" rate2="232726;1000|232727;1000|232728;1000" reward="232679" level="8" para3="1" boss="1" num="4" usePower="5"/>
+    <ItemSpec id="900038" army="320003;320003;320004;320003;320003;320004;320003;320003;320004" rate2="232729;1000|232730;1000|232731;1000" reward="232680" level="9" para3="1" boss="1" num="4" usePower="5"/>
+    <ItemSpec id="900039" army="320005;320005;320005;320005;320005;320005;320005;320005;320005" rate2="232732;1000|232733;1000|232734;1000" reward="232681" level="10" para3="1" boss="1" num="4" usePower="5"/>
+    <ItemSpec id="900040" army="320001;320001;320001;320001;320001;320001;320001;320001;320001" rate2="232720;1000|232721;1000|232722;1000" reward="232677" level="6" para3="1" boss="1" num="4" usePower="5"/>
+    <ItemSpec id="900041" army="320002;320002;320002;320002;320002;320002;320002;320002;320002" rate2="232723;1000|232724;1000|232725;1000" reward="232678" level="7" para3="1" boss="1" num="4" usePower="5"/>
+    <ItemSpec id="900042" army="320002;320003;320003;320002;320003;320003;320002;320003;320003" rate2="232726;1000|232727;1000|232728;1000" reward="232679" level="8" para3="1" boss="1" num="4" usePower="5"/>
+    <ItemSpec id="900043" army="320003;320003;320004;320003;320003;320004;320003;320003;320004" rate2="232729;1000|232730;1000|232731;1000" reward="232680" level="9" para3="1" boss="1" num="4" usePower="5"/>
+    <ItemSpec id="900044" army="320005;320005;320005;320005;320005;320005;320005;320005;320005" rate2="232732;1000|232733;1000|232734;1000" reward="232681" level="10" para3="1" boss="1" num="4" usePower="5"/>
+    <ItemSpec id="900045" army="300200" exp="80" rate1="232785;1000" rate2="232786;1000" reward="232755;230301;0" level="1" para3="1" num="1" usePower="5"/>
+    <ItemSpec id="900046" army="300201" exp="140" rate1="232785;1000" rate2="232786;1000" reward="232756;230302;0" level="2" para3="1" num="1" usePower="5"/>
+    <ItemSpec id="900047" army="300202" exp="240" rate1="232785;1000" rate2="232786;1000" reward="232757;230303;0" level="3" para3="1" num="1" usePower="5"/>
+    <ItemSpec id="900048" army="300203" exp="380" rate1="232785;1000" rate2="232786;1000" reward="232758;230304;0" level="4" para3="1" num="1" usePower="5"/>
+    <ItemSpec id="900049" army="300204" exp="520" rate1="232785;1000" rate2="232786;1000" reward="232759;230305;0" level="5" para3="1" num="1" usePower="5"/>
+    <ItemSpec id="900050" army="300205" exp="700" rate1="232785;1000" rate2="232786;1000" reward="232760;230306;0" level="6" para3="1" num="1" usePower="5"/>
+    <ItemSpec id="900051" army="300206" exp="880" rate1="232785;1000" rate2="232786;1000" reward="232761;230307;0" level="7" para3="1" num="1" usePower="5"/>
+    <ItemSpec id="900052" army="300207" exp="1100" rate1="232785;1000" rate2="232786;1000" reward="232762;230308;0" level="8" para3="1" num="1" usePower="5"/>
+    <ItemSpec id="900053" army="300208" exp="1360" rate1="232785;1000" rate2="232786;1000" reward="232763;230309;0" level="9" para3="1" num="1" usePower="5"/>
+    <ItemSpec id="900054" army="300209" exp="1620" rate1="232785;1000" rate2="232786;1000" reward="232764;230310;0" level="10" para3="1" num="1" usePower="5"/>
+    <ItemSpec id="900055" army="300210" exp="1920" rate1="232785;1000" rate2="232786;1000" reward="232765;230311;0" level="11" para3="1" num="1" usePower="5"/>
+    <ItemSpec id="900056" army="300211" exp="2220" rate1="232785;1000" rate2="232786;1000" reward="232766;230312;0" level="12" para3="1" num="1" usePower="5"/>
+    <ItemSpec id="900057" army="300212" exp="2560" rate1="232785;1000" rate2="232786;1000" reward="232767;230313;0" level="13" para3="1" num="1" usePower="5"/>
+    <ItemSpec id="900058" army="300213" exp="2940" rate1="232785;1000" rate2="232786;1000" reward="232768;230314;0" level="14" para3="1" num="1" usePower="5"/>
+    <ItemSpec id="900059" army="300214" exp="3320" rate1="232785;1000" rate2="232786;1000" reward="232769;230315;0" level="15" para3="1" num="1" usePower="5"/>
+    <ItemSpec id="900060" army="300215" exp="3740" rate1="232785;1000" rate2="232786;1000" reward="232770;230316;0" level="16" para3="1" num="1" usePower="5"/>
+    <ItemSpec id="900061" army="300216" exp="4160" rate1="232785;1000" rate2="232786;1000" reward="232771;230317;0" level="17" para3="1" num="1" usePower="5"/>
+    <ItemSpec id="900062" army="300217" exp="4620" rate1="232785;1000" rate2="232786;1000" reward="232772;230318;0" level="18" para3="1" num="1" usePower="5"/>
+    <ItemSpec id="900063" army="300218" exp="5120" rate1="232785;1000" rate2="232786;1000" reward="232773;230319;0" level="19" para3="1" num="1" usePower="5"/>
+    <ItemSpec id="900064" army="300219" exp="5620" rate1="232785;1000" rate2="232786;1000" reward="232774;230320;0" level="20" para3="1" num="1" usePower="5"/>
+    <ItemSpec id="900065" army="300220" exp="6160" rate1="232785;1000" rate2="232786;1000" reward="232775;230321;0" level="21" para3="1" num="1" usePower="5"/>
+    <ItemSpec id="900066" army="300221" exp="6700" rate1="232785;1000" rate2="232786;1000" reward="232776;230322;0" level="22" para3="1" num="1" usePower="5"/>
+    <ItemSpec id="900067" army="300222" exp="7280" rate1="232785;1000" rate2="232786;1000" reward="232777;230323;0" level="23" para3="1" num="1" usePower="5"/>
+    <ItemSpec id="900068" army="300223" exp="7900" rate1="232785;1000" rate2="232786;1000" reward="232778;230324;0" level="24" para3="1" num="1" usePower="5"/>
+    <ItemSpec id="900069" army="300224" exp="8520" rate1="232785;1000" rate2="232786;1000" reward="232779;230325;0" level="25" para3="1" num="1" usePower="5"/>
+    <ItemSpec id="900070" army="300225" exp="9180" rate1="232785;1000" rate2="232786;1000" reward="232780;230326;0" level="26" para3="1" num="1" usePower="5"/>
+    <ItemSpec id="900071" army="300226" exp="9840" rate1="232785;1000" rate2="232786;1000" reward="232781;230327;0" level="27" para3="1" num="1" usePower="5"/>
+    <ItemSpec id="900072" army="300227" exp="10540" rate1="232785;1000" rate2="232786;1000" reward="232782;230328;0" level="28" para3="1" num="1" usePower="5"/>
+    <ItemSpec id="900073" army="300228" exp="11280" rate1="232785;1000" rate2="232786;1000" reward="232783;230329;0" level="29" para3="1" num="1" usePower="5"/>
+    <ItemSpec id="900074" army="300229" exp="12020" rate1="232785;1000" rate2="232786;1000" reward="232784;230330;0" level="30" para3="1" num="1" usePower="5"/>
+    <ItemSpec id="900075" army="300200" exp="20" rate1="230401;1000" rate2="240002;1000" reward="230601;230301;230632" level="1" para3="1" usePower="5"/>
+    <ItemSpec id="900076" army="300201" exp="35" rate1="230402;1000" rate2="240002;1000" reward="230602;230302;230633" level="2" para3="1" usePower="5"/>
+    <ItemSpec id="900077" army="300202" exp="60" rate1="230403;1000" rate2="240002;1000" reward="230603;230303;230634" level="3" para3="1" usePower="5"/>
+    <ItemSpec id="900078" army="300203" exp="95" rate1="230404;1000" rate2="240002;1000" reward="230604;230304;230635" level="4" para3="1" usePower="5"/>
+    <ItemSpec id="900079" army="300204" exp="130" rate1="230405;1000" rate2="240002;1000" reward="230605;230305;230636" level="5" para3="1" usePower="5"/>
+    <ItemSpec id="900080" army="300205" exp="175" rate1="230406;1000" rate2="240002;1000" reward="230606;230306;230637" level="6" para3="1" usePower="5"/>
+    <ItemSpec id="900081" army="300206" exp="220" rate1="230407;1000" rate2="240002;1000" reward="230607;230307;230638" level="7" para3="1" usePower="5"/>
+    <ItemSpec id="900082" army="300207" exp="275" rate1="230408;1000" rate2="240002;1000" reward="230608;230308;230639" level="8" para3="1" usePower="5"/>
+    <ItemSpec id="900083" army="300208" exp="340" rate1="230409;1000" rate2="240002;1000" reward="230609;230309;230640" level="9" para3="1" usePower="5"/>
+    <ItemSpec id="900084" army="300209" exp="405" rate1="230410;1000" rate2="240002;1000" reward="230610;230310;230641" level="10" para3="1" usePower="5"/>
+    <ItemSpec id="900085" army="300210" exp="480" rate1="230411;1000" rate2="240002;1000" reward="230611;230311;230642" level="11" para3="1" usePower="5"/>
+    <ItemSpec id="900086" army="300211" exp="555" rate1="230412;1000" rate2="240002;1000" reward="230612;230312;230643" level="12" para3="1" usePower="5"/>
+    <ItemSpec id="900087" army="300212" exp="640" rate1="230413;1000" rate2="240002;1000" reward="230613;230313;230644" level="13" para3="1" usePower="5"/>
+    <ItemSpec id="900088" army="300213" exp="735" rate1="230414;1000" rate2="240002;1000" reward="230614;230314;230645" level="14" para3="1" usePower="5"/>
+    <ItemSpec id="900089" army="300214" exp="830" rate1="230415;1000" rate2="240002;1000" reward="230615;230315;230646" level="15" para3="1" usePower="5"/>
+    <ItemSpec id="900090" army="300215" exp="935" rate1="230416;1000" rate2="240002;1000" reward="230616;230316;230647" level="16" para3="1" usePower="5"/>
+    <ItemSpec id="900091" army="300216" exp="1040" rate1="230417;1000" rate2="240002;1000" reward="230617;230317;230648" level="17" para3="1" usePower="5"/>
+    <ItemSpec id="900092" army="300217" exp="1155" rate1="230418;1000" rate2="240002;1000" reward="230618;230318;230649" level="18" para3="1" usePower="5"/>
+    <ItemSpec id="900093" army="300218" exp="1280" rate1="230419;1000" rate2="240002;1000" reward="230619;230319;230650" level="19" para3="1" usePower="5"/>
+    <ItemSpec id="900094" army="300219" exp="1405" rate1="230420;1000" rate2="240002;1000" reward="230620;230320;230651" level="20" para3="1" usePower="5"/>
+    <ItemSpec id="900095" army="300220" exp="1540" rate1="230421;1000" rate2="240002;1000" reward="230621;230321;230652" level="21" para3="1" usePower="5"/>
+    <ItemSpec id="900096" army="300221" exp="1675" rate1="230422;1000" rate2="240002;1000" reward="230622;230322;230653" level="22" para3="1" usePower="5"/>
+    <ItemSpec id="900097" army="300222" exp="1820" rate1="230423;1000" rate2="240002;1000" reward="230623;230323;230654" level="23" para3="1" usePower="5"/>
+    <ItemSpec id="900098" army="300223" exp="1975" rate1="230424;1000" rate2="240002;1000" reward="230624;230324;230655" level="24" para3="1" usePower="5"/>
+    <ItemSpec id="900099" army="300224" exp="2130" rate1="230425;1000" rate2="240002;1000" reward="230625;230325;230656" level="25" para3="1" usePower="5"/>
+    <ItemSpec id="900100" army="300225" exp="2295" rate1="230426;1000" rate2="240002;1000" reward="230626;230326;230657" level="26" para3="1" usePower="5"/>
+    <ItemSpec id="900101" army="300226" exp="2460" rate1="230427;1000" rate2="240002;1000" reward="230627;230327;230658" level="27" para3="1" usePower="5"/>
+    <ItemSpec id="900102" army="300227" exp="2635" rate1="230428;1000" rate2="240002;1000" reward="230628;230328;230659" level="28" para3="1" usePower="5"/>
+    <ItemSpec id="900103" army="300228" exp="2820" rate1="230429;1000" rate2="240002;1000" reward="230629;230329;230660" level="29" para3="1" usePower="5"/>
+    <ItemSpec id="900104" army="300229" exp="3005" rate1="230430;1000" rate2="240002;1000" reward="230630;230330;230661" level="30" para3="1" usePower="5"/>
+    <ItemSpec id="900105" army="300200" exp="20" rate1="230401;1000" rate2="240008;1000" reward="230601;230301;230632" level="1" para3="1" usePower="5"/>
+    <ItemSpec id="900106" army="300201" exp="35" rate1="230402;1000" rate2="240008;1000" reward="230602;230302;230633" level="2" para3="1" usePower="5"/>
+    <ItemSpec id="900107" army="300202" exp="60" rate1="230403;1000" rate2="240008;1000" reward="230603;230303;230634" level="3" para3="1" usePower="5"/>
+    <ItemSpec id="900108" army="300203" exp="95" rate1="230404;1000" rate2="240008;1000" reward="230604;230304;230635" level="4" para3="1" usePower="5"/>
+    <ItemSpec id="900109" army="300204" exp="130" rate1="230405;1000" rate2="240008;1000" reward="230605;230305;230636" level="5" para3="1" usePower="5"/>
+    <ItemSpec id="900110" army="300205" exp="175" rate1="230406;1000" rate2="240008;1000" reward="230606;230306;230637" level="6" para3="1" usePower="5"/>
+    <ItemSpec id="900111" army="300206" exp="220" rate1="230407;1000" rate2="240008;1000" reward="230607;230307;230638" level="7" para3="1" usePower="5"/>
+    <ItemSpec id="900112" army="300207" exp="275" rate1="230408;1000" rate2="240008;1000" reward="230608;230308;230639" level="8" para3="1" usePower="5"/>
+    <ItemSpec id="900113" army="300208" exp="340" rate1="230409;1000" rate2="240008;1000" reward="230609;230309;230640" level="9" para3="1" usePower="5"/>
+    <ItemSpec id="900114" army="300209" exp="405" rate1="230410;1000" rate2="240008;1000" reward="230610;230310;230641" level="10" para3="1" usePower="5"/>
+    <ItemSpec id="900115" army="300210" exp="480" rate1="230411;1000" rate2="240008;1000" reward="230611;230311;230642" level="11" para3="1" usePower="5"/>
+    <ItemSpec id="900116" army="300211" exp="555" rate1="230412;1000" rate2="240008;1000" reward="230612;230312;230643" level="12" para3="1" usePower="5"/>
+    <ItemSpec id="900117" army="300212" exp="640" rate1="230413;1000" rate2="240008;1000" reward="230613;230313;230644" level="13" para3="1" usePower="5"/>
+    <ItemSpec id="900118" army="300213" exp="735" rate1="230414;1000" rate2="240008;1000" reward="230614;230314;230645" level="14" para3="1" usePower="5"/>
+    <ItemSpec id="900119" army="300214" exp="830" rate1="230415;1000" rate2="240008;1000" reward="230615;230315;230646" level="15" para3="1" usePower="5"/>
+    <ItemSpec id="900120" army="300215" exp="935" rate1="230416;1000" rate2="240008;1000" reward="230616;230316;230647" level="16" para3="1" usePower="5"/>
+    <ItemSpec id="900121" army="300216" exp="1040" rate1="230417;1000" rate2="240008;1000" reward="230617;230317;230648" level="17" para3="1" usePower="5"/>
+    <ItemSpec id="900122" army="300217" exp="1155" rate1="230418;1000" rate2="240008;1000" reward="230618;230318;230649" level="18" para3="1" usePower="5"/>
+    <ItemSpec id="900123" army="300218" exp="1280" rate1="230419;1000" rate2="240008;1000" reward="230619;230319;230650" level="19" para3="1" usePower="5"/>
+    <ItemSpec id="900124" army="300219" exp="1405" rate1="230420;1000" rate2="240008;1000" reward="230620;230320;230651" level="20" para3="1" usePower="5"/>
+    <ItemSpec id="900125" army="300200" exp="20" rate1="230401;1000" rate2="230501;1000" reward="241073;230301;230632" level="1" para3="1" usePower="5"/>
+    <ItemSpec id="900126" army="300201" exp="35" rate1="230402;1000" rate2="230502;1000" reward="241074;230302;230633" level="2" para3="1" usePower="5"/>
+    <ItemSpec id="900127" army="300202" exp="60" rate1="230403;1000" rate2="230503;1000" reward="241075;230303;230634" level="3" para3="1" usePower="5"/>
+    <ItemSpec id="900128" army="300203" exp="95" rate1="230404;1000" rate2="230504;1000" reward="241076;230304;230635" level="4" para3="1" usePower="5"/>
+    <ItemSpec id="900129" army="300204" exp="130" rate1="230405;1000" rate2="230505;1000" reward="241077;230305;230636" level="5" para3="1" usePower="5"/>
+    <ItemSpec id="900130" army="300205" exp="175" rate1="230406;1000" rate2="230506;1000" reward="241078;230306;230637" level="6" para3="1" usePower="5"/>
+    <ItemSpec id="900131" army="300206" exp="220" rate1="230407;1000" rate2="230507;1000" reward="241079;230307;230638" level="7" para3="1" usePower="5"/>
+    <ItemSpec id="900132" army="300207" exp="275" rate1="230408;1000" rate2="230508;1000" reward="241080;230308;230639" level="8" para3="1" usePower="5"/>
+    <ItemSpec id="900133" army="300208" exp="340" rate1="230409;1000" rate2="230509;1000" reward="241081;230309;230640" level="9" para3="1" usePower="5"/>
+    <ItemSpec id="900134" army="300209" exp="405" rate1="230410;1000" rate2="230510;1000" reward="241082;230310;230641" level="10" para3="1" usePower="5"/>
+    <ItemSpec id="900135" army="300210" exp="480" rate1="230411;1000" rate2="230511;1000" reward="241083;230311;230642" level="11" para3="1" usePower="5"/>
+    <ItemSpec id="900136" army="300211" exp="555" rate1="230412;1000" rate2="230512;1000" reward="241084;230312;230643" level="12" para3="1" usePower="5"/>
+    <ItemSpec id="900137" army="300212" exp="640" rate1="230413;1000" rate2="230513;1000" reward="241085;230313;230644" level="13" para3="1" usePower="5"/>
+    <ItemSpec id="900138" army="300213" exp="735" rate1="230414;1000" rate2="230514;1000" reward="241086;230314;230645" level="14" para3="1" usePower="5"/>
+    <ItemSpec id="900139" army="300214" exp="830" rate1="230415;1000" rate2="230515;1000" reward="241087;230315;230646" level="15" para3="1" usePower="5"/>
+    <ItemSpec id="900140" army="300215" exp="935" rate1="230416;1000" rate2="230516;1000" reward="241088;230316;230647" level="16" para3="1" usePower="5"/>
+    <ItemSpec id="900141" army="300216" exp="1040" rate1="230417;1000" rate2="230517;1000" reward="241089;230317;230648" level="17" para3="1" usePower="5"/>
+    <ItemSpec id="900142" army="300217" exp="1155" rate1="230418;1000" rate2="230518;1000" reward="241090;230318;230649" level="18" para3="1" usePower="5"/>
+    <ItemSpec id="900143" army="300218" exp="1280" rate1="230419;1000" rate2="230519;1000" reward="241091;230319;230650" level="19" para3="1" usePower="5"/>
+    <ItemSpec id="900144" army="300219" exp="1405" rate1="230420;1000" rate2="230520;1000" reward="241092;230320;230651" level="20" para3="1" usePower="5"/>
+    <ItemSpec id="900145" army="300204" exp="130" rate1="230405;1000" rate2="230505;1000" reward="241093;230305;230636" level="3" para3="50" usePower="5"/>
+    <ItemSpec id="900146" army="300207" exp="275" rate1="230408;1000" rate2="230508;1000" reward="241094;230308;230639" level="6" para3="50" usePower="5"/>
+    <ItemSpec id="900147" army="300210" exp="480" rate1="230411;1000" rate2="230511;1000" reward="241095;230311;230642" level="9" para3="50" usePower="5"/>
+    <ItemSpec id="900148" army="300213" exp="735" rate1="230414;1000" rate2="230514;1000" reward="241096;230314;230645" level="12" para3="50" usePower="5"/>
+    <ItemSpec id="900149" army="300216" exp="1040" rate1="230417;1000" rate2="230517;1000" reward="241097;230317;230648" level="15" para3="50" usePower="5"/>
+    <ItemSpec id="900150" army="300219" exp="1405" rate1="230420;1000" rate2="230520;1000" reward="241098;230320;230651" level="18" para3="50" usePower="5"/>
+    <ItemSpec id="900151" army="300222" exp="1820" rate1="230423;1000" rate2="230523;1000" reward="241099;230323;230654" level="21" para3="50" usePower="5"/>
+  </Group>
+  <Group id="refresh">
+    <ItemSpec id="9450" day="0;2" para1="9400;16" para2="9401;16" para3="9402;16" para4="9403;12" para5="9404;8" para6="9405;4" blackland1="9405;35"/>
+    <ItemSpec id="9451" day="2;4" para1="9400;16" para2="9401;12" para3="9402;12" para4="9403;12" para5="9404;10" para6="9405;7" blackland1="9406;35" para7="9406;4"/>
+    <ItemSpec id="9452" day="4;6" para1="9400;10" para2="9401;10" para3="9402;10" para4="9403;10" para5="9404;10" para6="9405;10" blackland1="9407;35" para7="9406;8" para8="9407;4"/>
+    <ItemSpec id="9453" day="6;9" para1="9400;9" para2="9401;9" para3="9402;9" para4="9403;9" para5="9404;9" para6="9405;9" blackland1="9408;35" para7="9406;8" para8="9407;7" para9="9408;4"/>
+    <ItemSpec id="9454" day="9;12" para1="9400;9" para2="9401;9" para3="9402;8" para4="9403;8" para5="9404;7" para6="9405;7" blackland1="9409;35" para7="9406;7" para8="9407;7" para9="9408;6" para10="9409;4"/>
+    <ItemSpec id="9455" day="12;18" para1="9400;8" para2="9401;8" para3="9402;7" para4="9403;7" para5="9404;7" para6="9405;7" blackland1="9410;35" para7="9406;6" para8="9407;6" para9="9408;6" para10="9409;6" para11="9410;4"/>
+    <ItemSpec id="9456" day="18;24" para1="9400;6" para2="9401;6" para3="9402;6" para4="9403;6" para5="9404;6" para6="9405;6" blackland1="9411;35" para7="9406;6" para8="9407;6" para9="9408;6" para10="9409;6" para11="9410;6" para12="9411;6"/>
+    <ItemSpec id="9457" day="24;30" para1="9400;6" para2="9401;6" para3="9402;6" para4="9403;6" para5="9404;6" para6="9405;6" blackland1="9412;35" para7="9406;6" para8="9407;5" para9="9408;5" para10="9409;5" para11="9410;5" para12="9411;5" para13="9412;5"/>
+    <ItemSpec id="9458" day="30;36" para1="9400;6" para2="9401;6" para3="9402;5" para4="9403;5" para5="9404;5" para6="9405;5" blackland1="9413;35" para7="9406;5" para8="9407;5" para9="9408;5" para10="9409;5" para11="9410;5" para12="9411;5" para13="9412;5" para14="9413;5"/>
+    <ItemSpec id="9459" day="36;42" para1="9400;5" para2="9401;5" para3="9402;5" para4="9403;5" para5="9404;5" para6="9405;5" blackland1="9414;35" para7="9406;5" para8="9407;5" para9="9408;5" para10="9409;5" para11="9410;5" para12="9411;5" para13="9412;4" para14="9413;4" para15="9414;4"/>
+    <ItemSpec id="9460" day="42;48" para1="9400;5" para2="9401;5" para3="9402;5" para4="9403;5" para5="9404;5" para6="9405;5" blackland1="9415;35" para7="9406;5" para8="9407;5" para9="9408;4" para10="9409;4" para11="9410;4" para12="9411;4" para13="9412;4" para14="9413;4" para15="9414;4" para16="9415;4"/>
+    <ItemSpec id="9461" day="48;54" para1="9400;5" para2="9401;5" para3="9402;5" para4="9403;5" para5="9404;4" para6="9405;4" blackland1="9416;35" para7="9406;4" para8="9407;4" para9="9408;4" para10="9409;4" para11="9410;4" para12="9411;4" para13="9412;4" para14="9413;4" para15="9414;4" para16="9415;4" para17="9416;4"/>
+    <ItemSpec id="9462" day="54;60" para1="9400;4" para2="9401;4" para3="9402;4" para4="9403;4" para5="9404;4" para6="9405;4" blackland1="9417;35" para7="9406;4" para8="9407;4" para9="9408;4" para10="9409;4" para11="9410;4" para12="9411;4" para13="9412;4" para14="9413;4" para15="9414;4" para16="9415;4" para17="9416;4" para18="9417;4"/>
+    <ItemSpec id="9463" day="60;70" para1="9400;4" para2="9401;4" para3="9402;4" para4="9403;4" para5="9404;4" para6="9405;4" blackland1="9418;35" para7="9406;4" para8="9407;4" para9="9408;4" para10="9409;4" para11="9410;4" para12="9411;4" para13="9412;4" para14="9413;4" para15="9414;4" para16="9415;3" para17="9416;3" para18="9417;3" para19="9418;3"/>
+    <ItemSpec id="9464" day="70;80" para1="9400;4" para2="9401;4" para3="9402;4" para4="9403;4" para5="9404;4" para6="9405;4" blackland1="9419;35" para7="9406;4" para8="9407;4" para9="9408;4" para10="9409;4" para11="9410;4" para12="9411;4" para13="9412;3" para14="9413;3" para15="9414;3" para16="9415;3" para17="9416;3" para18="9417;3" para19="9418;3" para20="9419;3"/>
+    <ItemSpec id="9465" day="80;95" para1="9400;4" para2="9401;4" para3="9402;4" para4="9403;4" para5="9404;4" para6="9405;4" blackland1="9420;35" para7="9406;4" para8="9407;4" para9="9408;4" para10="9409;3" para11="9410;3" para12="9411;3" para13="9412;3" para14="9413;3" para15="9414;3" para16="9415;3" para17="9416;3" para18="9417;3" para19="9418;3" para20="9419;3" para21="9419;3"/>
+    <ItemSpec id="9466" day="95;110" para1="9400;4" para2="9401;4" para3="9402;4" para4="9403;4" para5="9404;3" para6="9405;3" blackland1="9420;35" para7="9406;3" para8="9407;3" para9="9408;3" para10="9409;3" para11="9410;3" para12="9411;3" para13="9412;3" para14="9413;3" para15="9414;3" para16="9415;3" para17="9416;3" para18="9417;3" para19="9418;3" para20="9419;3" para21="9419;3" para22="9419;3" para23="9419;3"/>
+    <ItemSpec id="9467" day="110;125" para1="9400;4" para2="9401;3" para3="9402;3" para4="9403;3" para5="9404;3" para6="9405;3" blackland1="9420;35" para7="9406;3" para8="9407;3" para9="9408;3" para10="9409;3" para11="9410;3" para12="9411;3" para13="9412;3" para14="9413;3" para15="9414;3" para16="9415;3" para17="9416;3" para18="9417;3" para19="9418;3" para20="9419;3" para21="9419;3" para22="9419;3" para23="9419;3" para24="9419;3"/>
+    <ItemSpec id="9468" day="125;140" para1="9400;3" para2="9401;3" para3="9402;3" para4="9403;3" para5="9404;3" para6="9405;3" blackland1="9420;35" para7="9406;3" para8="9407;3" para9="9408;3" para10="9409;3" para11="9410;3" para12="9411;3" para13="9412;3" para14="9413;3" para15="9414;3" para16="9415;3" para17="9416;3" para18="9417;3" para19="9418;3" para20="9419;3" para21="9419;3" para22="9419;3" para23="9419;3" para24="9419;3" para25="9419;2"/>
+    <ItemSpec id="9469" day="140;155" para1="9400;3" para2="9401;3" para3="9402;3" para4="9403;3" para5="9404;3" para6="9405;3" blackland1="9420;35" para7="9406;3" para8="9407;3" para9="9408;3" para10="9409;3" para11="9410;3" para12="9411;3" para13="9412;3" para14="9413;3" para15="9414;3" para16="9415;3" para17="9416;3" para18="9417;3" para19="9418;3" para20="9419;3" para21="9419;3" para22="9419;3" para23="9419;2" para24="9419;2" para25="9419;2" para26="9419;2"/>
+    <ItemSpec id="9470" day="155;170" para1="9400;3" para2="9401;3" para3="9402;3" para4="9403;3" para5="9404;3" para6="9405;3" blackland1="9420;35" para7="9406;3" para8="9407;3" para9="9408;3" para10="9409;3" para11="9410;3" para12="9411;3" para13="9412;3" para14="9413;3" para15="9414;3" para16="9415;3" para17="9416;3" para18="9417;3" para19="9418;3" para20="9419;3" para21="9419;2" para22="9419;2" para23="9419;2" para24="9419;2" para25="9419;2" para26="9419;2" para27="9419;2"/>
+    <ItemSpec id="9471" day="170;185" para1="9400;3" para2="9401;3" para3="9402;3" para4="9403;3" para5="9404;3" para6="9405;3" blackland1="9420;35" para7="9406;3" para8="9407;3" para9="9408;3" para10="9409;3" para11="9410;3" para12="9411;3" para13="9412;3" para14="9413;3" para15="9414;3" para16="9415;3" para17="9416;3" para18="9417;3" para19="9418;2" para20="9419;2" para21="9419;2" para22="9419;2" para23="9419;2" para24="9419;2" para25="9419;2" para26="9419;2" para27="9419;2" para28="9419;2"/>
+    <ItemSpec id="9472" day="185;200" para1="9400;3" para2="9401;3" para3="9402;3" para4="9403;3" para5="9404;3" para6="9405;3" blackland1="9420;35" para7="9406;3" para8="9407;3" para9="9408;3" para10="9409;3" para11="9410;3" para12="9411;3" para13="9412;3" para14="9413;3" para15="9414;3" para16="9415;3" para17="9416;2" para18="9417;2" para19="9418;2" para20="9419;2" para21="9419;2" para22="9419;2" para23="9419;2" para24="9419;2" para25="9419;2" para26="9419;2" para27="9419;2" para28="9419;2" para29="9419;2"/>
+    <ItemSpec id="9473" day="200;99999" para1="9400;3" para2="9401;3" para3="9402;3" para4="9403;3" para5="9404;3" para6="9405;3" blackland1="9420;35" para7="9406;3" para8="9407;3" para9="9408;3" para10="9409;3" para11="9410;3" para12="9411;3" para13="9412;3" para14="9413;3" para15="9414;2" para16="9415;2" para17="9416;2" para18="9417;2" para19="9418;2" para20="9419;2" para21="9419;2" para22="9419;2" para23="9419;2" para24="9419;2" para25="9419;2" para26="9419;2" para27="9419;2" para28="9419;2" para29="9419;2" para30="9419;2"/>
+  </Group>
+  <Group id="refresh_event">
+    <ItemSpec id="901000" day="0;2" para1="900030;16" para2="900031;16" para3="900032;16" para4="900033;12" para5="900034;8" para6="900030;4" blackland1="9405;35"/>
+    <ItemSpec id="901001" day="2;4" para1="900030;16" para2="900031;12" para3="900032;12" para4="900033;12" para5="900034;10" para6="900030;7" blackland1="9406;35" para7="900031;4"/>
+    <ItemSpec id="901002" day="4;6" para1="900030;10" para2="900031;10" para3="900032;10" para4="900033;10" para5="900034;10" para6="900030;10" blackland1="9407;35" para7="900031;8" para8="900032;4"/>
+    <ItemSpec id="901003" day="6;9" para1="900030;9" para2="900031;9" para3="900032;9" para4="900033;9" para5="900034;9" para6="900030;9" blackland1="9408;35" para7="900031;8" para8="900032;7" para9="900033;4"/>
+    <ItemSpec id="901004" day="9;12" para1="900030;9" para2="900031;9" para3="900032;8" para4="900033;8" para5="900034;7" para6="900030;7" blackland1="9409;35" para7="900031;7" para8="900032;7" para9="900033;6" para10="900034;4"/>
+    <ItemSpec id="901005" day="12;18" para1="900030;8" para2="900031;8" para3="900032;7" para4="900033;7" para5="900034;7" para6="900030;7" blackland1="9410;35" para7="900031;6" para8="900032;6" para9="900033;6" para10="900034;6" para11="900031;4"/>
+    <ItemSpec id="901006" day="18;24" para1="900030;6" para2="900031;6" para3="900032;6" para4="900033;6" para5="900034;6" para6="900030;6" blackland1="9411;35" para7="900031;6" para8="900032;6" para9="900033;6" para10="900034;6" para11="900031;6" para12="900032;6"/>
+    <ItemSpec id="901007" day="24;30" para1="900030;6" para2="900031;6" para3="900032;6" para4="900033;6" para5="900034;6" para6="900030;6" blackland1="9412;35" para7="900031;6" para8="900032;5" para9="900033;5" para10="900034;5" para11="900031;5" para12="900032;5" para13="900033;5"/>
+    <ItemSpec id="901008" day="30;36" para1="900030;6" para2="900031;6" para3="900032;5" para4="900033;5" para5="900034;5" para6="900030;5" blackland1="9413;35" para7="900031;5" para8="900032;5" para9="900033;5" para10="900034;5" para11="900031;5" para12="900032;5" para13="900033;5" para14="900034;5"/>
+    <ItemSpec id="901009" day="36;42" para1="900030;5" para2="900031;5" para3="900032;5" para4="900033;5" para5="900034;5" para6="900030;5" blackland1="9414;35" para7="900031;5" para8="900032;5" para9="900033;5" para10="900034;5" para11="900031;5" para12="900032;5" para13="900033;4" para14="900034;4" para15="900031;4"/>
+    <ItemSpec id="901010" day="42;48" para1="900030;5" para2="900031;5" para3="900032;5" para4="900033;5" para5="900034;5" para6="900030;5" blackland1="9415;35" para7="900031;5" para8="900032;5" para9="900033;4" para10="900034;4" para11="900031;4" para12="900032;4" para13="900033;4" para14="900034;4" para15="900031;4" para16="900032;4"/>
+    <ItemSpec id="901011" day="48;54" para1="900030;5" para2="900031;5" para3="900032;5" para4="900033;5" para5="900034;4" para6="900030;4" blackland1="9416;35" para7="900031;4" para8="900032;4" para9="900033;4" para10="900034;4" para11="900031;4" para12="900032;4" para13="900033;4" para14="900034;4" para15="900031;4" para16="900032;4" para17="900033;4"/>
+    <ItemSpec id="901012" day="54;60" para1="900030;4" para2="900031;4" para3="900032;4" para4="900033;4" para5="900034;4" para6="900030;4" blackland1="9417;35" para7="900031;4" para8="900032;4" para9="900033;4" para10="900034;4" para11="900031;4" para12="900032;4" para13="900033;4" para14="900034;4" para15="900031;4" para16="900032;4" para17="900033;4" para18="900034;4"/>
+    <ItemSpec id="901013" day="60;70" para1="900030;4" para2="900031;4" para3="900032;4" para4="900033;4" para5="900034;4" para6="900030;4" blackland1="9418;35" para7="900031;4" para8="900032;4" para9="900033;4" para10="900034;4" para11="900031;4" para12="900032;4" para13="900033;4" para14="900034;4" para15="900031;4" para16="900032;3" para17="900033;3" para18="900034;3" para19="900032;3"/>
+    <ItemSpec id="901014" day="70;80" para1="900030;4" para2="900031;4" para3="900032;4" para4="900033;4" para5="900034;4" para6="900030;4" blackland1="9419;35" para7="900031;4" para8="900032;4" para9="900033;4" para10="900034;4" para11="900031;4" para12="900032;4" para13="900033;3" para14="900034;3" para15="900031;3" para16="900032;3" para17="900033;3" para18="900034;3" para19="900032;3" para20="900033;3"/>
+    <ItemSpec id="901015" day="80;95" para1="900030;4" para2="900031;4" para3="900032;4" para4="900033;4" para5="900034;4" para6="900030;4" blackland1="9420;35" para7="900031;4" para8="900032;4" para9="900033;4" para10="900034;3" para11="900031;3" para12="900032;3" para13="900033;3" para14="900034;3" para15="900031;3" para16="900032;3" para17="900033;3" para18="900034;3" para19="900032;3" para20="900033;3" para21="900034;3"/>
+    <ItemSpec id="901016" day="95;110" para1="900030;4" para2="900031;4" para3="900032;4" para4="900033;4" para5="900034;3" para6="900030;3" blackland1="9420;35" para7="900031;3" para8="900032;3" para9="900033;3" para10="900034;3" para11="900031;3" para12="900032;3" para13="900033;3" para14="900034;3" para15="900031;3" para16="900032;3" para17="900033;3" para18="900034;3" para19="900032;3" para20="900033;3" para21="900034;3" para22="900032;3" para23="900033;3"/>
+    <ItemSpec id="901017" day="110;125" para1="900030;4" para2="900031;3" para3="900032;3" para4="900033;3" para5="900034;3" para6="900030;3" blackland1="9420;35" para7="900031;3" para8="900032;3" para9="900033;3" para10="900034;3" para11="900031;3" para12="900032;3" para13="900033;3" para14="900034;3" para15="900031;3" para16="900032;3" para17="900033;3" para18="900034;3" para19="900032;3" para20="900033;3" para21="900034;3" para22="900032;3" para23="900033;3" para24="900034;3"/>
+    <ItemSpec id="901018" day="125;140" para1="900030;3" para2="900031;3" para3="900032;3" para4="900033;3" para5="900034;3" para6="900030;3" blackland1="9420;35" para7="900031;3" para8="900032;3" para9="900033;3" para10="900034;3" para11="900031;3" para12="900032;3" para13="900033;3" para14="900034;3" para15="900031;3" para16="900032;3" para17="900033;3" para18="900034;3" para19="900032;3" para20="900033;3" para21="900034;3" para22="900032;3" para23="900033;3" para24="900034;3" para25="900033;2"/>
+    <ItemSpec id="901019" day="140;155" para1="900030;3" para2="900031;3" para3="900032;3" para4="900033;3" para5="900034;3" para6="900030;3" blackland1="9420;35" para7="900031;3" para8="900032;3" para9="900033;3" para10="900034;3" para11="900031;3" para12="900032;3" para13="900033;3" para14="900034;3" para15="900031;3" para16="900032;3" para17="900033;3" para18="900034;3" para19="900032;3" para20="900033;3" para21="900034;3" para22="900032;3" para23="900033;2" para24="900034;2" para25="900033;2" para26="900034;2"/>
+    <ItemSpec id="901020" day="155;170" para1="900030;3" para2="900031;3" para3="900032;3" para4="900033;3" para5="900034;3" para6="900030;3" blackland1="9420;35" para7="900031;3" para8="900032;3" para9="900033;3" para10="900034;3" para11="900031;3" para12="900032;3" para13="900033;3" para14="900034;3" para15="900031;3" para16="900032;3" para17="900033;3" para18="900034;3" para19="900032;3" para20="900033;3" para21="900034;2" para22="900032;2" para23="900033;2" para24="900034;2" para25="900033;2" para26="900034;2" para27="900033;2"/>
+    <ItemSpec id="901021" day="170;185" para1="900030;3" para2="900031;3" para3="900032;3" para4="900033;3" para5="900034;3" para6="900030;3" blackland1="9420;35" para7="900031;3" para8="900032;3" para9="900033;3" para10="900034;3" para11="900031;3" para12="900032;3" para13="900033;3" para14="900034;3" para15="900031;3" para16="900032;3" para17="900033;3" para18="900034;3" para19="900032;2" para20="900033;2" para21="900034;2" para22="900032;2" para23="900033;2" para24="900034;2" para25="900033;2" para26="900034;2" para27="900033;2" para28="900034;2"/>
+    <ItemSpec id="901022" day="185;200" para1="900030;3" para2="900031;3" para3="900032;3" para4="900033;3" para5="900034;3" para6="900030;3" blackland1="9420;35" para7="900031;3" para8="900032;3" para9="900033;3" para10="900034;3" para11="900031;3" para12="900032;3" para13="900033;3" para14="900034;3" para15="900031;3" para16="900032;3" para17="900033;2" para18="900034;2" para19="900032;2" para20="900033;2" para21="900034;2" para22="900032;2" para23="900033;2" para24="900034;2" para25="900033;2" para26="900034;2" para27="900033;2" para28="900034;2" para29="900034;2"/>
+    <ItemSpec id="901023" day="200;99999" para1="900030;3" para2="900031;3" para3="900032;3" para4="900033;3" para5="900034;3" para6="900030;3" blackland1="9420;35" para7="900031;3" para8="900032;3" para9="900033;3" para10="900034;3" para11="900031;3" para12="900032;3" para13="900033;3" para14="900034;3" para15="900031;2" para16="900032;2" para17="900033;2" para18="900034;2" para19="900032;2" para20="900033;2" para21="900034;2" para22="900032;2" para23="900033;2" para24="900034;2" para25="900033;2" para26="900034;2" para27="900033;2" para28="900034;2" para29="900034;2" para30="900034;2"/>
+  </Group>
+</tns:database>

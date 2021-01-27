@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="landing">
+    <ItemSpec id="7900" type="1" gold="2" rate="200" rate_3="50" rate_7="50"/>
+    <ItemSpec id="7901" type="1" gold="4" rate="500" rate_3="50" rate_7="50"/>
+    <ItemSpec id="7902" type="1" gold="6" rate="200" rate_3="700" rate_7="100"/>
+    <ItemSpec id="7903" type="1" gold="10" rate="50" rate_3="100" rate_7="100"/>
+    <ItemSpec id="7904" type="1" gold="15" rate="50" rate_3="100" rate_7="700"/>
+    <ItemSpec id="7905" type="2" silver="1000" rate="200" rate_3="50" rate_7="50"/>
+    <ItemSpec id="7906" type="2" silver="2000" rate="500" rate_3="50" rate_7="50"/>
+    <ItemSpec id="7907" type="2" silver="5000" rate="200" rate_3="700" rate_7="100"/>
+    <ItemSpec id="7908" type="2" silver="8000" rate="50" rate_3="100" rate_7="100"/>
+    <ItemSpec id="7909" type="2" silver="10000" rate="50" rate_3="100" rate_7="700"/>
+    <ItemSpec id="7910" type="3" expcard="249000;5;1" rate="200" rate_3="50" rate_7="50"/>
+    <ItemSpec id="7911" type="3" expcard="249000;5;2" rate="500" rate_3="50" rate_7="50"/>
+    <ItemSpec id="7912" type="3" expcard="249000;5;3" rate="200" rate_3="700" rate_7="100"/>
+    <ItemSpec id="7913" type="3" expcard="249000;5;4" rate="50" rate_3="100" rate_7="100"/>
+    <ItemSpec id="7914" type="3" expcard="249000;5;5" rate="50" rate_3="100" rate_7="700"/>
+    <ItemSpec id="7915" type="4" times="1" rate="200" rate_3="50" rate_7="50"/>
+    <ItemSpec id="7916" type="4" times="2" rate="500" rate_3="50" rate_7="50"/>
+    <ItemSpec id="7917" type="4" times="3" rate="200" rate_3="700" rate_7="100"/>
+    <ItemSpec id="7918" type="4" times="4" rate="50" rate_3="100" rate_7="100"/>
+    <ItemSpec id="7919" type="4" times="5" rate="50" rate_3="100" rate_7="700"/>
+  </Group>
+</tns:database>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group id="kill_friends">
+		<ItemSpec id="1" num="200" ratio="1"/>
+		<ItemSpec id="2" num="500" ratio="1.1"/>
+		<ItemSpec id="3" num="1000" ratio="1.2"/>
+		<ItemSpec id="4" num="2000" ratio="1.3"/>
+		<ItemSpec id="5" num="5000" ratio="1.5"/>
+	</Group>
+</tns:database>

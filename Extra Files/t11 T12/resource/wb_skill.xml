@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ItemSpec id="610001" item_id="200001" skill_point="250"/>
+  <ItemSpec id="610002" item_id="200002" skill_point="1000"/>
+  <ItemSpec id="610003" item_id="200221" skill_point="500"/>
+  <ItemSpec id="610004" item_id="200410" skill_point="250"/>
+</tns:database>

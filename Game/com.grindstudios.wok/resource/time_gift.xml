@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ItemSpec id="100600" lv="1" rate="200" reward="239200;10|239201;60|239202;10|239203;10|239204;10"/>
+  <ItemSpec id="100601" lv="1" rate="100" reward="239205;50|239206;30|239207;20"/>
+  <ItemSpec id="100602" lv="1" rate="50" reward="239208;70|239209;30"/>
+  <ItemSpec id="100603" lv="1" rate="200" reward="239210;10|239211;60|239212;10|239213;10|239214;10"/>
+  <ItemSpec id="100604" lv="1" rate="100" reward="239215;50|239216;30|239217;20"/>
+  <ItemSpec id="100605" lv="1" rate="50" reward="239218;70|239219;30"/>
+  <ItemSpec id="100606" lv="10" rate="100" reward="239220;10|239221;60|239222;10|239223;10|239224;10"/>
+  <ItemSpec id="100607" lv="10" rate="50" reward="239225;50|239226;30|239227;20"/>
+  <ItemSpec id="100608" lv="10" rate="10" reward="239228;70|239229;30"/>
+  <ItemSpec id="100609" lv="15" rate="100" reward="239230;10|239231;60|239232;10|239233;10|239234;10"/>
+  <ItemSpec id="100610" lv="15" rate="50" reward="239235;50|239236;30|239237;20"/>
+  <ItemSpec id="100611" lv="15" rate="10" reward="239238;70|239239;30"/>
+  <ItemSpec id="100612" lv="1" rate="20" reward="239240;10|239241;60|239242;10|239243;10|239244;10"/>
+  <ItemSpec id="100613" lv="1" rate="10" reward="239245;50|239246;30|239247;20"/>
+  <ItemSpec id="100614" lv="1" rate="1" reward="239248;70|239249;30"/>
+</tns:database>

@@ -1,0 +1,71 @@
+#!/usr/bin/env python
+
+local_ip="10.0.0.97"
+cross_server={
+	"1":"10.0.0.19",
+	"2":"10.0.0.97",
+	"5":"10.0.0.98",
+}
+cross_mysql_ip={
+	"1":"10.0.0.19",
+	"2":"10.0.0.19",
+	"5":"10.0.0.98",
+}
+cross_mysql_name={
+	"1":"cokdb1",
+	"2":"cokdb2",
+	"5":"cokdb5",
+}
+
+one_client="""
+	<bean id="SERVICE_NAME" parent="abstractWorldServiceClient">
+        <property name="serviceUrl" value="rmi://IP:1099/WorldService"/>
+	</bean>"""
+
+one_mysql="""
+		<environment id="ZONEID">
+            <transactionManager type="JDBC" />
+            <dataSource type="UNPOOLED">
+                <property name="driver" value="${local.jdbc.driver}" />
+                <property name="url" value="jdbc:mysql://DBIP:3306/DBNAME?characterEncoding=utf-8" />
+                <property name="username" value="${local.jdbc.user}" />
+                <property name="password" value="${local.jdbc.password}" />
+            </dataSource>
+		</environment>"""
+
+def autocfg_cross_server():
+	data = ""
+	for k in cross_server.keys():
+		s = one_client.replace("IP",cross_server[k])
+		s = s.replace("SERVICE_NAME","worldService%s"%k)
+		data = data+s
+	templates = open("rmiClient.xml.template", "r").read()
+	templates = templates.replace("CROSS_CLIENT", data)
+	f = open("../gameconfig/rmiClient.xml","w")
+	f.write(templates)
+	f.close()
+
+def autocfg_cross_mysql():
+	data = ""
+	for k in cross_mysql_ip:
+		s = one_mysql.replace("ZONEID", k)
+		s = s.replace("DBIP", cross_mysql_ip[k])
+		s = s.replace("DBNAME",cross_mysql_name[k])
+		data = data+s+"\n"
+	templates = open("mybatis-cross.xml.template", "r").read()
+	templates = templates.replace("CROSS_MYSQL", data)
+	f = open("../gameconfig/mybatis-cross.xml","w")
+	f.write(templates)
+	f.close()
+
+def autocfg_vmotions():
+	templates = open("sfs2x-service.vmoptions.template", "r").read()
+	templates = templates.replace("LOCALIP", local_ip)
+	f = open("../sfs2x-service.vmoptions","w")
+	f.write(templates)
+	f.close()
+
+if __name__=="__main__":
+	autocfg_cross_server()
+	autocfg_cross_mysql()
+	autocfg_vmotions()

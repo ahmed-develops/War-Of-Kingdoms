@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ItemSpec id="57000" type="1" rewardid="232900" function_on="1" popup="1"/>
+  <ItemSpec id="57001" type="2" activityid="9006" function_on="1" popup="1"/>
+  <ItemSpec id="57002" type="3" function_on="1" popup="1"/>
+  <ItemSpec id="57003" type="4" start_time="2017-05-11" duration="15" function_on="1" popup="1"/>
+  <ItemSpec id="57006" type="6" autoupdate="1" exchange="2" free_num="2" refresh_cost="50" function_on="1" popup="1"/>
+  <ItemSpec id="57007" type="7" function_on="1" popup="2"/>
+  <ItemSpec id="57010" type="6" autoupdate="1" exchange="0" function_on="1" popup="1"/>
+  <ItemSpec id="57011" type="6" autoupdate="1" exchange="0" function_on="1" popup="1"/>
+  <ItemSpec id="57012" type="6" autoupdate="1" exchange="0" function_on="1" popup="1"/>
+  <ItemSpec id="57013" type="6" autoupdate="1" exchange="0" function_on="1" popup="1"/>
+  <ItemSpec id="57014" type="6" autoupdate="1" exchange="0" function_on="1" popup="1"/>
+  <ItemSpec id="57015" type="6" autoupdate="1" exchange="0" function_on="1" popup="1"/>
+  <ItemSpec id="57016" type="8" function_on="0" popup="0"/>
+  <ItemSpec id="57017" type="6" autoupdate="1" exchange="0" function_on="0" popup="0"/>
+  <ItemSpec id="57018" type="6" autoupdate="1" exchange="0" function_on="0" popup="0"/>
+  <ItemSpec id="57019" type="6" autoupdate="1" exchange="0" function_on="0" popup="0"/>
+  <ItemSpec id="57020" type="6" autoupdate="1" exchange="0" function_on="0" popup="0"/>
+  <ItemSpec id="57021" type="6" autoupdate="1" exchange="0" function_on="0" popup="0"/>
+</tns:database>

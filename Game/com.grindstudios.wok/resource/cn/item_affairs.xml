@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="affairs">
+    <ItemSpec id="8300" name="108210" talk="108211" option1="108212" option2="108212" special_option="108212"/>
+    <ItemSpec id="8301" name="108213" talk="108214" option1="108215" option2="108216" special_option="108217"/>
+    <ItemSpec id="8302" name="108218" talk="108219" option1="108220" option2="108221" special_option="108222"/>
+    <ItemSpec id="8303" name="108223" talk="108224" option1="108225" option2="108226" special_option="108227"/>
+    <ItemSpec id="8304" name="108228" talk="108229" option1="108230" option2="108231" special_option="108232"/>
+    <ItemSpec id="8305" name="108233" talk="108234" option1="108235" option2="108236" special_option="108237"/>
+    <ItemSpec id="8306" name="108238" talk="108239" option1="108240" option2="108241" special_option="108242"/>
+    <ItemSpec id="8307" name="108243" talk="108244" option1="108245" option2="108246" special_option="108247"/>
+  </Group>
+</tns:database>

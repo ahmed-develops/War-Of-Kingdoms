@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ItemSpec id="1" name="Common_4" checksize="1024" iosmd5="c3789013ef6b80315e4981b95863ec1b" androidmd5="229e9bcbe0f16f463f29c6e4d50b4c4b" version="1.0.1" />
+	<ItemSpec id="2" name="Common_5" checksize="1024" iosmd5="7b821d9f8a8f80719a6f89cf4bf7432b" androidmd5="e31c7932649d4f7dd3539f6b503071bd" version="1.0.1" />
+	<ItemSpec id="3" name="Common_6" checksize="1024" iosmd5="1bbcf78252e62bec0d76b6e2e677be00" androidmd5="7db7da90e71a6f9e6877ee37fd60664c" version="1.0.1" />
+	<ItemSpec id="4" name="Common_7" checksize="1024" iosmd5="1c80198226d80a9e6e1a37095c4e88b3" androidmd5="f77e68d756e8f30cf48583879cd621f7" version="1.0.1" />
+	<ItemSpec id="5" name="Common_8" checksize="1024" iosmd5="13dc71c6c4b0ecc7f1f346859b17244c" androidmd5="d68366c61f97a9267e82ec6e3ae4049a" version="1.0.1" />
+	<ItemSpec id="6" name="Common_11" checksize="1024" iosmd5="75e97ed0d49e6d6b3386a757b5b1eedf" androidmd5="74b606c7b15f64cc7001b925999acf27" version="1.0.1" />
+	<ItemSpec id="7" name="Common_100" checksize="1024" iosmd5="c25b0959172010b1123a80ce14600a22" androidmd5="933e92ef71099ed48dfa3e27e2abc48c" version="1.0.1" />
+	<ItemSpec id="8" name="Common_101" checksize="1024" iosmd5="edafea69980ee1581805b440483bf593" androidmd5="60e4cb69bbe0efbf712876f66242531d" version="1.0.1" />
+	<ItemSpec id="9" name="Common_102" checksize="1024" iosmd5="d6d4c71a28716497a4cf18c8539c3269" androidmd5="d54f14eb0d8d67e229124d1e32e3433c" version="1.0.1" />
+	<ItemSpec id="10" name="Common_104" checksize="1024" iosmd5="76d87fc3214de717fddc3e0cfc0d4421" androidmd5="65d2171537e6da0a0e1a19312e093891" version="1.0.1" />
+	<ItemSpec id="11" name="Common_105" checksize="1024" iosmd5="27b914eaacb245c6340c41b4d738b942" androidmd5="da0d78e69ce745a43e47e2018d08030e" version="1.0.1" />
+	<ItemSpec id="12" name="Common_200" checksize="1024" iosmd5="befc43751e72459cc44a9478b91a2e69" androidmd5="c409b22062e4a5060bd538e7168a8b0d" version="1.0.1" />
+	<ItemSpec id="13" name="Common_201" checksize="1024" iosmd5="b328c5e521ecfd7d4b1af7144c275f7d" androidmd5="62da65ae5f6cd370e627bff9134de69e" version="1.0.1" />
+	<ItemSpec id="14" name="Common_202" checksize="1024" iosmd5="b3eee8ba1dba99a15ebb33500d647d37" androidmd5="6898bbf40edf3078ce52efc4123ebacc" version="1.0.1" />
+	<ItemSpec id="15" name="Common_203" checksize="1024" iosmd5="d2936f8bc6fcf87fd946e93eae8cabe9" androidmd5="41bb4bbf90836b9d1f9a9b746338f8d9" version="1.0.1" />
+	<ItemSpec id="16" name="Common_204" checksize="1024" iosmd5="e5be9332eb9fa8720d52d5a40223e36e" androidmd5="1ab8ee91ab45320ce50ec1f5090cae56" version="1.0.1" />
+	<ItemSpec id="17" name="Common_205" checksize="1024" iosmd5="0a545a5da74e1a2dbb0e221a5a12225e" androidmd5="c9d00c5e6c1d253459704b2b432ce007" version="1.0.1" />
+	<ItemSpec id="18" name="Common_206" checksize="1024" iosmd5="c9c7e7e43c111a4ed78f819284d5b2da" androidmd5="3541e40f37160ef59774a1639886fc12" version="1.0.1" />
+	<ItemSpec id="19" name="Common_207" checksize="1024" iosmd5="46739596099d60a5b5a4d7d117cc67f4" androidmd5="78119f736a61391a54a32d47387b7a88" version="1.0.1" />
+	<ItemSpec id="20" name="Common_208" checksize="1024" iosmd5="93d8aa13162d0c404f889ee0f794d03d" androidmd5="fc0d57a2a9e54586043f346e6eda7937" version="1.0.1" />
+	<ItemSpec id="21" name="Common_209" checksize="1024" iosmd5="a6d955c3514d8a37a0da10369f0f27dc" androidmd5="d63f1a47b634d4e47a46410a5eb60829" version="1.0.1" />
+	<ItemSpec id="22" name="Common_305" checksize="1024" iosmd5="c740903cd1df247c227dc47d1f8542a2" androidmd5="5d0fd1623c807638bcef7d6061d23007" version="1.0.1" />
+	<ItemSpec id="23" name="Common_308" checksize="1024" iosmd5="" androidmd5="" version="1.0.1" />
+	<ItemSpec id="24" name="Common_310" checksize="1024" iosmd5="1789ea373f477733a14863e66b18b66f" androidmd5="d4fbd742679bd5041ad017ec8b3ccee6" version="1.0.1" />
+	<ItemSpec id="25" name="Common_500" checksize="1024" iosmd5="1a8236e2109eeee05a5d447650cdecaf" androidmd5="322dda459f925bd22bc2641d40356f73" version="1.0.1" />
+	<ItemSpec id="26" name="Common_501" checksize="1024" iosmd5="9ead56f8f910ff83f7657f480827e92f" androidmd5="2c443ff9fdd4ad5ae27aac1ff6f4db62" version="1.0.1" />
+	<ItemSpec id="27" name="Common_502" checksize="1024" iosmd5="18c8841370b28c7096e302476aab6d68" androidmd5="79e5a067bd9cfef212ae448cac621680" version="1.0.1" />
+	<ItemSpec id="28" name="Common_503" checksize="1024" iosmd5="5993c5d6d06e52d43d4a20a30ad83255" androidmd5="af5f8ffeb73f1b1848e4ce0b57fa1ee6" version="1.0.1" />
+	<ItemSpec id="29" name="Common_504" checksize="1024" iosmd5="a060cf63b7a352280a7e59409fd33339" androidmd5="90ad91ef3b45be4c36536d7fd381903d" version="1.0.1" />
+	<ItemSpec id="30" name="Common_505" checksize="1024" iosmd5="70b467a1d74067923ce2f3cf69d729cc" androidmd5="cbcca62ced10e9869c33222d05d33fcc" version="1.0.1" />
+	<ItemSpec id="31" name="Common_506" checksize="1024" iosmd5="3ee61d1cb56d94ef026dc522e5c3ecb0" androidmd5="9f8f4f483e5c851575323038d466c0f3" version="1.0.1" />
+	<ItemSpec id="32" name="Common_508" checksize="1024" iosmd5="3c15bff19e5890c6436a2ab765a165af" androidmd5="08c2f5b0dfc4bbd611ac0085c1c6e381" version="1.0.1" />
+	<ItemSpec id="33" name="Common_509" checksize="1024" iosmd5="73235a8d20b31bb2a01ffd8687e212bd" androidmd5="1dc52d7cd35b3256604169fd392b64f0" version="1.0.1" />
+</tns:database>

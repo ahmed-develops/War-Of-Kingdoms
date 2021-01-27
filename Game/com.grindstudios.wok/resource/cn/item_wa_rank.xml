@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ItemSpec id="1" min_A="1" max_A="100" rank="1" level="0" icon="rank_1"/>
+  <ItemSpec id="2" min_A="101" max_A="150" rank="2" level="1" icon="rank_2"/>
+  <ItemSpec id="3" min_A="151" max_A="200" rank="2" level="2" icon="rank_2"/>
+  <ItemSpec id="4" min_A="201" max_A="250" rank="2" level="3" icon="rank_2"/>
+  <ItemSpec id="5" min_A="251" max_A="300" rank="2" level="4" icon="rank_2"/>
+  <ItemSpec id="6" min_A="351" max_A="400" rank="2" level="5" icon="rank_2"/>
+  <ItemSpec id="7" min_A="451" max_A="500" rank="3" level="1" icon="rank_3"/>
+  <ItemSpec id="8" min_A="551" max_A="600" rank="3" level="2" icon="rank_3"/>
+  <ItemSpec id="9" min_A="651" max_A="700" rank="3" level="3" icon="rank_3"/>
+  <ItemSpec id="10" min_A="751" max_A="800" rank="3" level="4" icon="rank_3"/>
+  <ItemSpec id="11" min_A="851" max_A="900" rank="3" level="5" icon="rank_3"/>
+  <ItemSpec id="12" min_A="951" max_A="1000" rank="4" level="1" icon="rank_4"/>
+  <ItemSpec id="13" min_A="1051" max_A="1100" rank="4" level="2" icon="rank_4"/>
+  <ItemSpec id="14" min_A="1151" max_A="1200" rank="4" level="3" icon="rank_4"/>
+  <ItemSpec id="15" min_A="1251" max_A="1300" rank="4" level="4" icon="rank_4"/>
+  <ItemSpec id="16" min_A="1351" max_A="1400" rank="4" level="5" icon="rank_4"/>
+  <ItemSpec id="17" min_A="1451" max_A="1500" rank="5" level="1" icon="rank_5"/>
+  <ItemSpec id="18" min_A="1551" max_A="1600" rank="5" level="2" icon="rank_5"/>
+  <ItemSpec id="19" min_A="1651" max_A="1700" rank="5" level="3" icon="rank_5"/>
+  <ItemSpec id="20" min_A="1751" max_A="1800" rank="5" level="4" icon="rank_5"/>
+  <ItemSpec id="21" min_A="1851" max_A="1900" rank="5" level="5" icon="rank_5"/>
+  <ItemSpec id="22" min_A="1951" max_A="2000" rank="6" level="1" icon="rank_6"/>
+  <ItemSpec id="23" min_A="2051" max_A="2100" rank="6" level="2" icon="rank_6"/>
+  <ItemSpec id="24" min_A="2151" max_A="2200" rank="6" level="3" icon="rank_6"/>
+  <ItemSpec id="25" min_A="2251" max_A="2300" rank="6" level="4" icon="rank_6"/>
+  <ItemSpec id="26" min_A="2351" max_A="99999" rank="6" level="5" icon="rank_6"/>
+</tns:database>

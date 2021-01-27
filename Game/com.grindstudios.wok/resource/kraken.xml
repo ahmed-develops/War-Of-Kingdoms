@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ItemSpec id="10000" basehp="900" type="0" level="0" reqnum="2" rate="7000" quality="0" fleetime="7600" deadtime="36080" reward="1000034"/>
+	<ItemSpec id="10001" basehp="1200" type="0" level="0" reqnum="2" rate="2500" quality="1" fleetime="7520" deadtime="36160" reward="1000035"/>
+	<ItemSpec id="10002" basehp="5400" type="0" level="0" reqnum="3" rate="1935" quality="2" fleetime="7440" deadtime="36240" reward="1000036"/>
+	<ItemSpec id="10003" basehp="7200" type="0" level="0" reqnum="3" rate="340" quality="3" fleetime="7360" deadtime="36320" reward="1000037"/>
+	<ItemSpec id="10004" basehp="14400" type="0" level="0" reqnum="4" rate="125" quality="4" fleetime="7280" deadtime="36400" reward="1000038"/>
+	<ItemSpec id="10005" basehp="21600" type="0" level="0" reqnum="5" rate="100" quality="5" fleetime="7200" deadtime="36480" reward="1000039"/>
+</tns:database>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Group id="invitedFriendReward">
+        <ItemSpec id="20000001" rewardid="1000021" rewardlevel="1" item="200201|200004|200361|200428" num="1|1|1|1"/>
+        <ItemSpec id="20000002" rewardid="1000022" rewardlevel="5" item="200201|200004|200361|200428" num="6|1|1|1"/>
+        <ItemSpec id="20000003" rewardid="1000023" rewardlevel="10" item="200201|200004|200361|200428" num="6|1|6|1"/>
+        <ItemSpec id="20000004" rewardid="1000024" rewardlevel="16" item="200201|200004|200361|200428|200200" num="6|1|6|1|1"/>
+        <ItemSpec id="20000005" rewardid="1000025" rewardlevel="19" item="200201|200004|200361|200428|200200" num="6|1|6|1|4"/>
+        <ItemSpec id="20000006" rewardid="1000026" rewardlevel="22" item="200201|200004|200361|200428|200200|200202" num="6|1|18|1|3|2"/>
+        <ItemSpec id="20000007" rewardid="1000027" rewardlevel="26" item="200201|200004|200361|200428|200200|200202" num="6|1|18|1|3|5"/>
+        <ItemSpec id="20000008" rewardid="1000028" rewardlevel="28" item="200201|200004|200361|200428|200200|200202" num="6|1|18|1|3|14"/>
+        <ItemSpec id="20000009" rewardid="1000029" rewardlevel="30" item="200201|200004|200361|200428|200200|200202" num="6|1|18|1|3|35"/>
+</Group>
+</tns:database>

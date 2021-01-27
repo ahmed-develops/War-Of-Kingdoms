@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ItemSpec id="1" type="1" name="士兵负重" lv="5" xy="1;2" relation="2;3" points="3"/>
+  <ItemSpec id="2" type="1" name="步兵防御1" lv="5" xy="2;1" relation="4" conditions="1;5" points="3"/>
+  <ItemSpec id="3" type="1" name="步兵生命1" lv="5" xy="2;3" relation="4" conditions="1;5" points="3"/>
+  <ItemSpec id="4" type="1" name="步兵攻击1" lv="5" xy="3;2" relation="5;6;7" conditions="2;5|3;5" points="3"/>
+  <ItemSpec id="5" type="1" name="骑兵攻击1" lv="5" xy="4;1" relation="8" conditions="4;5" points="3"/>
+  <ItemSpec id="6" type="1" name="弓兵攻击1" lv="5" xy="4;2" relation="9" conditions="4;5" points="3"/>
+  <ItemSpec id="7" type="1" name="车兵攻击1" lv="5" xy="4;3" relation="10" conditions="4;5" points="3"/>
+  <ItemSpec id="8" type="1" name="骑兵防御1" lv="5" xy="5;1" relation="11" conditions="5;5" points="3"/>
+  <ItemSpec id="9" type="1" name="弓兵防御1" lv="5" xy="5;2" relation="11" conditions="6;5" points="3"/>
+  <ItemSpec id="10" type="1" name="车兵防御1" lv="5" xy="5;3" relation="11" conditions="7;5" points="4"/>
+  <ItemSpec id="11" type="1" name="主动技能1" lv="1" xy="6;2" relation="12;13" conditions="8;5|9;5|10;5" points="4"/>
+  <ItemSpec id="12" type="1" name="步兵防御2" lv="20" xy="7;1" relation="14" conditions="11;1" points="4"/>
+  <ItemSpec id="13" type="1" name="步兵生命2" lv="20" xy="7;3" relation="14" conditions="11;1" points="4"/>
+  <ItemSpec id="14" type="1" name="步兵攻击2" lv="20" xy="8;2" relation="15;16;17" conditions="12;5|13;5" points="4"/>
+  <ItemSpec id="15" type="1" name="骑兵攻击2" lv="20" xy="9;1" relation="18" conditions="14;5" points="4"/>
+  <ItemSpec id="16" type="1" name="弓兵攻击2" lv="20" xy="9;2" relation="19" conditions="14;5" points="4"/>
+  <ItemSpec id="17" type="1" name="车兵攻击2" lv="20" xy="9;3" relation="20" conditions="14;5" points="4"/>
+  <ItemSpec id="18" type="1" name="骑兵防御2" lv="20" xy="10;1" relation="21" conditions="15;5" points="4"/>
+  <ItemSpec id="19" type="1" name="弓兵防御2" lv="20" xy="10;2" relation="21" conditions="16;5" points="4"/>
+  <ItemSpec id="20" type="1" name="车兵防御2" lv="20" xy="10;3" relation="21" conditions="17;5" points="5"/>
+  <ItemSpec id="21" type="1" name="步兵减伤" lv="20" xy="11;2" relation="22;23;24" conditions="18;5|19;5|20;5" points="5"/>
+  <ItemSpec id="22" type="1" name="骑兵生命2" lv="20" xy="12;1" relation="25" conditions="21;5" points="5"/>
+  <ItemSpec id="23" type="1" name="弓兵生命2" lv="20" xy="12;2" relation="26" conditions="21;5" points="5"/>
+  <ItemSpec id="24" type="1" name="车兵生命2" lv="20" xy="12;3" relation="27" conditions="21;5" points="5"/>
+  <ItemSpec id="25" type="1" name="骑兵冲锋" lv="20" xy="13;1" relation="28" conditions="22;5" points="5"/>
+  <ItemSpec id="26" type="1" name="弓兵攻击" lv="20" xy="13;2" relation="28" conditions="23;5" points="5"/>
+  <ItemSpec id="27" type="1" name="车兵攻城" lv="20" xy="13;3" relation="28" conditions="24;5" points="5"/>
+  <ItemSpec id="28" type="1" name="主动技能2" lv="1" xy="14;2" conditions="25;5|26;5|27;5" points="5"/>
+  <ItemSpec id="29" type="2" name="建造1" lv="5" xy="1;6" relation="30;31" points="5"/>
+  <ItemSpec id="30" type="2" name="木头生产1" lv="5" xy="2;5" relation="32" conditions="29;5" points="6"/>
+  <ItemSpec id="31" type="2" name="粮食生产1" lv="5" xy="2;7" relation="33" conditions="29;5" points="6"/>
+  <ItemSpec id="32" type="2" name="木头采集1" lv="5" xy="3;5" relation="34" conditions="30;5" points="6"/>
+  <ItemSpec id="33" type="2" name="粮食采集1" lv="5" xy="3;7" relation="34" conditions="31;5" points="6"/>
+  <ItemSpec id="34" type="2" name="科技1" lv="5" xy="4;6" relation="35" conditions="32;5|33;5" points="6"/>
+  <ItemSpec id="35" type="2" name="地窖1" lv="5" xy="5;6" relation="36" conditions="34;5" points="6"/>
+  <ItemSpec id="36" type="2" name="主动技能1" lv="1" xy="6;6" relation="37;38;39" conditions="35;5" points="6"/>
+  <ItemSpec id="37" type="2" name="木头生产2" lv="20" xy="7;5" relation="40" conditions="36;1" points="6"/>
+  <ItemSpec id="38" type="2" name="粮食生产2" lv="20" xy="7;6" relation="41" conditions="36;1" points="6"/>
+  <ItemSpec id="39" type="2" name="铁生产2" lv="20" xy="7;7" relation="42" conditions="36;1" points="6"/>
+  <ItemSpec id="40" type="2" name="木头采集2" lv="20" xy="8;5" relation="43" conditions="37;5" points="7"/>
+  <ItemSpec id="41" type="2" name="粮食采集2" lv="20" xy="8;6" relation="43" conditions="38;5" points="7"/>
+  <ItemSpec id="42" type="2" name="铁采集2" lv="20" xy="8;7" relation="43" conditions="39;5" points="7"/>
+  <ItemSpec id="43" type="2" name="建造2" lv="20" xy="9;6" relation="44" conditions="40;5|41;5|42;5" points="7"/>
+  <ItemSpec id="44" type="2" name="科技2" lv="20" xy="10;6" relation="45" conditions="43;5" points="7"/>
+  <ItemSpec id="45" type="2" name="屯田" lv="20" xy="11;6" relation="46;47" conditions="44;5" points="7"/>
+  <ItemSpec id="46" type="2" name="秘银生产" lv="20" xy="12;5" relation="48" conditions="46;5" points="7"/>
+  <ItemSpec id="47" type="2" name="秘银采集" lv="20" xy="12;7" relation="48" conditions="46;5" points="7"/>
+  <ItemSpec id="48" type="2" name="地窖2" lv="20" xy="13;6" relation="49" conditions="47;5|48;5" points="7"/>
+  <ItemSpec id="49" type="2" name="主动技能2" lv="1" xy="14;6" conditions="49;5" points="7"/>
+  <ItemSpec id="50" type="3" name="怪物速度1" lv="5" xy="1;9" relation="52" points="10"/>
+  <ItemSpec id="51" type="3" name="急速射击" lv="5" xy="1;11" relation="53"/>
+  <ItemSpec id="52" type="3" name="怪物伤害1" lv="5" xy="2;9" relation="54" conditions="50;5"/>
+  <ItemSpec id="53" type="3" name="陷阱攻击1" lv="5" xy="2;11" relation="54" conditions="51;5"/>
+  <ItemSpec id="54" type="3" name="造兵速度1" lv="5" xy="3;10" relation="55;56" conditions="52;5|53;5"/>
+  <ItemSpec id="55" type="3" name="医院容量1" lv="5" xy="4;9" relation="57" conditions="54;5"/>
+  <ItemSpec id="56" type="3" name="治疗速度1" lv="5" xy="4;11" relation="57" conditions="54;5"/>
+  <ItemSpec id="57" type="3" name="治疗资源1" lv="5" xy="5;10" relation="58" conditions="55;5|56;5"/>
+  <ItemSpec id="58" type="3" name="主动技能1" lv="1" xy="6;10" relation="59;60" conditions="57;5"/>
+  <ItemSpec id="59" type="3" name="怪物速度2" lv="20" xy="7;9" relation="61" conditions="58;1"/>
+  <ItemSpec id="60" type="3" name="箭塔攻击1" lv="20" xy="7;11" relation="62" conditions="58;1"/>
+  <ItemSpec id="61" type="3" name="怪物伤害2" lv="20" xy="8;9" relation="63" conditions="59;5"/>
+  <ItemSpec id="62" type="3" name="陷阱攻击2" lv="20" xy="8;11" relation="64" conditions="60;5"/>
+  <ItemSpec id="63" type="3" name="体力恢复" lv="20" xy="9;9" relation="65" conditions="61;5"/>
+  <ItemSpec id="64" type="3" name="陷阱建造" lv="20" xy="9;11" relation="65" conditions="62;5"/>
+  <ItemSpec id="65" type="3" name="造兵速度2" lv="20" xy="10;10" relation="66;67" conditions="63;5|64;5"/>
+  <ItemSpec id="66" type="3" name="医院容量2" lv="20" xy="11;9" relation="68" conditions="65;5"/>
+  <ItemSpec id="67" type="3" name="治疗速度2" lv="20" xy="11;11" relation="68" conditions="65;5"/>
+  <ItemSpec id="68" type="3" name="治疗资源2" lv="20" xy="12;10" relation="69" conditions="66;5|67;5"/>
+  <ItemSpec id="69" type="3" name="造兵速度3" lv="20" xy="13;10" relation="70" conditions="68;5"/>
+  <ItemSpec id="70" type="3" name="主动技能2" lv="1" xy="14;10" conditions="69;5"/>
+</tns:database>

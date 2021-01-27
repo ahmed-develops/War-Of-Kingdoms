@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="dragon">
+  	<ItemSpec id="base" limit_num="1" energy_consume="50" version="0.1.62" rewardid="1000040" pos="9990" refresh_rank="3600" />
+	<ItemSpec id="feed_exp" ids="212101,212102,212103,212104"/>
+	<ItemSpec id="feed_force" ids="212201,212202,212203,212204"/>
+	<ItemSpec id="feed_energy" ids="212301,212302,212303,212304"/>
+	<ItemSpec id="revival_cd" times="43200"/>
+	<ItemSpec id="recovery_force" num="100" times="360"/>	
+	<ItemSpec id="recovery_energy" num="1" times="360"/>	
+  </Group>
+ 
+  <Group id="exp">
+	<ItemSpec id="exp_1" value="80" castle="1"/>
+	<ItemSpec id="exp_2" value="240" castle="1"/>
+	<ItemSpec id="exp_3" value="699" castle="3"/>
+	<ItemSpec id="exp_4" value="1803" castle="4"/>
+	<ItemSpec id="exp_5" value="4021" castle="5"/>
+	<ItemSpec id="exp_6" value="7942" castle="5"/>
+	<ItemSpec id="exp_7" value="14271" castle="6"/>
+	<ItemSpec id="exp_8" value="23827" castle="6"/>
+	<ItemSpec id="exp_9" value="37542" castle="7"/>
+	<ItemSpec id="exp_10" value="62148" castle="7"/>
+	<ItemSpec id="exp_11" value="99781" castle="8"/>
+	<ItemSpec id="exp_12" value="152732" castle="8"/>
+	<ItemSpec id="exp_13" value="223443" castle="9"/>
+	<ItemSpec id="exp_14" value="314503" castle="9"/>
+	<ItemSpec id="exp_15" value="428644" castle="10"/>
+	<ItemSpec id="exp_16" value="568739" castle="10"/>
+	<ItemSpec id="exp_17" value="737797" castle="11"/>
+	<ItemSpec id="exp_18" value="938962" castle="11"/>
+	<ItemSpec id="exp_19" value="1171872" castle="12"/>
+	<ItemSpec id="exp_20" value="1439209" castle="12"/>
+	<ItemSpec id="exp_21" value="1743727" castle="13"/>
+	<ItemSpec id="exp_22" value="2088249" castle="13"/>
+	<ItemSpec id="exp_23" value="2475666" castle="14"/>
+	<ItemSpec id="exp_24" value="2908936" castle="14"/>
+	<ItemSpec id="exp_25" value="3391081" castle="15"/>
+	<ItemSpec id="exp_26" value="3925188" castle="15"/>
+	<ItemSpec id="exp_27" value="4514405" castle="16"/>
+	<ItemSpec id="exp_28" value="5161942" castle="16"/>
+	<ItemSpec id="exp_29" value="5871069" castle="17"/>
+	<ItemSpec id="exp_30" value="6618823" castle="17"/>
+	<ItemSpec id="exp_31" value="7406944" castle="18"/>
+	<ItemSpec id="exp_32" value="8237190" castle="18"/>
+	<ItemSpec id="exp_33" value="9111336" castle="19"/>
+	<ItemSpec id="exp_34" value="10031174" castle="19"/>
+	<ItemSpec id="exp_35" value="10998512" castle="20"/>
+	<ItemSpec id="exp_36" value="12015174" castle="20"/>
+	<ItemSpec id="exp_37" value="13083000" castle="21"/>
+	<ItemSpec id="exp_38" value="14203845" castle="21"/>
+	<ItemSpec id="exp_39" value="15350377" castle="22"/>
+	<ItemSpec id="exp_40" value="16523341" castle="22"/>
+	<ItemSpec id="exp_41" value="17723483" castle="23"/>
+	<ItemSpec id="exp_42" value="18951552" castle="23"/>
+	<ItemSpec id="exp_43" value="20208298" castle="24"/>
+	<ItemSpec id="exp_44" value="21494473" castle="24"/>
+	<ItemSpec id="exp_45" value="22810830" castle="25"/>
+	<ItemSpec id="exp_46" value="24158125" castle="25"/>
+	<ItemSpec id="exp_47" value="25537115" castle="26"/>
+	<ItemSpec id="exp_48" value="26948559" castle="26"/>
+	<ItemSpec id="exp_49" value="28373081" castle="27"/>
+	<ItemSpec id="exp_50" value="29810926" castle="27"/>
+	<ItemSpec id="exp_51" value="31262338" castle="28"/>
+	<ItemSpec id="exp_52" value="32727561" castle="28"/>
+	<ItemSpec id="exp_53" value="34206839" castle="29"/>
+	<ItemSpec id="exp_54" value="35700415" castle="29"/>
+	<ItemSpec id="exp_55" value="37208532" castle="30"/>
+	<ItemSpec id="exp_56" value="38731432" castle="30"/>
+	<ItemSpec id="exp_57" value="40269356" castle="30"/>
+	<ItemSpec id="exp_58" value="41822546" castle="30"/>
+	<ItemSpec id="exp_59" value="43391242" castle="30"/>
+	<ItemSpec id="exp_60" value="44975685" castle="30"/>
+  </Group>  
+  <!--
+  	dragon's type, to set Red Dragon or Green Dragon
+  -->
+	<!--
+  	Red Dragon
+  -->
+  <Group id="dragon_211001">
+	<ItemSpec id="dragon_211001_1" army="107001:25|107101:25|107201:25|107301:25" forces="1500" energy="100" />
+	<ItemSpec id="dragon_211001_2" army="107001:25|107101:25|107201:25|107301:25" forces="2000" energy="100" />
+	<ItemSpec id="dragon_211001_3" army="107001:25|107101:25|107201:25|107301:25" forces="2500" energy="100" />
+	<ItemSpec id="dragon_211001_4" army="107001:25|107101:25|107201:25|107301:25" forces="3000" energy="100" />
+	<ItemSpec id="dragon_211001_5" army="107001:25|107101:25|107201:25|107301:25" forces="4000" energy="100" />
+	<ItemSpec id="dragon_211001_6" army="107001:25|107101:25|107201:25|107301:25" forces="5000" energy="100" />
+	<ItemSpec id="dragon_211001_7" army="107001:25|107101:25|107201:25|107301:25" forces="6100" energy="100" />
+	<ItemSpec id="dragon_211001_8" army="107001:25|107101:25|107201:25|107301:25" forces="7600" energy="100" />
+	<ItemSpec id="dragon_211001_9" army="107001:25|107101:25|107201:25|107301:25" forces="9100" energy="100" />
+	<ItemSpec id="dragon_211001_10" army="107001:25|107101:25|107201:25|107301:25" forces="10700" energy="100" />
+	<ItemSpec id="dragon_211001_11" army="107003:25|107103:25|107203:25|107303:25" forces="11950" energy="120" />
+	<ItemSpec id="dragon_211001_12" army="107003:25|107103:25|107203:25|107303:25" forces="13400" energy="120" />
+	<ItemSpec id="dragon_211001_13" army="107003:25|107103:25|107203:25|107303:25" forces="14800" energy="120" />
+	<ItemSpec id="dragon_211001_14" army="107003:25|107103:25|107203:25|107303:25" forces="16500" energy="120" />
+	<ItemSpec id="dragon_211001_15" army="107003:25|107103:25|107203:25|107303:25" forces="18300" energy="120" />
+	<ItemSpec id="dragon_211001_16" army="107003:25|107103:25|107203:25|107303:25" forces="20100" energy="120" />
+	<ItemSpec id="dragon_211001_17" army="107003:25|107103:25|107203:25|107303:25" forces="22000" energy="120" />
+	<ItemSpec id="dragon_211001_18" army="107003:25|107103:25|107203:25|107303:25" forces="24000" energy="120" />
+	<ItemSpec id="dragon_211001_19" army="107003:25|107103:25|107203:25|107303:25" forces="26100" energy="120" />
+	<ItemSpec id="dragon_211001_20" army="107003:25|107103:25|107203:25|107303:25" forces="28300" energy="120" />
+	<ItemSpec id="dragon_211001_21" army="107005:25|107105:25|107205:25|107305:25" forces="30500" energy="120" />
+	<ItemSpec id="dragon_211001_22" army="107005:25|107105:25|107205:25|107305:25" forces="32700" energy="120" />
+	<ItemSpec id="dragon_211001_23" army="107005:25|107105:25|107205:25|107305:25" forces="35000" energy="120" />
+	<ItemSpec id="dragon_211001_24" army="107005:25|107105:25|107205:25|107305:25" forces="37300" energy="120" />
+	<ItemSpec id="dragon_211001_25" army="107005:25|107105:25|107205:25|107305:25" forces="39700" energy="120" />
+	<ItemSpec id="dragon_211001_26" army="107005:25|107105:25|107205:25|107305:25" forces="42200" energy="120" />
+	<ItemSpec id="dragon_211001_27" army="107005:25|107105:25|107205:25|107305:25" forces="44700" energy="120" />
+	<ItemSpec id="dragon_211001_28" army="107005:25|107105:25|107205:25|107305:25" forces="47300" energy="120" />
+	<ItemSpec id="dragon_211001_29" army="107005:25|107105:25|107205:25|107305:25" forces="50000" energy="120" />
+	<ItemSpec id="dragon_211001_30" army="107005:25|107105:25|107205:25|107305:25" forces="52800" energy="120" />
+	<ItemSpec id="dragon_211001_31" army="107006:25|107106:25|107206:25|107306:25" forces="56400" energy="150" />
+	<ItemSpec id="dragon_211001_32" army="107006:25|107106:25|107206:25|107306:25" forces="58600" energy="150" />
+	<ItemSpec id="dragon_211001_33" army="107006:25|107106:25|107206:25|107306:25" forces="61400" energy="150" />
+	<ItemSpec id="dragon_211001_34" army="107006:25|107106:25|107206:25|107306:25" forces="64000" energy="150" />
+	<ItemSpec id="dragon_211001_35" army="107006:25|107106:25|107206:25|107306:25" forces="66800" energy="150" />
+	<ItemSpec id="dragon_211001_36" army="107006:25|107106:25|107206:25|107306:25" forces="69800" energy="150" />
+	<ItemSpec id="dragon_211001_37" army="107006:25|107106:25|107206:25|107306:25" forces="73000" energy="150" />
+	<ItemSpec id="dragon_211001_38" army="107006:25|107106:25|107206:25|107306:25" forces="76400" energy="150" />
+	<ItemSpec id="dragon_211001_39" army="107006:25|107106:25|107206:25|107306:25" forces="80000" energy="150" />
+	<ItemSpec id="dragon_211001_40" army="107006:25|107106:25|107206:25|107306:25" forces="83800" energy="150" />
+	<ItemSpec id="dragon_211001_41" army="107008:25|107108:25|107208:25|107308:25" forces="84600" energy="150" />
+	<ItemSpec id="dragon_211001_42" army="107008:25|107108:25|107208:25|107308:25" forces="87600" energy="150" />
+	<ItemSpec id="dragon_211001_43" army="107008:25|107108:25|107208:25|107308:25" forces="91100" energy="150" />
+	<ItemSpec id="dragon_211001_44" army="107008:25|107108:25|107208:25|107308:25" forces="94600" energy="150" />
+	<ItemSpec id="dragon_211001_45" army="107008:25|107108:25|107208:25|107308:25" forces="98100" energy="150" />
+	<ItemSpec id="dragon_211001_46" army="107008:25|107108:25|107208:25|107308:25" forces="102100" energy="150" />
+	<ItemSpec id="dragon_211001_47" army="107008:25|107108:25|107208:25|107308:25" forces="106100" energy="150" />
+	<ItemSpec id="dragon_211001_48" army="107008:25|107108:25|107208:25|107308:25" forces="110600" energy="150" />
+	<ItemSpec id="dragon_211001_49" army="107008:25|107108:25|107208:25|107308:25" forces="115100" energy="150" />
+	<ItemSpec id="dragon_211001_50" army="107008:25|107108:25|107208:25|107308:25" forces="120100" energy="150" />
+	<ItemSpec id="dragon_211001_51" army="107009:25|107109:25|107209:25|107309:25" forces="124100" energy="150" />
+	<ItemSpec id="dragon_211001_52" army="107009:25|107109:25|107209:25|107309:25" forces="128100" energy="150" />
+	<ItemSpec id="dragon_211001_53" army="107009:25|107109:25|107209:25|107309:25" forces="132600" energy="150" />
+	<ItemSpec id="dragon_211001_54" army="107009:25|107109:25|107209:25|107309:25" forces="137100" energy="150" />
+	<ItemSpec id="dragon_211001_55" army="107009:25|107109:25|107209:25|107309:25" forces="141600" energy="150" />
+	<ItemSpec id="dragon_211001_56" army="107009:25|107109:25|107209:25|107309:25" forces="146600" energy="150" />
+	<ItemSpec id="dragon_211001_57" army="107009:25|107109:25|107209:25|107309:25" forces="151600" energy="150" />
+	<ItemSpec id="dragon_211001_58" army="107009:25|107109:25|107209:25|107309:25" forces="157100" energy="150" />
+	<ItemSpec id="dragon_211001_59" army="107009:25|107109:25|107209:25|107309:25" forces="162600" energy="150" />
+	<ItemSpec id="dragon_211001_60" army="107009:25|107109:25|107209:25|107309:25" forces="168600" energy="150" />
+  </Group>
+    <!--
+  	Green Dragon
+  -->
+  <Group id="dragon_211002">
+	<ItemSpec id="dragon_211002_1" army="107001:30|107101:0|107201:30|107301:40" forces="1500" energy="100" />
+	<ItemSpec id="dragon_211002_2" army="107001:30|107101:0|107201:30|107301:40" forces="2000" energy="100" />
+	<ItemSpec id="dragon_211002_3" army="107001:30|107101:0|107201:30|107301:40" forces="2500" energy="100" />
+	<ItemSpec id="dragon_211002_4" army="107001:30|107101:0|107201:30|107301:40" forces="3000" energy="100" />
+	<ItemSpec id="dragon_211002_5" army="107001:30|107101:0|107201:30|107301:40" forces="4000" energy="100" />
+	<ItemSpec id="dragon_211002_6" army="107001:30|107101:0|107201:30|107301:40" forces="5000" energy="100" />
+	<ItemSpec id="dragon_211002_7" army="107001:30|107101:0|107201:30|107301:40" forces="6100" energy="100" />
+	<ItemSpec id="dragon_211002_8" army="107001:30|107101:0|107201:30|107301:40" forces="8200" energy="100" />
+	<ItemSpec id="dragon_211002_9" army="107001:30|107101:0|107201:30|107301:40" forces="10300" energy="100" />
+	<ItemSpec id="dragon_211002_10" army="107001:30|107101:0|107201:30|107301:40" forces="15700" energy="100" />
+	<ItemSpec id="dragon_211002_11" army="107003:30|107103:0|107203:30|107303:40" forces="16900" energy="120" />
+	<ItemSpec id="dragon_211002_12" army="107003:30|107103:0|107203:30|107303:40" forces="18100" energy="120" />
+	<ItemSpec id="dragon_211002_13" army="107003:30|107103:0|107203:30|107303:40" forces="19500" energy="120" />
+	<ItemSpec id="dragon_211002_14" army="107003:30|107103:0|107203:30|107303:40" forces="20900" energy="120" />
+	<ItemSpec id="dragon_211002_15" army="107003:30|107103:0|107203:30|107303:40" forces="22300" energy="120" />
+	<ItemSpec id="dragon_211002_16" army="107003:30|107103:0|107203:30|107303:40" forces="23900" energy="120" />
+	<ItemSpec id="dragon_211002_17" army="107003:30|107103:0|107203:30|107303:40" forces="25500" energy="120" />
+	<ItemSpec id="dragon_211002_18" army="107003:30|107103:0|107203:30|107303:40" forces="27300" energy="120" />
+	<ItemSpec id="dragon_211002_19" army="107003:30|107103:0|107203:30|107303:40" forces="29100" energy="120" />
+	<ItemSpec id="dragon_211002_20" army="107003:30|107103:0|107203:30|107303:40" forces="31100" energy="120" />
+	<ItemSpec id="dragon_211002_21" army="107005:30|107105:0|107205:30|107305:40" forces="32700" energy="120" />
+	<ItemSpec id="dragon_211002_22" army="107005:30|107105:0|107205:30|107305:40" forces="34300" energy="120" />
+	<ItemSpec id="dragon_211002_23" army="107005:30|107105:0|107205:30|107305:40" forces="36200" energy="120" />
+	<ItemSpec id="dragon_211002_24" army="107005:30|107105:0|107205:30|107305:40" forces="38100" energy="120" />
+	<ItemSpec id="dragon_211002_25" army="107005:30|107105:0|107205:30|107305:40" forces="40000" energy="120" />
+	<ItemSpec id="dragon_211002_26" army="107005:30|107105:0|107205:30|107305:40" forces="42200" energy="120" />
+	<ItemSpec id="dragon_211002_27" army="107005:30|107105:0|107205:30|107305:40" forces="44400" energy="120" />
+	<ItemSpec id="dragon_211002_28" army="107005:30|107105:0|107205:30|107305:40" forces="46900" energy="120" />
+	<ItemSpec id="dragon_211002_29" army="107005:30|107105:0|107205:30|107305:40" forces="49400" energy="120" />
+	<ItemSpec id="dragon_211002_30" army="107005:30|107105:0|107205:30|107305:40" forces="52200" energy="120" />
+	<ItemSpec id="dragon_211002_31" army="107006:30|107106:0|107206:30|107306:40" forces="56400" energy="150" />
+	<ItemSpec id="dragon_211002_32" army="107006:30|107106:0|107206:30|107306:40" forces="58600" energy="150" />
+	<ItemSpec id="dragon_211002_33" army="107006:30|107106:0|107206:30|107306:40" forces="61400" energy="150" />
+	<ItemSpec id="dragon_211002_34" army="107006:30|107106:0|107206:30|107306:40" forces="64000" energy="150" />
+	<ItemSpec id="dragon_211002_35" army="107006:30|107106:0|107206:30|107306:40" forces="66800" energy="150" />
+	<ItemSpec id="dragon_211002_36" army="107006:30|107106:0|107206:30|107306:40" forces="69800" energy="150" />
+	<ItemSpec id="dragon_211002_37" army="107006:30|107106:0|107206:30|107306:40" forces="73000" energy="150" />
+	<ItemSpec id="dragon_211002_38" army="107006:30|107106:0|107206:30|107306:40" forces="76400" energy="150" />
+	<ItemSpec id="dragon_211002_39" army="107006:30|107106:0|107206:30|107306:40" forces="80000" energy="150" />
+	<ItemSpec id="dragon_211002_40" army="107006:30|107106:0|107206:30|107306:40" forces="83800" energy="150" />
+	<ItemSpec id="dragon_211002_41" army="107008:30|107108:0|107208:30|107308:40" forces="84600" energy="150" />
+	<ItemSpec id="dragon_211002_42" army="107008:30|107108:0|107208:30|107308:40" forces="87600" energy="150" />
+	<ItemSpec id="dragon_211002_43" army="107008:30|107108:0|107208:30|107308:40" forces="91100" energy="150" />
+	<ItemSpec id="dragon_211002_44" army="107008:30|107108:0|107208:30|107308:40" forces="94600" energy="150" />
+	<ItemSpec id="dragon_211002_45" army="107008:30|107108:0|107208:30|107308:40" forces="98100" energy="150" />
+	<ItemSpec id="dragon_211002_46" army="107008:30|107108:0|107208:30|107308:40" forces="102100" energy="150" />
+	<ItemSpec id="dragon_211002_47" army="107008:30|107108:0|107208:30|107308:40" forces="106100" energy="150" />
+	<ItemSpec id="dragon_211002_48" army="107008:30|107108:0|107208:30|107308:40" forces="110600" energy="150" />
+	<ItemSpec id="dragon_211002_49" army="107008:30|107108:0|107208:30|107308:40" forces="115100" energy="150" />
+	<ItemSpec id="dragon_211002_50" army="107008:30|107108:0|107208:30|107308:40" forces="120100" energy="150" />
+	<ItemSpec id="dragon_211002_51" army="107009:30|107109:0|107209:30|107309:40" forces="124100" energy="150" />
+	<ItemSpec id="dragon_211002_52" army="107009:30|107109:0|107209:30|107309:40" forces="128100" energy="150" />
+	<ItemSpec id="dragon_211002_53" army="107009:30|107109:0|107209:30|107309:40" forces="132600" energy="150" />
+	<ItemSpec id="dragon_211002_54" army="107009:30|107109:0|107209:30|107309:40" forces="137100" energy="150" />
+	<ItemSpec id="dragon_211002_55" army="107009:30|107109:0|107209:30|107309:40" forces="141600" energy="150" />
+	<ItemSpec id="dragon_211002_56" army="107009:30|107109:0|107209:30|107309:40" forces="146600" energy="150" />
+	<ItemSpec id="dragon_211002_57" army="107009:30|107109:0|107209:30|107309:40" forces="151600" energy="150" />
+	<ItemSpec id="dragon_211002_58" army="107009:30|107109:0|107209:30|107309:40" forces="157100" energy="150" />
+	<ItemSpec id="dragon_211002_59" army="107009:30|107109:0|107209:30|107309:40" forces="162600" energy="150" />
+	<ItemSpec id="dragon_211002_60" army="107009:30|107109:0|107209:30|107309:40" forces="168600" energy="150" />
+  </Group>
+  
+
+<!--转盘奖励：转盘上显示的奖池配置
+	type:0=道具，1=掠夺，2=资助，3=防守-->
+  <Group id="turn_award">
+	<ItemSpec id="award_0" type="0" ratio="60" reward="180004"/>
+	<ItemSpec id="award_1" type="1" ratio="80" reward=""/>
+	<ItemSpec id="award_2" type="0" ratio="120" reward="180006"/>
+	<ItemSpec id="award_3" type="0" ratio="100" reward="180001"/>
+	<ItemSpec id="award_4" type="0" ratio="40" reward="180005"/>
+	<ItemSpec id="award_5" type="2" ratio="100" reward=""/>
+	<ItemSpec id="award_6" type="0" ratio="120" reward="180009"/>
+	<ItemSpec id="award_7" type="0" ratio="100" reward="180002"/>
+	<ItemSpec id="award_8" type="0" ratio="80" reward="180007"/>
+	<ItemSpec id="award_9" type="3" ratio="60" reward=""/>
+	<ItemSpec id="award_10" type="0" ratio="80" reward="180008"/>
+	<ItemSpec id="award_11" type="0" ratio="60" reward="180003"/>
+  </Group>
+<!--转盘消耗-->
+  <Group id="turn_consume">
+	<!--id:转盘次数
+		gold:消耗金币
+		stamina:消耗体力-->
+  	<ItemSpec id="time_1" gold="0" stamina="10"/>
+	<ItemSpec id="time_2" gold="0" stamina="10"/>
+  	<ItemSpec id="time_3" gold="10" stamina="10"/>
+	<ItemSpec id="time_4" gold="10" stamina="10"/>
+  	<ItemSpec id="time_5" gold="20" stamina="10"/>
+	<ItemSpec id="time_6" gold="20" stamina="10"/>
+  	<ItemSpec id="time_7" gold="30" stamina="10"/>
+	<ItemSpec id="time_8" gold="30" stamina="10"/>
+  	<ItemSpec id="time_9" gold="40" stamina="10"/>
+	<ItemSpec id="time_10" gold="40" stamina="10"/>
+  	<ItemSpec id="time_11" gold="50" stamina="10"/>
+  </Group>
+<!--偷取配置-->
+  <Group id="plunder">
+    <!--percent:可偷取百分比。偷取百分比是随机到的兵种的百分比
+		maxpara:可偷取上限系数。偷取上限等于城堡等级x上限系数
+		minpara:可偷取保底系数。偷取保底等于城堡等级x最低系数-->
+  	<ItemSpec id="soldiers" ratio="50" percent="10" maxpara="25" minpara="15"/>
+	<ItemSpec id="resources" ratio="50" percent="10" maxpara="50000" minpara="3000"/>
+  </Group>
+  
+  <!--偷取资源配置-->
+  <Group id="resource_limit">
+    <!--lv:资源获取需求城堡等级
+		WOOD, STONE, IRON, FOOD, SILVER, GOLD, CHIP, DIAMOND, CRYSTAL, DRAGON_FOOD, DRAGON_GOLD;-->
+  	<ItemSpec id="WOOD" lv="1" />
+  	<ItemSpec id="FOOD" lv="1" />
+	<ItemSpec id="IRON" lv="10" />
+	<ItemSpec id="STONE" lv="15" />
+  </Group>  
+<!--资助配置-->
+  <Group id="support">
+    <!--lv:可被匹配奖励等级，城堡等级不足不会被匹配到
+		type:资助的资源类型（0=木材，2=铁，3=食物，1=水晶）
+		num：资助的资源数量-->
+  	<ItemSpec id="support_1" reward="181000" lv="1" type="WOOD" num="1000"/>
+	<ItemSpec id="support_2" reward="181001" lv="5" type="WOOD" num="10000"/>
+	<ItemSpec id="support_3" reward="181002" lv="10" type="WOOD" num="30000"/>
+	<ItemSpec id="support_4" reward="181000" lv="1" type="FOOD" num="1000"/>
+  	<ItemSpec id="support_5" reward="181001" lv="5" type="FOOD" num="10000"/>
+	<ItemSpec id="support_6" reward="181002" lv="10" type="FOOD" num="30000"/>
+	<ItemSpec id="support_7" reward="181001" lv="10" type="IRON" num="1500"/>
+	<ItemSpec id="support_8" reward="181002" lv="15" type="IRON" num="5000"/>
+  	<ItemSpec id="support_9" reward="181003" lv="20" type="IRON" num="20000"/>
+	<ItemSpec id="support_10" reward="181001" lv="15" type="STONE" num="500"/>
+	<ItemSpec id="support_11" reward="181002" lv="20" type="STONE" num="1500"/>
+	<ItemSpec id="support_12" reward="181003" lv="25" type="STONE" num="5000"/>
+  </Group>  
+<!--防守配置-->
+  <Group id="guard">
+    <!--id: 显示对应vip等级
+		max:显示对应vip等级可获得的最大防守次数-->
+  	<ItemSpec id="vip_0" max="1"/>
+  	<ItemSpec id="vip_1" max="2"/>
+	<ItemSpec id="vip_2" max="2"/>
+	<ItemSpec id="vip_3" max="3"/>
+	<ItemSpec id="vip_4" max="3"/>
+  	<ItemSpec id="vip_5" max="4"/>
+	<ItemSpec id="vip_6" max="4"/>
+	<ItemSpec id="vip_7" max="5"/>
+	<ItemSpec id="vip_8" max="5"/>
+  	<ItemSpec id="vip_9" max="6"/>
+	<ItemSpec id="vip_10" max="6"/>
+  </Group>
+  
+<!--转盘通用配置-->
+  <Group id="turntable">
+	<!--range:目标搜索范围
+		allsoldier:总兵力
+		stolen:每日被盗次数
+		supported:每日被资助次数
+		steal:同一个玩家可被偷次数
+		support:同一个玩家可被资助次数-->
+	<ItemSpec id="action" range="200" allsoldier="1000" stolen="3" supported="3" steal="1" support="1" freetime="2"/>
+  </Group>
+  
+</tns:database>

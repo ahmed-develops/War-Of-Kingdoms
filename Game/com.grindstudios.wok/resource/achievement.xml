@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="all">
+    <ItemSpec id="9200" series="1" show="1" aim="0" para1="5" para2="415000" reward="235000" medal="9250" medal_level="1"/>
+    <ItemSpec id="9201" series="1" show="1" aim="0" para1="5" para2="413000" reward="235000" medal="9250" medal_level="2"/>
+    <ItemSpec id="9202" series="1" show="1" aim="1" para1="10" para2="415000" reward="235003" medal="9250" medal_level="3"/>
+    <ItemSpec id="9203" series="1" show="1" aim="1" para1="10" para2="413000" reward="235003" medal="9250" medal_level="4"/>
+    <ItemSpec id="9204" series="1" show="1" aim="1" para1="10" para2="414000" reward="235003" medal="9250" medal_level="5"/>
+    <ItemSpec id="9205" series="1" show="1" aim="1" para1="15" para2="415000" reward="235004" medal="9250" medal_level="6"/>
+    <ItemSpec id="9206" series="1" show="1" aim="1" para1="15" para2="413000" reward="235004" medal="9250" medal_level="7"/>
+    <ItemSpec id="9207" series="1" show="1" aim="1" para1="15" para2="414000" reward="235004" medal="9250" medal_level="8"/>
+    <ItemSpec id="9208" series="1" show="1" aim="1" para1="15" para2="412000" reward="235004" medal="9250" medal_level="9"/>
+    <ItemSpec id="9209" series="1" show="1" aim="1" para1="25" para2="415000" reward="235007" medal="9250" medal_level="10"/>
+    <ItemSpec id="9210" series="1" show="1" aim="1" para1="25" para2="413000" reward="235007" medal="9250" medal_level="11"/>
+    <ItemSpec id="9211" series="1" show="1" aim="1" para1="25" para2="414000" reward="235007" medal="9250" medal_level="12"/>
+    <ItemSpec id="9212" series="1" show="1" aim="1" para1="25" para2="412000" reward="235007" medal="9250" medal_level="13"/>
+    <ItemSpec id="9213" series="2" show="1" aim="1" para1="5" para2="400000" reward="235003" medal="9251" medal_level="1"/>
+    <ItemSpec id="9214" series="2" show="1" aim="1" para1="10" para2="400000" reward="235004" medal="9251" medal_level="2"/>
+    <ItemSpec id="9215" series="2" show="1" aim="1" para1="15" para2="400000" reward="235006" medal="9251" medal_level="3"/>
+    <ItemSpec id="9216" series="2" show="1" aim="1" para1="20" para2="400000" reward="235009" medal="9251" medal_level="4"/>
+    <ItemSpec id="9217" series="2" show="1" aim="1" para1="25" para2="400000" reward="235011" medal="9251" medal_level="5"/>
+    <ItemSpec id="9218" series="2" show="1" aim="1" para1="30" para2="400000" reward="235013" medal="9251" medal_level="6"/>
+    <ItemSpec id="9219" series="3" show="1" aim="4" para1="20" reward="235000" medal="9252" medal_level="1"/>
+    <ItemSpec id="9220" series="3" show="1" aim="4" para1="40" reward="235002" medal="9252" medal_level="2"/>
+    <ItemSpec id="9221" series="3" show="1" aim="4" para1="60" reward="235003" medal="9252" medal_level="3"/>
+    <ItemSpec id="9222" series="3" show="1" aim="4" para1="80" reward="235004" medal="9252" medal_level="4"/>
+    <ItemSpec id="9223" series="3" show="1" aim="4" para1="100" reward="235007" medal="9252" medal_level="5"/>
+    <ItemSpec id="9224" series="8" show="1" aim="9" para1="50000000" reward="235004" medal="9253" medal_level="1"/>
+    <ItemSpec id="9225" series="8" show="1" aim="9" para1="100000000" reward="235006" medal="9253" medal_level="2"/>
+    <ItemSpec id="9226" series="8" show="1" aim="9" para1="200000000" reward="235007" medal="9253" medal_level="3"/>
+    <ItemSpec id="9227" series="8" show="1" aim="9" para1="500000000" reward="235008" medal="9253" medal_level="4"/>
+    <ItemSpec id="9228" series="8" show="1" aim="9" para1="2000000000" reward="235009" medal="9253" medal_level="5"/>
+    <ItemSpec id="9229" series="11" show="1" aim="13" para1="100000000" reward="235000" medal="9254" medal_level="1"/>
+    <ItemSpec id="9230" series="11" show="1" aim="13" para1="500000000" reward="235003" medal="9254" medal_level="2"/>
+    <ItemSpec id="9231" series="11" show="1" aim="13" para1="1000000000" reward="235006" medal="9254" medal_level="3"/>
+    <ItemSpec id="9232" series="11" show="1" aim="13" para1="1500000000" reward="235014" medal="9254" medal_level="4"/>
+    <ItemSpec id="9233" series="11" show="1" aim="13" para1="2000000000" reward="235006" medal="9254" medal_level="5"/>
+    <ItemSpec id="260000" series="12" show="1" aim="14" para1="40000" reward="235006" medal="9255" medal_level="1"/>
+    <ItemSpec id="260001" series="12" show="1" aim="14" para1="100000" reward="235006" medal="9255" medal_level="2"/>
+    <ItemSpec id="260002" series="12" show="1" aim="14" para1="200000" reward="235006" medal="9255" medal_level="3"/>
+    <ItemSpec id="260003" series="12" show="1" aim="14" para1="500000" reward="235006" medal="9255" medal_level="4"/>
+    <ItemSpec id="260004" series="12" show="1" aim="14" para1="1500000" reward="235006" medal="9255" medal_level="5"/>
+    <ItemSpec id="260010" series="13" show="1" aim="15" para1="6" para2="1" reward="235006" medal="9256" medal_level="1"/>
+    <ItemSpec id="260011" series="13" show="1" aim="15" para1="6" para2="2" reward="235006" medal="9256" medal_level="2"/>
+    <ItemSpec id="260012" series="13" show="1" aim="15" para1="6" para2="3" reward="235006" medal="9256" medal_level="3"/>
+    <ItemSpec id="260013" series="13" show="1" aim="15" para1="6" para2="4" reward="235006" medal="9256" medal_level="4"/>
+    <ItemSpec id="260014" series="13" show="1" aim="15" para1="6" para2="5" reward="235006" medal="9256" medal_level="5"/>
+    <ItemSpec id="260020" series="14" show="1" aim="16" para1="99" reward="235006" medal="9257" medal_level="1"/>
+    <ItemSpec id="260021" series="14" show="1" aim="16" para1="999" reward="235006" medal="9257" medal_level="2"/>
+    <ItemSpec id="260022" series="14" show="1" aim="16" para1="9999" reward="235006" medal="9257" medal_level="3"/>
+    <ItemSpec id="260023" series="14" show="1" aim="16" para1="99999" reward="235006" medal="9257" medal_level="4"/>
+    <ItemSpec id="260024" series="14" show="1" aim="16" para1="999999" reward="235006" medal="9257" medal_level="5"/>
+    <ItemSpec id="260030" series="15" show="1" aim="17" para1="40000" reward="235006" medal="9258" medal_level="1"/>
+    <ItemSpec id="260031" series="15" show="1" aim="17" para1="100000" reward="235006" medal="9258" medal_level="2"/>
+    <ItemSpec id="260032" series="15" show="1" aim="17" para1="200000" reward="235006" medal="9258" medal_level="3"/>
+    <ItemSpec id="260033" series="15" show="1" aim="17" para1="500000" reward="235006" medal="9258" medal_level="4"/>
+    <ItemSpec id="260034" series="15" show="1" aim="17" para1="1500000" reward="235006" medal="9258" medal_level="5"/>
+    <ItemSpec id="260060" series="18" show="1" aim="20" para1="200000" reward="235006" medal="9261" medal_level="1"/>
+    <ItemSpec id="260061" series="18" show="1" aim="20" para1="500000" reward="235006" medal="9261" medal_level="2"/>
+    <ItemSpec id="260062" series="18" show="1" aim="20" para1="1000000" reward="235006" medal="9261" medal_level="3"/>
+    <ItemSpec id="260063" series="18" show="1" aim="20" para1="5000000" reward="235006" medal="9261" medal_level="4"/>
+    <ItemSpec id="260064" series="18" show="1" aim="20" para1="25000000" reward="235006" medal="9261" medal_level="5"/>
+    <ItemSpec id="260070" series="19" show="1" aim="21" para1="200000" reward="235006" medal="9262" medal_level="1"/>
+    <ItemSpec id="260071" series="19" show="1" aim="21" para1="500000" reward="235006" medal="9262" medal_level="2"/>
+    <ItemSpec id="260072" series="19" show="1" aim="21" para1="1000000" reward="235006" medal="9262" medal_level="3"/>
+    <ItemSpec id="260073" series="19" show="1" aim="21" para1="5000000" reward="235006" medal="9262" medal_level="4"/>
+    <ItemSpec id="260074" series="19" show="1" aim="21" para1="25000000" reward="235006" medal="9262" medal_level="5"/>
+    <ItemSpec id="260110" series="23" show="1" aim="25" para1="5" para2="200001;200002;200005" reward="235006" medal="9266" medal_level="1"/>
+    <ItemSpec id="260111" series="23" show="1" aim="25" para1="50" para2="200001;200002;200005" reward="235006" medal="9266" medal_level="2"/>
+    <ItemSpec id="260112" series="23" show="1" aim="25" para1="200" para2="200001;200002;200005" reward="235006" medal="9266" medal_level="3"/>
+    <ItemSpec id="260113" series="23" show="1" aim="25" para1="500" para2="200001;200002;200005" reward="235006" medal="9266" medal_level="4"/>
+    <ItemSpec id="260114" series="23" show="1" aim="25" para1="1000" para2="200001;200002;200005" reward="235006" medal="9266" medal_level="5"/>
+    <ItemSpec id="260130" series="25" show="1" aim="26" para1="10" reward="235006" medal="9268" medal_level="1"/>
+    <ItemSpec id="260131" series="25" show="1" aim="26" para1="20" reward="235006" medal="9268" medal_level="2"/>
+    <ItemSpec id="260132" series="25" show="1" aim="26" para1="30" reward="235006" medal="9268" medal_level="3"/>
+    <ItemSpec id="260133" series="25" show="1" aim="26" para1="50" reward="235006" medal="9268" medal_level="4"/>
+    <ItemSpec id="260134" series="25" show="1" aim="26" para1="100" reward="235006" medal="9268" medal_level="5"/>
+    <ItemSpec id="260135" series="29" show="1" aim="30" para1="1" para2="2015-08-05|2015-08-20" reward="235030" medal="9272" medal_level="1" start="2015-08-05" end="2015-08-25"/>
+    <ItemSpec id="260136" series="29" show="1" aim="13" para1="1000000" reward="235030" medal="9272" medal_level="2" start="2015-08-05" end="2015-08-25"/>
+    <ItemSpec id="260137" series="29" show="1" aim="16" para1="20" reward="235030" medal="9272" medal_level="3" start="2015-08-05" end="2015-08-25"/>
+    <ItemSpec id="260138" series="29" show="1" aim="27" para1="50" reward="235030" medal="9272" medal_level="4" start="2015-08-05" end="2015-08-25"/>
+  </Group>
+</tns:database>

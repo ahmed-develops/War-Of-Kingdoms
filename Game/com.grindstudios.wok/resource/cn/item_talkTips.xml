@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group id="talkTips">
+    <ItemSpec id="1000000" type="0" content="2000217"/>
+    <ItemSpec id="1000001" type="0" content="2000218"/>
+    <ItemSpec id="1000002" type="0" content="2000219"/>
+    <ItemSpec id="1000003" type="0" content="2000220"/>
+    <ItemSpec id="1000004" type="0" content="2000273"/>
+    <ItemSpec id="1000005" type="0" content="2000273"/>
+    <ItemSpec id="1000006" type="1" content="2000221"/>
+    <ItemSpec id="1000007" type="1" content="2000222"/>
+    <ItemSpec id="1000008" type="1" content="2000223"/>
+    <ItemSpec id="1000009" type="1" content="2000224"/>
+    <ItemSpec id="1000010" type="2" content="2000225" accept1="900" accept2="1800"/>
+    <ItemSpec id="1000011" type="2" content="2000226" accept1="1801" accept2="2400"/>
+    <ItemSpec id="1000012" type="2" content="2000227" accept1="2401" accept2="3000"/>
+    <ItemSpec id="1000013" type="2" content="2000228" accept1="3000" accept2="3701"/>
+    <ItemSpec id="1000014" type="2" content="2000229" accept1="3701"/>
+    <ItemSpec id="1000015" type="2" content="2000230" accept1="0"/>
+    <ItemSpec id="1000016" type="2" content="2000231" accept1="0"/>
+    <ItemSpec id="1000017" type="2" content="2000232"/>
+    <ItemSpec id="1000018" type="2" content="2000233"/>
+    <ItemSpec id="1000019" type="2" content="2000234"/>
+    <ItemSpec id="1000020" type="2" content="2000235" accept1="2000" accept2="5000"/>
+    <ItemSpec id="1000021" type="2" content="2000236" accept1="5000" accept2="10000"/>
+    <ItemSpec id="1000022" type="2" content="2000237" accept1="2000" accept2="5000"/>
+    <ItemSpec id="1000023" type="2" content="2000238" accept1="2000" accept2="5000"/>
+    <ItemSpec id="1000024" type="2" content="2000239" accept1="5000" accept2="10000"/>
+    <ItemSpec id="1000025" type="2" content="2000240" accept1="5000" accept2="10000"/>
+    <ItemSpec id="1000026" type="3" content="2000241" accept1="423000"/>
+    <ItemSpec id="1000027" type="3" content="2000242" accept1="424000"/>
+    <ItemSpec id="1000028" type="3" content="2000243" accept1="425000"/>
+    <ItemSpec id="1000029" type="3" content="2000244" accept1="426000"/>
+    <ItemSpec id="1000030" type="3" content="2000245" accept1="416000"/>
+    <ItemSpec id="1000031" type="4" content="2000246" accept1="400000"/>
+    <ItemSpec id="1000033" type="4" content="2000248" accept1="401000"/>
+    <ItemSpec id="1000034" type="4" content="2000249" accept1="427000"/>
+    <ItemSpec id="1000035" type="4" content="2000250" accept1="419000"/>
+    <ItemSpec id="1000036" type="4" content="2000251" accept1="418000"/>
+    <ItemSpec id="1000037" type="4" content="2000252" accept1="417000"/>
+    <ItemSpec id="1000041" type="4" content="2000256" accept1="415000"/>
+    <ItemSpec id="1000042" type="4" content="2000257" accept1="413000"/>
+    <ItemSpec id="1000043" type="4" content="2000258" accept1="414000"/>
+    <ItemSpec id="1000044" type="4" content="2000259" accept1="412000"/>
+    <ItemSpec id="1000045" type="4" content="2000260" accept1="410000"/>
+    <ItemSpec id="1000046" type="4" content="2000261" accept1="411000"/>
+    <ItemSpec id="1000047" type="4" content="2000262" accept1="423000"/>
+    <ItemSpec id="1000048" type="4" content="2000263" accept1="424000"/>
+    <ItemSpec id="1000049" type="4" content="2000264" accept1="425000"/>
+    <ItemSpec id="1000050" type="4" content="2000265" accept1="426000"/>
+    <ItemSpec id="1000051" type="4" content="2000266" accept1="416000"/>
+    <ItemSpec id="1000052" type="4" content="2000272" accept1="428000"/>
+    <ItemSpec id="1000053" type="5" content="2000267" accept1="411000"/>
+  </Group>
+</tns:database>

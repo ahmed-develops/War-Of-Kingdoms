@@ -1,0 +1,11 @@
+197.60.180.60 -  -  [29/May/2020:11:18:53 +0000] "GET /gameservice/getfile?drVersion=ckf_map0.0.1_android HTTP/1.1" 200 318794 
+197.60.180.60 -  -  [29/May/2020:11:18:57 +0000] "GET /gameservice/getfile?drVersion=monster0.1.1_android HTTP/1.1" 200 4886794 
+197.60.180.60 -  -  [29/May/2020:11:19:22 +0000] "GET /gameservice/getfile?appVersion=0.1.86&xmlVersion=0.0.519&xmlLang=en HTTP/1.1" 200 220296 
+197.60.180.60 -  -  [29/May/2020:11:19:24 +0000] "GET /gameservice/getfile?drVersion=thorne0.0.1_android HTTP/1.1" 200 403512 
+197.60.180.60 -  -  [29/May/2020:11:19:29 +0000] "GET /gameservice/getfile?drVersion=monsterLayer0.0.2_android HTTP/1.1" 200 319355 
+197.60.180.60 -  -  [29/May/2020:11:19:34 +0000] "GET /gameservice/getfile?drVersion=miniMapView0.0.3_android HTTP/1.1" 200 319802 
+197.60.180.60 -  -  [29/May/2020:11:19:38 +0000] "GET /gameservice/getfile?drVersion=Common_4_android HTTP/1.1" 200 142605 
+197.60.180.60 -  -  [29/May/2020:11:19:42 +0000] "GET /gameservice/getfile?drVersion=Common_5_android HTTP/1.1" 200 180811 
+197.60.180.60 -  -  [29/May/2020:11:19:46 +0000] "GET /gameservice/getfile?drVersion=Common_6_android HTTP/1.1" 200 421168 
+197.60.180.60 -  -  [29/May/2020:11:19:51 +0000] "GET /gameservice/getfile?drVersion=Common_7_android HTTP/1.1" 200 253230 
+197.60.180.60 -  -  [29/May/2020:11:19:55 +0000] "GET /gameservice/getfile?drVersion=Common_8_android HTTP/1.1" 200 902413 

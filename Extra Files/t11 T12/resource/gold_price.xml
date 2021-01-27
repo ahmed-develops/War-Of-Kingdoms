@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ItemSpec id="45100" product_id="gold_1" exchange_id="9000" VK="52" QQ="30" mycard="150" gash="150"/>
+  <ItemSpec id="45101" product_id="gold_2" exchange_id="9001" VK="104" QQ="68" mycard="300" gash="300"/>
+  <ItemSpec id="45102" product_id="gold_3" exchange_id="9002" VK="208" QQ="128" mycard="600" gash="600"/>
+  <ItemSpec id="45103" product_id="gold_4" exchange_id="9003" VK="520" QQ="328" mycard="1500" gash="1500"/>
+  <ItemSpec id="45104" product_id="gold_5" exchange_id="9004" VK="1040" QQ="648" mycard="3000" gash="3000"/>
+  <ItemSpec id="45105" product_id="gold_6" exchange_id="9006" VK="260" QQ="163" mycard="750" gash="750"/>
+  <ItemSpec id="45106" product_id="gold_7" exchange_id="9008" VK="10400" QQ="6498" mycard="30000" gash="30000"/>
+  <ItemSpec id="45107" product_id="gold_8" exchange_id="9009" VK="12" QQ="6" mycard="30" gash="30"/>
+  <ItemSpec id="45108" product_id="gold_9" exchange_id="9011" VK="2" QQ="1" mycard="5" gash="5"/>
+  <ItemSpec id="45109" product_id="gold_10" exchange_id="9012" VK="6" QQ="3" mycard="15" gash="15"/>
+  <ItemSpec id="45110" product_id="gold_106" exchange_id="9020" VK="0" QQ="0" mycard="0" gash="0"/>
+  <ItemSpec id="45111" product_id="gold_107" exchange_id="9021" VK="0" QQ="0" mycard="0" gash="0"/>
+  <ItemSpec id="45112" product_id="gold_101" exchange_id="9022" VK="0" QQ="0" mycard="0" gash="0"/>
+  <ItemSpec id="45113" product_id="gold_102" exchange_id="9023" VK="0" QQ="0" mycard="0" gash="0"/>
+  <ItemSpec id="45114" product_id="gold_103" exchange_id="9024" VK="0" QQ="0" mycard="0" gash="0"/>
+  <ItemSpec id="45115" product_id="gold_50" exchange_id="9025" VK="26" QQ="18" mycard="0" gash="0"/>
+  <ItemSpec id="45116" product_id="gold_20" exchange_id="9052" VK="0" QQ="0" mycard="50" gash="50"/>
+  <ItemSpec id="45117" product_id="gold_21" exchange_id="9053" VK="0" QQ="0" mycard="100" gash="100"/>
+  <ItemSpec id="45118" product_id="gold_22" exchange_id="9054" VK="0" QQ="0" mycard="350" gash="350"/>
+  <ItemSpec id="45119" product_id="gold_23" exchange_id="9055" VK="0" QQ="0" mycard="400" gash="400"/>
+  <ItemSpec id="45120" product_id="gold_24" exchange_id="9056" VK="0" QQ="0" mycard="450" gash="450"/>
+  <ItemSpec id="45121" product_id="gold_25" exchange_id="9057" VK="0" QQ="0" mycard="500" gash="500"/>
+  <ItemSpec id="45122" product_id="gold_26" exchange_id="9058" VK="0" QQ="0" mycard="1000" gash="1000"/>
+  <ItemSpec id="45123" product_id="gold_27" exchange_id="9059" VK="0" QQ="0" mycard="1150" gash="1150"/>
+  <ItemSpec id="45124" product_id="gold_28" exchange_id="9060" VK="0" QQ="0" mycard="2000" gash="2000"/>
+  <ItemSpec id="45125" product_id="gold_29" exchange_id="9061" VK="0" QQ="0" mycard="5000" gash="5000"/>
+</tns:database>
